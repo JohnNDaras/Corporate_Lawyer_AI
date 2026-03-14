@@ -21,7 +21,7 @@ The system is designed as a **decision-support tool** to assist legal profession
 
 The architecture integrates symbolic reasoning with modern language models.
 
-<img src="system_architecture.png" width="900">
+![Image](https://github.com/user-attachments/assets/007f1cea-dcb9-4bc7-a471-2c9667d50484)
 
 The pipeline operates as follows:
 
