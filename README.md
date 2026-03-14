@@ -13,7 +13,7 @@ The system analyzes legal agreements (such as NDAs and confidentiality agreement
 
 The system is designed as a **decision-support tool** to assist legal professionals in reviewing contracts.
 
-> ⚠️ Not legal advice. Educational decision support only.
+>  Not legal advice. Educational decision support only.
 
 ---
 
