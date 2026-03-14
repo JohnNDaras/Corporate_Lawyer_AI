@@ -77,7 +77,7 @@ Results can be exported as **structured JSON**.
 
 The system was evaluated through an **ablation study comparing multiple architectures**.
 
-<img src="experiment_results_panel.png" width="1000">
+<img width="1079" height="413" alt="Image" src="https://github.com/user-attachments/assets/c4a55fee-6c33-45ee-9e32-37b277218884" />
 
 Experiments compare four configurations:
 
