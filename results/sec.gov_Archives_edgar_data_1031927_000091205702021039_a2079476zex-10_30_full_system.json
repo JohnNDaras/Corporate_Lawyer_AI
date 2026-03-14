@@ -1,0 +1,1690 @@
+{
+  "disclaimer": "Not legal advice. Educational decision support only. No attorney-client relationship is formed.",
+  "doc_flags": [],
+  "clauses": [
+    {
+      "clause": {
+        "id": "c001",
+        "text": "Snapshot-Content-Location: https://www.sec.gov/Archives/edgar/data/1031927/000091205702021039/a2079476zex-10_30.htm\nSubject: \nDate: Mon, 9 Mar 2026 16:05:05 +0200\nMIME-Version: 1.0\nContent-Type: multipart/related;\n type=\"text/html\";\n boundary=\"----MultipartBoundary--LThtqcKgcVwBuZoiL8QGrFUgjOrYJZ7LWfQk8Tlfca----\"\n\n------MultipartBoundary--LThtqcKgcVwBuZoiL8QGrFUgjOrYJZ7LWfQk8Tlfca----\nContent-Type: text/html\nContent-ID: \n\nContent-Transfer-Encoding: binary\nContent-Location: https://www.sec.gov/Archives/edgar/data/1031927/000091205702021039/a2079476zex-10_30.htm\n\nEX-10.30",
+        "start_char": 0,
+        "end_char": 578
+      },
+      "classification": {
+        "label": "Term & Survival",
+        "confidence": 0.8,
+        "rationale_short": "Clause appears to be a term and survival clause due to its content and structure."
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c001",
+        "clause_type": "Term & Survival",
+        "plain_english_summary": "This clause appears to be a reference to an external document, likely an exhibit filed with the SEC.",
+        "business_risk": {
+          "severity": "Low",
+          "why": [
+            "The clause does not contain any language that would indicate a significant risk to the business."
+          ]
+        },
+        "norm_deviation": {
+          "deviates": true,
+          "comparison": [
+            "Standard contract language"
+          ],
+          "suggested_revision": "Consider including a brief summary of the referenced document"
+        },
+        "uncertainty": {
+          "confidence": 0.7,
+          "reasons": [
+            "The clause is not self-contained and requires external context to understand its purpose."
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c002",
+        "text": "6\n\na2079476zex-10_30.htm\n\nEXHIBIT 10.30\n\nQuickLinks\n\n -- Click here to rapidly navigate through this document\n\nExhibit\u00a010.30",
+        "start_char": 578,
+        "end_char": 713
+      },
+      "classification": {
+        "label": "Miscellaneous",
+        "confidence": 0.8,
+        "rationale_short": "No clear category, likely an exhibit or appendix"
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c002",
+        "clause_type": "Miscellaneous",
+        "plain_english_summary": "This clause appears to be an exhibit link or a placeholder, and does not contain any meaningful contract language.",
+        "business_risk": {
+          "severity": "Low",
+          "why": [
+            "The clause does not contain any language that would indicate a significant risk to the business."
+          ]
+        },
+        "norm_deviation": {
+          "deviates": false,
+          "comparison": [],
+          "suggested_revision": ""
+        },
+        "uncertainty": {
+          "confidence": 0.8,
+          "reasons": [
+            "The clause is empty or contains only metadata, making it difficult to assess its content or potential impact."
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c003",
+        "text": "BROKERAGE AGREEMENT\n\n \n \n\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0THIS ENGAGEMENT AGREEMENT (this \"Agreement\") is made as of the 15th day of March, 2001 by and between ChoiceTel Communications,\u00a0Inc., a Minnesota\ncorporation (the \"Company\"), and Wimbish Riteway Realtors, a Florida corporation (the \"Broker\").\n\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0WHEREAS, the Company desires to retain Broker and Broker desires to be retained by the Company as brokerage agent to assist the Company with a sale of substantially all of the Company's\nPuerto Rican pay telephone business assets;\n\n \n\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0NOW, THEREFORE, for good and valuable consideration the receipt and sufficiency of which are hereby acknowledged, the parties agree as follows:",
+        "start_char": 713,
+        "end_char": 1389
+      },
+      "classification": {
+        "label": "Termination",
+        "confidence": 0.8,
+        "rationale_short": "The clause is about the agreement between the Company and the Broker, and the termination of the agreement is mentioned in the first paragraph."
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c003",
+        "clause_type": "Termination",
+        "plain_english_summary": "This clause introduces the brokerage agreement between ChoiceTel Communications and Wimbish Riteway Realtors.",
+        "business_risk": {
+          "severity": "Low",
+          "why": [
+            "The clause does not introduce any significant risks or obligations."
+          ]
+        },
+        "norm_deviation": {
+          "deviates": false,
+          "comparison": [
+            "standard brokerage agreement terms"
+          ],
+          "suggested_revision": "None"
+        },
+        "uncertainty": {
+          "confidence": 0.8,
+          "reasons": [
+            "The clause is straightforward and does not introduce any unusual or complex terms."
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c004",
+        "text": "1.\u00a0\u00a0\u00a0\u00a0\nEngagement of Broker.\n\u00a0\u00a0\u00a0\u00a0The Company hereby appoints Broker and Broker hereby agrees to act as\nthe Company's brokerage agent to find a purchaser for the Company's Puerto Rican pay telephone business assets (the \"Puerto Rican Assets\"). As brokerage agent, Broker shall:\n\n(A)\nMaintain\nstrict confidentiality of all confidential and other proprietary information, data, and materials relating to the Company;\n\n(B)\nFamiliarize\nitself with the business, operations, physical assets, financial condition and prospects of the Company;\n\n(C)\nDevelop\na list of potential buyers of the Puerto Rican Assets whom Broker believes in good faith to be financially qualified and potentially interested in participating in a Qualified\nTransaction (as defined below);\n\n(D)\nNot\nshare with any potential purchaser any confidential, non-public information relating to the Company unless the potential purchaser has executed and delivered a\nConfidentiality Agreement in the form attached hereto as Exhibit\u00a0A;\n\n(E)\nContact\nqualified purchasers on the Company's behalf and, as appropriate, arrange for and orchestrate meetings between qualified purchasers and the Company;\n\n(F)\nAssist\nwith the preparation of data and analysis as may be reasonably requested by a potential purchaser, the final drafts of which must be presented to the Company for its approval;\n\n(G)\nWork\nin the capacity outlined above with the Company's legal counsel, accountants, and other advisors as reasonably requested and directed by the Company;\n\n(H)\nPresent\nto the Company all proposals from potential purchasers and make recommendations as to the Company's appropriate negotiating strategy and course of conduct;\n\n(I)\nAssist\nin all negotiations and in all document review as reasonably requested and directed by the Company;\n\n(J)\nMaintain\na current contact list of all potential purchasers and the response status of each, and at Company's request provide Company with a current copy; and\n\n(K)\nProvide\nCompany with a weekly activity report by telephone or in writing indicating actions taken during the preceding week and proposed actions to be taken during following week.",
+        "start_char": 1389,
+        "end_char": 3527
+      },
+      "classification": {
+        "label": "Confidentiality",
+        "confidence": 1.0,
+        "rationale_short": "Maintain strict confidentiality of all confidential and other proprietary information"
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c004",
+        "clause_type": "Confidentiality",
+        "plain_english_summary": "Broker agrees to maintain confidentiality and act as the Company's brokerage agent to find a purchaser for the Company's Puerto Rican pay telephone business assets.",
+        "business_risk": {
+          "severity": "Low",
+          "why": [
+            "The risk of unauthorized disclosure of confidential information is relatively low, as the Broker is required to maintain strict confidentiality and obtain a Confidentiality Agreement from potential purchasers."
+          ]
+        },
+        "norm_deviation": {
+          "deviates": false,
+          "comparison": [
+            "Standard confidentiality clauses in brokerage agreements"
+          ],
+          "suggested_revision": "None"
+        },
+        "uncertainty": {
+          "confidence": 0.8,
+          "reasons": [
+            "The clause is clear and comprehensive, but the definition of 'Qualified Transaction' is not provided, which may lead to uncertainty in the Broker's obligations."
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c005",
+        "text": "2.\u00a0\u00a0\u00a0\u00a0\nTerm and Termination.\n\u00a0\u00a0\u00a0\u00a0This Agreement shall continue in effect for one (1)\u00a0year from the\ndate of execution (the (\"Term\"), unless earlier terminated pursuant to this Section\u00a02. Either party may terminate this Agreement before expiration of the Term, without notice, for Cause.\n\"Cause\" shall include (i)\u00a0Broker's misappropriation, theft or embezzlement of the Company's property; (ii)\u00a0Broker's conviction for any crime or violation of law (other than misdemeanor\ntraffic violations); (iii)\u00a0dishonest, unethical or unlawful business conduct by Broker; (iv)\u00a0any action of, or inaction by Broker that may or does result in any damage to the reputation\nor goodwill of the Company; (v)\u00a0the material breach of\n\n \n\nany provision of this Agreement by either party which is not cured within thirty (30)\u00a0days of the date of the written notice by the non-breaching party to the breaching party or\n(vi)\u00a0the failure by Broker to preform any of the duties or obligations specified in this Agreement (including, but not limited to the\n\nobligations enumerated in Section\u00a01). Upon termination of this Agreement, neither party shall have any liability to the other except that if with in six months of the termination of this\nagreement, if a transaction is closed between a registered buyer submitted by Wimbish Riteway Realtors or any Cooperating Broker, the company will owe the Brokerage Fee.",
+        "start_char": 3527,
+        "end_char": 4914
+      },
+      "classification": {
+        "label": "Termination",
+        "confidence": 1.0,
+        "rationale_short": "Termination of the agreement is explicitly stated in the clause."
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c005",
+        "clause_type": "Termination",
+        "plain_english_summary": "Either party can terminate the agreement without notice for cause, which includes misappropriation, theft, or embezzlement of property, conviction of a crime, dishonest or unlawful business conduct, damage to the company's reputation, material breach of the agreement, or failure to perform duties.",
+        "business_risk": {
+          "severity": "High",
+          "why": [
+            "Termination without notice can lead to significant financial losses for the non-terminating party.",
+            "The definition of 'cause' is broad and may be subject to interpretation.",
+            "The agreement does not specify the process for determining whether 'cause' has occurred."
+          ]
+        },
+        "norm_deviation": {
+          "deviates": true,
+          "comparison": [
+            "The agreement deviates from industry standard termination clauses by allowing termination without notice for cause.",
+            "The definition of 'cause' is more comprehensive than typical termination clauses."
+          ],
+          "suggested_revision": "Consider revising the termination clause to specify a notice period or a more limited definition of 'cause'."
+        },
+        "uncertainty": {
+          "confidence": 0.8,
+          "reasons": [
+            "The agreement does not specify the process for determining whether 'cause' has occurred.",
+            "The definition of 'cause' is broad and may be subject to interpretation."
+          ]
+        },
+        "citations": [],
+        "risk_score": 85
+      }
+    },
+    {
+      "clause": {
+        "id": "c006",
+        "text": "3.\u00a0\u00a0\u00a0\u00a0\nBrokerage Fee.\n\u00a0\u00a0\u00a0\u00a0The Company shall pay Broker a brokerage fee equal to five and\none-half percent (5",
+        "start_char": 4914,
+        "end_char": 5023
+      },
+      "classification": {
+        "label": "Term & Survival",
+        "confidence": 0.9,
+        "rationale_short": "Clause defines a specific term and its payment"
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c006",
+        "clause_type": "Term & Survival",
+        "plain_english_summary": "The company will pay a brokerage fee of 5.5% to the broker.",
+        "business_risk": {
+          "severity": "Low",
+          "why": [
+            "The brokerage fee is a standard industry practice and is typically a low-risk obligation for the company."
+          ]
+        },
+        "norm_deviation": {
+          "deviates": false,
+          "comparison": [
+            "The brokerage fee percentage is standard in the industry."
+          ],
+          "suggested_revision": "None"
+        },
+        "uncertainty": {
+          "confidence": 0.8,
+          "reasons": [
+            "The clause is standard and widely used in similar contracts.",
+            "The brokerage fee percentage is reasonable and typical for the industry."
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c008",
+        "text": "2\n%) of the Total Consideration received by the Company with respect to any Qualified Transaction (the \"Brokerage Fee\") if the purchase price accepted by\nthe company is less than $6,100,000, and pay seven percent (7.0%) if the Total Consideration received by the Company with respect to any Qualified Transaction is $6,100,000 or more. The Company shall\nnot pay any additional amount to any other party involved in facilitating a Qualified Transaction whether such party has been engaged by Broker, a potential purchaser or otherwise. A \"Qualified\nTransaction\" shall be any sale of the Puerto Rican Assets to any person or entity. The Company shall refer to the Broker any party contacting the Company as a result of Broker's efforts. \"Total\nConsideration\" shall include (a)\u00a0cash paid and securities transferred to the Company at closing and (b)\u00a0all deferred installments of the purchase price and any portion of the\nconsideration which is held in escrow subsequent to the closing; provided that the Total Consideration shall be reduced by the amount of any cash or short term investments convertible into cash within\nninety (90)\u00a0days which are received by a purchaser as part of any Qualified Transaction (including but not limited to cash and investments currently held by the Company and received by a\npurchaser upon a purchase of the Company). If any portion of the Total Consideration is in the form of securities, rather than cash, Broker may choose to be paid a relative portion of the Brokerage\nFee in such securities or by payment of an amount of cash equal to the fair market value of such securities. If any portion of the Total Consideration is to be received by the Company on a deferred\nbasis, the Company shall pay such portion of the Brokerage Fee on the same deferred schedule.",
+        "start_char": 5027,
+        "end_char": 6826
+      },
+      "classification": {
+        "label": "Limitation of Liability",
+        "confidence": 0.8,
+        "rationale_short": "Brokerage Fee calculation and payment terms are specified, limiting potential liability."
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c008",
+        "clause_type": "Limitation of Liability",
+        "plain_english_summary": "The brokerage fee is 2% of the total consideration if the purchase price is less than $6,100,000, and 7% if it's $6,100,000 or more.",
+        "business_risk": {
+          "severity": "Low",
+          "why": [
+            "The brokerage fee is a percentage of the total consideration, which is a fixed amount, so the risk is relatively low."
+          ]
+        },
+        "norm_deviation": {
+          "deviates": false,
+          "comparison": [
+            "The clause does not deviate from the standard brokerage fee structure."
+          ],
+          "suggested_revision": "None"
+        },
+        "uncertainty": {
+          "confidence": 0.8,
+          "reasons": [
+            "The clause is clear and specific about the brokerage fee structure, but there may be some ambiguity around the definition of 'Total Consideration'."
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c009",
+        "text": "4.\u00a0\u00a0\u00a0\u00a0\nNo Obligation.\n\u00a0\u00a0\u00a0\u00a0The Company has no obligation to enter into any proposed Qualified Transaction\nand may reject any and all offers for Qualified Transactions submitted by Broker in the Company's sole and absolute discretion, except that the Company must enter into good faith negotiations with any\nbona fide potential purchaser offering Total Consideration (determined in accordance with Section\u00a03) of at least Six Million Four Hundred Thousand and 00/100 ($6,400,000), payable in cash on an\nacceptable closing date.",
+        "start_char": 6826,
+        "end_char": 7352
+      },
+      "classification": {
+        "label": "Term & Survival",
+        "confidence": 0.8,
+        "rationale_short": "No obligation clause does not affect confidentiality or other clauses"
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c009",
+        "clause_type": "Term & Survival",
+        "plain_english_summary": "The Company has no obligation to enter into a proposed Qualified Transaction and may reject any offer in its sole discretion, except for good faith negotiations with a bona fide potential purchaser offering at least $6,400,000.",
+        "business_risk": {
+          "severity": "Low",
+          "why": [
+            "The Company has no obligation to enter into a Qualified Transaction, so the risk is low."
+          ]
+        },
+        "norm_deviation": {
+          "deviates": false,
+          "comparison": [
+            "Standard terms and conditions"
+          ],
+          "suggested_revision": "None"
+        },
+        "uncertainty": {
+          "confidence": 0.8,
+          "reasons": [
+            "The Company's discretion to reject offers may lead to uncertainty in the outcome of negotiations."
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c010",
+        "text": "5.\u00a0\u00a0\u00a0\u00a0\nIndemnification.\n\u00a0\u00a0\u00a0\u00a0Broker shall indemnify and hold harmless the Company, its shareholders,\nofficers and employees against any expenses (including counsel fees and preparation costs, if any), claims, liabilities or other damages to third parties arising from or related to this Agreement\n(including but not limited to the performance of brokerage services by Broker) or any confidentiality agreement executed in connection with this Agreement. This indemnification provision shall survive\ntermination of this Agreement.",
+        "start_char": 7352,
+        "end_char": 7884
+      },
+      "classification": {
+        "label": "Limitation of Liability",
+        "confidence": 0.8,
+        "rationale_short": "Indemnification clause limits liability for third-party claims"
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c010",
+        "clause_type": "Limitation of Liability",
+        "plain_english_summary": "Broker agrees to protect Company from certain losses.",
+        "business_risk": {
+          "severity": "Medium",
+          "why": [
+            "Broker's actions may cause harm to Company, and this clause sets a limit on the Company's potential losses."
+          ]
+        },
+        "norm_deviation": {
+          "deviates": true,
+          "comparison": [
+            "Typically, indemnification clauses are more specific about the types of damages or losses covered."
+          ],
+          "suggested_revision": "Consider adding specific examples of damages or losses covered."
+        },
+        "uncertainty": {
+          "confidence": 0.7,
+          "reasons": [
+            "The clause does not specify the procedures for resolving disputes related to indemnification."
+          ]
+        },
+        "citations": [],
+        "risk_score": 60
+      }
+    },
+    {
+      "clause": {
+        "id": "c011",
+        "text": "6.\u00a0\u00a0\u00a0\u00a0\nComplete and Binding Agreement.\n\u00a0\u00a0\u00a0\u00a0This Agreement is the final, entire agreement between the\nparties with respect to its subject matter and supercedes any prior agreements, negotiations or discussions and may not be modified or amended except by a writing signed by both parties.",
+        "start_char": 7884,
+        "end_char": 8176
+      },
+      "classification": {
+        "label": "Term & Survival",
+        "confidence": 1.0,
+        "rationale_short": "Clause defines agreement as complete and binding, superseding prior agreements."
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c011",
+        "clause_type": "Term & Survival",
+        "plain_english_summary": "The agreement is final and binding, and any changes must be in writing and signed by both parties.",
+        "business_risk": {
+          "severity": "Low",
+          "why": [
+            "This clause clarifies the agreement's finality and binding nature, reducing the risk of disputes over its interpretation or modification."
+          ]
+        },
+        "norm_deviation": {
+          "deviates": false,
+          "comparison": [
+            "This clause is consistent with standard contract language and best practices."
+          ],
+          "suggested_revision": ""
+        },
+        "uncertainty": {
+          "confidence": 0.8,
+          "reasons": [
+            "The language used in this clause is clear and unambiguous, but the enforceability of this clause may depend on the specific jurisdiction and applicable laws."
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c012",
+        "text": "7.\u00a0\u00a0\u00a0\u00a0\nSeverability.\n\u00a0\u00a0\u00a0\u00a0The invalidity, illegality or unenforceability of any provision of this\nAgreement shall not affect the validity, legality or enforceability of any other provision of this Agreement.",
+        "start_char": 8176,
+        "end_char": 8387
+      },
+      "classification": {
+        "label": "Term & Survival",
+        "confidence": 1.0,
+        "rationale_short": "Clause discusses invalidity of one provision without affecting others"
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c012",
+        "clause_type": "Term & Survival",
+        "plain_english_summary": "If a part of the agreement is invalid, it won't affect the rest of the agreement.",
+        "business_risk": {
+          "severity": "Low",
+          "why": [
+            "This clause is standard and common in contracts. It ensures that if one part of the agreement is invalid, it won't affect the rest of the agreement."
+          ]
+        },
+        "norm_deviation": {
+          "deviates": false,
+          "comparison": [
+            "Standard contract language"
+          ],
+          "suggested_revision": "None"
+        },
+        "uncertainty": {
+          "confidence": 0.9,
+          "reasons": [
+            "The clause is clear and straightforward, but there might be some nuances depending on the specific context of the agreement."
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c013",
+        "text": "8.\u00a0\u00a0\u00a0\u00a0\nAuthority.\n\u00a0\u00a0\u00a0\u00a0The parties hereto, and the individuals executing this Agreement on behalf of each\nof the parties, each have the full right and power to enter into, execute, deliver and perform their obligations under this Agreement. The parties have each duly authorized, executed and delivered\nthis Agreement and each other document contemplated herein to which it will be a party. Neither the execution, delivery or performance of this Agreement by either of the parties or any other document\ncontemplated hereby to which either is or will be a party, does or will, after the giving of notice or the lapse of time or otherwise, conflict with, result in a breach or violation of, or constitute\na default under, the charter or other governing documents of either of the parties or any federal, foreign, state\n\n \n\nor local law, statute, ordinance, rule or regulation, or any court or administrative order, writ, judgment, injunction, award or decree, or any contract, agreement, commitment or plan to which either\nis a party or by which the rights, properties or assets of either of the parties are subject or bound.",
+        "start_char": 8387,
+        "end_char": 9514
+      },
+      "classification": {
+        "label": "Term & Survival",
+        "confidence": 0.9,
+        "rationale_short": "Clause defines authority and authorization of parties to enter into agreement"
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c013",
+        "clause_type": "Term & Survival",
+        "plain_english_summary": "The parties confirm they have the authority to enter into the agreement and that it does not conflict with any other agreements or laws.",
+        "business_risk": {
+          "severity": "Low",
+          "why": [
+            "The clause is a standard confirmation of authority and does not introduce significant risk."
+          ]
+        },
+        "norm_deviation": {
+          "deviates": false,
+          "comparison": [
+            "standard language in commercial agreements"
+          ],
+          "suggested_revision": "None"
+        },
+        "uncertainty": {
+          "confidence": 0.8,
+          "reasons": [
+            "The clause is straightforward and does not introduce novel concepts, but the parties' specific circumstances may affect the enforceability of the agreement."
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c014",
+        "text": "9.\u00a0\u00a0\u00a0\u00a0\nAssignment.\n\u00a0\u00a0\u00a0\u00a0Broker may not assign any of Broker's obligations or interest in this Agreement\nwithout the Company's written consent.",
+        "start_char": 9514,
+        "end_char": 9660
+      },
+      "classification": {
+        "label": "Term & Survival",
+        "confidence": 1.0,
+        "rationale_short": "Assignment clause is a term of the agreement that survives the termination of the contract."
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c014",
+        "clause_type": "Term & Survival",
+        "plain_english_summary": "Broker cannot assign obligations or interests without company consent",
+        "business_risk": {
+          "severity": "Low",
+          "why": [
+            "Limited impact on business operations"
+          ]
+        },
+        "norm_deviation": {
+          "deviates": true,
+          "comparison": [
+            "Standard industry practice"
+          ],
+          "suggested_revision": "Consider adding specific notice requirements"
+        },
+        "uncertainty": {
+          "confidence": 0.7,
+          "reasons": [
+            "Broker's obligations not clearly defined"
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c015",
+        "text": "10.\u00a0\u00a0\u00a0\u00a0\nConfidentiality.\n\u00a0\u00a0\u00a0\u00a0All information, whether written or oral, given to Broker by the Company or\nthe Company's agents or advisors either before or after the date of this Agreement, unless publicly available or otherwise available to Broker without restriction or breach of any Confidentiality\nAgreement, will be held by Broker in confidence and will not be disclosed to anyone other than Broker's agents and advisors or used for any purpose other than those referred to in this Agreement\nwithout the Company's prior written approval. Broker shall execute and deliver the Confidentiality Agreement attached hereto as Exhibit\u00a0B. The Company shall not disclose the terms of any\npotential Qualified Transaction to any other potential purchaser, except as may be required by applicable law, including but not limited to applicable federal or state securities laws.",
+        "start_char": 9660,
+        "end_char": 10532
+      },
+      "classification": {
+        "label": "Confidentiality",
+        "confidence": 1.0,
+        "rationale_short": "The clause describes the obligation to keep information confidential."
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c015",
+        "clause_type": "Confidentiality",
+        "plain_english_summary": "Broker must keep confidential all information shared by the Company and its agents, and only disclose it with the Company's prior written approval.",
+        "business_risk": {
+          "severity": "Low",
+          "why": [
+            "The clause only applies to confidential information, which is typically not sensitive or critical to the business."
+          ]
+        },
+        "norm_deviation": {
+          "deviates": false,
+          "comparison": [
+            "Standard confidentiality clauses typically do not specify the types of information that are confidential."
+          ],
+          "suggested_revision": "None"
+        },
+        "uncertainty": {
+          "confidence": 0.8,
+          "reasons": [
+            "The clause may not cover all types of confidential information, and the definition of 'publicly available' may be unclear."
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c016",
+        "text": "11.\u00a0\u00a0\u00a0\u00a0\nIndependent Contractor.\n\u00a0\u00a0\u00a0\u00a0Broker shall be an independent contractor and nothing in this\nAgreement is intended to constitute either party to be a legal representative, subsidiary, joint venturer, partner, employee or servant of the other for any purpose whatsoever.",
+        "start_char": 10532,
+        "end_char": 10811
+      },
+      "classification": {
+        "label": "Term & Survival",
+        "confidence": 1.0,
+        "rationale_short": "Clause defines relationship between parties as independent contractors"
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c016",
+        "clause_type": "Term & Survival",
+        "plain_english_summary": "Broker is an independent contractor and not an employee or representative of the other party.",
+        "business_risk": {
+          "severity": "Low",
+          "why": [
+            "This clause clarifies the relationship between the parties, reducing potential misunderstandings and disputes."
+          ]
+        },
+        "norm_deviation": {
+          "deviates": false,
+          "comparison": [
+            "industry standards"
+          ],
+          "suggested_revision": "None"
+        },
+        "uncertainty": {
+          "confidence": 0.8,
+          "reasons": [
+            "The clause is clear and unambiguous, but there may be some uncertainty in the interpretation of 'for any purpose whatsoever'."
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c017",
+        "text": "12.\u00a0\u00a0\u00a0\u00a0\nNotices.\n\u00a0\u00a0\u00a0\u00a0Any notice, request, instruction, legal process or other instrument to be given or\nserved hereunder by any party upon another party or parties shall be deemed given or served if in writing and delivered personally or sent via certified mail, return receipt requested, or by\nregistered mail to the respective party or parties at the addresses above.",
+        "start_char": 10811,
+        "end_char": 11182
+      },
+      "classification": {
+        "label": "Governing Law",
+        "confidence": 1.0,
+        "rationale_short": "Notice delivery method specified, indicating governing law"
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c017",
+        "clause_type": "Governing Law",
+        "plain_english_summary": "Notice delivery methods",
+        "business_risk": {
+          "severity": "Low",
+          "why": [
+            "This clause specifies the methods for delivering notices, which is a standard provision in contracts."
+          ]
+        },
+        "norm_deviation": {
+          "deviates": false,
+          "comparison": [
+            "industry standard"
+          ],
+          "suggested_revision": "none"
+        },
+        "uncertainty": {
+          "confidence": 0.8,
+          "reasons": [
+            "The clause does not specify a specific notice period, which may lead to uncertainty in the parties' obligations."
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c018",
+        "text": "13.\u00a0\u00a0\u00a0\u00a0\nAcknowledgment.\n\u00a0\u00a0\u00a0\u00a0The Company acknowledges that Wimbish Riteway Realtors or its agents will be\na transaction broker and may represent the buyer and the seller with respect to any Qualified Transaction.\n\n \n\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0The undersigned have executed and delivered this Agreement as of the date first above written.\n\n \n\nCHOICETEL COMMUNICATIONS, INC.:",
+        "start_char": 11182,
+        "end_char": 11541
+      },
+      "classification": {
+        "label": "Term & Survival",
+        "confidence": 0.8,
+        "rationale_short": "Acknowledges agreement's duration"
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c018",
+        "clause_type": "Term & Survival",
+        "plain_english_summary": "The company acknowledges that Wimbish Riteway Realtors or its agents will be a transaction broker and may represent both the buyer and the seller in a qualified transaction.",
+        "business_risk": {
+          "severity": "Low",
+          "why": [
+            "This clause does not appear to introduce significant business risk as it simply acknowledges the role of Wimbish Riteway Realtors or its agents in a transaction."
+          ]
+        },
+        "norm_deviation": {
+          "deviates": false,
+          "comparison": [],
+          "suggested_revision": ""
+        },
+        "uncertainty": {
+          "confidence": 0.8,
+          "reasons": [
+            "The language of the clause is clear and unambiguous, but the specific definition of a 'Qualified Transaction' is not provided in the retrieved context."
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c019",
+        "text": "WIMBISH RITEWAY REALTORS\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\n/s/ Jeffrey Paletz\n\n\u00a0\n\n\u00a0\n\n/s/ George Coloney\n\n\u00a0\n\nBy:\n\nJeffrey Paletz\n\n\u00a0\n\nBy:\n\nGeorge Coloney\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\nIts:\n\nPresident\n\n\u00a0\n\nIts:\n\nAgent\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\n/s/ George Coloney\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\nBy:\n\nGeorge Coloney\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\nBroker Associate",
+        "start_char": 11541,
+        "end_char": 11863
+      },
+      "classification": {
+        "label": "Miscellaneous",
+        "confidence": 1.0,
+        "rationale_short": "Signatures and titles only, no relevant contractual content"
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c019",
+        "clause_type": "Miscellaneous",
+        "plain_english_summary": "This is a signature block for a real estate transaction.",
+        "business_risk": {
+          "severity": "Low",
+          "why": [
+            "This clause does not contain any language that would impact the business risk of the transaction."
+          ]
+        },
+        "norm_deviation": {
+          "deviates": false,
+          "comparison": [],
+          "suggested_revision": "None"
+        },
+        "uncertainty": {
+          "confidence": 0.9,
+          "reasons": [
+            "The clause is a standard signature block and does not contain any unusual or ambiguous language."
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c020",
+        "text": "EXHIBIT A\n TO\n BROKERAGE AGREEMENT\n\n \n \n\nForm of Confidentiality Agreement",
+        "start_char": 11863,
+        "end_char": 11945
+      },
+      "classification": {
+        "label": "Confidentiality",
+        "confidence": 0.8,
+        "rationale_short": "Contains phrases like 'Form of Confidentiality Agreement'"
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c020",
+        "clause_type": "Confidentiality",
+        "plain_english_summary": "Form of Confidentiality Agreement",
+        "business_risk": {
+          "severity": "Low",
+          "why": [
+            "The language is standard and typical for confidentiality agreements"
+          ]
+        },
+        "norm_deviation": {
+          "deviates": false,
+          "comparison": [
+            "industry standard"
+          ],
+          "suggested_revision": "none"
+        },
+        "uncertainty": {
+          "confidence": 0.8,
+          "reasons": [
+            "Limited review, may not capture all nuances"
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c021",
+        "text": "CONFIDENTIALITY AND NON-DISCLOSURE AGREEMENT\n\n \n \n\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0THIS AGREEMENT is made as of the \n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\n day of\n\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\n, 2001, by and between, ChoiceTel\nCommunications,\u00a0Inc., a Minnesota corporation (the \"Company\"), and \n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\n (the \"Recipient\").\n\n \n\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0In connection with a possible transaction (the \"Transaction\") between the Recipient and the Company, the Company is prepared to make available to the Recipient certain information with\nrespect to the Company which is non-public, confidential or proprietary in nature. As a condition to furnishing such information to the Recipient, the Company requires and the Recipient\nagrees that any information concerning the Company (whether prepared by the Company, its advisors or otherwise) which is furnished to the Recipient by or on behalf of the Company (whether before or\nafter the date of this Agreement, whether furnished orally or in writing or gathered by inspection, and regardless of whether or not specifically marked or identified as \"confidential\") (the\n\"Evaluation Material\") shall be safeguarded and treated as confidential in accordance with the provisions of this Agreement. The term \"Evaluation Material\" does not include information which\n(a)\u00a0is or becomes generally available to the public other than by disclosure by the Recipient, (b)\u00a0was or becomes available to the Recipient on a non-confidential basis from\na third party who, to the best of the Recipient's knowledge, was not under an obligation of confidentiality to the Company, or (c)\u00a0was or is independently developed by the Recipient without\nreference to the Evaluation Material.",
+        "start_char": 11945,
+        "end_char": 13586
+      },
+      "classification": {
+        "label": "Confidentiality",
+        "confidence": 1.0,
+        "rationale_short": "The clause defines confidential information and requires the recipient to safeguard and treat it as confidential."
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c021",
+        "clause_type": "Confidentiality",
+        "plain_english_summary": "The recipient agrees to keep confidential any information provided by the company for a potential transaction.",
+        "business_risk": {
+          "severity": "Low",
+          "why": [
+            "The risk of unauthorized disclosure is low as the recipient is required to keep the information confidential."
+          ]
+        },
+        "norm_deviation": {
+          "deviates": true,
+          "comparison": [
+            "The clause does not specify a specific duration for the confidentiality obligation"
+          ],
+          "suggested_revision": "Consider adding a specific duration for the confidentiality obligation"
+        },
+        "uncertainty": {
+          "confidence": 0.7,
+          "reasons": [
+            "The clause does not specify a specific duration for the confidentiality obligation, which may lead to uncertainty in the recipient's obligations"
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c022",
+        "text": "1.\u00a0\u00a0\u00a0\u00a0\nUse of Evaluation Material.\n\u00a0\u00a0\u00a0\u00a0The Recipient agrees that it shall use the Evaluation Material\nsolely for the purpose of evaluating the Transaction and not for any other purpose. The Recipient further agrees that it shall not take, or fail to take, any action that would allow, assist or permit\nany other person or entity to use the Evaluation Material in a manner that, if so used by the Recipient, would be in violation of any of the terms of this Agreement.",
+        "start_char": 13586,
+        "end_char": 14058
+      },
+      "classification": {
+        "label": "Confidentiality",
+        "confidence": 0.9,
+        "rationale_short": "Restricts use of Evaluation Material for evaluation purposes only"
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c022",
+        "clause_type": "Confidentiality",
+        "plain_english_summary": "The recipient agrees to use evaluation material only for evaluating the transaction and not for any other purpose.",
+        "business_risk": {
+          "severity": "Low",
+          "why": [
+            "The clause is specific to the transaction and does not pose a significant risk to the recipient's business."
+          ]
+        },
+        "norm_deviation": {
+          "deviates": false,
+          "comparison": [
+            "industry standard confidentiality clauses"
+          ],
+          "suggested_revision": "None"
+        },
+        "uncertainty": {
+          "confidence": 0.8,
+          "reasons": [
+            "The clause is specific and does not deviate significantly from industry standards, but the recipient's business practices may vary."
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c023",
+        "text": "2.\u00a0\u00a0\u00a0\u00a0\nNon-Disclosure of Evaluation Material.\n\u00a0\u00a0\u00a0\u00a0The Recipient agrees that the Evaluation\nMaterial shall be kept confidential by it and its Representatives, and that the Recipient shall not disclose any of the Evaluation Material in any manner whatsoever except (a)\u00a0to those\ndirectors, officers, employees, consultants, auditors or counsel of the Recipient (the \"Representatives\") who need to know such information for purposes directly relating to the Transaction, or\n(b)\u00a0with the prior written consent of the Company. The Recipient agrees to expressly advise such Representatives that the information is to be kept confidential, and such Representatives shall\nagree to keep such information confidential and abide by the terms of this Agreement.",
+        "start_char": 14058,
+        "end_char": 14811
+      },
+      "classification": {
+        "label": "Confidentiality",
+        "confidence": 1.0,
+        "rationale_short": "The clause deals with the confidentiality of Evaluation Material."
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c023",
+        "clause_type": "Confidentiality",
+        "plain_english_summary": "The recipient agrees to keep evaluation material confidential and only share it with authorized representatives or with the company's prior written consent.",
+        "business_risk": {
+          "severity": "Medium",
+          "why": [
+            "Disclosure of evaluation material could harm the company's competitive position or compromise its intellectual property."
+          ]
+        },
+        "norm_deviation": {
+          "deviates": true,
+          "comparison": [
+            "Typically, confidentiality clauses only require recipients to keep information confidential, without specifying who can access the information."
+          ],
+          "suggested_revision": "Consider adding a specific list of authorized recipients or a detailed description of the purposes for which the information can be shared."
+        },
+        "uncertainty": {
+          "confidence": 0.7,
+          "reasons": [
+            "The clause does not specify the consequences of breaching the confidentiality obligation, which could lead to uncertainty about the enforceability of the agreement."
+          ]
+        },
+        "citations": [],
+        "risk_score": 60
+      }
+    },
+    {
+      "clause": {
+        "id": "c024",
+        "text": "3.\u00a0\u00a0\u00a0\u00a0\nNo Competition.\n\u00a0\u00a0\u00a0\u00a0The Recipient shall not use the Evaluation Material, including but not limited\nto any customer lists, for Recipient's own benefit or for the benefit of any other person, firm or corporation, directly or indirectly or in any manner that would compete with the Company in any way.",
+        "start_char": 14811,
+        "end_char": 15121
+      },
+      "classification": {
+        "label": "Confidentiality",
+        "confidence": 1.0,
+        "rationale_short": "Restricts use of Evaluation Material for Recipient's benefit or to compete with the Company."
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c024",
+        "clause_type": "Confidentiality",
+        "plain_english_summary": "The recipient cannot use the evaluation material for their own benefit or for the benefit of others, and cannot compete with the company.",
+        "business_risk": {
+          "severity": "High",
+          "why": [
+            "The recipient may use the evaluation material to gain a competitive advantage, potentially harming the company's business."
+          ]
+        },
+        "norm_deviation": {
+          "deviates": true,
+          "comparison": [
+            "industry standard confidentiality agreements"
+          ],
+          "suggested_revision": "Consider adding specific examples of prohibited uses to clarify the scope of the restriction."
+        },
+        "uncertainty": {
+          "confidence": 0.8,
+          "reasons": [
+            "The clause may be overly broad, potentially restricting the recipient's ability to use the evaluation material in legitimate ways."
+          ]
+        },
+        "citations": [],
+        "risk_score": 85
+      }
+    },
+    {
+      "clause": {
+        "id": "c025",
+        "text": "4.\u00a0\u00a0\u00a0\u00a0\nLegal Proceedings.\n\u00a0\u00a0\u00a0\u00a0In the event that Recipient is requested or required (by oral questions,\ninterrogatories, requests for information or documents, subpoena, civil investigative demand or other process or requirement of law) to disclose (i)\u00a0all or any part of Evaluation Material or\n(ii)\u00a0any information relating to its opinion, judgment or recommendations concerning the Company, its affiliates or subsidiaries as developed from Evaluation Material, Recipient will provide\nthe Company with prompt notice of any such request or requirement so that the Company may seek an appropriate protective order, other appropriate remedy or waive Recipient's compliance with the\nprovisions of this Agreement. If, failing the entry of a protective order or other appropriate remedy or the receipt of a waiver hereunder, disclosure of all or any part of the Evaluation Material is\nrequired, Recipient may disclose that portion of the Evaluation Material which, upon advise of counsel, Recipient is compelled to disclose. In any event, Recipient will not oppose action by the\nCompany to obtain an appropriate\n\nprotective order or other reliable assurance that confidential treatment will be accorded to the Evaluation Material.",
+        "start_char": 15121,
+        "end_char": 16347
+      },
+      "classification": {
+        "label": "Remedies / Injunctive Relief",
+        "confidence": 0.8,
+        "rationale_short": "Clause describes actions to be taken in case of disclosure request"
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c025",
+        "clause_type": "Remedies / Injunctive Relief",
+        "plain_english_summary": "Recipient must notify the Company if they are required to disclose Evaluation Material and will not oppose the Company's efforts to protect the material.",
+        "business_risk": {
+          "severity": "Low",
+          "why": [
+            "The clause only applies if the Recipient is compelled to disclose the Evaluation Material, and the Company has the opportunity to seek a protective order or other remedy."
+          ]
+        },
+        "norm_deviation": {
+          "deviates": true,
+          "comparison": [
+            "Standard confidentiality clauses typically do not include specific provisions for disclosure in response to legal process."
+          ],
+          "suggested_revision": "Consider adding a provision that requires the Company to reimburse the Recipient for reasonable legal fees and expenses incurred in responding to legal process."
+        },
+        "uncertainty": {
+          "confidence": 0.7,
+          "reasons": [
+            "The effectiveness of the Company's efforts to protect the Evaluation Material may depend on various factors, including the specific legal process and the jurisdiction in which it is proceeding."
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c026",
+        "text": "5.\u00a0\u00a0\u00a0\u00a0\nReturn of Evaluation Material.\n\u00a0\u00a0\u00a0\u00a0Upon completion of the negotiations between the Recipient and\nthe Company with respect to the Transaction, whether or not the Transaction is consummated, the Recipient and its Representatives shall promptly deliver to the Company all written Evaluation Material\n(and copies thereof) and all information derived therefrom. At any time upon the written request of the Company for any reason, the Recipient shall promptly deliver to the Company (or certify the\ndestruction of) all Evaluation Material (and all copies thereof) furnished to the Recipient or its Representatives by or on behalf of the Company pursuant to this Agreement. Upon completion of the\nnegotiations or upon such request, all other Evaluation Material prepared by the Recipient or its representative shall be destroyed and no copy thereof shall be retained.",
+        "start_char": 16347,
+        "end_char": 17219
+      },
+      "classification": {
+        "label": "Return/Destruction",
+        "confidence": 1.0,
+        "rationale_short": "Clause requires return or destruction of evaluation material"
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c026",
+        "clause_type": "Return/Destruction",
+        "plain_english_summary": "The recipient must return or destroy all evaluation material after negotiations are complete.",
+        "business_risk": {
+          "severity": "Low",
+          "why": [
+            "The risk of non-compliance is low as the recipient is required to return or destroy the material, and the company can request it at any time."
+          ]
+        },
+        "norm_deviation": {
+          "deviates": false,
+          "comparison": [
+            "industry standard"
+          ],
+          "suggested_revision": "none"
+        },
+        "uncertainty": {
+          "confidence": 0.8,
+          "reasons": [
+            "The clause is clear and specific, but the recipient's obligations may be subject to interpretation in certain circumstances."
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c027",
+        "text": "6.\u00a0\u00a0\u00a0\u00a0\nDisclaimer.\n\u00a0\u00a0\u00a0\u00a0Although the Company has endeavored to include in the Evaluation Material\ninformation known to it which it believes to be relevant for the purpose of evaluating the Transaction, neither the Company nor its representatives makes any representation or warranty as to the\naccuracy or completeness of the Evaluation Material. Neither the Company nor its representatives shall have any liability to the Recipient resulting from the use of the Evaluation Material. Further,\nit is expressly understood that this Agreement is not intended to, and does not, constitute an agreement to\n\nconsummate a Transaction or to enter into a definitive agreement, and neither the Company nor Recipient will have any rights or obligations of any kind whatsoever with respect to such Transaction by\nvirtue of this Agreement unless and until a definitive agreement between the Company and Recipient is executed and delivered, other than for the matter specifically agreed to herein.",
+        "start_char": 17219,
+        "end_char": 18205
+      },
+      "classification": {
+        "label": "Limitation of Liability",
+        "confidence": 0.8,
+        "rationale_short": "The clause limits the liability of the Company and its representatives for the use of the Evaluation Material."
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c027",
+        "clause_type": "Limitation of Liability",
+        "plain_english_summary": "This clause limits the company's liability for the use of evaluation material.",
+        "business_risk": {
+          "severity": "Low",
+          "why": [
+            "The company is not making any guarantees about the accuracy or completeness of the evaluation material."
+          ]
+        },
+        "norm_deviation": {
+          "deviates": true,
+          "comparison": [
+            "The company's disclaimer is broader than usual."
+          ],
+          "suggested_revision": "Consider narrowing the disclaimer to only the most relevant information."
+        },
+        "uncertainty": {
+          "confidence": 0.8,
+          "reasons": [
+            "The company's disclaimer may be too broad, but it's hard to say without more context."
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c028",
+        "text": "7.\u00a0\u00a0\u00a0\u00a0\nRemedies.\n\u00a0\u00a0\u00a0\u00a0The parties agree that money damages would not be a sufficient remedy for any breach\nof this Agreement and that the Company shall be entitled to equitable relief, including injunction and specific performance, as a remedy for any such breach. Such remedies shall not be deemed to be\nthe exclusive remedies for a breach by the Recipient of this Agreement but shall be in addition to all other remedies available at law or equity.",
+        "start_char": 18205,
+        "end_char": 18659
+      },
+      "classification": {
+        "label": "Remedies / Injunctive Relief",
+        "confidence": 1.0,
+        "rationale_short": "Equitable relief, including injunction and specific performance, for breach of agreement"
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c028",
+        "clause_type": "Remedies / Injunctive Relief",
+        "plain_english_summary": "The parties agree that money damages are not enough to fix a breach, and the company can get equitable relief, including an injunction or specific performance, as a remedy for a breach.",
+        "business_risk": {
+          "severity": "High",
+          "why": [
+            "The clause allows the company to seek equitable relief, which can be costly and time-consuming, and may limit the recipient's ability to negotiate or settle disputes."
+          ]
+        },
+        "norm_deviation": {
+          "deviates": true,
+          "comparison": "industry standard",
+          "suggested_revision": "Consider adding a specific timeframe for seeking equitable relief to avoid potential abuse."
+        },
+        "uncertainty": {
+          "confidence": 0.8,
+          "reasons": [
+            "The clause may be subject to interpretation regarding the scope of equitable relief and the circumstances under which it can be sought."
+          ]
+        },
+        "citations": [],
+        "risk_score": 85
+      }
+    },
+    {
+      "clause": {
+        "id": "c029",
+        "text": "8.\u00a0\u00a0\u00a0\u00a0\nGeneral Provisions.\n\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0a.\u00a0\u00a0\u00a0\u00a0No failure or delay by the Company in exercising any right, power or privilege hereunder shall operate as a waiver thereof, nor shall any single or partial exercise\nthereof preclude any other or further exercise thereof or the exercise of any right, power or privilege.\n\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0b.\u00a0\u00a0\u00a0\u00a0This Agreement shall be governed by and construed in accordance with the laws of the State of Minnesota.\n\n \n\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0c.\u00a0\u00a0\u00a0\u00a0This Agreement shall be binding and inure to the benefit of the parties hereto and their respective successors and assigns.\n\n \n\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0d.\u00a0\u00a0\u00a0\u00a0This Agreement shall constitute the entire agreement between the parties hereto with regard to the subject matter hereof. No modification, amendment or waiver shall be\nbinding without the written consent of the parties. Each party hereto represents and warrants that it has the full power and authority to enter into this Agreement and to perform its obligations\nhereunder.\n\n \n\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0IN WITNESS WHEREOF, the parties hereto have executed and delivered this Agreement as of the date first above written.\n\n \n\nRECIPIENT:\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\nBy\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\nIts\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\nCOMPANY:\n\n\u00a0\n\nCHOICETEL COMMUNICATIONS,\u00a0INC..\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\nBy\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\nIts",
+        "start_char": 18659,
+        "end_char": 20000
+      },
+      "classification": {
+        "label": "Governing Law",
+        "confidence": 1.0,
+        "rationale_short": "Clause specifies governing law as the State of Minnesota"
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c029",
+        "clause_type": "Governing Law",
+        "plain_english_summary": "The agreement is governed by the laws of the State of Minnesota.",
+        "business_risk": {
+          "severity": "Low",
+          "why": [
+            "The governing law provision is standard and does not introduce significant risk."
+          ]
+        },
+        "norm_deviation": {
+          "deviates": false,
+          "comparison": [
+            "standard governing law provision"
+          ],
+          "suggested_revision": "None"
+        },
+        "uncertainty": {
+          "confidence": 0.9,
+          "reasons": [
+            "The provision is standard and does not introduce significant uncertainty."
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c030",
+        "text": "EXHIBIT B\n TO\n BROKERAGE AGREEMENT\n\n \n \n\nForm of Confidentiality Agreement between Company and Broker",
+        "start_char": 20000,
+        "end_char": 20109
+      },
+      "classification": {
+        "label": "Confidentiality",
+        "confidence": 1.0,
+        "rationale_short": "Form of Confidentiality Agreement"
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c030",
+        "clause_type": "Confidentiality",
+        "plain_english_summary": "Form of Confidentiality Agreement between Company and Broker",
+        "business_risk": {
+          "severity": "Low",
+          "why": [
+            "standard agreement terms"
+          ]
+        },
+        "norm_deviation": {
+          "deviates": false,
+          "comparison": [
+            "standard industry practices"
+          ],
+          "suggested_revision": "add specific industry practices"
+        },
+        "uncertainty": {
+          "confidence": 0.8,
+          "reasons": [
+            "some ambiguity in scope of agreement"
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c031",
+        "text": "CONFIDENTIALITY AND NON-DISCLOSURE AGREEMENT\n\n \n \n\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0THIS AGREEMENT is made as of the \n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\n day of\n\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\n, 2001, by and between, ChoiceTel\nCommunications,\u00a0Inc., a Minnesota corporation (the \"Company\"), and Wimbish Riteway Realtors, a Florida corporation (the \"Recipient\").\n\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0In connection with the engagement of Recipient as brokerage agent pursuant to that certain Brokerage Agreement of even date herewith (the \"Brokerage Agreement\") between the Recipient and\nthe Company, the Company is prepared to make available to the Recipient certain information with respect to the Company which is non-public, confidential or proprietary in nature. As a\ncondition to furnishing such information to the Recipient, the Company requires and the Recipient agrees that any information concerning the Company (whether prepared by the Company, its advisors or\notherwise) which is furnished to the Recipient by or on behalf of the Company (whether before or after the date of this Agreement, whether furnished orally or in writing or gathered by inspection, and\nregardless of whether or not specifically marked or identified as \"confidential\") (the \"Confidential Material\") shall be safeguarded and treated as confidential in accordance with the provisions of\nthis Agreement. The term \"Confidential Material\" does not include information which (a)\u00a0is or becomes generally available to the public other than by disclosure by the Recipient, (b)\u00a0was\nor becomes available to the Recipient on a non-confidential basis from a third party who, to the best of the Recipient's knowledge, was not under an obligation of confidentiality to the\nCompany, or (c)\u00a0was or is independently developed by the Recipient without reference to the Confidential Material.",
+        "start_char": 20109,
+        "end_char": 21876
+      },
+      "classification": {
+        "label": "Confidentiality",
+        "confidence": 1.0,
+        "rationale_short": "The clause discusses the confidentiality and non-disclosure of information."
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c031",
+        "clause_type": "Confidentiality",
+        "plain_english_summary": "The recipient agrees to keep confidential information shared by the company, unless it becomes publicly available or is already known to the recipient from a non-confidential source.",
+        "business_risk": {
+          "severity": "Low",
+          "why": [
+            "The risk of unauthorized disclosure is relatively low, as the recipient is required to keep the information confidential."
+          ]
+        },
+        "norm_deviation": {
+          "deviates": true,
+          "comparison": [
+            "The clause does not specify a specific duration for the confidentiality obligation, which may be a deviation from industry norms."
+          ],
+          "suggested_revision": "Consider adding a specific duration for the confidentiality obligation, such as 'for a period of 5 years' or 'until the confidential information becomes publicly available'."
+        },
+        "uncertainty": {
+          "confidence": 0.7,
+          "reasons": [
+            "The clause does not specify the consequences of unauthorized disclosure, which may lead to uncertainty about the recipient's obligations and potential liabilities."
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c032",
+        "text": "1.\u00a0\u00a0\u00a0\u00a0\nUse of Confidential Material.\n\u00a0\u00a0\u00a0\u00a0The Recipient agrees that it shall use the Confidential Material\nsolely for the purpose of performing Recipient's obligations under the Brokerage Agreement and not for any other purpose. The Recipient further agrees that it shall not take, or fail to take, any\naction that would allow, assist or permit any other person or entity to use the Brokerage Material in a manner that, if so used by the Recipient, would be in violation of any of the terms of this\nAgreement.",
+        "start_char": 21876,
+        "end_char": 22389
+      },
+      "classification": {
+        "label": "Confidentiality",
+        "confidence": 1.0,
+        "rationale_short": "Clause restricts use of confidential material for specific purpose only"
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c032",
+        "clause_type": "Confidentiality",
+        "plain_english_summary": "The recipient agrees to use confidential material only for the purpose of performing their obligations under the brokerage agreement and not for any other purpose.",
+        "business_risk": {
+          "severity": "Low",
+          "why": [
+            "The risk of unauthorized use is mitigated by the recipient's agreement to use the confidential material solely for the purpose of performing their obligations under the brokerage agreement."
+          ]
+        },
+        "norm_deviation": {
+          "deviates": false,
+          "comparison": [
+            "industry standard confidentiality agreements"
+          ],
+          "suggested_revision": "none"
+        },
+        "uncertainty": {
+          "confidence": 0.8,
+          "reasons": [
+            "The clause is standard and widely used in the industry, but the specific terms and conditions may vary depending on the context and circumstances."
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c033",
+        "text": "2.\u00a0\u00a0\u00a0\u00a0\nNon-Disclosure of Confidential Material.\n\u00a0\u00a0\u00a0\u00a0The Recipient agrees that the\nConfidential Material shall be kept confidential by it and its Representatives, and that the Recipient shall not disclose any of the Confidential Material in any manner whatsoever except (a)\u00a0to\nthose directors, officers, employees, consultants, auditors or counsel of the Recipient (the \"Representatives\") who need to know such information for purposes directly relating to the Brokerage\nAgreement, or (b)\u00a0with the prior written consent of the Company. The Recipient agrees to expressly advise such Representatives that the information is to be kept confidential, and such\nRepresentatives shall agree to keep such information confidential and abide by the terms of this Agreement.",
+        "start_char": 22389,
+        "end_char": 23156
+      },
+      "classification": {
+        "label": "Confidentiality",
+        "confidence": 1.0,
+        "rationale_short": "Clause requires recipient to keep confidential material confidential."
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c033",
+        "clause_type": "Confidentiality",
+        "plain_english_summary": "The recipient agrees to keep confidential information shared by the company and only disclose it to authorized personnel or with the company's written consent.",
+        "business_risk": {
+          "severity": "Medium",
+          "why": [
+            "Disclosure of confidential information could harm the company's competitive advantage or reputation"
+          ]
+        },
+        "norm_deviation": {
+          "deviates": true,
+          "comparison": [
+            "industry standards for confidentiality agreements"
+          ],
+          "suggested_revision": "Consider adding a specific timeline for when confidentiality obligations cease"
+        },
+        "uncertainty": {
+          "confidence": 0.7,
+          "reasons": [
+            "The clause does not specify what constitutes confidential information, which may lead to disputes or misunderstandings"
+          ]
+        },
+        "citations": [],
+        "risk_score": 60
+      }
+    },
+    {
+      "clause": {
+        "id": "c034",
+        "text": "3.\u00a0\u00a0\u00a0\u00a0\nLegal Proceedings.\n\u00a0\u00a0\u00a0\u00a0In the event that Recipient is requested or required (by oral questions,\ninterrogatories, requests for information or documents, subpoena, civil investigative demand or other process or requirement of law) to disclose (i)\u00a0all or any part of the Confidential Material\nor (ii)\u00a0any information relating to its opinion, judgment or recommendations concerning the Company, its affiliates or subsidiaries as developed from Confidential Material, Recipient will\nprovide the Company with prompt notice of any such request or requirement so that the Company may seek an appropriate protective order, other appropriate remedy or waive Recipient's compliance with\nthe provisions of this Agreement. If, failing the entry of a protective order or other appropriate remedy or the receipt of a waiver hereunder, disclosure of all or any part of the Confidential\nMaterial is required, Recipient may disclose that portion of the Confidential Material which, upon advise of counsel, Recipient is compelled to disclose. In any event, Recipient will not oppose action\nby the Company to obtain an appropriate\n\nprotective order or other reliable assurance that confidential treatment will be accorded to the Confidential Material.",
+        "start_char": 23156,
+        "end_char": 24399
+      },
+      "classification": {
+        "label": "Remedies / Injunctive Relief",
+        "confidence": 0.8,
+        "rationale_short": "Clause outlines procedures for disclosure of confidential material in response to legal requests"
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c034",
+        "clause_type": "Remedies / Injunctive Relief",
+        "plain_english_summary": "Recipient must notify the Company of any request to disclose confidential information and allow the Company to seek a protective order or other remedy.",
+        "business_risk": {
+          "severity": "Medium",
+          "why": [
+            "Disclosure of confidential information could harm the Company's competitive position or reputation."
+          ]
+        },
+        "norm_deviation": {
+          "deviates": true,
+          "comparison": "Industry standard for confidentiality agreements typically require immediate disclosure without notice to the disclosing party.",
+          "suggested_revision": "Recipient must disclose confidential information immediately upon request without notice to the Company."
+        },
+        "uncertainty": {
+          "confidence": 0.7,
+          "reasons": [
+            "The clause allows the Company to seek a protective order or other remedy, which may not always be successful.",
+            "The clause does not specify the timeframe for providing notice to the Company."
+          ]
+        },
+        "citations": [],
+        "risk_score": 60
+      }
+    },
+    {
+      "clause": {
+        "id": "c035",
+        "text": "4.\u00a0\u00a0\u00a0\u00a0\nReturn of Confidential Material.\n\u00a0\u00a0\u00a0\u00a0Upon termination of the Brokerage Agreement, the Recipient\nand its Representatives shall promptly deliver to the Company all written Confidential Material (and copies thereof) and all information derived therefrom. At any time upon the written request of the\nCompany for any reason, the Recipient shall promptly deliver to the Company (or certify the destruction of) all Confidential Material (and all copies thereof) furnished to the Recipient or its\nRepresentatives by or on behalf of the Company pursuant to this Agreement.",
+        "start_char": 24399,
+        "end_char": 24974
+      },
+      "classification": {
+        "label": "Return/Destruction",
+        "confidence": 1.0,
+        "rationale_short": "Returns confidential material upon termination or written request."
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c035",
+        "clause_type": "Return/Destruction",
+        "plain_english_summary": "The recipient must return all confidential material to the company upon termination of the agreement or upon written request.",
+        "business_risk": {
+          "severity": "Low",
+          "why": [
+            "The risk of non-compliance is low as the recipient is required to return the confidential material, and the company can request it at any time."
+          ]
+        },
+        "norm_deviation": {
+          "deviates": true,
+          "comparison": [
+            "The clause does not specify a specific timeframe for return or destruction of confidential material"
+          ],
+          "suggested_revision": "Consider adding a specific timeframe for return or destruction of confidential material"
+        },
+        "uncertainty": {
+          "confidence": 0.7,
+          "reasons": [
+            "The clause does not specify a specific timeframe for return or destruction of confidential material, which may lead to uncertainty in the recipient's obligations"
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c036",
+        "text": "5.\u00a0\u00a0\u00a0\u00a0\nDisclaimer.\n\u00a0\u00a0\u00a0\u00a0Neither the Company nor its representatives makes any representation or warranty\nas to the accuracy or completeness of the Confidential Material. Neither the Company nor its representatives shall have any liability to the Recipient resulting from the use of the Confidential\nMaterial.",
+        "start_char": 24974,
+        "end_char": 25286
+      },
+      "classification": {
+        "label": "Limitation of Liability",
+        "confidence": 0.9,
+        "rationale_short": "Clause disclaims liability for accuracy and completeness of confidential material"
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c036",
+        "clause_type": "Limitation of Liability",
+        "plain_english_summary": "The company disclaims any representation or warranty about the accuracy or completeness of the confidential material and is not liable for its use.",
+        "business_risk": {
+          "severity": "High",
+          "why": [
+            "The company is limiting its liability for the use of confidential material, which may increase the risk for the recipient."
+          ]
+        },
+        "norm_deviation": {
+          "deviates": true,
+          "comparison": "Standard limitation of liability clauses typically include specific exceptions or circumstances where liability is not limited.",
+          "suggested_revision": "Consider adding specific exceptions or circumstances where liability is not limited."
+        },
+        "uncertainty": {
+          "confidence": 0.8,
+          "reasons": [
+            "The clause is a standard limitation of liability clause, but the specific language and scope may vary depending on the jurisdiction and industry."
+          ]
+        },
+        "citations": [],
+        "risk_score": 85
+      }
+    },
+    {
+      "clause": {
+        "id": "c037",
+        "text": "6.\u00a0\u00a0\u00a0\u00a0\nRemedies.\n\u00a0\u00a0\u00a0\u00a0The parties agree that money damages would not be a sufficient remedy for any breach\nof this Agreement and that the Company shall be entitled to equitable relief, including injunction and specific performance, as a remedy for any such breach. Such remedies shall not be deemed to be\nthe exclusive remedies for a breach by the Recipient of this Agreement but shall be in addition to all other remedies available at law or equity.",
+        "start_char": 25286,
+        "end_char": 25740
+      },
+      "classification": {
+        "label": "Remedies / Injunctive Relief",
+        "confidence": 1.0,
+        "rationale_short": "Equitable relief, including injunction and specific performance, for breach"
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c037",
+        "clause_type": "Remedies / Injunctive Relief",
+        "plain_english_summary": "The parties agree that money damages are not enough to fix a breach, and the Company can get equitable relief, such as an injunction, to enforce the Agreement.",
+        "business_risk": {
+          "severity": "High",
+          "why": [
+            "The Company may be unable to recover financially from a breach, and equitable relief may be necessary to prevent further harm."
+          ]
+        },
+        "norm_deviation": {
+          "deviates": true,
+          "comparison": [
+            "Typically, contracts only specify monetary damages as a remedy"
+          ],
+          "suggested_revision": "Consider adding a specific monetary damages amount or a process for determining damages"
+        },
+        "uncertainty": {
+          "confidence": 0.7,
+          "reasons": [
+            "The Company's ability to recover financially from a breach is uncertain, and the specific circumstances of the breach may affect the need for equitable relief"
+          ]
+        },
+        "citations": [],
+        "risk_score": 85
+      }
+    },
+    {
+      "clause": {
+        "id": "c038",
+        "text": "7.\u00a0\u00a0\u00a0\u00a0\nGeneral Provisions.\n\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0a.\u00a0\u00a0\u00a0\u00a0No failure or delay by the Company in exercising any right, power or privilege hereunder shall operate as a waiver thereof, nor shall any single or partial exercise\nthereof preclude any other or further exercise thereof or the exercise of any right, power or privilege.\n\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0b.\u00a0\u00a0\u00a0\u00a0This Agreement shall be governed by and construed in accordance with the laws of the State of Minnesota.\n\n \n\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0c.\u00a0\u00a0\u00a0\u00a0This Agreement shall be binding and inure to the benefit of the parties hereto and their respective successors and assigns.\n\n \n\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0d.\u00a0\u00a0\u00a0\u00a0This Agreement shall constitute the entire agreement between the parties hereto with regard to the subject matter hereof. No modification, amendment or waiver shall be\nbinding without the written consent of the parties. Each party hereto represents and warrants that it has the full power and authority to enter into this Agreement and to perform its obligations\nhereunder.\n\n \n\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0IN WITNESS WHEREOF, the parties hereto have executed and delivered this Agreement as of the date first above written.\n\n \n\nRECIPIENT:",
+        "start_char": 25740,
+        "end_char": 26855
+      },
+      "classification": {
+        "label": "Term & Survival",
+        "confidence": 0.8,
+        "rationale_short": "Clause discusses agreement's duration and binding nature"
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c038",
+        "clause_type": "Term & Survival",
+        "plain_english_summary": "The company's failure to exercise its rights does not waive them, and this agreement is governed by Minnesota law.",
+        "business_risk": {
+          "severity": "Low",
+          "why": [
+            "The company's failure to exercise its rights does not waive them, which may affect the parties' expectations and negotiations."
+          ]
+        },
+        "norm_deviation": {
+          "deviates": false,
+          "comparison": [
+            "Standard contractual language"
+          ],
+          "suggested_revision": "None"
+        },
+        "uncertainty": {
+          "confidence": 0.8,
+          "reasons": [
+            "The clause is standard and widely used, but its specific application may depend on the context and circumstances."
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c039",
+        "text": "WIMBISH RITEWAY REALTORS\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\nBy\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\nIts\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\nCOMPANY:\n\n\u00a0\n\nCHOICETEL COMMUNICATIONS,\u00a0INC.\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\nBy\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\nIts\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\nQuickLinks",
+        "start_char": 26855,
+        "end_char": 27097
+      },
+      "classification": {
+        "label": "Miscellaneous",
+        "confidence": 1.0,
+        "rationale_short": "No clear contractual content, appears to be boilerplate company information"
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c039",
+        "clause_type": "Miscellaneous",
+        "plain_english_summary": "This is a boilerplate contract clause from Wimbish RiteWay Realtors and Choicetel Communications, Inc.",
+        "business_risk": {
+          "severity": "Low",
+          "why": [
+            "This clause appears to be a standard boilerplate and does not introduce significant business risk."
+          ]
+        },
+        "norm_deviation": {
+          "deviates": false,
+          "comparison": [],
+          "suggested_revision": ""
+        },
+        "uncertainty": {
+          "confidence": 0.8,
+          "reasons": [
+            "The clause is a standard boilerplate and does not introduce any unusual or complex concepts.",
+            "However, without more context, it is difficult to assess the specific business risks associated with this clause."
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c041",
+        "text": "EXHIBIT A TO BROKERAGE AGREEMENT",
+        "start_char": 27118,
+        "end_char": 27152
+      },
+      "classification": {
+        "label": "Miscellaneous",
+        "confidence": 1.0,
+        "rationale_short": "EXHIBIT A TO BROKERAGE AGREEMENT is not a standard contract clause type"
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c041",
+        "clause_type": "Miscellaneous",
+        "plain_english_summary": "This clause is an exhibit to the brokerage agreement.",
+        "business_risk": {
+          "severity": "Low",
+          "why": [
+            "This clause is a standard exhibit and does not introduce any significant risk to the parties."
+          ]
+        },
+        "norm_deviation": {
+          "deviates": false,
+          "comparison": [],
+          "suggested_revision": ""
+        },
+        "uncertainty": {
+          "confidence": 0.8,
+          "reasons": [
+            "The clause is a standard exhibit and does not introduce any significant risk to the parties."
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c042",
+        "text": "CONFIDENTIALITY AND NON-DISCLOSURE AGREEMENT",
+        "start_char": 27152,
+        "end_char": 27198
+      },
+      "classification": {
+        "label": "Confidentiality",
+        "confidence": 1.0,
+        "rationale_short": "The clause title explicitly mentions confidentiality"
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c042",
+        "clause_type": "Confidentiality",
+        "plain_english_summary": "The parties agree to keep confidential all information shared during the agreement.",
+        "business_risk": {
+          "severity": "Low",
+          "why": [
+            "The parties are not required to disclose confidential information to third parties, reducing the risk of unauthorized disclosure."
+          ]
+        },
+        "norm_deviation": {
+          "deviates": false,
+          "comparison": [
+            "industry standard confidentiality agreements"
+          ],
+          "suggested_revision": "None"
+        },
+        "uncertainty": {
+          "confidence": 0.8,
+          "reasons": [
+            "The clause is standard in many confidentiality agreements, but the specific scope of confidential information is not clearly defined."
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c043",
+        "text": "EXHIBIT B TO BROKERAGE AGREEMENT",
+        "start_char": 27198,
+        "end_char": 27232
+      },
+      "classification": {
+        "label": "Term & Survival",
+        "confidence": 0.8,
+        "rationale_short": "Clause appears to be part of the agreement's termination and survival provisions"
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c043",
+        "clause_type": "Term & Survival",
+        "plain_english_summary": "This clause is an exhibit to the brokerage agreement and does not provide any specific terms or conditions.",
+        "business_risk": {
+          "severity": "Low",
+          "why": [
+            "This clause is a general exhibit and does not contain any specific terms or conditions that could impact the business."
+          ]
+        },
+        "norm_deviation": {
+          "deviates": false,
+          "comparison": [],
+          "suggested_revision": ""
+        },
+        "uncertainty": {
+          "confidence": 0.8,
+          "reasons": [
+            "The clause is a general exhibit and does not contain any specific terms or conditions that could impact the business.",
+            "The clause does not provide any specific language that could be considered unusual or non-standard."
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c044",
+        "text": "CONFIDENTIALITY AND NON-DISCLOSURE AGREEMENT\n\n------MultipartBoundary--LThtqcKgcVwBuZoiL8QGrFUgjOrYJZ7LWfQk8Tlfca------",
+        "start_char": 27232,
+        "end_char": 27351
+      },
+      "classification": {
+        "label": "Confidentiality",
+        "confidence": 1.0,
+        "rationale_short": "The clause is titled 'CONFIDENTIALITY AND NON-DISCLOSURE AGREEMENT'"
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c044",
+        "clause_type": "Confidentiality",
+        "plain_english_summary": "This clause requires parties to keep confidential information secret.",
+        "business_risk": {
+          "severity": "Low",
+          "why": [
+            "The risk of unauthorized disclosure is relatively low, as the parties are required to keep confidential information secret."
+          ]
+        },
+        "norm_deviation": {
+          "deviates": true,
+          "comparison": [
+            "industry standard confidentiality clauses"
+          ],
+          "suggested_revision": "Consider adding a specific definition of confidential information and a procedure for handling confidential information."
+        },
+        "uncertainty": {
+          "confidence": 0.7,
+          "reasons": [
+            "The clause may not cover all types of confidential information, and the parties may have different understandings of what constitutes confidential information."
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    }
+  ],
+  "contract_risk": {
+    "score": 44,
+    "level": "Medium"
+  },
+  "missing_clauses": [
+    "Definition of Confidential Info",
+    "Exceptions"
+  ],
+  "settings": {
+    "use_llm_classification": true,
+    "use_rag": true,
+    "use_rules": true,
+    "use_llm_analysis": true
+  }
+}

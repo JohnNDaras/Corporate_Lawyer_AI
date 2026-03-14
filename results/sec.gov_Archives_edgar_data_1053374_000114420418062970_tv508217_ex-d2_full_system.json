@@ -1,0 +1,847 @@
+{
+  "disclaimer": "Not legal advice. Educational decision support only. No attorney-client relationship is formed.",
+  "doc_flags": [],
+  "clauses": [
+    {
+      "clause": {
+        "id": "c001",
+        "text": "Snapshot-Content-Location: https://www.sec.gov/Archives/edgar/data/1053374/000114420418062970/tv508217_ex-d2.htm\nSubject: \nDate: Mon, 9 Mar 2026 13:24:33 +0200\nMIME-Version: 1.0\nContent-Type: multipart/related;\n type=\"text/html\";\n boundary=\"----MultipartBoundary--utNNYO1OmFGdQXzNvvUYVcJKxmTyuNLZO0mhWgjPR9----\"\n\n------MultipartBoundary--utNNYO1OmFGdQXzNvvUYVcJKxmTyuNLZO0mhWgjPR9----\nContent-Type: text/html\nContent-ID: \n\nContent-Transfer-Encoding: binary\nContent-Location: https://www.sec.gov/Archives/edgar/data/1053374/000114420418062970/tv508217_ex-d2.htm\n\nEX-99.(D)(2)",
+        "start_char": 0,
+        "end_char": 576
+      },
+      "classification": {
+        "label": "Miscellaneous",
+        "confidence": 0.5,
+        "rationale_short": "The clause appears to be a header or metadata, not a specific contract term."
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c001",
+        "clause_type": "Miscellaneous",
+        "plain_english_summary": "This is a multipart email with a link to an SEC filing",
+        "business_risk": {
+          "severity": "Low",
+          "why": [
+            "The clause is a standard email header and footer, not a contractual provision"
+          ]
+        },
+        "norm_deviation": {
+          "deviates": false,
+          "comparison": [
+            "standard email format"
+          ],
+          "suggested_revision": "none"
+        },
+        "uncertainty": {
+          "confidence": 0.9,
+          "reasons": [
+            "The clause is not a contractual provision, but rather a metadata header"
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c002",
+        "text": "2\n\ntv508217_ex-d2.htm\n\nEXHIBIT (D)(2)\n\n\u00a0\n\nExhibit (d)(2)",
+        "start_char": 576,
+        "end_char": 646
+      },
+      "classification": {
+        "label": "Miscellaneous",
+        "confidence": 1.0,
+        "rationale_short": "No clear indication of confidentiality or other specific clause type"
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c002",
+        "clause_type": "Miscellaneous",
+        "plain_english_summary": "This is a placeholder summary for clause c002.",
+        "business_risk": {
+          "severity": "Low",
+          "why": [
+            "This clause is a placeholder and does not introduce significant business risk."
+          ]
+        },
+        "norm_deviation": {
+          "deviates": false,
+          "comparison": [],
+          "suggested_revision": ""
+        },
+        "uncertainty": {
+          "confidence": 0.5,
+          "reasons": [
+            "Insufficient context to accurately assess the clause's implications."
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c003",
+        "text": "NON-DISCLOSURE AGREEMENT\n\n\u00a0\n\n\u00a0\n\nThis Non-Disclosure Agreement (the Agreement)\nis made and entered into effective December 18, 2017 by and between \nPareteum Corporation\n, a Delaware corporation having\nits corporate address at: \u00a0100 Park Avenue, Suite 1600, New York City, New York 10017, USA (TEUM), and \niPass\nInc.\n, a Delaware corporation having its address at: 3800 Bridge Parkway, Redwood Shores, California 94065, USA (iPass),\neither both of which may be hereinafter referred to as \"the Party\" or \"the Parties.\"",
+        "start_char": 646,
+        "end_char": 1166
+      },
+      "classification": {
+        "label": "Confidentiality",
+        "confidence": 0.52,
+        "rationale_short": "keyword baseline"
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c003",
+        "clause_type": "Confidentiality",
+        "plain_english_summary": "This is a non-disclosure agreement between Pareteum Corporation and iPass Inc.",
+        "business_risk": {
+          "severity": "Low",
+          "why": [
+            "The agreement is between two companies, and the scope of confidentiality is not specified."
+          ]
+        },
+        "norm_deviation": {
+          "deviates": false,
+          "comparison": [
+            "standard non-disclosure agreement"
+          ],
+          "suggested_revision": "None"
+        },
+        "uncertainty": {
+          "confidence": 0.7,
+          "reasons": [
+            "The scope of confidentiality is not specified, and the parties may have different expectations."
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c004",
+        "text": "WHEREAS\n\n\u00a0\n\nThe Parties desire to discuss certain business\ntransactions and to exchange information for the purpose of exploring a potential business relationship for the benefit of the\nParties and/or to sign a business contract that shall include confidential technical or business information of each Party or entitle\neach Party to exchange information for the execution of this business contract. In order to facilitate these discussions and in\norder for the Parties to receive from each other, either orally or in writing, certain technical and business information under\nterms that will protect the confidential and proprietary nature of such information, the Parties have entered into this Agreement.\n\n\u00a0\u00a0\n\nNOW THEREFORE, THE PARTIES AGREE AS\nFOLLOWS;",
+        "start_char": 1166,
+        "end_char": 1927
+      },
+      "classification": {
+        "label": "Confidentiality",
+        "confidence": 0.8,
+        "rationale_short": "The clause discusses the protection of confidential and proprietary information."
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c004",
+        "clause_type": "Confidentiality",
+        "plain_english_summary": "The parties agree to keep confidential information shared during discussions and negotiations.",
+        "business_risk": {
+          "severity": "Low",
+          "why": [
+            "The clause is a standard confidentiality agreement, which is a common practice in business negotiations."
+          ]
+        },
+        "norm_deviation": {
+          "deviates": false,
+          "comparison": [],
+          "suggested_revision": ""
+        },
+        "uncertainty": {
+          "confidence": 0.8,
+          "reasons": [
+            "The clause is a standard confidentiality agreement, but the specific terms and conditions may vary depending on the parties' intentions and the context of the agreement."
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c005",
+        "text": "1.\nThe Definition of \"Confidential Information\": \nThe term \"Confidential Information\"\nshall mean all information disclosed by one Party to the other Party, whether orally, in written, electronic or other format, and\nwhether disclosed by a Partys agents, principals, employees or representatives, and whether to the other Party's agent's\nprincipals, employees or representatives. Confidential Information shall include, without limitation, all ideas improvements,\ninventions, methodologies, works and other innovations of any kind, authored, conceived, developed, made or reduced to practice\nby the disclosing Party, whether or not eligible for copyright, patent, trademark, trade secret or other legal protection (including,\nwithout limitation, formulas, processes, databases, mechanical and electronic hardware, electronic components, computers and their\nparts, computer programs and their documentation, encoding techniques, marketing and new product plans, production, processes,\nadvertising, packaging and marketing techniques, marketing plans, product plans, technical plans, business strategies, strategic\nalliances and partners, financial information, engineering data, methodologies and processes, forecasts, personnel information,\ncustomer and prospective customer lists, trade secrets, product design, capabilities, specifications, the identify of potential\nand actual customers, and suppliers and all documentation, materials and media provided by one Party to the other).",
+        "start_char": 1927,
+        "end_char": 3415
+      },
+      "classification": {
+        "label": "Definition of Confidential Info",
+        "confidence": 1.0,
+        "rationale_short": "Clause defines Confidential Information"
+      },
+      "flags": [
+        {
+          "name": "unlimited_liability_language",
+          "severity": "High",
+          "evidence_snippet": "incipals, employees or representatives. Confidential Information shall include, without limitation, all ideas improvements,\ninventions, methodologies, works and other innovations",
+          "explanation": "Language suggests liability may be uncapped or broadly expanded."
+        }
+      ],
+      "analysis": {
+        "clause_id": "c005",
+        "clause_type": "Definition of Confidential Info",
+        "plain_english_summary": "Confidential Information includes all information shared between parties, regardless of format, including ideas, inventions, and innovations.",
+        "business_risk": {
+          "severity": "High",
+          "why": [
+            "The language may suggest unlimited liability, which could lead to significant financial exposure."
+          ]
+        },
+        "norm_deviation": {
+          "deviates": true,
+          "comparison": [
+            "Typical confidentiality clauses may limit liability or specify exceptions"
+          ],
+          "suggested_revision": "Consider adding a liability cap or specifying exceptions to limit exposure."
+        },
+        "uncertainty": {
+          "confidence": 0.7,
+          "reasons": [
+            "The language is broad and may be open to interpretation, and the potential for unlimited liability is a significant concern."
+          ]
+        },
+        "citations": [
+          {
+            "rule": "unlimited_liability_language",
+            "evidence": "incipals, employees or representatives. Confidential Information shall include, without limitation, all ideas improvements,\ninventions, methodologies, works and other innovations"
+          }
+        ],
+        "risk_score": 85
+      }
+    },
+    {
+      "clause": {
+        "id": "c006",
+        "text": "2.\nProtection of \"Confidential Information\": \nIn consideration of each Party's disclosure\nof Confidential Information to the other Party, each Party agrees with respect to the Confidential Information received from the\nother Party, that it:\n\n\u00a0\n\n(a)\nshall maintain such Confidential Information in the strictest confidence;\n\n\u00a0\n\nPareteum Corporation | 100 Park Ave. | Suite 1600 | New York | NY 10017 | United States\nTel. +1 (212) 984.1096\nwww.Pareteum.com\nNYSE MKT: TEUM\n\n\u00a0\n\n\u00a0\n\n(b)\nshall not disclose, transfer or otherwise make available any of such Confidential Information to\nany third party, unless such Confidential Information must be disclosed for the purposes contemplated herein, or under legal compulsion\nto disclose any such Confidential Information, in which event each Party shall, prior to such disclosure, obtain written consent\nfrom the other Party and obtain from the third person a written agreement acknowledging the binding effect of these restrictions\nregarding the Confidential Information; and\n\n\u00a0\n\n(c)\nshall not directly, indirectly or in concert with any person, use the Confidential Information\nfor any purpose other than evaluating the prospective business relationship with the other Party in accordance with the introduction\n.\n\n\u00a0\n\nEach Party shall take reasonable\nmeasures to protect the Confidential Information of the other Party. Those measures shall not be less than the measures taken to\nprotect the receiving Partys own confidential information. Confidential Information of the other Party may be provided to\na Partys employees only on a need-to-know basis, and prior to such provision, the Party will notify each employee to whom\nsuch disclosure is made that such Confidential Information is received in confidence and shall be kept in confidence by such employee.",
+        "start_char": 3415,
+        "end_char": 5219
+      },
+      "classification": {
+        "label": "Confidentiality",
+        "confidence": 1.0,
+        "rationale_short": "The clause is about protecting confidential information."
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c006",
+        "clause_type": "Confidentiality",
+        "plain_english_summary": "Parties agree to keep confidential information confidential and not disclose it to third parties.",
+        "business_risk": {
+          "severity": "Low",
+          "why": [
+            "The risk of unauthorized disclosure is low, as the parties are required to keep the information confidential and only disclose it under certain circumstances."
+          ]
+        },
+        "norm_deviation": {
+          "deviates": true,
+          "comparison": [
+            "The parties' obligations to keep confidential information confidential are more stringent than usual."
+          ],
+          "suggested_revision": "Consider adding a provision for the destruction of confidential information after it is no longer needed."
+        },
+        "uncertainty": {
+          "confidence": 0.7,
+          "reasons": [
+            "The parties' obligations to keep confidential information confidential are not explicitly defined, and the scope of the confidential information is not clearly limited."
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c007",
+        "text": "3.\nExcluded Information: \nThis Agreement shall not apply to any information:\n\n\u00a0\n\n(a)\nthat has been or which becomes publicly known, through no wrongful act of either Party;\n\n\u00a0\n\n(b)\nwhich is required to be disclosed in order to comply with applicable law or regulation or with\nany requirement imposed by judicial or administrative process or any governmental or court order.",
+        "start_char": 5219,
+        "end_char": 5597
+      },
+      "classification": {
+        "label": "Exceptions",
+        "confidence": 1.0,
+        "rationale_short": "Defines what information is excluded from the agreement."
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c007",
+        "clause_type": "Exceptions",
+        "plain_english_summary": "Exceptions to the agreement that excludes information that is publicly known or required to be disclosed by law or regulation.",
+        "business_risk": {
+          "severity": "Low",
+          "why": [
+            "This clause is intended to clarify the scope of the agreement and avoid disputes over what information is excluded."
+          ]
+        },
+        "norm_deviation": {
+          "deviates": true,
+          "comparison": [
+            "industry standards for confidentiality agreements"
+          ],
+          "suggested_revision": "Consider adding specific examples of information that would be excluded, such as trade secrets or confidential business information."
+        },
+        "uncertainty": {
+          "confidence": 0.8,
+          "reasons": [
+            "The clause is clear and well-written, but the suggested revision could improve its effectiveness."
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c008",
+        "text": "4.\nNo Licenses or Warranties: \nEach Partys Confidential Information and all rights thereto\nshall remain such Partys sole property. Each Party recognizes that the disclosure of Confidential Information by the disclosing\nParty shall not be construed as granting any rights, by license or otherwise, concerning any Confidential Information, except as\nmay be explicitly created by this Agreement. Each Party acknowledges that the other Partys Confidential Information includes\nvaluable trade secrets. Neither Party has any obligation to disclose Confidential Information to the other Party. NEITHER PARTY\nMAKES ANY REPRESENTATION OR WARRANTY AS TO THE ACCURACY, COMPLETENESS, CONDITION, FITNESS and MERCHANTABILITY, OR PERFORMANCE OF\nITS CONFIDENTIAL INFORMATION.",
+        "start_char": 5597,
+        "end_char": 6361
+      },
+      "classification": {
+        "label": "Confidentiality",
+        "confidence": 1.0,
+        "rationale_short": "Clause defines confidentiality obligations and ownership"
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c008",
+        "clause_type": "Confidentiality",
+        "plain_english_summary": "Each party retains ownership of their confidential information and does not grant any rights to the other party, except as explicitly stated in this agreement.",
+        "business_risk": {
+          "severity": "Low",
+          "why": [
+            "The parties are simply clarifying their respective ownership and rights to confidential information, which is a standard practice in agreements."
+          ]
+        },
+        "norm_deviation": {
+          "deviates": true,
+          "comparison": [
+            "industry standard is to grant a license or warranty for confidential information"
+          ],
+          "suggested_revision": "Consider adding a license or warranty for confidential information to ensure clarity and consistency with industry standards."
+        },
+        "uncertainty": {
+          "confidence": 0.7,
+          "reasons": [
+            "The clause may be too broad and may not cover all potential scenarios, but it is a common practice in agreements to retain ownership of confidential information."
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c009",
+        "text": "5.\nRemedies: \nIf either Party causes a disclosure of the other Partys Confidential Information\nin breach of the terms of this Agreement, the disclosing Party shall immediately report in writing the disclosure to the other\nParty and shall save, defend, indemnify and hold the non-disclosing Party harmless from and against any and all liability and damages\nsuffered by the non-disclosing Party arising therefrom. In addition to the foregoing and without limitation thereof, the disclosing\nParty shall cooperate in prosecuting any claims against third parties for unauthorized use of any Confidential Information. Each\nParty acknowledges that unauthorized disclosure, use or disposition, whether actual or threatened, of any Confidential Information\nshall cause irreparable harm, loss of business and significant injury to the disclosing Party, the scope of which would be difficult\nto ascertain. Each Party agrees, therefore, that the disclosing Party has the right to obtain an immediate injunction against any\nbreach, threatened breach or attempted breach of this Agreement, in addition to any other remedies that may be available at law,\nincluding without limitation, the recovery of expenses, costs and attorneys fees arising out of such breach, threatened\nbreach or attempted breach.",
+        "start_char": 6361,
+        "end_char": 7653
+      },
+      "classification": {
+        "label": "Remedies / Injunctive Relief",
+        "confidence": 1.0,
+        "rationale_short": "Clause discusses remedies for breach of confidentiality agreement"
+      },
+      "flags": [
+        {
+          "name": "unlimited_liability_language",
+          "severity": "High",
+          "evidence_snippet": "by the non-disclosing Party arising therefrom. In addition to the foregoing and without limitation thereof, the disclosing\nParty shall cooperate in prosecuting any claims against",
+          "explanation": "Language suggests liability may be uncapped or broadly expanded."
+        }
+      ],
+      "analysis": {
+        "clause_id": "c009",
+        "clause_type": "Remedies / Injunctive Relief",
+        "plain_english_summary": "If a party breaches confidentiality, the other party can report the breach and seek damages, and the breaching party must help with claims against third parties.",
+        "business_risk": {
+          "severity": "High",
+          "why": [
+            "The language suggests unlimited liability, which can be a significant risk for the non-disclosing party."
+          ]
+        },
+        "norm_deviation": {
+          "deviates": true,
+          "comparison": [
+            "Typical indemnification clauses may not include unlimited liability language"
+          ],
+          "suggested_revision": "Consider revising to specify a cap on liability"
+        },
+        "uncertainty": {
+          "confidence": 0.7,
+          "reasons": [
+            "The language is unclear about the scope of liability, and the use of 'without limitation' may expand liability beyond what is typical in similar agreements"
+          ]
+        },
+        "citations": [
+          {
+            "rule": "unlimited_liability_language",
+            "evidence": "by the non-disclosing Party arising therefrom. In addition to the foregoing and without limitation thereof, the disclosing\nParty shall cooperate in prosecuting any claims against"
+          }
+        ],
+        "risk_score": 85
+      }
+    },
+    {
+      "clause": {
+        "id": "c010",
+        "text": "6.\nReturn of \"Confidential Information\": \nAll Confidential Information shall be returned\nto the disclosing Parties promptly upon written request or, at the election of the disclosing Party, the Party that received the\nConfidential Information shall certify said information has been destroyed and is no longer useable in any format.\n\n\u00a0\n\nPareteum Corporation | 100 Park Ave. | Suite 1600 | New York | NY 10017 | United States\nTel. +1 (212) 984.1096\nwww.Pareteum.com\nNYSE MKT: TEUM",
+        "start_char": 7653,
+        "end_char": 8140
+      },
+      "classification": {
+        "label": "Return/Destruction",
+        "confidence": 1.0,
+        "rationale_short": "Clause specifies return or destruction of confidential information."
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c010",
+        "clause_type": "Return/Destruction",
+        "plain_english_summary": "The disclosing party must return or destroy confidential information upon request.",
+        "business_risk": {
+          "severity": "Low",
+          "why": [
+            "The return or destruction of confidential information is a standard practice in business agreements to protect sensitive information."
+          ]
+        },
+        "norm_deviation": {
+          "deviates": false,
+          "comparison": [],
+          "suggested_revision": ""
+        },
+        "uncertainty": {
+          "confidence": 0.8,
+          "reasons": [
+            "The clause is a standard provision in many business agreements, but the specific requirements for return or destruction may vary depending on the jurisdiction and industry."
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c011",
+        "text": "7.\nSecurities:\n Parties hereby acknowledge, covenant and agree that they are aware that United\nStates securities laws may prohibit any person who has material, non-public information about a company (including a Party) from\npurchasing or selling, directly or indirectly, securities of a company (including the Parties), or from communicating such information\nto any other person under circumstances in which it is reasonably foreseeable that such person is likely to purchase or sell such\nsecurities.",
+        "start_char": 8140,
+        "end_char": 8645
+      },
+      "classification": {
+        "label": "Confidentiality",
+        "confidence": 0.8,
+        "rationale_short": "Securities laws prohibit material non-public information disclosure"
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c011",
+        "clause_type": "Confidentiality",
+        "plain_english_summary": "Parties agree not to use material, non-public information to buy or sell securities.",
+        "business_risk": {
+          "severity": "Low",
+          "why": [
+            "The clause only prohibits using material, non-public information for securities transactions, not other business activities."
+          ]
+        },
+        "norm_deviation": {
+          "deviates": false,
+          "comparison": [
+            "Standard confidentiality clauses typically include broader prohibitions on using confidential information for personal gain."
+          ],
+          "suggested_revision": "Consider adding a broader prohibition on using confidential information for personal gain."
+        },
+        "uncertainty": {
+          "confidence": 0.7,
+          "reasons": [
+            "The clause's scope is limited to securities transactions, which may not be the only way parties could use material, non-public information for personal gain."
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c012",
+        "text": "8.\nProhibition of Disclosure: \nNeither Party hereto\nshall in any way or in any form distribute, disclose, publicize, issue press releases, or advertise in any manner, including,\nbut not limited to, making representation in court pleadings, except as required by law, the discussions that gave rise to this\nAgreement, the discussions or negotiations covered by this Agreement, this Agreement or the Confidential Information provided\npursuant to this Agreement, without first obtaining the prior written consent of the other Party.",
+        "start_char": 8645,
+        "end_char": 9179
+      },
+      "classification": {
+        "label": "Permitted Disclosures",
+        "confidence": 0.9,
+        "rationale_short": "Clause regulates disclosure of confidential information"
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c012",
+        "clause_type": "Permitted Disclosures",
+        "plain_english_summary": "Neither party can disclose confidential information without permission.",
+        "business_risk": {
+          "severity": "High",
+          "why": [
+            "Disclosure of confidential information can cause significant reputational damage and financial loss."
+          ]
+        },
+        "norm_deviation": {
+          "deviates": true,
+          "comparison": [
+            "industry standard for confidentiality agreements"
+          ],
+          "suggested_revision": "Consider adding specific examples of permitted disclosures, such as in response to a court order."
+        },
+        "uncertainty": {
+          "confidence": 0.8,
+          "reasons": [
+            "The clause may not cover all possible scenarios, such as emergency situations where prompt disclosure is necessary."
+          ]
+        },
+        "citations": [],
+        "risk_score": 85
+      }
+    },
+    {
+      "clause": {
+        "id": "c013",
+        "text": "9.\nTerm, Assignment and Survival: \nThis Agreement shall be valid unless terminated by mutual\nwritten Agreement. Each Partys obligations with respect to the Confidential Information, including but not limited to, sections\n2,4,5,6 shall survive the termination of this Agreement and/or return of all Confidential Information from the latter date of either\ntermination or return of such information. Neither this Agreement nor any rights hereunder, in whole or in part, shall be assignable\nor otherwise transferable by either Party.",
+        "start_char": 9179,
+        "end_char": 9713
+      },
+      "classification": {
+        "label": "Term & Survival",
+        "confidence": 1.0,
+        "rationale_short": "Survival of obligations after termination"
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c013",
+        "clause_type": "Term & Survival",
+        "plain_english_summary": "The agreement can be terminated by mutual written agreement. Obligations related to confidential information survive termination. The agreement is not assignable or transferable.",
+        "business_risk": {
+          "severity": "Low",
+          "why": [
+            "The agreement can be terminated by mutual written agreement, which may reduce the risk of non-performance."
+          ]
+        },
+        "norm_deviation": {
+          "deviates": true,
+          "comparison": [
+            "Standard term and survival clauses typically do not include the prohibition on assignment and transfer."
+          ],
+          "suggested_revision": "Consider revising to allow for assignment and transfer under certain conditions."
+        },
+        "uncertainty": {
+          "confidence": 0.8,
+          "reasons": [
+            "The clause is clear on its face, but the impact of the prohibition on assignment and transfer may be unclear in practice."
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c014",
+        "text": "10.\nGoverning Law; Jurisdiction: \nThis Agreement shall be governed and construed in accordance\nwith the laws of the State of New York, United States of America. In the event of any disputes arising under this Agreement, the\nundersigned Parties without regard to any principles of conflicts of laws and waiving any defenses of forum non conveniens hereby\nsubmit to the exclusive personal and subject matter jurisdiction of the State and Federal Courts situated in the Borough of Manhattan,\nNew York, New York.",
+        "start_char": 9713,
+        "end_char": 10227
+      },
+      "classification": {
+        "label": "Governing Law",
+        "confidence": 1.0,
+        "rationale_short": "Refers to the jurisdiction and laws governing the contract."
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c014",
+        "clause_type": "Governing Law",
+        "plain_english_summary": "This contract will be governed by the laws of New York and any disputes will be resolved in the Manhattan courts.",
+        "business_risk": {
+          "severity": "Low",
+          "why": [
+            "The governing law and jurisdiction are clearly specified, reducing the risk of disputes and potential misinterpretation."
+          ]
+        },
+        "norm_deviation": {
+          "deviates": false,
+          "comparison": [
+            "Most contracts specify a governing law and jurisdiction, but the specific choice of New York may impact the parties' rights and obligations."
+          ],
+          "suggested_revision": "Consider specifying a more neutral or industry-standard governing law to reduce potential risks."
+        },
+        "uncertainty": {
+          "confidence": 0.8,
+          "reasons": [
+            "The clause is clear and concise, but the choice of New York law may be subject to interpretation and potential challenges."
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c015",
+        "text": "11.\nWaiver: \nNo failure by either Party to exercise any rights arising from default by the other\nParty shall impair that right or constitute a waiver of it. No waiver by either Party of any covenant to be performed by the other\nshall constitute a waiver of any later breach of covenant.",
+        "start_char": 10227,
+        "end_char": 10518
+      },
+      "classification": {
+        "label": "Term & Survival",
+        "confidence": 0.9,
+        "rationale_short": "Clause discusses waiver of rights and covenants, indicating term and survival of contract"
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c015",
+        "clause_type": "Term & Survival",
+        "plain_english_summary": "Neither party's failure to enforce a right or waive a breach of a covenant will prevent them from enforcing that right or waiving that breach in the future.",
+        "business_risk": {
+          "severity": "Low",
+          "why": [
+            "This clause is intended to prevent one party from taking advantage of the other's leniency or delay in enforcing their rights."
+          ]
+        },
+        "norm_deviation": {
+          "deviates": false,
+          "comparison": [
+            "This clause is consistent with standard contract language and does not deviate from industry norms."
+          ],
+          "suggested_revision": ""
+        },
+        "uncertainty": {
+          "confidence": 0.8,
+          "reasons": [
+            "The language of this clause is clear and unambiguous, but the application of this clause in a specific situation may depend on the context and the specific terms of the contract."
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c016",
+        "text": "12.\nCounterparts: \nThis Agreement may be executed in two signed copies, each of which when taken\ntogether shall be deemed but one original.",
+        "start_char": 10518,
+        "end_char": 10662
+      },
+      "classification": {
+        "label": "Term & Survival",
+        "confidence": 0.9,
+        "rationale_short": "Counterparts clause is part of agreement terms"
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c016",
+        "clause_type": "Term & Survival",
+        "plain_english_summary": "The agreement can be signed in multiple copies, but all copies together are considered one original.",
+        "business_risk": {
+          "severity": "Low",
+          "why": [
+            "This clause does not introduce significant risk to the parties involved."
+          ]
+        },
+        "norm_deviation": {
+          "deviates": false,
+          "comparison": [
+            "industry standard for agreement execution"
+          ],
+          "suggested_revision": "None"
+        },
+        "uncertainty": {
+          "confidence": 0.8,
+          "reasons": [
+            "The clause is straightforward and does not introduce ambiguity."
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c017",
+        "text": "13.\nSeverability: \nThe validity or unenforceability of any provision or provisions of this Agreement\nshall no affect the validity or enforceability of any other provision hereof, which shall remain in full force and effect.",
+        "start_char": 10662,
+        "end_char": 10890
+      },
+      "classification": {
+        "label": "Term & Survival",
+        "confidence": 1.0,
+        "rationale_short": "Refers to the survival of other provisions in case one is invalid or unenforceable."
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c017",
+        "clause_type": "Term & Survival",
+        "plain_english_summary": "If one part of the agreement is invalid or unenforceable, it won't affect the rest of the agreement.",
+        "business_risk": {
+          "severity": "Low",
+          "why": [
+            "This clause is a standard severability provision, which is common in contracts. It's unlikely to cause significant business risk."
+          ]
+        },
+        "norm_deviation": {
+          "deviates": true,
+          "comparison": [
+            "Typically, severability provisions are more detailed, specifying which provisions are severable and which are not."
+          ],
+          "suggested_revision": "Consider adding more detail on which provisions are severable and which are not."
+        },
+        "uncertainty": {
+          "confidence": 0.8,
+          "reasons": [
+            "The clause is straightforward, but the specific circumstances of the agreement may affect its application."
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c018",
+        "text": "14.\nEntire Agreement; Amendment: \nThis Agreement contains the entire understandings between and\namong the Parties and supersedes any prior understanding and agreements among them respecting the subject matter hereof. No amendment\nto this Agreement shall be valid unless set forth in writing and signed by both Parties.",
+        "start_char": 10890,
+        "end_char": 11213
+      },
+      "classification": {
+        "label": "Term & Survival",
+        "confidence": 1.0,
+        "rationale_short": "Refers to the entire agreement and its amendment process."
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c018",
+        "clause_type": "Term & Survival",
+        "plain_english_summary": "This contract is the final agreement between the parties and any changes must be in writing and signed by both parties.",
+        "business_risk": {
+          "severity": "Low",
+          "why": [
+            "The clause clarifies the scope of the agreement and prevents oral or implied amendments, reducing the risk of misinterpretation or disputes."
+          ]
+        },
+        "norm_deviation": {
+          "deviates": false,
+          "comparison": [
+            "This clause is a standard term in many contracts and is considered best practice."
+          ],
+          "suggested_revision": ""
+        },
+        "uncertainty": {
+          "confidence": 0.8,
+          "reasons": [
+            "The clause is clear and concise, and its meaning is widely understood in the context of contract law."
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c019",
+        "text": "15.\nNotices:\n All notices required or permitted hereunder shall be in writing and shall be sent\nby nationally recognized overnight courier service, or by registered or certified mail, to the addresses stated in the heading\nof this Agreement. Unless otherwise specified, notices shall be deemed given when the return receipt is received.",
+        "start_char": 11213,
+        "end_char": 11554
+      },
+      "classification": {
+        "label": "Return/Destruction",
+        "confidence": 0.8,
+        "rationale_short": "Notice of destruction of information"
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c019",
+        "clause_type": "Return/Destruction",
+        "plain_english_summary": "Notices must be in writing and sent by overnight courier or registered mail to the addresses listed in the agreement.",
+        "business_risk": {
+          "severity": "Low",
+          "why": [
+            "The notice requirements are clear and straightforward, and the method of delivery is reliable."
+          ]
+        },
+        "norm_deviation": {
+          "deviates": false,
+          "comparison": [
+            "industry standard for notice delivery"
+          ],
+          "suggested_revision": "None"
+        },
+        "uncertainty": {
+          "confidence": 0.9,
+          "reasons": [
+            "The clause is clear and well-defined, but there may be minor variations in delivery methods depending on the specific circumstances."
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c020",
+        "text": "16.\nNon-solicitation/Non-circumvention\n. iPass understands, acknowledges and agrees, AS\nA MATERIAL INDUCEMENT FOR TEUM TO MAKE AND ENTER INTO THIS AGREEMENT, that with respect to any customer or prospective customer\nopportunities that are identified by TEUM (collectively, the \nTEUM Leads\n) to iPass, that iPass shall\nnot negotiate directly or indirectly solicit or otherwise attempt to cause the TEUM Leads enter into any form of agreement with\niPass without the consent of TEUM, which consent may be given or withheld in TEUMs sole discretion. In addition to the foregoing,\nand without limitation thereof, iPass shall not circumvent or otherwise engage in any form of direct or indirect communications\nwith any TEUM Leads without the prior written approval of TEUM, which approval may be given or withheld in TEUMs sole discretion.\n\n\u00a0\n\n[REMAINDER\nOF PAGE LEFT BLANK. SIGNATURES ON FOLLOWING PAGE.]\n\n\u00a0\n\nPareteum Corporation | 100 Park Ave. | Suite 1600 | New York | NY 10017 | United States\nTel. +1 (212) 984.1096\nwww.Pareteum.com\nNYSE MKT: TEUM\n\n\u00a0\n\n\u00a0\n\n[SIGNATURE\nPAGE TO NON-DISCLOSURE AGREEMENT]\n\n\u00a0\n\n\u00a0\n\nIN\nWITNESS WHEREOF, the Parties hereto have caused this Agreement to be executed by their duly authorized representatives as of the\ndate and year written above\n.\n\n\u00a0\n\n\u00a0\n\nPareteum Corporation \n\n\u00a0\n\n\u00a0\n\n/s/ Denis McCarthy\n\nName: Denis McCarthy\n\n\u00a0\u00a0\n\nTitle: SVP Corporate Developement\n\n\u00a0\u00a0\n\nDate: February 15, 2018\n\n\u00a0\n\niPass: \n\n\u00a0\n\n\u00a0\n\n/s/ Darin Vickery \n\u00a0\n\nName: Darin VIckery\n\n\u00a0\n\nTitle: CFO\u00a0\n\n\u00a0\n\nDate: December 20, 2017\n\n\u00a0\n\nEmail: ............................................\n\n\u00a0\n\nPareteum Corporation | 100 Park Ave. | Suite 1600 | New York | NY 10017 | United States\nTel. +1 (212) 984.1096\nwww.Pareteum.com\nNYSE MKT: TEUM\n\n\u00a0\n\n------MultipartBoundary--utNNYO1OmFGdQXzNvvUYVcJKxmTyuNLZO0mhWgjPR9----\nContent-Type: image/jpeg\nContent-Transfer-Encoding: binary\nContent-Location: https://www.sec.gov/Archives/edgar/data/1053374/000114420418062970/image_001.jpg\n\n\ufffd\u0010JFIF\ufffd\u0001\u0001\u0001\ufffd`\ufffd`\ufffd\ufffd\ufffdC\ufffd\n\u0007\u0007 \u0007\u0006\n \b \u000b\u000b\n\f\u000f\u0019\u0010\u000f\u000e\u000e\u000f\u001e\u0016\u0017\u0012\u0019$ &%# #\"(-90(*6+\"#2D26;=@@@&0FKE>J9?@=\ufffdC\u0001\u000b\u000b\u000b\u000f\n\u000f\u001d\u0010\u0010\u001d=)#)==================================================\ufffd\u0011\b\ufffdS\ufffd\u0003\u0001\"\ufffd\u0002\u0011\u0001\u0003\u0011\u0001\ufffd\u001f\ufffd\ufffd\u0001\u0005\u0001\u0001\u0001\u0001\u0001\u0001\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\u0001\u0002\u0003\u0004\u0005\u0006\u0007\b \n\u000b\ufffd\u0010\ufffd\u0002\u0001\u0003\u0003\u0002\u0004\u0003\u0005\u0005\u0004\u0004\ufffd\ufffd\u0001}\u0001\u0002\u0003\ufffd\u0004\u0011\u0005\u0012!1A\u0006\u0013Qa\u0007\"q\u00142\b#B\u0015R$3br \n\u0016\u0017\u0018\u0019\u001a%&'()*456789:CDEFGHIJSTUVWXYZcdefghijstuvwxyz\ufffd\u001f\u0001\ufffd\u0003\u0001\u0001\u0001\u0001\u0001\u0001\u0001\u0001\u0001\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\u0001\u0002\u0003\u0004\u0005\u0006\u0007\b \n\u000b\ufffd\u0011\ufffd\u0002\u0001\u0002\u0004\u0004\u0003\u0004\u0007\u0005\u0004\u0004\ufffd\u0001\u0002w\ufffd\u0001\u0002\u0003\u0011\u0004\u0005!1\u0006\u0012AQ\u0007aq\u0013\"2\b\u0014B #3R\u0015br\n\u0016$4%\u0017\u0018\u0019\u001a&'()*56789:CDEFGHIJSTUVWXYZcdefghijstuvwxyz\ufffd\f\u0003\u0001\ufffd\u0002\u0011\u0003\u0011\ufffd?\ufffdV`Y\n:zW5@.>8\ufffdv\ufffd7>~uO\u0004WP<\u0017\u0011H68a+\n?V\u0716 \u001dG?\u0001XZ\u007f6\u007f3.&b\ufffdPk>Ok{$e0\u007f\nzM+%>\u001c \u0155\f\u007fv\u067b}\u000f]|\u05ba_\u000eS6nQvtJ>\u253bEch\u001e+\n?}v\u0013\u001f\ufffdk^cBeq\u05fa\ufffdy\u0014\u0c38Z\u03d4RX'='f_\u001ec-?)T8q\ufffd\ufffd\u0004\u06b7\u0006^j*\u001e}\u0003\u001f\u05ebVpxI\u05e9.HokE7VAei\u001d6@TSwh\u0018+E&y\u007f4=/V\u05fc^it\u026a8S<*F[Ev7>\u0005\u057b&#r@\u00102+~j czb\u01ea8d\u0015u\u0013\u000fU\ua288X\u001e Tf|5\u0014\u001aO /u{[K\u000b\"Y\u001b,vdm\u0003\u05d6\u0015\u001f8\\E\u0011\u001bb0G\u001bGT\n\u0015\u007fZ|3\u0627\ufffdZ\">\u001fky8\ufffdEj\ufffdQ\ud919\ude65\u0016\u001a\u03dc-/5\u0019\u001bAnx\u0018Y|HDyr:AdL$\u007fx\u0012A#\u0015x$\u001fbe\u001ek%a\fd\u001aeEH\u0011B\u0005\u0003\ufffd\u000fJ\ufffd]\u001exam*+YHb24`\ufffd\u007fS\u057d\u0013\u019av{5wa}\nyk}\u000f&pF}1\fqxF\u0002&\u00036X_\u0015x|iLQ\u001ee\ufffdi\\\ufffd\ufffd@\u0002\"\u007f=\u0011o\ufffdW\u0004|gV\f\u001a]\u0015\ufffd\u01c7\f\nv\u0010b\u001a8K01^g\u0018;3:9`k\u04fc7yuyF\u05d1H\u02f9<\u066a='\u001af)?\u5903vV\\[u#,aBaiw%6&\u0016\n-E\u0011/\u001c\u0002lFL\u007f\u018a\ufffd\u6d1f\u0002g/tV{\u02f57#0on\u062cUi{6o\u001e%\u042dJ\u0011)V\u001cW\u007fE\ufffdrz%_[\u0435X\u0012\u001cp\u0006P^\u0002\f^',Rf W#2H\u078a\ufffdK(m&+\u0002MJ\u0018F\b*x#\u06b2/\u0007k|~ U\u000e,pZ\u000blr< p+9}S1j~\u0017\u04b4f\u0013Nx]e\b \u007f-p2;f(\f/\bb? 2Xr\nB[\u001cq\ufffd\u0015\n\u001f\u0014_Ina\b\u0007-]m\u0014\u0001?\u0001\u001f{\\NG[qH\b< {\u00157^\u001a\u0350,\u00122A\u0015\u0010\u0016Ab6`p\u0006b\u0018tk\u02967\u0017a}\u001aw\u07bd\u0017\u001f3F8x*u^\udb84\udd62x\u0013N6t>p9\u02cfO\ufffdv#\u0016\u001c\fxPAS\u0403kBG^\u0016Q\u0017,L6&(#(\ufffd(\ufffd(\ufffd(\ufffd(\ufffd(\ufffd(\ufffd(\ufffd(\ufffd(\ufffd(\ufffd)\u0019U\u052b\ufffdz84Q@\u0019\u0016\u05ba\u0004A\u0011\fT\u00139\ub382\u0121\u0003\u0005\u0018\u0019(*J*J1qQEu\u001a\u0005\u0014Q@\u0005\u0014Q@\u0005\u0014Q@\u0005\u0014Q@\u0005\u0014Q@\u0005\u0014Q@\u0005\u0014Q@\u0005\u0014Q@\u0005\u0014Q@\u0005\u0014Q@\u0005\u0014Q@\u001f\n------MultipartBoundary--utNNYO1OmFGdQXzNvvUYVcJKxmTyuNLZO0mhWgjPR9------",
+        "start_char": 11554,
+        "end_char": 14826
+      },
+      "classification": {
+        "label": "Confidentiality",
+        "confidence": 0.52,
+        "rationale_short": "keyword baseline"
+      },
+      "flags": [
+        {
+          "name": "unlimited_liability_language",
+          "severity": "High",
+          "evidence_snippet": "e given or withheld in TEUMs sole discretion. In addition to the foregoing,\nand without limitation thereof, iPass shall not circumvent or otherwise engage in any form of direct o",
+          "explanation": "Language suggests liability may be uncapped or broadly expanded."
+        }
+      ],
+      "analysis": {
+        "clause_id": "c020",
+        "clause_type": "Confidentiality",
+        "plain_english_summary": "iPass agrees not to solicit or negotiate with TEUM Leads without TEUM's consent.",
+        "business_risk": {
+          "severity": "High",
+          "why": [
+            "iPass may be restricted from pursuing potential business opportunities, potentially harming its business and financial performance."
+          ]
+        },
+        "norm_deviation": {
+          "deviates": true,
+          "comparison": [
+            "standard non-solicitation clauses typically do not include a 'material inducement' provision"
+          ],
+          "suggested_revision": "Consider revising the clause to remove the 'material inducement' language to make it more standard and enforceable."
+        },
+        "uncertainty": {
+          "confidence": 0.7,
+          "reasons": [
+            "The 'material inducement' language may be unclear or ambiguous, potentially leading to disputes or legal challenges."
+          ]
+        },
+        "citations": [
+          {
+            "rule": "unlimited_liability_language",
+            "evidence": "e given or withheld in TEUMs sole discretion. In addition to the foregoing,\nand without limitation thereof, iPass shall not circumvent or otherwise engage in any form of direct o"
+          }
+        ],
+        "risk_score": 85
+      }
+    }
+  ],
+  "contract_risk": {
+    "score": 46,
+    "level": "Medium"
+  },
+  "missing_clauses": [],
+  "settings": {
+    "use_llm_classification": true,
+    "use_rag": true,
+    "use_rules": true,
+    "use_llm_analysis": true
+  }
+}

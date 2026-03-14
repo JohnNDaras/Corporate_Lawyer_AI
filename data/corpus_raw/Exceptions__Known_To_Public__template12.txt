@@ -1,0 +1,3 @@
+EXCEPTIONS
+
+Confidential Information shall not include information that is already known to the public at the time of disclosure.

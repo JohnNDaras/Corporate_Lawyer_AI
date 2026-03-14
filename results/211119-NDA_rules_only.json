@@ -1,0 +1,919 @@
+{
+  "disclaimer": "Not legal advice. Educational decision support only. No attorney-client relationship is formed.",
+  "doc_flags": [],
+  "clauses": [
+    {
+      "clause": {
+        "id": "c002",
+        "text": "CONFIDENTIALITY AND NON DISCLOSURE AGREEMENT \n\n(Note 1: To be duly signed by a Key Managerial Personnel or a person duly authorised under a board \nresolution passed by the Bidder.) \n\n(Note 2: In case of the Consortium, this Agreement shall have entered into and submitted by each partner \nof the Consortium separately. The Agreement shall be duly signed by a Key Managerial Personnel of \npartner of the Consortium or person duly authorised under a board resolution passed by partner of the \nConsortium) \n\nThis CONFIDENTIALITY AND NON DISCLOSURE AGREEMENT (hereinafter referred as the \n\"Agreement\") is made at [\u2026\u2026.] on this ___ day of _________, 20__ (hereinafter referred as \u201cEffective \nDate\u201d) between \n\nCoastal Energen Private Limited (CEPL), a company incorporated under the Companies Act, 1956 \nand having its registered office at No. 5, Moores Road, Chennai, 600006, Tamil Nadu (hereinafter \nreferred to as the \u201cCompany\u201d or \"Disclosing Party\" which shall be deemed to mean and include its \nsuccessors and assigns) of the FIRST PART \n\nAnd \n\n_____________________________, a company incorporated under the Companies Act, 1956 and having \nits Registered Office at ________________________ ____________________________ (hereinafter \nreferred to as the \u201c_________\u201d or \"Receiving Party\" which shall be deemed to mean and include its \nsuccessors and permitted assigns) of the SECOND PART; \n\n\u201cDisclosing Party\u201d and \u201cReceiving Party\u201d are individually referred to as \u201cParty\u201d and collectively referred \nto as \u201cParties\u201d. \n\nWHEREAS: \n\nA. COASTAL ENERGEN PRIVATE LIMITED is engaged in the business of power generation. \n\nB. \n\nC. \n\n_____________________________ \n___________________________________________________________. \n\nengaged \n\nin \n\nis \n\nthe \n\nbusiness \n\nof \n\nSBI (Lead Bank) acting on behalf of the Lenders, proposes to invite proposals through a bidding \nprocess based on \u2018Swiss Challenge Method\u2019 and identify an investor for upfront full and final \nsettlement of all outstanding in relation to the facilities availed by the Company from the Lenders \n(Transaction). \n\nD. With a view to enable the evaluation of the Transaction, CEPL will disclose certain confidential \n\ninformation (hereinafter defined) to the Receiving Party in respect of the Transaction. \n\nNOW, THEREFORE, in consideration for the mutual promises and covenants hereunder the Disclosing \nParty and Receiving Party agree as follows:",
+        "start_char": 23,
+        "end_char": 2425
+      },
+      "classification": {
+        "label": "Confidentiality",
+        "confidence": 0.72,
+        "rationale_short": "keyword baseline"
+      },
+      "flags": [
+        {
+          "name": "potential_one_way_confidentiality",
+          "severity": "Med",
+          "evidence_snippet": "CONFIDENTIALITY AND NON DISCLOSURE AGREEMENT \n\n(Note 1: To be duly signed by a Key Managerial Personnel or a person duly authorised under a board \nresolution passed by the Bidder.) \n\n(Note 2: In case of the Consortium, t",
+          "explanation": "Clause may bind only one side; verify mutuality if intended."
+        }
+      ],
+      "analysis": {
+        "clause_id": "c002",
+        "clause_type": "Confidentiality",
+        "plain_english_summary": "(LLM analysis disabled)",
+        "business_risk": {
+          "severity": "Low",
+          "why": []
+        },
+        "norm_deviation": {
+          "deviates": false,
+          "comparison": [],
+          "suggested_revision": ""
+        },
+        "uncertainty": {
+          "confidence": 0.576,
+          "reasons": [
+            "LLM analysis disabled"
+          ]
+        },
+        "citations": [
+          {
+            "rule": "potential_one_way_confidentiality",
+            "evidence": "CONFIDENTIALITY AND NON DISCLOSURE AGREEMENT \n\n(Note 1: To be duly signed by a Key Managerial Personnel or a person duly authorised under a board \nresolution passed by the Bidder.) \n\n(Note 2: In case of the Consortium, t"
+          }
+        ],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c004",
+        "text": "1.1 \n\n\u201cConfidential Information\u201d means the information provided, disclosed or submitted by the \nDisclosing Party to the Receiving Party, in written, representational, electronic, verbal or other form \nand includes all data, materials, products, technology, computer programs, specifications, manuals,",
+        "start_char": 2442,
+        "end_char": 2745
+      },
+      "classification": {
+        "label": "Confidentiality",
+        "confidence": 0.52,
+        "rationale_short": "keyword baseline"
+      },
+      "flags": [
+        {
+          "name": "potential_one_way_confidentiality",
+          "severity": "Med",
+          "evidence_snippet": "1.1 \n\n\u201cConfidential Information\u201d means the information provided, disclosed or submitted by the \nDisclosing Party to the Receiving Party, in written, representational, electronic, verbal or other form \nand includes all da",
+          "explanation": "Clause may bind only one side; verify mutuality if intended."
+        }
+      ],
+      "analysis": {
+        "clause_id": "c004",
+        "clause_type": "Confidentiality",
+        "plain_english_summary": "(LLM analysis disabled)",
+        "business_risk": {
+          "severity": "Low",
+          "why": []
+        },
+        "norm_deviation": {
+          "deviates": false,
+          "comparison": [],
+          "suggested_revision": ""
+        },
+        "uncertainty": {
+          "confidence": 0.41600000000000004,
+          "reasons": [
+            "LLM analysis disabled"
+          ]
+        },
+        "citations": [
+          {
+            "rule": "potential_one_way_confidentiality",
+            "evidence": "1.1 \n\n\u201cConfidential Information\u201d means the information provided, disclosed or submitted by the \nDisclosing Party to the Receiving Party, in written, representational, electronic, verbal or other form \nand includes all da"
+          }
+        ],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c005",
+        "text": "1 \n\n \n \n \n \n \n \n \n \n \n\fbusiness plans, software, marketing plans, financial information, human resource information and \nany other information disclosed or submitted whether prior to the Effective Date of this Agreement \nor thereafter including without limitation, the information on the contents and existence of this \nAgreement and analysis, compilations, studies and other documents prepared by either Party or its \nrepresentatives or which contain or otherwise reflect or are generated from any Confidential \nInformation.",
+        "start_char": 2745,
+        "end_char": 3273
+      },
+      "classification": {
+        "label": "Confidentiality",
+        "confidence": 0.52,
+        "rationale_short": "keyword baseline"
+      },
+      "flags": [
+        {
+          "name": "unlimited_liability_language",
+          "severity": "High",
+          "evidence_snippet": "whether prior to the Effective Date of this Agreement \nor thereafter including without limitation, the information on the contents and existence of this \nAgreement and analysis,",
+          "explanation": "Language suggests liability may be uncapped or broadly expanded."
+        }
+      ],
+      "analysis": {
+        "clause_id": "c005",
+        "clause_type": "Confidentiality",
+        "plain_english_summary": "(LLM analysis disabled)",
+        "business_risk": {
+          "severity": "Low",
+          "why": []
+        },
+        "norm_deviation": {
+          "deviates": false,
+          "comparison": [],
+          "suggested_revision": ""
+        },
+        "uncertainty": {
+          "confidence": 0.41600000000000004,
+          "reasons": [
+            "LLM analysis disabled"
+          ]
+        },
+        "citations": [
+          {
+            "rule": "unlimited_liability_language",
+            "evidence": "whether prior to the Effective Date of this Agreement \nor thereafter including without limitation, the information on the contents and existence of this \nAgreement and analysis,"
+          }
+        ],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c006",
+        "text": "1.2 \u201cRepresentative\u201d of a Party means any employee, agent, director, advisor, affiliate, investor, \n\nconsultant, partner or any other person concerned or acting on their behalf.",
+        "start_char": 3273,
+        "end_char": 3453
+      },
+      "classification": {
+        "label": "Miscellaneous",
+        "confidence": 0.35,
+        "rationale_short": "keyword baseline"
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c006",
+        "clause_type": "Miscellaneous",
+        "plain_english_summary": "(LLM analysis disabled)",
+        "business_risk": {
+          "severity": "Low",
+          "why": []
+        },
+        "norm_deviation": {
+          "deviates": false,
+          "comparison": [],
+          "suggested_revision": ""
+        },
+        "uncertainty": {
+          "confidence": 0.35,
+          "reasons": [
+            "LLM analysis disabled"
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c007",
+        "text": "2. RECEIVING PARTY'S OBLIGATIONS",
+        "start_char": 3453,
+        "end_char": 3488
+      },
+      "classification": {
+        "label": "Miscellaneous",
+        "confidence": 0.35,
+        "rationale_short": "keyword baseline"
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c007",
+        "clause_type": "Miscellaneous",
+        "plain_english_summary": "(LLM analysis disabled)",
+        "business_risk": {
+          "severity": "Low",
+          "why": []
+        },
+        "norm_deviation": {
+          "deviates": false,
+          "comparison": [],
+          "suggested_revision": ""
+        },
+        "uncertainty": {
+          "confidence": 0.35,
+          "reasons": [
+            "LLM analysis disabled"
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c008",
+        "text": "2.1 The Receiving Party agrees that the Confidential Information is to be considered confidential and \nproprietary to Disclosing Party, and Receiving Party shall hold the same in confidence. The \nReceiving Party and its Representative shall make use of the Confidential Information solely for the \npurpose of the Transaction or such other purposes from time to time agreed or consented by the \nDisclosing Party as evidenced in writing. The Receiving Party and any of its Representatives shall \nnot without the prior consent of the Disclosing Party or as expressly permitted herein, disclose, \npublish or reveal or cause it to be disclosed, published or revealed or make available to any other \nperson, or use or allow others to disclose or use, the Confidential Information in any manner \nwhatsoever other than as provided in this Agreement.",
+        "start_char": 3488,
+        "end_char": 4332
+      },
+      "classification": {
+        "label": "Confidentiality",
+        "confidence": 0.62,
+        "rationale_short": "keyword baseline"
+      },
+      "flags": [
+        {
+          "name": "potential_one_way_confidentiality",
+          "severity": "Med",
+          "evidence_snippet": "2.1 The Receiving Party agrees that the Confidential Information is to be considered confidential and \nproprietary to Disclosing Party, and Receiving Party shall hold the same in confidence. The \nReceiving Party and its ",
+          "explanation": "Clause may bind only one side; verify mutuality if intended."
+        }
+      ],
+      "analysis": {
+        "clause_id": "c008",
+        "clause_type": "Confidentiality",
+        "plain_english_summary": "(LLM analysis disabled)",
+        "business_risk": {
+          "severity": "Low",
+          "why": []
+        },
+        "norm_deviation": {
+          "deviates": false,
+          "comparison": [],
+          "suggested_revision": ""
+        },
+        "uncertainty": {
+          "confidence": 0.496,
+          "reasons": [
+            "LLM analysis disabled"
+          ]
+        },
+        "citations": [
+          {
+            "rule": "potential_one_way_confidentiality",
+            "evidence": "2.1 The Receiving Party agrees that the Confidential Information is to be considered confidential and \nproprietary to Disclosing Party, and Receiving Party shall hold the same in confidence. The \nReceiving Party and its "
+          }
+        ],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c009",
+        "text": "2.2 The Receiving Party and its Representatives shall exercise no lesser security or degree of care than \nit applies to its own Confidential Information of an equivalent nature, but in any event not less than \nthe degree of care which a reasonable person with knowledge of the confidential nature of the \ninformation would exercise.",
+        "start_char": 4332,
+        "end_char": 4667
+      },
+      "classification": {
+        "label": "Confidentiality",
+        "confidence": 0.52,
+        "rationale_short": "keyword baseline"
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c009",
+        "clause_type": "Confidentiality",
+        "plain_english_summary": "(LLM analysis disabled)",
+        "business_risk": {
+          "severity": "Low",
+          "why": []
+        },
+        "norm_deviation": {
+          "deviates": false,
+          "comparison": [],
+          "suggested_revision": ""
+        },
+        "uncertainty": {
+          "confidence": 0.52,
+          "reasons": [
+            "LLM analysis disabled"
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c010",
+        "text": "2.3 Confidential Information furnished in tangible form shall not be duplicated or caused to be \nduplicated by Receiving Party or any of its Representatives. Upon the written request of Disclosing \nParty, Receiving Party shall return all Confidential Information received from the Disclosing Party \nin any form, including copies, or reproductions or other media containing such Confidential \nInformation, within ten (10) days of such request. Any documents or other media developed by the \nReceiving Party containing Confidential Information shall be destroyed by Receiving Party. \nReceiving Party shall provide a written certificate to Disclosing Party regarding destruction within \nten (10) days thereafter.",
+        "start_char": 4667,
+        "end_char": 5379
+      },
+      "classification": {
+        "label": "Return/Destruction",
+        "confidence": 0.9199999999999999,
+        "rationale_short": "keyword baseline"
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c010",
+        "clause_type": "Return/Destruction",
+        "plain_english_summary": "(LLM analysis disabled)",
+        "business_risk": {
+          "severity": "Low",
+          "why": []
+        },
+        "norm_deviation": {
+          "deviates": false,
+          "comparison": [],
+          "suggested_revision": ""
+        },
+        "uncertainty": {
+          "confidence": 0.9199999999999999,
+          "reasons": [
+            "LLM analysis disabled"
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c011",
+        "text": "2.4 \n\nIt is agreed between the Parties that Receiving Party shall not disclose or direct its Representatives, \nto disclose (a) the Confidential Information has been made available to them, (b) that discussions or \nnegotiations are taking place concerning a possible Transaction between the Parties or (c) any \nterms, conditions or other facts with respect to any such possible Transaction, including the status \nthereof, to any third party without the prior written consent of the Disclosing Party,",
+        "start_char": 5379,
+        "end_char": 5880
+      },
+      "classification": {
+        "label": "Confidentiality",
+        "confidence": 0.62,
+        "rationale_short": "keyword baseline"
+      },
+      "flags": [
+        {
+          "name": "potential_one_way_confidentiality",
+          "severity": "Med",
+          "evidence_snippet": "2.4 \n\nIt is agreed between the Parties that Receiving Party shall not disclose or direct its Representatives, \nto disclose (a) the Confidential Information has been made available to them, (b) that discussions or \nnegoti",
+          "explanation": "Clause may bind only one side; verify mutuality if intended."
+        }
+      ],
+      "analysis": {
+        "clause_id": "c011",
+        "clause_type": "Confidentiality",
+        "plain_english_summary": "(LLM analysis disabled)",
+        "business_risk": {
+          "severity": "Low",
+          "why": []
+        },
+        "norm_deviation": {
+          "deviates": false,
+          "comparison": [],
+          "suggested_revision": ""
+        },
+        "uncertainty": {
+          "confidence": 0.496,
+          "reasons": [
+            "LLM analysis disabled"
+          ]
+        },
+        "citations": [
+          {
+            "rule": "potential_one_way_confidentiality",
+            "evidence": "2.4 \n\nIt is agreed between the Parties that Receiving Party shall not disclose or direct its Representatives, \nto disclose (a) the Confidential Information has been made available to them, (b) that discussions or \nnegoti"
+          }
+        ],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c013",
+        "text": "EXCEPTIONS \n\nConfidential Information does not include any information that:",
+        "start_char": 5885,
+        "end_char": 5964
+      },
+      "classification": {
+        "label": "Exceptions",
+        "confidence": 0.62,
+        "rationale_short": "keyword baseline"
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c013",
+        "clause_type": "Exceptions",
+        "plain_english_summary": "(LLM analysis disabled)",
+        "business_risk": {
+          "severity": "Low",
+          "why": []
+        },
+        "norm_deviation": {
+          "deviates": false,
+          "comparison": [],
+          "suggested_revision": ""
+        },
+        "uncertainty": {
+          "confidence": 0.62,
+          "reasons": [
+            "LLM analysis disabled"
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c014",
+        "text": "3.1 \n\nat the time of its disclosure, is in public domain or which after disclosure becomes part of public \ndomain through no fault of the Receiving Party or its Representatives; or",
+        "start_char": 5964,
+        "end_char": 6147
+      },
+      "classification": {
+        "label": "Exceptions",
+        "confidence": 0.52,
+        "rationale_short": "keyword baseline"
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c014",
+        "clause_type": "Exceptions",
+        "plain_english_summary": "(LLM analysis disabled)",
+        "business_risk": {
+          "severity": "Low",
+          "why": []
+        },
+        "norm_deviation": {
+          "deviates": false,
+          "comparison": [],
+          "suggested_revision": ""
+        },
+        "uncertainty": {
+          "confidence": 0.52,
+          "reasons": [
+            "LLM analysis disabled"
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c015",
+        "text": "3.2 prior to its disclosure to the Receiving Party in connection with the Transaction was already in the \npossession of the Receiving Party or thereafter becomes known to the Receiving Party on a non-\nconfidential basis from a source other than the Disclosing Party.",
+        "start_char": 6147,
+        "end_char": 6416
+      },
+      "classification": {
+        "label": "Confidentiality",
+        "confidence": 0.62,
+        "rationale_short": "keyword baseline"
+      },
+      "flags": [
+        {
+          "name": "potential_one_way_confidentiality",
+          "severity": "Med",
+          "evidence_snippet": "3.2 prior to its disclosure to the Receiving Party in connection with the Transaction was already in the \npossession of the Receiving Party or thereafter becomes known to the Receiving Party on a non-\nconfidential basis ",
+          "explanation": "Clause may bind only one side; verify mutuality if intended."
+        }
+      ],
+      "analysis": {
+        "clause_id": "c015",
+        "clause_type": "Confidentiality",
+        "plain_english_summary": "(LLM analysis disabled)",
+        "business_risk": {
+          "severity": "Low",
+          "why": []
+        },
+        "norm_deviation": {
+          "deviates": false,
+          "comparison": [],
+          "suggested_revision": ""
+        },
+        "uncertainty": {
+          "confidence": 0.496,
+          "reasons": [
+            "LLM analysis disabled"
+          ]
+        },
+        "citations": [
+          {
+            "rule": "potential_one_way_confidentiality",
+            "evidence": "3.2 prior to its disclosure to the Receiving Party in connection with the Transaction was already in the \npossession of the Receiving Party or thereafter becomes known to the Receiving Party on a non-\nconfidential basis "
+          }
+        ],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c016",
+        "text": "2 \n\n \n \n \n \n \n \n \n \n \n \n \n \n\f3.3 \n\nis or has been developed independently by the Receiving Party without reference to or reliance on \nthe Disclosing Party's Confidential Information;",
+        "start_char": 6416,
+        "end_char": 6601
+      },
+      "classification": {
+        "label": "Confidentiality",
+        "confidence": 0.52,
+        "rationale_short": "keyword baseline"
+      },
+      "flags": [
+        {
+          "name": "potential_one_way_confidentiality",
+          "severity": "Med",
+          "evidence_snippet": "2 \n\n \n \n \n \n \n \n \n \n \n \n \n \n\f3.3 \n\nis or has been developed independently by the Receiving Party without reference to or reliance on \nthe Disclosing Party's Confidential Information;",
+          "explanation": "Clause may bind only one side; verify mutuality if intended."
+        }
+      ],
+      "analysis": {
+        "clause_id": "c016",
+        "clause_type": "Confidentiality",
+        "plain_english_summary": "(LLM analysis disabled)",
+        "business_risk": {
+          "severity": "Low",
+          "why": []
+        },
+        "norm_deviation": {
+          "deviates": false,
+          "comparison": [],
+          "suggested_revision": ""
+        },
+        "uncertainty": {
+          "confidence": 0.41600000000000004,
+          "reasons": [
+            "LLM analysis disabled"
+          ]
+        },
+        "citations": [
+          {
+            "rule": "potential_one_way_confidentiality",
+            "evidence": "2 \n\n \n \n \n \n \n \n \n \n \n \n \n \n\f3.3 \n\nis or has been developed independently by the Receiving Party without reference to or reliance on \nthe Disclosing Party's Confidential Information;"
+          }
+        ],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c018",
+        "text": "PERMITTED DISCLOSURES \n\nThe Receiving Party shall restrict the possession, knowledge, development and use of the \nDisclosing Party\u2019s Confidential Information to its Representatives or any person claiming under it \n\n(a) who have a need to know such Confidential Information, and \n\n(b) who are bound by a non-disclosure agreement or confidentiality obligations consistent with \n\nand at least as protective as this Agreement. \n\nHowever, the Receiving Party will remain responsible for any breach of the terms of this \nAgreement by any of the persons mentioned herein to whom this Confidential Information would \nbe disclosed by the Receiving Party.",
+        "start_char": 6606,
+        "end_char": 7254
+      },
+      "classification": {
+        "label": "Confidentiality",
+        "confidence": 0.72,
+        "rationale_short": "keyword baseline"
+      },
+      "flags": [
+        {
+          "name": "potential_one_way_confidentiality",
+          "severity": "Med",
+          "evidence_snippet": "PERMITTED DISCLOSURES \n\nThe Receiving Party shall restrict the possession, knowledge, development and use of the \nDisclosing Party\u2019s Confidential Information to its Representatives or any person claiming under it \n\n(a) w",
+          "explanation": "Clause may bind only one side; verify mutuality if intended."
+        }
+      ],
+      "analysis": {
+        "clause_id": "c018",
+        "clause_type": "Confidentiality",
+        "plain_english_summary": "(LLM analysis disabled)",
+        "business_risk": {
+          "severity": "Low",
+          "why": []
+        },
+        "norm_deviation": {
+          "deviates": false,
+          "comparison": [],
+          "suggested_revision": ""
+        },
+        "uncertainty": {
+          "confidence": 0.576,
+          "reasons": [
+            "LLM analysis disabled"
+          ]
+        },
+        "citations": [
+          {
+            "rule": "potential_one_way_confidentiality",
+            "evidence": "PERMITTED DISCLOSURES \n\nThe Receiving Party shall restrict the possession, knowledge, development and use of the \nDisclosing Party\u2019s Confidential Information to its Representatives or any person claiming under it \n\n(a) w"
+          }
+        ],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c019",
+        "text": "5. COMPELLED DISCLOSURE \n\nThe Receiving Party may disclose Confidential Information to the extent necessary pursuant to \napplicable laws, regulation, court order, or other legal process, provided the Receiving Party \nnotifies the Disclosing Party of the existence, terms and circumstances surrounding such a request \nso that the Disclosing Party may seek a protective order or other appropriate remedy and/or waive \ncompliance with the provisions of this Agreement.",
+        "start_char": 7254,
+        "end_char": 7722
+      },
+      "classification": {
+        "label": "Confidentiality",
+        "confidence": 0.62,
+        "rationale_short": "keyword baseline"
+      },
+      "flags": [
+        {
+          "name": "potential_one_way_confidentiality",
+          "severity": "Med",
+          "evidence_snippet": "5. COMPELLED DISCLOSURE \n\nThe Receiving Party may disclose Confidential Information to the extent necessary pursuant to \napplicable laws, regulation, court order, or other legal process, provided the Receiving Party \nnot",
+          "explanation": "Clause may bind only one side; verify mutuality if intended."
+        }
+      ],
+      "analysis": {
+        "clause_id": "c019",
+        "clause_type": "Confidentiality",
+        "plain_english_summary": "(LLM analysis disabled)",
+        "business_risk": {
+          "severity": "Low",
+          "why": []
+        },
+        "norm_deviation": {
+          "deviates": false,
+          "comparison": [],
+          "suggested_revision": ""
+        },
+        "uncertainty": {
+          "confidence": 0.496,
+          "reasons": [
+            "LLM analysis disabled"
+          ]
+        },
+        "citations": [
+          {
+            "rule": "potential_one_way_confidentiality",
+            "evidence": "5. COMPELLED DISCLOSURE \n\nThe Receiving Party may disclose Confidential Information to the extent necessary pursuant to \napplicable laws, regulation, court order, or other legal process, provided the Receiving Party \nnot"
+          }
+        ],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c020",
+        "text": "6. NO LICENSE \n\nNothing contained herein shall be construed as granting or conferring any rights by license or \notherwise in any Confidential Information. It is understood and agreed that neither party solicits any \nchange in the organization, business practice, service or products of the other party, and that the \ndisclosure of Confidential Information shall not be construed as evidencing any intent by a party to \npurchase any products or services of the other party nor as an encouragement to expend funds in \ndevelopment or research efforts. Confidential Information may pertain to prospective or \nunannounced products. Receiving Party agrees not to use any Confidential Information as a basis \nupon which to develop or have a third party develop a competing or similar product.",
+        "start_char": 7722,
+        "end_char": 8510
+      },
+      "classification": {
+        "label": "Confidentiality",
+        "confidence": 0.52,
+        "rationale_short": "keyword baseline"
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c020",
+        "clause_type": "Confidentiality",
+        "plain_english_summary": "(LLM analysis disabled)",
+        "business_risk": {
+          "severity": "Low",
+          "why": []
+        },
+        "norm_deviation": {
+          "deviates": false,
+          "comparison": [],
+          "suggested_revision": ""
+        },
+        "uncertainty": {
+          "confidence": 0.52,
+          "reasons": [
+            "LLM analysis disabled"
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c021",
+        "text": "7. NO LIABILITY \n\nThe Receiving Party understands and agrees that neither the Disclosing Party nor any of its \ndirectors, officers, employees, agents, advisors or representatives (i) have made or make any \nrepresentation, warranty or guaranty, expressed or implied, as to the accuracy or completeness of \nthe Confidential Information or (ii) shall have any liability, responsibility or obligation to Receiving \nParty or its affiliates relating to or resulting from the use of the Confidential Information or any \nerrors therein or omissions therefrom.",
+        "start_char": 8510,
+        "end_char": 9064
+      },
+      "classification": {
+        "label": "Permitted Disclosures",
+        "confidence": 0.72,
+        "rationale_short": "keyword baseline"
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c021",
+        "clause_type": "Permitted Disclosures",
+        "plain_english_summary": "(LLM analysis disabled)",
+        "business_risk": {
+          "severity": "Low",
+          "why": []
+        },
+        "norm_deviation": {
+          "deviates": false,
+          "comparison": [],
+          "suggested_revision": ""
+        },
+        "uncertainty": {
+          "confidence": 0.72,
+          "reasons": [
+            "LLM analysis disabled"
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c023",
+        "text": "INJUNCTIVE RELIEF \n\nThe Parties acknowledge that monetary damages alone may be an inadequate remedy for breach of \nthe Receiving Party\u2019s obligations under this Agreement. In addition to any other remedy which may \nbe available in law or equity, Disclosing Party shall be entitled to injunctive order or other equitable \nrelief to prevent a breach of this Agreement and to compel specific performance of this Agreement.",
+        "start_char": 9069,
+        "end_char": 9490
+      },
+      "classification": {
+        "label": "Remedies / Injunctive Relief",
+        "confidence": 0.62,
+        "rationale_short": "keyword baseline"
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c023",
+        "clause_type": "Remedies / Injunctive Relief",
+        "plain_english_summary": "(LLM analysis disabled)",
+        "business_risk": {
+          "severity": "Low",
+          "why": []
+        },
+        "norm_deviation": {
+          "deviates": false,
+          "comparison": [],
+          "suggested_revision": ""
+        },
+        "uncertainty": {
+          "confidence": 0.62,
+          "reasons": [
+            "LLM analysis disabled"
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c025",
+        "text": "3 \n\n \n \n \n \n \n \n \n \n \n\fThis Agreement shall remain valid and binding on the Parties until one year from the Effective Date \nof this Agreement or signing of definitive agreement, whichever is earlier. The obligations under \nthis Agreement shall be survive for a period of one (1) year from the expiry of this Agreement. \nProvided however that the obligation of the Receiving Party to keep the Confidential Information in \nconfidence as set out in this Agreement shall survive the Term, including any early termination of \nthis Agreement in accordance with the terms hereof.",
+        "start_char": 9502,
+        "end_char": 10077
+      },
+      "classification": {
+        "label": "Term & Survival",
+        "confidence": 0.72,
+        "rationale_short": "keyword baseline"
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c025",
+        "clause_type": "Term & Survival",
+        "plain_english_summary": "(LLM analysis disabled)",
+        "business_risk": {
+          "severity": "Low",
+          "why": []
+        },
+        "norm_deviation": {
+          "deviates": false,
+          "comparison": [],
+          "suggested_revision": ""
+        },
+        "uncertainty": {
+          "confidence": 0.72,
+          "reasons": [
+            "LLM analysis disabled"
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c026",
+        "text": "10. GOVERNING LAW \n\nThis Agreement shall be governed and construed in accordance with the laws of India and the \nParties consent to the exclusive jurisdiction of the courts in Mumbai for any dispute arising out of \nthis Agreement.",
+        "start_char": 10077,
+        "end_char": 10310
+      },
+      "classification": {
+        "label": "Governing Law",
+        "confidence": 0.72,
+        "rationale_short": "keyword baseline"
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c026",
+        "clause_type": "Governing Law",
+        "plain_english_summary": "(LLM analysis disabled)",
+        "business_risk": {
+          "severity": "Low",
+          "why": []
+        },
+        "norm_deviation": {
+          "deviates": false,
+          "comparison": [],
+          "suggested_revision": ""
+        },
+        "uncertainty": {
+          "confidence": 0.72,
+          "reasons": [
+            "LLM analysis disabled"
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c028",
+        "text": "11.1 This Agreement constitutes the entire Agreement amongst the Parties with respect to the subject \nmatter hereof and supersedes all prior and contemporaneous agreements, representations, and \nunderstandings, whether written or oral, except obligations imposed by law which shall be deemed a \npart of this Agreement. This Agreement may not be amended except in writing signed by both Parties \nhereto. No failure or delay by any Party in exercising any right hereunder or any partial exercise \nthereof shall operate as a waiver thereof or preclude any other or further exercise of any right \nhereunder. The invalidity or unenforceability of any provision of this agreement shall not affect the \nvalidity or enforceability of any other provisions of this Agreement, which shall remain in full force \nand effect. Nothing in this Agreement shall be implied, except as required under statue.",
+        "start_char": 10330,
+        "end_char": 11221
+      },
+      "classification": {
+        "label": "Miscellaneous",
+        "confidence": 0.62,
+        "rationale_short": "keyword baseline"
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c028",
+        "clause_type": "Miscellaneous",
+        "plain_english_summary": "(LLM analysis disabled)",
+        "business_risk": {
+          "severity": "Low",
+          "why": []
+        },
+        "norm_deviation": {
+          "deviates": false,
+          "comparison": [],
+          "suggested_revision": ""
+        },
+        "uncertainty": {
+          "confidence": 0.62,
+          "reasons": [
+            "LLM analysis disabled"
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c029",
+        "text": "11.2 The terms and conditions of this Agreement shall inure to the benefit of and be binding upon the \nsuccessors and assigns of the Parties. The obligations under this Agreement shall not be assigned or \notherwise transferred in whole or in part by Receiving Party without the prior written consent of the \nDisclosing Party. \n\nIN WITNESS WHEREOF, the parties have executed this Agreement as of the date first above written. \n\nBy: _________________________ \nName: \nDesignation: \n\n[Company Name] \n\nBy: _________________________ \nName: \nDesignation: \n\n[Company Name] \n\n4",
+        "start_char": 11221,
+        "end_char": 11789
+      },
+      "classification": {
+        "label": "Term & Survival",
+        "confidence": 0.52,
+        "rationale_short": "keyword baseline"
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c029",
+        "clause_type": "Term & Survival",
+        "plain_english_summary": "(LLM analysis disabled)",
+        "business_risk": {
+          "severity": "Low",
+          "why": []
+        },
+        "norm_deviation": {
+          "deviates": false,
+          "comparison": [],
+          "suggested_revision": ""
+        },
+        "uncertainty": {
+          "confidence": 0.52,
+          "reasons": [
+            "LLM analysis disabled"
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    }
+  ],
+  "contract_risk": {
+    "score": 33,
+    "level": "Low"
+  },
+  "missing_clauses": [
+    "Definition of Confidential Info"
+  ],
+  "settings": {
+    "use_llm_classification": false,
+    "use_rag": false,
+    "use_rules": true,
+    "use_llm_analysis": false
+  }
+}

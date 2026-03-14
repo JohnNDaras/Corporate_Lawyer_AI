@@ -1,0 +1,453 @@
+{
+  "disclaimer": "Not legal advice. Educational decision support only. No attorney-client relationship is formed.",
+  "doc_flags": [],
+  "clauses": [
+    {
+      "clause": {
+        "id": "c001",
+        "text": "Snapshot-Content-Location: https://www.sec.gov/Archives/edgar/data/1868775/000110465921120382/tm2120324d5_ex10-10.htm\nSubject: \nDate: Mon, 9 Mar 2026 13:24:45 +0200\nMIME-Version: 1.0\nContent-Type: multipart/related;\n type=\"text/html\";\n boundary=\"----MultipartBoundary--5AdXGCuRRplMdDTIZ01O0ODdan9uZJ6lxAVI6cu8PD----\"\n\n------MultipartBoundary--5AdXGCuRRplMdDTIZ01O0ODdan9uZJ6lxAVI6cu8PD----\nContent-Type: text/html\nContent-ID: \n\nContent-Transfer-Encoding: binary\nContent-Location: https://www.sec.gov/Archives/edgar/data/1868775/000110465921120382/tm2120324d5_ex10-10.htm\n\nEX-10.10",
+        "start_char": 0,
+        "end_char": 582
+      },
+      "classification": {
+        "label": "Miscellaneous",
+        "confidence": 0.35,
+        "rationale_short": "keyword baseline"
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c001",
+        "clause_type": "Miscellaneous",
+        "plain_english_summary": "(LLM analysis disabled)",
+        "business_risk": {
+          "severity": "Low",
+          "why": []
+        },
+        "norm_deviation": {
+          "deviates": false,
+          "comparison": [],
+          "suggested_revision": ""
+        },
+        "uncertainty": {
+          "confidence": 0.35,
+          "reasons": [
+            "LLM analysis disabled"
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c002",
+        "text": "11\n\ntm2120324d5_ex10-10.htm\n\nEXHIBIT 10.10\n\n\u00a0\n\nExhibit 10.10",
+        "start_char": 582,
+        "end_char": 647
+      },
+      "classification": {
+        "label": "Miscellaneous",
+        "confidence": 0.35,
+        "rationale_short": "keyword baseline"
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c002",
+        "clause_type": "Miscellaneous",
+        "plain_english_summary": "(LLM analysis disabled)",
+        "business_risk": {
+          "severity": "Low",
+          "why": []
+        },
+        "norm_deviation": {
+          "deviates": false,
+          "comparison": [],
+          "suggested_revision": ""
+        },
+        "uncertainty": {
+          "confidence": 0.35,
+          "reasons": [
+            "LLM analysis disabled"
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c003",
+        "text": "CONFIDENTIALITY AGREEMENT\n\n\u00a0\n\nThis Confidentiality Agreement\n(Agreement) is entered into on\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0,",
+        "start_char": 647,
+        "end_char": 760
+      },
+      "classification": {
+        "label": "Confidentiality",
+        "confidence": 0.52,
+        "rationale_short": "keyword baseline"
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c003",
+        "clause_type": "Confidentiality",
+        "plain_english_summary": "(LLM analysis disabled)",
+        "business_risk": {
+          "severity": "Low",
+          "why": []
+        },
+        "norm_deviation": {
+          "deviates": false,
+          "comparison": [],
+          "suggested_revision": ""
+        },
+        "uncertainty": {
+          "confidence": 0.52,
+          "reasons": [
+            "LLM analysis disabled"
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c004",
+        "text": "2021 by and between A SPAC I Acquisition Corp (the SPAC) and __Jin Ming_________ (Recipient).\n\n\u00a0\n\nWHEREAS, in connection with\na potential business relationship, the SPAC may disclose to Recipient certain Confidential Information (as defined below);\n\n\u00a0\n\nNOW THEREFORE, in consideration\nof the mutual covenants contained herein, the parties agree as follows:",
+        "start_char": 760,
+        "end_char": 1121
+      },
+      "classification": {
+        "label": "Confidentiality",
+        "confidence": 0.52,
+        "rationale_short": "keyword baseline"
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c004",
+        "clause_type": "Confidentiality",
+        "plain_english_summary": "(LLM analysis disabled)",
+        "business_risk": {
+          "severity": "Low",
+          "why": []
+        },
+        "norm_deviation": {
+          "deviates": false,
+          "comparison": [],
+          "suggested_revision": ""
+        },
+        "uncertainty": {
+          "confidence": 0.52,
+          "reasons": [
+            "LLM analysis disabled"
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c005",
+        "text": "1.\nRecipient may receive or become aware of certain confidential and proprietary information relating to\nthe business and operations of the SPAC, A SPAC (Holdings) Acquisition Corp., the SPACs sponsor, any target company considered\nby the SPAC for the initial business combination or any of their respective affiliates, including reports, financial information, trade\nsecrets, research information, finances and financial projections, current or future business plans and models and other business or operational\ninformation (the \nConfidential Information\n), regardless of whether such information is designated as confidential\ninformation at the time of its disclosure. Confidential Information shall include all information (oral or written)\nrelating to the potential business relationship (including the fact that the SPAC has reached out to Recipient regarding the potential\nbusiness relationship and, to the extent applicable, has entered into such business relationship), that the SPAC furnishes or has furnished\nto Recipient prior to, on or after the date of this Agreement, and all notes, analyses, compilations, forecasts, studies or other documents\nprepared by Recipient that contain, reflect or are based on such information.",
+        "start_char": 1121,
+        "end_char": 2364
+      },
+      "classification": {
+        "label": "Confidentiality",
+        "confidence": 0.52,
+        "rationale_short": "keyword baseline"
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c005",
+        "clause_type": "Confidentiality",
+        "plain_english_summary": "(LLM analysis disabled)",
+        "business_risk": {
+          "severity": "Low",
+          "why": []
+        },
+        "norm_deviation": {
+          "deviates": false,
+          "comparison": [],
+          "suggested_revision": ""
+        },
+        "uncertainty": {
+          "confidence": 0.52,
+          "reasons": [
+            "LLM analysis disabled"
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c006",
+        "text": "2.\nRecipient hereby acknowledges the confidential and proprietary nature of such Confidential Information\nand agrees that the Confidential information will be used solely in connection with Recipients service on the board of directors\nof the SPAC and for no other purpose and further agrees not to disclose or otherwise attempt to use or personally benefit from any Confidential\nInformation that is disclosed to or known by Recipient until such time as the Confidential Information has become publicly available through\nno action of Recipient, except to the extent required by law or as expressly permitted by the SPAC.",
+        "start_char": 2364,
+        "end_char": 2990
+      },
+      "classification": {
+        "label": "Confidentiality",
+        "confidence": 0.52,
+        "rationale_short": "keyword baseline"
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c006",
+        "clause_type": "Confidentiality",
+        "plain_english_summary": "(LLM analysis disabled)",
+        "business_risk": {
+          "severity": "Low",
+          "why": []
+        },
+        "norm_deviation": {
+          "deviates": false,
+          "comparison": [],
+          "suggested_revision": ""
+        },
+        "uncertainty": {
+          "confidence": 0.52,
+          "reasons": [
+            "LLM analysis disabled"
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c007",
+        "text": "3.\nIf Recipient is requested or required, in connection with any proceeding by or before a governmental authority,\nto disclose any Confidential Information, Recipient will give the SPAC prompt written notice of such request or requirement so that the\nSPAC may seek an appropriate order or other remedy protecting the Confidential Information from disclosure, and Recipient will cooperate\nwith the SPAC to obtain such protective order or other remedy. In the event that a protective order or other remedy is not obtained or\nthe SPAC waives its rights to seek such an order or other remedy, Recipient may, without liability under this Agreement, furnish only\nthat portion of the Confidential Information which, in the written opinion of Recipients counsel, Recipient is legally required\nto disclose, provided that Recipient gives the SPAC written notice of the information to be disclosed as far in advance of its disclosure\nas practicable and uses its best efforts to obtain assurances that confidential treatment will be accorded to such information.",
+        "start_char": 2990,
+        "end_char": 4054
+      },
+      "classification": {
+        "label": "Confidentiality",
+        "confidence": 0.62,
+        "rationale_short": "keyword baseline"
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c007",
+        "clause_type": "Confidentiality",
+        "plain_english_summary": "(LLM analysis disabled)",
+        "business_risk": {
+          "severity": "Low",
+          "why": []
+        },
+        "norm_deviation": {
+          "deviates": false,
+          "comparison": [],
+          "suggested_revision": ""
+        },
+        "uncertainty": {
+          "confidence": 0.62,
+          "reasons": [
+            "LLM analysis disabled"
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c008",
+        "text": "4.\nIn the event of the termination or conclusion of this potential or consummated relationship, Recipient\nshall return or destroy all Confidential Information and destroy or permanently erase (to the extent technically practicable) all copies\nof Confidential Information made by Recipient and use its reasonable endeavors to ensure that anyone to whom it has supplied any Confidential\nInformation destroys or permanently erases (to the extent technically practicable) such Confidential Information and any copies made save\nto the extent required to be retained by applicable law, rule or regulation or by any competent judicial, governmental, supervisory or\nregulatory body, or where the Confidential Information has been disclosed under paragraph 3 above.",
+        "start_char": 4054,
+        "end_char": 4817
+      },
+      "classification": {
+        "label": "Return/Destruction",
+        "confidence": 0.72,
+        "rationale_short": "keyword baseline"
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c008",
+        "clause_type": "Return/Destruction",
+        "plain_english_summary": "(LLM analysis disabled)",
+        "business_risk": {
+          "severity": "Low",
+          "why": []
+        },
+        "norm_deviation": {
+          "deviates": false,
+          "comparison": [],
+          "suggested_revision": ""
+        },
+        "uncertainty": {
+          "confidence": 0.72,
+          "reasons": [
+            "LLM analysis disabled"
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c009",
+        "text": "5.\nRecipient acknowledges that money damages would not be a sufficient remedy for any breach of this Agreement\nby Recipient and, in addition to all other remedies available under applicable law, the SPAC shall be entitled to seek specific performance\nand to injunctive or other equitable relief as a remedy for any such breach.",
+        "start_char": 4817,
+        "end_char": 5151
+      },
+      "classification": {
+        "label": "Remedies / Injunctive Relief",
+        "confidence": 0.62,
+        "rationale_short": "keyword baseline"
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c009",
+        "clause_type": "Remedies / Injunctive Relief",
+        "plain_english_summary": "(LLM analysis disabled)",
+        "business_risk": {
+          "severity": "Low",
+          "why": []
+        },
+        "norm_deviation": {
+          "deviates": false,
+          "comparison": [],
+          "suggested_revision": ""
+        },
+        "uncertainty": {
+          "confidence": 0.62,
+          "reasons": [
+            "LLM analysis disabled"
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c010",
+        "text": "6.\nThis Agreement shall be governed in all respects by the internal laws of the State of New York, without\ngiving effect to New York principles or rules of conflict of laws to the extent such principles or rules would require or permit the application\nof the laws of another jurisdiction.",
+        "start_char": 5151,
+        "end_char": 5446
+      },
+      "classification": {
+        "label": "Governing Law",
+        "confidence": 0.72,
+        "rationale_short": "keyword baseline"
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c010",
+        "clause_type": "Governing Law",
+        "plain_english_summary": "(LLM analysis disabled)",
+        "business_risk": {
+          "severity": "Low",
+          "why": []
+        },
+        "norm_deviation": {
+          "deviates": false,
+          "comparison": [],
+          "suggested_revision": ""
+        },
+        "uncertainty": {
+          "confidence": 0.72,
+          "reasons": [
+            "LLM analysis disabled"
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c011",
+        "text": "7.\nThis Agreement may be executed in one or more counterparts, each of which shall be deemed an original\ncopy of this Agreement, and all of which, taken together, shall be deemed to constitute one and the same agreement.",
+        "start_char": 5446,
+        "end_char": 5673
+      },
+      "classification": {
+        "label": "Miscellaneous",
+        "confidence": 0.52,
+        "rationale_short": "keyword baseline"
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c011",
+        "clause_type": "Miscellaneous",
+        "plain_english_summary": "(LLM analysis disabled)",
+        "business_risk": {
+          "severity": "Low",
+          "why": []
+        },
+        "norm_deviation": {
+          "deviates": false,
+          "comparison": [],
+          "suggested_revision": ""
+        },
+        "uncertainty": {
+          "confidence": 0.52,
+          "reasons": [
+            "LLM analysis disabled"
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c012",
+        "text": "8.\nThis Agreement represents the entire understanding of the SPAC and Recipient and cannot be amended, supplemented\nor otherwise modified except in a writing executed by the parties.\n\n\u00a0\n\nI have read and understand the foregoing terms\nand conditions and agree to be bound by them as of the date written above.\n\n\u00a0\n\n[Signature pages follow]\n\n\u00a0\n\n[Signature page to confidentiality\nagreement]\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\nA SPAC I Acquisition Corp.\n\n\u00a0\n\nBy:\n\u00a0\n\n\u00a0\n\n\u00a0\nName: Claudius Tsang\n\n\u00a0\n\n\u00a0\nTitle: Chief Executive Officer\n\n\u00a0\n\n\u00a0\nDate:\n\n\u00a0\n\n\u00a0\n\n[Signature page to confidentiality\nagreement]\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\nName: Jin Ming\n\n\u00a0\n\nDate:\n\n\u00a0\n\n\u00a0\n\n[Signature page to confidentiality\nagreement]\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\n------MultipartBoundary--5AdXGCuRRplMdDTIZ01O0ODdan9uZJ6lxAVI6cu8PD------",
+        "start_char": 5673,
+        "end_char": 6420
+      },
+      "classification": {
+        "label": "Confidentiality",
+        "confidence": 0.52,
+        "rationale_short": "keyword baseline"
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c012",
+        "clause_type": "Confidentiality",
+        "plain_english_summary": "(LLM analysis disabled)",
+        "business_risk": {
+          "severity": "Low",
+          "why": []
+        },
+        "norm_deviation": {
+          "deviates": false,
+          "comparison": [],
+          "suggested_revision": ""
+        },
+        "uncertainty": {
+          "confidence": 0.52,
+          "reasons": [
+            "LLM analysis disabled"
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    }
+  ],
+  "contract_risk": {
+    "score": 33,
+    "level": "Low"
+  },
+  "missing_clauses": [
+    "Definition of Confidential Info",
+    "Exceptions",
+    "Term & Survival"
+  ],
+  "settings": {
+    "use_llm_classification": false,
+    "use_rag": false,
+    "use_rules": false,
+    "use_llm_analysis": false
+  }
+}

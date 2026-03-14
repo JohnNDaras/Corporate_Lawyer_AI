@@ -1,0 +1,3 @@
+EXCEPTIONS
+
+The Receiving Party may disclose Confidential Information if the Disclosing Party provides prior written consent to such disclosure.

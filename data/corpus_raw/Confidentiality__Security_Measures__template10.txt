@@ -1,0 +1,3 @@
+CONFIDENTIALITY
+
+The Receiving Party shall implement reasonable security measures to protect Confidential Information from unauthorized access, disclosure, or use.

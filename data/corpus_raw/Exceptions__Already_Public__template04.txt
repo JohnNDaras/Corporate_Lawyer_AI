@@ -1,0 +1,3 @@
+EXCEPTIONS
+
+The obligations of confidentiality shall not apply to information that becomes publicly available without breach of this Agreement by the Receiving Party.

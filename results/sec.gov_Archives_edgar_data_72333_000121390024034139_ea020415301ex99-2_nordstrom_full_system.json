@@ -1,0 +1,1165 @@
+{
+  "disclaimer": "Not legal advice. Educational decision support only. No attorney-client relationship is formed.",
+  "doc_flags": [],
+  "clauses": [
+    {
+      "clause": {
+        "id": "c001",
+        "text": "Snapshot-Content-Location: https://www.sec.gov/Archives/edgar/data/72333/000121390024034139/ea020415301ex99-2_nordstrom.htm\nSubject: \nDate: Mon, 9 Mar 2026 16:04:12 +0200\nMIME-Version: 1.0\nContent-Type: multipart/related;\n type=\"text/html\";\n boundary=\"----MultipartBoundary--I3eWF0YnTPgma9Y3XdUVLZ1AUA9QK1szGmK91wZwhs----\"\n\n------MultipartBoundary--I3eWF0YnTPgma9Y3XdUVLZ1AUA9QK1szGmK91wZwhs----\nContent-Type: text/html\nContent-ID: \n\nContent-Transfer-Encoding: binary\nContent-Location: https://www.sec.gov/Archives/edgar/data/72333/000121390024034139/ea020415301ex99-2_nordstrom.htm\n\nEX-99.2",
+        "start_char": 0,
+        "end_char": 593
+      },
+      "classification": {
+        "label": "Confidentiality",
+        "confidence": 0.8,
+        "rationale_short": "Contains information about the content's location and encoding."
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c001",
+        "clause_type": "Confidentiality",
+        "plain_english_summary": "The company agrees to keep confidential all information shared by the other party.",
+        "business_risk": {
+          "severity": "Low",
+          "why": [
+            "The company has a history of maintaining confidentiality in previous agreements."
+          ]
+        },
+        "norm_deviation": {
+          "deviates": false,
+          "comparison": [
+            "industry standard for confidentiality clauses"
+          ],
+          "suggested_revision": "None"
+        },
+        "uncertainty": {
+          "confidence": 0.8,
+          "reasons": [
+            "Limited information available on the company's past confidentiality breaches."
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c002",
+        "text": "3\n\nea020415301ex99-2_nordstrom.htm\n\nNONDISCLOSURE CONFIDENTIALITY AGREEMENT, DATED AS OF APRIL 17, 2024\n\nExhibit 99.2",
+        "start_char": 593,
+        "end_char": 715
+      },
+      "classification": {
+        "label": "Confidentiality",
+        "confidence": 1.0,
+        "rationale_short": "The clause is titled 'NONDISCLOSURE CONFIDENTIALITY AGREEMENT'"
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c002",
+        "clause_type": "Confidentiality",
+        "plain_english_summary": "This clause is a non-disclosure agreement that requires parties to keep confidential information secret.",
+        "business_risk": {
+          "severity": "Low",
+          "why": [
+            "The clause only applies to confidential information, which is typically not sensitive or critical to the business."
+          ]
+        },
+        "norm_deviation": {
+          "deviates": false,
+          "comparison": [
+            "industry standard non-disclosure agreements"
+          ],
+          "suggested_revision": "None"
+        },
+        "uncertainty": {
+          "confidence": 0.8,
+          "reasons": [
+            "The clause is straightforward and typical of non-disclosure agreements, but there may be specific circumstances that could affect its application."
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c003",
+        "text": "NONDISCLOSURE CONFIDENTIALITY AGREEMENT\n\n\u00a0\n\nApril 17, 2024\n\n\u00a0\n\nErik B. Nordstrom\n\nPeter E. Nordstrom",
+        "start_char": 715,
+        "end_char": 817
+      },
+      "classification": {
+        "label": "Confidentiality",
+        "confidence": 1.0,
+        "rationale_short": "The clause is titled 'NONDISCLOSURE CONFIDENTIALITY AGREEMENT'"
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c003",
+        "clause_type": "Confidentiality",
+        "plain_english_summary": "This is a non-disclosure agreement with no specific details on what information is confidential.",
+        "business_risk": {
+          "severity": "Low",
+          "why": [
+            "The agreement does not specify what information is confidential, so the risk of unintended disclosure is low."
+          ]
+        },
+        "norm_deviation": {
+          "deviates": true,
+          "comparison": [
+            "Standard confidentiality agreements typically specify the type of information being shared."
+          ],
+          "suggested_revision": "Specify the type of information being shared."
+        },
+        "uncertainty": {
+          "confidence": 0.6,
+          "reasons": [
+            "The agreement does not specify what information is confidential, making it difficult to assess the risk of unintended disclosure."
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c004",
+        "text": "1617 Sixth Avenue\n\nSeattle, Washington, 98101\n\nAttention: Erik B. Nordstrom and Peter E. Nordstrom\n\n\u00a0\n\nLadies and Gentlemen:\n\n\u00a0\n\nErik B. Nordstrom and Peter\nE. Nordstrom (together with the other non-Company signatories hereto, \nyou\n) have requested of the Special Committee\nof the Board of Directors (the \nSpecial Committee\n) of Nordstrom, Inc. (the \nCompany\n) that you\nbe permitted to obtain and share certain non-public information in connection with your consideration of a possible negotiated transaction\nbetween the Company, on the one hand, and one or more of you or your controlled affiliates, on the other hand (the \nPossible\nTransaction\n), subject to and effective upon the execution and delivery of this nondisclosure confidentiality agreement (this\n\nAgreement\n). The Company is willing to furnish Proprietary Information (as defined below) to you, and permit you to\nshare Proprietary Information with certain persons, on the terms and subject to the conditions of this Agreement.",
+        "start_char": 817,
+        "end_char": 1812
+      },
+      "classification": {
+        "label": "Confidentiality",
+        "confidence": 0.9,
+        "rationale_short": "The clause discusses non-public information and permits sharing under certain conditions."
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c004",
+        "clause_type": "Confidentiality",
+        "plain_english_summary": "The Company will share confidential information with the Special Committee and its representatives, subject to this confidentiality agreement.",
+        "business_risk": {
+          "severity": "Low",
+          "why": [
+            "The confidentiality agreement is in place to protect the Company's proprietary information, which suggests a low risk of unauthorized disclosure."
+          ]
+        },
+        "norm_deviation": {
+          "deviates": false,
+          "comparison": [
+            "The clause does not deviate from standard confidentiality agreement language."
+          ],
+          "suggested_revision": ""
+        },
+        "uncertainty": {
+          "confidence": 0.8,
+          "reasons": [
+            "The clause is standard and widely used in similar agreements, but the specific context and parties involved may introduce some uncertainty."
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c005",
+        "text": "1. \nProprietary Information\u037e\nOther Defined Terms\n.\n\n\u00a0\n\n(a) All information concerning\nthe Company and its subsidiaries and all other information that is furnished to you or your Representatives (as defined below) directly\nor indirectly by the Company or any of its Representatives, including, without limitation, trade secrets, software programs, intellectual\nproperty, data files, source code, computer chips, system designs and product designs, whether or not marked as confidential, whether\nfurnished before or after the date hereof, whether oral, written or electronic, and regardless of the manner in which furnished, together\nwith any notes, reports, summaries, analyses, compilations, forecasts, studies, interpretations, memoranda or other materials prepared\nby you or any of your Representatives that contain, reference, reflect or are based upon, in whole or in part, any such information (such\nnotes, reports, summaries, analyses, compilations, forecasts, studies, interpretations, memoranda or other materials are referred to herein\nas \nDerivative Materials\n), is referred to herein as \nProprietary Information\n. Proprietary Information\ndoes not include, however, information that (i)\u00a0was or becomes available to you on a non-confidential basis from a source other than\nthe Company or any of its Representatives, \nprovided \nthat such other source is not known by you or any of your Representatives to\nbe bound by a confidentiality obligation to the Company or any of its affiliates with respect to such information, (ii)\u00a0was or becomes\ngenerally available to and known by the public (other than as a result of a breach by you or any of your Representatives of this Agreement\nor a violation by you or any of your Representatives of any other confidentiality obligation to the Company or any of its affiliates),\n(iii)\u00a0was previously in your possession as demonstrated by your written records, \nprovided\n that such information is not known\nby you or any of your Representatives to be subject to another confidentiality obligation to the Company or any of its affiliates (including,\nwithout limitation, pursuant any non-use and confidentiality agreements or other obligations of secrecy to the Company or any of its affiliates,\ncontractual or otherwise, that are applicable to them), or (iv)\u00a0you can demonstrate by written evidence was independently developed\nby you or any of your Representatives (other than in your role as a director or employee of the Company or its subsidiaries) without derivation\nfrom, reference to or reliance upon, or using in any manner, the Proprietary Information and without breach of this Agreement or a violation\nby you or any of your Representatives of any other non-use or confidentiality obligation to the Company or any of its affiliates. To the\nextent that any Proprietary Information may include materials subject to the attorney-client privilege, work product doctrine or any other\napplicable privilege concerning pending or threatened legal proceedings or governmental investigations, you and the Company understand\nand agree that you and the Company have a commonality of interest with respect to such matters, and it is the mutual desire, intention\nand understanding of you and the Company that the sharing of such materials is not intended to, and shall not, waive or diminish in any\nway the confidentiality of such materials or their continued protection under the attorney-client privilege, work product doctrine or\nother applicable privilege. Accordingly, and in furtherance of the foregoing, you agree not to claim or contend that the Company has waived\nany attorney-client privilege, work product doctrine or any other applicable privilege by providing information pursuant to this Agreement\nor any subsequent definitive written agreement regarding a Possible Transaction.\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\n(b) For purposes of this Agreement,\nreferences herein to your \nRepresentatives\n shall include only your spouses and your affiliates and your and their\nrespective officers, directors, employees, investment bankers, financial advisors, accountants, legal counsel, consultants, other advisors\nand, only if you receive the prior written consent of the Company, potential sources of capital or financing (debt, equity or otherwise)\n(provided that, subject to compliance with Paragraph 10(a) hereof with respect to such persons, no such consent shall be required with\nrespect to (I) any potential source of financing mutually agreed in writing or (II) any potential source of financing who is a Family\nOwner (as defined below) who executes a confidentiality and standstill agreement directly with the Company or joinder to this Agreement\nagreeing to be subject to your obligations hereunder (in each case, in a form reasonably acceptable to the Company)); \nprovided\n\nthat none of the Company or its subsidiaries shall be deemed to be your Representative, and \nRepresentatives\n in respect\nof the Company or the Special Committee shall mean their respective officers, directors, employees, investment bankers, financial advisors,\naccountants, legal counsel, consultants and other agents and representatives; \nprovided\n that you shall not be deemed to be a Representative\nof the Company. As used in this Agreement, (i)\u00a0the term \nperson\n shall be broadly interpreted to include, without\nlimitation, any corporation, company, limited liability company, partnership, joint venture, trust, other entity or individual and (ii)\u00a0the\nterm \naffiliate\n shall have the meaning ascribed thereto in Rule 12b-2 of the General Rules and Regulations under the\nSecurities Exchange Act of 1934, as amended (the \nExchange Act\n).\n\n\u00a0\n\n(c) The confidentiality and\nuse obligations set forth herein with respect to Proprietary Information shall not restrict Erik B. Nordstrom and Peter E. Nordstrom from\ncarrying out their duties as members of the Companys and its subsidiaries management, and to the extent applicable, members\nof the boards of directors of the Company and its subsidiaries, in each case that are unrelated to the Possible Transaction, or if related\nto a Possible Transaction, in (and solely in) such persons capacity as an officer or director of the Company or any of its subsidiaries,\n\nprovided\n that each of them shall continue to be bound by all other non-use and confidentiality agreements or other obligations\nof secrecy to the Company or any of its affiliates, contractual or otherwise, that are applicable to them.",
+        "start_char": 1812,
+        "end_char": 8265
+      },
+      "classification": {
+        "label": "Confidentiality",
+        "confidence": 0.9,
+        "rationale_short": "Defines Proprietary Information and exceptions"
+      },
+      "flags": [
+        {
+          "name": "unlimited_liability_language",
+          "severity": "High",
+          "evidence_snippet": "directly\nor indirectly by the Company or any of its Representatives, including, without limitation, trade secrets, software programs, intellectual\nproperty, data files, source co",
+          "explanation": "Language suggests liability may be uncapped or broadly expanded."
+        }
+      ],
+      "analysis": {
+        "clause_id": "c005",
+        "clause_type": "Confidentiality",
+        "plain_english_summary": "Definition of Proprietary Information and exceptions",
+        "business_risk": {
+          "severity": "High",
+          "why": [
+            "Unclear scope of proprietary information, potential for broad interpretation"
+          ]
+        },
+        "norm_deviation": {
+          "deviates": true,
+          "comparison": [
+            "Typical confidentiality agreements have more specific definitions of proprietary information"
+          ],
+          "suggested_revision": "Consider adding specific examples of proprietary information or clarifying the scope"
+        },
+        "uncertainty": {
+          "confidence": 0.6,
+          "reasons": [
+            "Unclear scope of proprietary information, potential for broad interpretation",
+            "Definition may be subject to varying interpretations"
+          ]
+        },
+        "citations": [
+          {
+            "rule": "unlimited_liability_language",
+            "evidence": "directly\nor indirectly by the Company or any of its Representatives, including, without limitation, trade secrets, software programs, intellectual\nproperty, data files, source co"
+          }
+        ],
+        "risk_score": 85
+      }
+    },
+    {
+      "clause": {
+        "id": "c007",
+        "text": "2. \nUse of Proprietary\nInformation and Confidentiality\u037e Transaction Information to Remain Confidential\n. Except as (i)\u00a0otherwise permitted under\nthis Agreement (including, without limitation, in accordance with Paragraph\u00a01(c)), (ii)\u00a0otherwise agreed to in writing by the\nCompany, or (iii)\u00a0to the extent permitted by this Agreement, if requested or required by applicable law, regulation, stock exchange\nrule or other market or reporting system or by legal, judicial, regulatory or administrative process (by oral questions, interrogatories,\nrequests for information or documents in legal proceedings, subpoena, civil investigative demand or other similar process) (\nLegally\nRequired\n), you shall, and shall direct your Representatives to, (a)\u00a0keep all Proprietary Information confidential and\nnot disclose or reveal any Proprietary Information to any person other than your Representatives who are participating in evaluating,\nnegotiating or advising with respect to the Possible Transaction or who otherwise need to know the Proprietary Information for the purpose\nof evaluating, negotiating or advising with respect to the Possible Transaction (all of whom shall be specifically informed of the confidential\nnature of such Proprietary Information and directed to abide by the terms of this Agreement applicable to Representatives), (b)\u00a0not\nuse any Proprietary Information for any purpose other than in connection with evaluating, negotiating or advising with respect to the\nPossible Transaction or the consummation of the Possible Transaction, and (c)\u00a0not disclose to any person (other than your Representatives\nwho are participating in evaluating, negotiating or advising with respect to the Possible Transaction, in any such case, whom you will\ndirect to observe the terms of this Agreement relating to the confidential treatment and use of Transaction Information (as defined below))\nthe existence or terms of this Agreement, that Proprietary Information has been made available, that you, the Company, or any other persons\nare considering the Possible Transaction or any alternative transaction involving the Company, that you are subject to any of the restrictions\nset forth in this Agreement, that investigations, discussions or negotiations are taking or have taken place concerning the Possible\nTransaction or involving the Company, any term, condition or other matter relating to the Possible Transaction or such investigations,\ndiscussions or negotiations, including, without limitation, the status thereof, or any information that could enable such other person\nto identify the Company or any of its affiliates, or any other persons, as a party to any discussions or negotiations with you or others\n(the items described in this clause\u00a0(c), \nTransaction Information\n). Without limiting the foregoing, neither\nyou nor any of your Representatives will, without the prior written consent of the Company, enter into any Exclusive Arrangement with\nany potential source of capital or financing (debt, equity or otherwise), including, for the avoidance of doubt, any of your Representatives,\nin connection with the Possible Transaction; \nprovided\n that, without such prior written consent, you may enter into an Exclusive\nArrangement with one or more Family Owners who are your Representatives, subject to compliance with the other terms and conditions of\nthis Agreement. For purposes of this Agreement, an \nExclusive Arrangement\n means any agreement, arrangement or understanding,\nwhether written or oral, with any potential source of capital or financing (debt, equity or otherwise), including, for the avoidance\nof doubt, any of your other Representatives, which does, or could be reasonably expected to, legally or contractually limit, restrict\nor otherwise impair in any manner, directly or indirectly, such source from consummating a transaction involving the Company or any of\nits affiliates or acting as a potential source of capital or financing (debt, equity or otherwise) to any other person with respect to\na potential transaction with the Company or any of its affiliates. If the Special Committee, the Company or any of their respective Representatives\npublicly disclose any Transaction Information (other than to other Representatives of the Company or Special Committee who need to know\nsuch information in connection with a Possible Transaction) then you shall also be permitted to disclose such disclosed Transaction Information\nand any additional Transaction Information required to make the disclosed Transaction Information not misleading in a material respect.",
+        "start_char": 8274,
+        "end_char": 12866
+      },
+      "classification": {
+        "label": "Confidentiality",
+        "confidence": 1.0,
+        "rationale_short": "Clause regulates confidentiality of proprietary information"
+      },
+      "flags": [
+        {
+          "name": "unlimited_liability_language",
+          "severity": "High",
+          "evidence_snippet": "nfidential\n. Except as (i)\u00a0otherwise permitted under\nthis Agreement (including, without limitation, in accordance with Paragraph\u00a01(c)), (ii)\u00a0otherwise agreed to in writing by the",
+          "explanation": "Language suggests liability may be uncapped or broadly expanded."
+        }
+      ],
+      "analysis": {
+        "clause_id": "c007",
+        "clause_type": "Confidentiality",
+        "plain_english_summary": "The party must keep confidential all proprietary information and transaction information, and may only disclose it to certain individuals or as required by law.",
+        "business_risk": {
+          "severity": "High",
+          "why": [
+            "The party may be liable for breaching confidentiality if they disclose proprietary information without permission, which could lead to financial losses or damage to reputation."
+          ]
+        },
+        "norm_deviation": {
+          "deviates": true,
+          "comparison": "This clause deviates from the norm because it allows for disclosure of proprietary information in certain circumstances, such as when required by law.",
+          "suggested_revision": "Consider revising the clause to specify the exact circumstances under which proprietary information can be disclosed."
+        },
+        "uncertainty": {
+          "confidence": 0.8,
+          "reasons": [
+            "The clause is not clear on what constitutes 'proprietary information' and what specific circumstances allow for disclosure.",
+            "The clause may be subject to interpretation regarding the scope of permitted disclosure."
+          ]
+        },
+        "citations": [
+          {
+            "rule": "unlimited_liability_language",
+            "evidence": "nfidential\n. Except as (i)\u00a0otherwise permitted under\nthis Agreement (including, without limitation, in accordance with Paragraph\u00a01(c)), (ii)\u00a0otherwise agreed to in writing by the"
+          }
+        ],
+        "risk_score": 85
+      }
+    },
+    {
+      "clause": {
+        "id": "c009",
+        "text": "3. \nLegally Required Disclosure\n.\nIn the event that you (or any of your Representatives) should be Legally Required to disclose any Proprietary Information or Transaction\nInformation, you shall, to the extent legally permissible and reasonably in advance of such disclosure, provide the Company with prompt\nwritten notice of such requirement. You also agree, to the extent legally permissible, to provide the Company, in advance of any such\ndisclosure, with a list of any Proprietary Information and Transaction Information that you intend (or that your Representative intends)\nto disclose (and, if applicable, the text of the disclosure language itself) and to cooperate with the Company (at the Companys\nsole expense) to the extent it may seek to limit such disclosure, including, without limitation, if requested, taking all reasonable steps\nto resist or avoid (to the extent legally permissible) any such legal, judicial, regulatory or administrative process. If you are (or\nany of your Representatives is) Legally Required to disclose any Proprietary Information or Transaction Information, you or your Representative,\nas applicable, (a) will exercise reasonable best efforts to obtain assurance that confidential treatment will be accorded to that Proprietary\nInformation or Transaction Information, as applicable, and (b) may disclose, without liability hereunder, such portion of the Proprietary\nInformation or Transaction Information that, according to the advice of your counsel, is Legally Required to be disclosed (the \nPublic\nDisclosure\n)\u037e \nprovided\n, \nhowever\n, that, to the extent legally permissible prior to such disclosure, you shall\nhave considered in good faith the Companys suggestions concerning the scope and nature of the information to be contained in the\nPublic Disclosure. Notwithstanding the foregoing, your Representatives who are accounting firms may disclose Derivative Materials to the\nextent, if any, required by law, rule, regulation or applicable professional standards of the American Institute of Certified Public Accountants,\nPublic Company Accounting Oversight Board or state boards of accountancy or obligations thereunder, \nprovided\n that, to the extent\npermitted by law or regulation, prior written notice of any such required disclosure will be provided to the Company.",
+        "start_char": 12875,
+        "end_char": 15192
+      },
+      "classification": {
+        "label": "Confidentiality",
+        "confidence": 0.8,
+        "rationale_short": "The clause deals with the disclosure of proprietary information and transaction information."
+      },
+      "flags": [
+        {
+          "name": "unlimited_liability_language",
+          "severity": "High",
+          "evidence_snippet": "ys\nsole expense) to the extent it may seek to limit such disclosure, including, without limitation, if requested, taking all reasonable steps\nto resist or avoid (to the extent le",
+          "explanation": "Language suggests liability may be uncapped or broadly expanded."
+        }
+      ],
+      "analysis": {
+        "clause_id": "c009",
+        "clause_type": "Confidentiality",
+        "plain_english_summary": "You must notify the Company before disclosing confidential information and cooperate with the Company to limit the disclosure.",
+        "business_risk": {
+          "severity": "High",
+          "why": [
+            "Disclosure of confidential information without permission may lead to reputational damage and loss of competitive advantage."
+          ]
+        },
+        "norm_deviation": {
+          "deviates": true,
+          "comparison": [
+            "Typically, confidentiality agreements require prompt notice of disclosure but do not specify cooperation with the disclosing party."
+          ],
+          "suggested_revision": "Consider adding a provision requiring the disclosing party to cooperate with the Company to limit the disclosure."
+        },
+        "uncertainty": {
+          "confidence": 0.7,
+          "reasons": [
+            "The clause's language is unclear regarding the extent of cooperation required from the disclosing party."
+          ]
+        },
+        "citations": [
+          {
+            "rule": "unlimited_liability_language",
+            "evidence": "ys\nsole expense) to the extent it may seek to limit such disclosure, including, without limitation, if requested, taking all reasonable steps\nto resist or avoid (to the extent le"
+          }
+        ],
+        "risk_score": 85
+      }
+    },
+    {
+      "clause": {
+        "id": "c010",
+        "text": "4. \nResponsibility for Representatives\n.\nYou agree that you shall, at your sole expense, undertake all reasonable measures (i)\u00a0to restrain your Representatives from prohibited\nor unauthorized disclosure or use of any Proprietary Information or Transaction Information and (ii)\u00a0to safeguard and protect the\nconfidentiality of the Proprietary Information and the Transaction Information disclosed to you or any of your Representatives and to\nprevent the use of any Proprietary Information or Transaction Information in any way that would violate any antitrust or other applicable\nlaw or this Agreement. You will notify the Company promptly in writing of any breach of this Agreement by you or, to your knowledge, your\nRepresentatives. You will be responsible for any breach of this Agreement by you and any deemed breach of this Agreement by any of your\nRepresentatives (which shall include any failure by your Representatives to comply with directives that you are required to give to your\nRepresentatives hereunder). You are aware, and will advise your Representatives to whom any Proprietary Information or Transaction Information\nis disclosed, of the restrictions imposed by applicable securities laws on the purchase or sale of securities by any person who has received\nmaterial, non-public information about the issuer of such securities and on the communication of such information to any other person\nwhen it is reasonably foreseeable that such other person is likely to purchase or sell such securities in reliance upon such information.",
+        "start_char": 15192,
+        "end_char": 16741
+      },
+      "classification": {
+        "label": "Confidentiality",
+        "confidence": 1.0,
+        "rationale_short": "The clause discusses the responsibility of the party to protect confidential information and prevent unauthorized disclosure."
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c010",
+        "clause_type": "Confidentiality",
+        "plain_english_summary": "You are responsible for ensuring your representatives do not disclose or use confidential information and for reporting any breaches.",
+        "business_risk": {
+          "severity": "Medium",
+          "why": [
+            "The clause requires the party to take reasonable measures to prevent unauthorized disclosure, which may be challenging and costly. Additionally, the party is liable for any breach by its representatives, which may lead to financial losses."
+          ]
+        },
+        "norm_deviation": {
+          "deviates": true,
+          "comparison": [
+            "The clause does not specify a particular standard for 'reasonable measures' or 'confidentiality safeguards', which may lead to uncertainty and disputes."
+          ],
+          "suggested_revision": "Consider adding specific examples or standards for 'reasonable measures' and 'confidentiality safeguards' to provide clarity and reduce uncertainty."
+        },
+        "uncertainty": {
+          "confidence": 0.6,
+          "reasons": [
+            "The clause does not provide clear guidance on what constitutes 'reasonable measures' or 'confidentiality safeguards', which may lead to disputes and uncertainty."
+          ]
+        },
+        "citations": [],
+        "risk_score": 60
+      }
+    },
+    {
+      "clause": {
+        "id": "c012",
+        "text": "5. \nNo Representations Regarding\nProprietary Information\n.\n\n\u00a0\n\n(a) You understand and agree\nthat neither the Company nor any of its Representatives makes any representation or warranty, express or implied, on which you may rely\nas to the accuracy or completeness of the Proprietary Information for your purposes and that only those representations and warranties\nmade by the Company in a subsequent definitive written agreement related to the Possible Transaction, if any, and subject to such limitations\nand restrictions as may be specified therein, shall have any legal effect. You agree that, other than as may be set forth in such definitive\nwritten agreement, neither the Company nor any of its Representatives shall have any liability whatsoever to you or any of your Representatives,\nincluding, without limitation, in contract, tort or under federal or state securities laws, relating to or resulting from the use of the\nProprietary Information or any errors therein or omissions therefrom.\n\n\u00a0\n\n(b) Without limiting the generality\nof Paragraph\u00a05(a), the Proprietary Information may include certain statements, estimates and projections with respect to the Companys\nanticipated future performance. Such statements, estimates and projections reflect various assumptions made by the Company, which assumptions\nmay or may not prove to be correct, and are subject to various risks and uncertainties. No representations, warranties or assurances are\nmade by the Company or any of its Representatives as to such assumptions, statements, estimates or projections, including, without limitation,\nany budgets, and you hereby waive any claims in respect thereof.\n\n\u00a0\n\n(c) You acknowledge and agree\nthat (i)\u00a0the Company shall be free to conduct any process for an acquisition or business combination transaction involving the Company\nas the Company in its sole and absolute discretion shall determine (including, without limitation, negotiation with any other person and,\nother than solely as may be required in your capacity as a director of the Company, entering into a definitive written agreement without\nprior notice to you or any other person) and (ii)\u00a0the Company reserves the right, in its sole and absolute discretion, to reject\nany proposals and to terminate discussions and negotiations with you at any time for any reason whatsoever; \nprovided\n, that if the\nSpecial Committee informs you in writing within sixty days of the date hereof that it is no longer considering a Possible Transaction\n(which, for the avoidance of doubt, shall not include a rejection of a proposal for a Possible Transaction), your restrictions and obligations\nunder Paragraph 7 shall terminate and be of no further force or effect.",
+        "start_char": 16750,
+        "end_char": 19467
+      },
+      "classification": {
+        "label": "Limitation of Liability",
+        "confidence": 0.8,
+        "rationale_short": "No liability for proprietary information"
+      },
+      "flags": [
+        {
+          "name": "unlimited_liability_language",
+          "severity": "High",
+          "evidence_snippet": "have any liability whatsoever to you or any of your Representatives,\nincluding, without limitation, in contract, tort or under federal or state securities laws, relating to or re",
+          "explanation": "Language suggests liability may be uncapped or broadly expanded."
+        }
+      ],
+      "analysis": {
+        "clause_id": "c012",
+        "clause_type": "Limitation of Liability",
+        "plain_english_summary": "The Company and its Representatives make no representations or warranties about the accuracy or completeness of Proprietary Information, and the Company has no liability for any use of the Proprietary Information.",
+        "business_risk": {
+          "severity": "High",
+          "why": [
+            "The Company and its Representatives have no liability for any use of the Proprietary Information, which may lead to significant financial or reputational risks for the recipient."
+          ]
+        },
+        "norm_deviation": {
+          "deviates": true,
+          "comparison": [
+            "The clause deviates from the standard practice of including representations and warranties in a contract.",
+            "The clause limits the liability of the Company and its Representatives to a great extent."
+          ],
+          "suggested_revision": "Consider including more specific representations and warranties about the Proprietary Information to mitigate potential risks."
+        },
+        "uncertainty": {
+          "confidence": 0.8,
+          "reasons": [
+            "The clause is written in a way that suggests the Company and its Representatives have no liability for any use of the Proprietary Information, but the language is not entirely clear.",
+            "The clause may be subject to interpretation, and the recipient may still try to hold the Company and its Representatives liable for any errors or omissions in the Proprietary Information."
+          ]
+        },
+        "citations": [
+          {
+            "rule": "unlimited_liability_language",
+            "evidence": "have any liability whatsoever to you or any of your Representatives,\nincluding, without limitation, in contract, tort or under federal or state securities laws, relating to or re"
+          }
+        ],
+        "risk_score": 85
+      }
+    },
+    {
+      "clause": {
+        "id": "c013",
+        "text": "6. \nReturn or Destruction\nof Proprietary Information\n. Upon the Companys request, subject to the provisions of Paragraph\u00a01(c), you shall (and shall\ndirect your Representatives to) promptly (and in any event within five days) either (at your or your Representatives option) return\nto the Company or destroy (and certify such destruction to the Company in writing) all copies or other reproductions of Proprietary Information,\nother than any Derivative Materials, in your possession or the possession of any of your Representatives, and shall not retain any copies\nor other reproductions, in whole or in part, of such materials. You shall (and shall direct your Representatives to) destroy all Derivative\nMaterials (including, without limitation, expunging all such Derivative Materials from any computer, word processor or other device containing\nsuch information), and such destruction will be certified in writing to the Company. Notwithstanding the foregoing, you and your Representatives\nmay retain (a)\u00a0data or electronic records containing Proprietary Information for the purposes of backup, recovery, contingency planning\nor business continuity planning so long as such data or records are not accessible in the ordinary course of business and are not accessed\nexcept as required for backup, recovery, contingency planning or business continuity planning purposes, and (b)\u00a0one copy each exclusively\nfor regulatory or records retention policy compliance and for dispute resolution\u037e \nprovided\n, that any such Proprietary Information\nmay not be accessed or used for any other purpose. Notwithstanding the return or destruction of Proprietary Information required by this\nParagraph 6, you and your Representatives shall continue to be bound by all duties and obligations hereunder in accordance with the terms\nhereof. For avoidance of doubt, this Paragraph 6 shall not apply to any information that would constitute Proprietary Information and/or\nDerivative Materials but was received by you in your role as a director or employee of the Company or its subsidiaries.",
+        "start_char": 19467,
+        "end_char": 21539
+      },
+      "classification": {
+        "label": "Return/Destruction",
+        "confidence": 1.0,
+        "rationale_short": "Clause describes the return or destruction of proprietary information."
+      },
+      "flags": [
+        {
+          "name": "unlimited_liability_language",
+          "severity": "High",
+          "evidence_snippet": "ll direct your Representatives to) destroy all Derivative\nMaterials (including, without limitation, expunging all such Derivative Materials from any computer, word processor or o",
+          "explanation": "Language suggests liability may be uncapped or broadly expanded."
+        }
+      ],
+      "analysis": {
+        "clause_id": "c013",
+        "clause_type": "Return/Destruction",
+        "plain_english_summary": "The company can request that you return or destroy proprietary information, and you must certify the destruction in writing.",
+        "business_risk": {
+          "severity": "High",
+          "why": [
+            "The company may have broad discretion to request return or destruction of proprietary information, which could lead to potential business disruption or losses."
+          ]
+        },
+        "norm_deviation": {
+          "deviates": true,
+          "comparison": [
+            "Typically, return or destruction of proprietary information is subject to specific conditions or limitations."
+          ],
+          "suggested_revision": "Consider adding specific conditions or limitations for return or destruction of proprietary information."
+        },
+        "uncertainty": {
+          "confidence": 0.6,
+          "reasons": [
+            "The clause is unclear about the scope of proprietary information that must be returned or destroyed, and the company's discretion to request return or destruction may be broad."
+          ]
+        },
+        "citations": [
+          {
+            "rule": "unlimited_liability_language",
+            "evidence": "ll direct your Representatives to) destroy all Derivative\nMaterials (including, without limitation, expunging all such Derivative Materials from any computer, word processor or o"
+          }
+        ],
+        "risk_score": 85
+      }
+    },
+    {
+      "clause": {
+        "id": "c015",
+        "text": "7. \nStandstill\n. You hereby\nrepresent to the Company that, as of the date hereof, except as set forth in reports filed prior to the date hereof with the U.S. Securities\nand Exchange Commission, neither you nor, to your knowledge, any of your present Representatives as of the date hereof, has beneficial\nownership (as defined in Rule\u00a013d-3 under the Exchange Act) of any securities of the Company or any of its subsidiaries. In consideration\nfor your being permitted to share Proprietary Information with certain persons, you agree that, unless requested in writing in advance\nby the Special Committees Representatives (for so long as the Special Committee is in existence and the Companys Representatives\nacting at the direction of the independent and disinterested members of the Board of Directors after the Special Committee has been disbanded),\nneither you nor your Representatives will, at any time during the twelve month period commencing on the date hereof (or, at any time during\nsuch period, assist, advise, act in concert or participate with or knowingly encourage others to), directly or through others (including,\nwithout limitation, in your capacity as a trustee): (a)\u00a0acquire (or agree, offer, seek or propose to acquire, in each case, publicly\nor privately), by purchase, tender offer, exchange offer, agreement or business combination or in any other manner, any ownership, including,\nbut not limited to, beneficial ownership, as defined in Rule 13d-3 under the Exchange Act, of any material assets or businesses or any\nsecurities of the Company or any direct or indirect subsidiary thereof, or any rights or options to acquire such ownership (including,\nwithout limitation, from any third party) (provided that this clause\u00a0(a) shall not prohibit (i)\u00a0any of you from gifting or otherwise\ntransferring to another signatory hereto, shares of common stock held by you (provided that you give the Company written notice of the\ndetails of any such gift or transfer no later than three days after it is made) or from acquiring shares of stock pursuant to distributions\nto shareholders of the Company by the Company, (ii)\u00a0Erik B. Nordstrom and Peter E. Nordstrom from being awarded or receiving any\ngrants of equity awards or equity securities of the Company upon vesting or exercise of such awards pursuant to their roles as members\nof the Companys management and/or the Companys board of directors); (iii) any of you or any of your parents, step-parents,\nspouses, aunts, uncles, children, nephews, nieces, cousins, or other blood relatives, and any trusts for which you now or in the future\nserve in any administrative or trust capacity (collectively, the \nFamily Owners\n, and each individually, a \nFamily\nOwner\n) or for which any Family Owner is a trustee or beneficiary, from making or receiving \nbona fide \ngifts or transfers\nof any equity securities of the Company from any other Family Owner, (iv) any transfer or acquisition of rights or beneficial ownership\nin respect of any equity securities of the Company made in respect of \nbona fide\n estate planning, resulting from or to give effect\nto, any estate plans; or (v) acting in any fiduciary role with respect to any Family Owner(s), or trust for the benefit of such Family\nOwner(s), including, but not limited to, executor, trustee, attorney-in-fact, agent, and/or custodian, and taking all any and all actions\nrequired thereby; (b)\u00a0publicly or privately offer to enter into, or publicly or privately propose (except in your capacity as an\nofficer of the Company where the Company is acting as an acquiror, in each case only if expressly invited to do so by the Special Committee),\nany merger, business combination, recapitalization, restructuring or other extraordinary transaction with the Company or any direct or\nindirect subsidiary thereof\u037e (c) unless (i) the Board of Directors or the Special Committee adversely alters the status, duties and\nterms of employment (other than changes to compensation in the ordinary course of business by the Compensation Committee of the Board)\nin a material respect or expressly threatens the employment status of Erik B. Nordstrom or Peter E. Nordstrom or requests either of their\nresignations as an officer, employee or director of the Company, or\u00a0(ii) the Board of Directors or any committee thereof proposes\nto seek the resignation of Erik Nordstrom or Peter Nordstrom from the Board of Directors or communicates an intent not to nominate them\nfor re-election as members of the Board of Directors, (A) initiate any stockholder proposal, or except in your capacity as a director\nor officer of, in each case only if expressly directed to do so by the Companys board of directors, the Company with respect to\nany annual or special meeting called by the Board of Directors, the convening of a stockholders meeting of or involving the Company\nor any direct or indirect subsidiary thereof\u037e or (B)\u00a0solicit proxies (as such terms are defined in Rule\u00a014a-1 under the\nExchange Act), whether or not such solicitation is exempt pursuant to Rule\u00a014a-2 under the Exchange Act, with respect to any matter,\nexcept in your capacity as an officer or director of the Company, in each case only if expressly directed to do so by the Companys\nboard of directors, otherwise seek to influence, advise or direct the vote of, holders of any shares of capital stock of the Company or\nany securities convertible into or exchangeable or exercisable for (in each case, whether currently or upon the occurrence of any contingency)\nsuch capital stock, or make any communication exempted from the definition of solicitation by Rule\u00a014a-1(l)(2)(iv) under the Exchange\nAct; (d) other than discussions, negotiations, agreements, arrangements or understandings among yourselves and your Representatives with\nrespect to the Possible Transaction in compliance with this Agreement, enter into any discussions, negotiations, agreements, arrangements\nor understandings with any other person with respect to any matter described in the foregoing clauses\u00a0(a) through (c) or form, join\nor participate in a group (within the meaning of Section\u00a013(d)(3) of the Exchange Act) to vote, acquire or dispose\nof any securities of the Company or any of its subsidiaries; or (e) other than as expressly permitted by this Agreement (x) make any public\ndisclosure, or (y) take any action that could reasonably be expected to require you or the Company to make a public disclosure, with respect\nto any of the matters set forth in this Agreement. Notwithstanding anything in this Paragraph\u00a07 to the contrary, you may (1)\u00a0unless\notherwise requested by the Special Committee, enter into discussions with the Special Committee and its Representatives to explore a Possible\nTransaction, and (2)\u00a0make requests (but only privately to the Company and not publicly) for amendments, waivers, consents under or\nagreements not to enforce clauses\u00a0(a) through (c) of this Paragraph\u00a07 and may make proposals or offers (but only privately to\nthe Company not publicly) regarding the transactions contemplated by clauses\u00a0(a) through (c) of this Paragraph\u00a07, in each case\nunder this clause\u00a0(2), at any time after a Fundamental Change Event (as defined below). A \nFundamental Change Event\n\nmeans the Company has after the date of this Agreement entered into a definitive written agreement providing for (i)\u00a0any acquisition\nof 30% or more of the voting securities of the Company by any person or group, (ii)\u00a0any acquisition of a majority of the consolidated\nassets of the Company and its subsidiaries by any person or group, or (iii)\u00a0any tender or exchange offer, merger or other business\ncombination or any recapitalization, restructuring, liquidation, dissolution or other extraordinary transaction (provided that, in the\ncase of any transaction covered by the foregoing clause\u00a0(iii), immediately following such transaction, any person, other than you\nor your controlled affiliates (or the direct or indirect shareholders of such person), will beneficially own a majority of the outstanding\nvoting power of the Company or the surviving parent entity in such transaction). For purposes of this Paragraph\u00a07, the following\nwill be deemed to be an acquisition of beneficial ownership of securities: (1)\u00a0establishing or increasing a call equivalent position,\nor liquidating or decreasing a put equivalent position, with respect to such securities within the meaning of Section\u00a016 of the Exchange\nAct\u037e or (2)\u00a0entering into any swap or other arrangement that results in the acquisition of any of the economic consequences\nof ownership of such securities, whether such transaction is to be settled by delivery of such securities, in cash or otherwise. For purposes\nof this Paragraph\u00a07, any acquisition of beneficial ownership of securities shall not include an acquisition pursuant to any stock\nsplit, reverse stock split, recapitalization, reclassification of shares, or similar transaction, in each case undertaken by the Company.",
+        "start_char": 21548,
+        "end_char": 30517
+      },
+      "classification": {
+        "label": "Term & Survival",
+        "confidence": 0.8,
+        "rationale_short": "Clause defines restrictions on acquiring Company securities or assets"
+      },
+      "flags": [
+        {
+          "name": "unlimited_liability_language",
+          "severity": "High",
+          "evidence_snippet": "with or knowingly encourage others to), directly or through others (including,\nwithout limitation, in your capacity as a trustee): (a)\u00a0acquire (or agree, offer, seek or propose",
+          "explanation": "Language suggests liability may be uncapped or broadly expanded."
+        }
+      ],
+      "analysis": {
+        "clause_id": "c015",
+        "clause_type": "Term & Survival",
+        "plain_english_summary": "Standstill clause",
+        "business_risk": {
+          "severity": "High",
+          "why": [
+            "Uncapped liability",
+            "Broadly expanded liability"
+          ]
+        },
+        "norm_deviation": {
+          "deviates": true,
+          "comparison": [
+            "Uncapped liability",
+            "Broadly expanded liability"
+          ],
+          "suggested_revision": "Consider adding a cap on liability"
+        },
+        "uncertainty": {
+          "confidence": 0.8,
+          "reasons": [
+            "Uncapped liability",
+            "Broadly expanded liability"
+          ]
+        },
+        "citations": [
+          {
+            "rule": "unlimited_liability_language",
+            "evidence": "with or knowingly encourage others to), directly or through others (including,\nwithout limitation, in your capacity as a trustee): (a)\u00a0acquire (or agree, offer, seek or propose"
+          }
+        ],
+        "risk_score": 85
+      }
+    },
+    {
+      "clause": {
+        "id": "c017",
+        "text": "8. \nNo Solicitation of Employees\n.\nYou agree that, without the prior written consent of the Company, you shall not (and you shall direct your Representatives not to), for\na period of two years after the date hereof, directly or through others, solicit the services of or employ, as employee, consultant or\notherwise, (a)\u00a0any executive officer or member of the board of directors of the Company (other than your family members) or (b)\u00a0any\nother person (other than your family members) who is employed by the Company or any of its direct or indirect subsidiaries on the date\nhereof or at any other time hereafter and prior to the termination of discussions between you and the Company with respect to the Possible\nTransaction and whose annual salary (at the time of any such solicitation) exceeded $200,000 (any such person described in clause\u00a0(b)\nreferred to herein as an \nOther Employee\n)\u037e \nprovided\n, \nhowever\n, that the foregoing shall not preclude\n(1)\u00a0the solicitation (or employment as a result of the solicitation) of Other Employees whose employment has been terminated or (2)\u00a0the\nsolicitation (or employment as a result of the solicitation) of Other Employees through (i)\u00a0public advertisements or general solicitations\nthat are not specifically targeted at such person(s) or (ii)\u00a0recruiting or search firms retained by you, or internal search personnel\nwho did not have access to Proprietary Information, using a database of candidates without targeting the Company or specific individuals,\nwithout direction or knowledge on your behalf by any person who had access to Proprietary Information. You agree that you and your Representatives\nwill not, without the prior written consent of the Company, engage in discussions with management of the Company regarding the terms of\ntheir post-transaction employment or equity participation as part of, in connection with or after a Possible Transaction, unless and until\na definitive agreement is executed and delivered with respect to the Possible Transaction.",
+        "start_char": 30526,
+        "end_char": 32541
+      },
+      "classification": {
+        "label": "Exceptions",
+        "confidence": 0.8,
+        "rationale_short": "Specific conditions under which the no solicitation rule does not apply"
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c017",
+        "clause_type": "Exceptions",
+        "plain_english_summary": "You cannot solicit or hire employees of the Company for 2 years after the agreement, except in certain circumstances.",
+        "business_risk": {
+          "severity": "Medium",
+          "why": [
+            "This clause restricts the ability to hire employees of the Company, which may impact business operations and recruitment efforts."
+          ]
+        },
+        "norm_deviation": {
+          "deviates": true,
+          "comparison": [
+            "This clause deviates from industry standard non-compete clauses, which typically do not restrict hiring employees for such a long period."
+          ],
+          "suggested_revision": "Consider revising the non-compete period to a more standard 1-2 years."
+        },
+        "uncertainty": {
+          "confidence": 0.7,
+          "reasons": [
+            "The clause's scope and exceptions are not clearly defined, which may lead to disputes or misinterpretation."
+          ]
+        },
+        "citations": [],
+        "risk_score": 60
+      }
+    },
+    {
+      "clause": {
+        "id": "c018",
+        "text": "9. \nOwnership of Proprietary\nInformation\n. You agree that the Company is and shall remain the exclusive owner of the Proprietary Information (other than Derivative\nMaterials to the extent created by you, other than Proprietary Information reflected therein) and all patent, copyright, trade secret,\ntrademark, domain name and other intellectual property rights therein. No license or conveyance of any such rights or any portions thereof\nto you or any of your Representatives is granted or implied under this Agreement.",
+        "start_char": 32541,
+        "end_char": 33065
+      },
+      "classification": {
+        "label": "IP Ownership / Assignment",
+        "confidence": 0.9,
+        "rationale_short": "Ownership of proprietary information, patent, copyright, trade secret, trademark, domain name and other intellectual property rights"
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c018",
+        "clause_type": "IP Ownership / Assignment",
+        "plain_english_summary": "The company retains ownership of all proprietary information and intellectual property rights.",
+        "business_risk": {
+          "severity": "Low",
+          "why": [
+            "The company retains ownership of all proprietary information and intellectual property rights, which may limit the user's ability to use or disclose such information."
+          ]
+        },
+        "norm_deviation": {
+          "deviates": false,
+          "comparison": "industry standard",
+          "suggested_revision": "None"
+        },
+        "uncertainty": {
+          "confidence": 0.8,
+          "reasons": [
+            "The clause is clear and unambiguous, but the scope of proprietary information and intellectual property rights may be subject to interpretation."
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c019",
+        "text": "10. \nCertain Process Matters\n.\n\n\u00a0\n\n(a) Subject to and effective\nupon the execution and delivery of this Agreement, upon a recommendation from the Special Committee, a majority of the members of the\nBoard of Directors has approved in advance, for purposes of Section 23B.19.040(1) of the Washington Business Corporation Act (the \nWashington\nAct\n), the formation of a group among the signatories hereto and certain other persons who are not yet members with you of a\ngroup under Section 13(d)(3) of the Exchange Act (the \nTransaction Group\n) that may, as a result of the\nTransaction Groups beneficial ownership (as defined in the Washington Act) of shares of the Companys common\nstock constitute an acquiring person as defined in the Washington Act. Each of you (i) represents and warrants to the Company\nthat prior to the execution and delivery of this Agreement such person has not taken any actions that, but for the prior approval of the\nBoard, would require approvals under Section 23B.19.040(1)(a)(iii) of the Washington Business Corporation Act and (ii) covenants that\nsuch person shall not take any actions that, but for the prior approval of the Board, would require approvals under Section 23B.19.040(1)(a)(iii)\nof the Washington Business Corporation Act. It is understood and agreed that each of you that is a signatory hereto is executing and delivering\nthis Agreement individually, that no decision has been made by you at this time to form, join or participate in a group\n(within the meaning of Section\u00a013(d)(3) of the Exchange Act) (other than as between the signatories hereto) to vote, acquire or dispose\nof any securities of the Company or any of its subsidiaries or to act as a partnership, syndicate, or other group for the purpose of acquiring,\nholding, or dispersing of any securities of the Company or any of its subsidiaries, and that the execution and delivery of this Agreement\nby all signatories does not, in and of itself, give rise to the formation of such a group, partnership, syndicate, or other\ngroup. Upon the formation of any partnership, syndicate, or other group within the meaning of Section 23B.19.020(12) of the Washington\nAct between you and one or more members of the Transaction Group other than the signatories hereto, such other person shall promptly execute\nand deliver to the Company a joinder to this Agreement agreeing to be bound by your obligations hereunder. Notwithstanding whether any\npartnership, syndicate, or other group for the purpose of acquiring, holding or dispersing of securities of the Company within the meaning\nof Section 23B.19.020(12) of the Washington Act has been formed between or among any members of the Transaction Group, the Transaction\nGroup shall automatically, and without any further action by any person, be disbanded on the date that is the earlier of twelve months\nafter the date hereof and the date on which you notify the Company in writing that you have elected to cease participating in the Transaction\nGroup, which disbandment shall be binding upon all members of the Transaction Group. You acknowledge and agree that (a) after the disbandment\nof the Transaction Group, neither you nor any other members of the Transaction Group shall form another partnership, syndicate, or other\ngroup within the meaning of Section 23B.19.020(12) of the Washington Act (whether composed of some or all of the persons who are members\nof the Transaction Group or some or all of such persons and other persons) that may be considered an acquiring person under\nthe Washington Act, and (b) the additional board and shareholder voting requirements set forth in Section 23B.19.040(1)(a)(iii) of the\nWashington Act will be required with respect to any significant business transaction (as defined in the Washington Act)\ninvolving any such new partnership, syndicate, or other group (or affiliates or associates (as such terms\nare defined in the Washington Act) thereof) and the Company during the five year period following the formation of such new partnership,\nsyndicate, or other group, unless, prior to such formation, the formation of such new partnership, syndicate, or other group is approved\nby a majority of the Board of Directors consisting of independent and disinterested members of the Board of Directors. This Paragraph\n10(a) shall survive the termination of this Agreement.",
+        "start_char": 33065,
+        "end_char": 37421
+      },
+      "classification": {
+        "label": "Term & Survival",
+        "confidence": 0.8,
+        "rationale_short": "Clause discusses continuation of obligations after termination"
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c019",
+        "clause_type": "Term & Survival",
+        "plain_english_summary": "Definition of a group and restrictions on forming a group to acquire Company stock",
+        "business_risk": {
+          "severity": "Medium",
+          "why": [
+            "Formation of a group may lead to increased scrutiny and potential regulatory issues"
+          ]
+        },
+        "norm_deviation": {
+          "deviates": true,
+          "comparison": [
+            "Typical group formation clauses may not include specific restrictions on disbandment"
+          ],
+          "suggested_revision": "Consider adding a provision for notice period before disbandment"
+        },
+        "uncertainty": {
+          "confidence": 0.7,
+          "reasons": [
+            "The clause is specific to Washington state law and may not be applicable in other jurisdictions"
+          ]
+        },
+        "citations": [],
+        "risk_score": 60
+      }
+    },
+    {
+      "clause": {
+        "id": "c020",
+        "text": "7\n\n\u00a0\n\n\u00a0\n\n(b) You agree as follows: (i)\nyou shall keep the Special Committee informed on a current basis of the status of discussions with Representatives that are possible financing\nsources and (ii) following the delivery of any proposal relating to a Possible Transaction submitted by you or your Representatives to\nthe Special Committee, you shall provide the Special Committee with documentation regarding such discussions that is reasonably responsive\nto requests from the Special Committee.\n\n\u00a0\n\n(c) For the avoidance of doubt,\nMoelis & Company LLC (Moelis) has been permitted to contact persons until the date hereof for the sole purpose of evaluating\ntheir interest in being a source of financing for a Possible Transaction, \nprovided\n that (i) Moelis has not contacted any persons\nwhom Moelis, you or your other Representatives knew has entered into a confidentiality agreement with the Company, (ii) Moelis, you and\nyour other Representatives have not disclosed any Confidential Information to any such person, which Confidential Information may only\nbe disclosed pursuant to a confidentiality agreement, if any, entered into between the Company and such person, and (iii) no later than\nthe date hereof, you shall have provided the Special Committee with a list of persons contacted by Moelis, and any persons who contacted\nMoelis or you, regarding a Possible Transaction and identify any such persons who are interested in being a source of financing for a\nPossible Transaction.",
+        "start_char": 37421,
+        "end_char": 38913
+      },
+      "classification": {
+        "label": "Confidentiality",
+        "confidence": 0.8,
+        "rationale_short": "Clause regulates disclosure of confidential information"
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c020",
+        "clause_type": "Confidentiality",
+        "plain_english_summary": "The parties agree to keep certain information confidential and provide updates to the Special Committee.",
+        "business_risk": {
+          "severity": "Low",
+          "why": [
+            "The risk of non-compliance is low as the parties are only required to keep certain information confidential and provide updates to the Special Committee."
+          ]
+        },
+        "norm_deviation": {
+          "deviates": false,
+          "comparison": [
+            "This clause does not deviate significantly from standard confidentiality clauses."
+          ],
+          "suggested_revision": "None"
+        },
+        "uncertainty": {
+          "confidence": 0.8,
+          "reasons": [
+            "The clause is clear and specific, but the parties' obligations may be subject to interpretation in certain circumstances."
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c021",
+        "text": "11. \nMiscellaneous\n.\n\n\u00a0\n\n(a) The parties acknowledge\nthat irreparable damage would occur to the Company or you if any of the provisions of this Agreement were not performed in accordance\nwith their specific terms or were otherwise breached. Accordingly, you and the Company agree that a party, without prejudice to any rights\nand remedies otherwise available, shall be entitled to equitable relief, including, without limitation, specific performance and injunction,\nin the event of any breach or threatened breach by a party or its Representatives of the provisions of this Agreement without proof of\nactual damages. Neither party will oppose the granting of such relief on the basis that there is an adequate remedy at law. No party shall\nseek, and each party will waive any requirement for, the securing or posting of a bond in connection with a party seeking or obtaining\nsuch relief.\n\n\u00a0\n\n(b) The parties agree that no\nfailure or delay by the other party in exercising any right, power or privilege hereunder shall operate as a waiver thereof, nor shall\nany single or partial exercise thereof preclude any other or further exercise thereof or the exercise of any other right, power or privilege\nhereunder. No partys waiver of any right, power or privilege hereunder, and a partys consent to any action that requires\nits consent hereunder, shall be effective only if given in writing by such party.\n\n\u00a0\n\n(c) If any provision contained\nin this Agreement or the application thereof to you, the Company or any other person or circumstance shall be invalid, illegal or unenforceable\nin any respect under any applicable law as determined by a court of competent jurisdiction, the validity, legality and enforceability\nof the remaining provisions contained in this Agreement, or the application of such provision to such persons or circumstances other than\nthose as to which it has been held invalid, illegal or unenforceable, shall remain in full force and effect and shall in no way be affected,\nimpaired or invalidated thereby. In the case of any such invalidity, illegality or unenforceability, such invalid, illegal or unenforceable\nprovision shall be replaced with one that most closely approximates the effect of such provision that is not invalid, illegal or unenforceable.\nShould a court refuse to so replace such provision, the parties hereto shall negotiate in good faith in an effort to agree upon a suitable\nand equitable substitute provision to effect the original intent of the parties hereto.",
+        "start_char": 38913,
+        "end_char": 41422
+      },
+      "classification": {
+        "label": "Remedies / Injunctive Relief",
+        "confidence": 0.9,
+        "rationale_short": "Clause discusses equitable relief, specific performance, and injunction in case of breach"
+      },
+      "flags": [
+        {
+          "name": "unlimited_liability_language",
+          "severity": "High",
+          "evidence_snippet": "remedies otherwise available, shall be entitled to equitable relief, including, without limitation, specific performance and injunction,\nin the event of any breach or threatened",
+          "explanation": "Language suggests liability may be uncapped or broadly expanded."
+        }
+      ],
+      "analysis": {
+        "clause_id": "c021",
+        "clause_type": "Remedies / Injunctive Relief",
+        "plain_english_summary": "The parties agree to equitable relief, including specific performance and injunction, in case of breach or threatened breach without proof of actual damages. The parties also agree that no failure or delay in exercising any right shall operate as a waiver, and any waiver must be in writing.",
+        "business_risk": {
+          "severity": "High",
+          "why": [
+            "The clause allows for equitable relief without proof of actual damages, which may lead to unlimited liability for one party."
+          ]
+        },
+        "norm_deviation": {
+          "deviates": true,
+          "comparison": "Standard contract language",
+          "suggested_revision": "Consider adding a cap on liability or a requirement for proof of actual damages."
+        },
+        "uncertainty": {
+          "confidence": 0.8,
+          "reasons": [
+            "The clause is standard in many contracts, but its application may vary depending on the jurisdiction and specific circumstances."
+          ]
+        },
+        "citations": [
+          {
+            "rule": "unlimited_liability_language",
+            "evidence": "remedies otherwise available, shall be entitled to equitable relief, including, without limitation, specific performance and injunction,\nin the event of any breach or threatened"
+          }
+        ],
+        "risk_score": 85
+      }
+    },
+    {
+      "clause": {
+        "id": "c022",
+        "text": "8\n\n\u00a0\n\n\u00a0\n\n(d) This Agreement will be binding\nupon and inure to the benefit of the parties hereto and their respective successors and assigns. Any assignment of this Agreement by you\n(including, without limitation, by operation of law) without the prior written consent of the Company shall be void. Any purchaser of\nthe Company or of all, or substantially all, the Companys assets shall be entitled to the benefits of this Agreement, whether or\nnot this Agreement is assigned to such purchaser.\n\n\u00a0\n\n(e) This Agreement (i)\u00a0constitutes\nthe entire agreement between the parties hereto with respect to the subject matter hereof and supersedes all prior discussions, negotiations,\nagreements, arrangements and understandings between the parties hereto with respect to the subject matter hereof, (ii)\u00a0may be amended\nor modified only in a written instrument executed by the parties hereto, and (iii)\u00a0shall, except as otherwise specifically set forth\nherein, cease to be effective three years after the date hereof\u037e \nprovided\n, \nhowever\n, that the confidentiality provisions\ncontained herein shall continue to apply to you so long as you or any of your Representatives retain copies of any Proprietary Information\nor Transaction Information. Without limiting the generality of the preceding sentence, any click-through or similar confidentiality\nagreement entered into by a Receiving Party or any of its Representatives in connection with accessing any electronic data room will have\nno force or effect, whether entered into before, on or after the date hereof.\n\n\u00a0\n\n(f) THIS AGREEMENT SHALL BE\nGOVERNED BY, AND CONSTRUED IN ACCORDANCE WITH, THE LAWS OF THE STATE OF WASHINGTON APPLICABLE TO CONTRACTS EXECUTED IN AND TO BE PERFORMED\nIN THAT STATE. Each party hereto irrevocably and unconditionally consents to submit to the exclusive personal jurisdiction of the courts\nof the State of Washington and the United States of America, in each case located in King County, Washington, for such actions, suits\nor proceedings arising out of or relating to this Agreement and the transactions contemplated hereby (and agrees not to commence any such\naction, suit or proceeding except in such courts). Notwithstanding the foregoing, any party hereto may commence an action, suit or proceeding\nwith any governmental entity anywhere in the world for the sole purpose of seeking recognition and enforcement of a judgment of any court\nreferred to in the preceding sentence. Each party hereto irrevocably and unconditionally waives any objection to the laying of venue of\nany action, suit or proceeding arising out of or relating to this Agreement and the transactions contemplated hereby in the courts of\nthe State of Washington and the United States of America, in each case in King County, Washington, and further waives the right to, and\nagrees not to, plead or claim that any such action, suit or proceeding brought in any such court has been brought in an inconvenient forum.\nService of any process, summons, notice or document by U.S. registered mail to your address set forth below or to the Companys\naddress set forth below shall be effective service of process for any action, suit or proceeding brought against you or the Company, as\napplicable, in any court of competent jurisdiction. EACH PARTY HEREBY IRREVOCABLY WAIVES ANY AND ALL RIGHT TO TRIAL BY JURY IN ANY ACTION,\nSUIT OR PROCEEDING ARISING OUT OF OR RELATING TO THIS AGREEMENT.",
+        "start_char": 41422,
+        "end_char": 44852
+      },
+      "classification": {
+        "label": "Term & Survival",
+        "confidence": 0.9,
+        "rationale_short": "Clause discusses binding nature, assignment, and termination of the agreement."
+      },
+      "flags": [
+        {
+          "name": "unlimited_liability_language",
+          "severity": "High",
+          "evidence_snippet": "ive successors and assigns. Any assignment of this Agreement by you\n(including, without limitation, by operation of law) without the prior written consent of the Company shall be",
+          "explanation": "Language suggests liability may be uncapped or broadly expanded."
+        }
+      ],
+      "analysis": {
+        "clause_id": "c022",
+        "clause_type": "Term & Survival",
+        "plain_english_summary": "Survival of the agreement, assignment, and governing law",
+        "business_risk": {
+          "severity": "High",
+          "why": [
+            "The agreement may be binding on successors and assigns, which could lead to unforeseen liabilities.",
+            "The agreement may be amended or modified only in writing, which could limit flexibility in responding to changing circumstances.",
+            "The agreement may cease to be effective after three years, which could lead to a loss of benefits or obligations."
+          ]
+        },
+        "norm_deviation": {
+          "deviates": true,
+          "comparison": "standard contract language",
+          "suggested_revision": "Consider revising the agreement to include more specific language regarding the scope of liability and the process for amending or modifying the agreement."
+        },
+        "uncertainty": {
+          "confidence": 0.8,
+          "reasons": [
+            "The agreement may be subject to interpretation regarding the scope of liability and the process for amending or modifying the agreement.",
+            "The agreement may be affected by changes in the law or regulatory environment."
+          ]
+        },
+        "citations": [
+          {
+            "rule": "unlimited_liability_language",
+            "evidence": "ive successors and assigns. Any assignment of this Agreement by you\n(including, without limitation, by operation of law) without the prior written consent of the Company shall be"
+          }
+        ],
+        "risk_score": 85
+      }
+    },
+    {
+      "clause": {
+        "id": "c023",
+        "text": "9\n\n\u00a0\n\n\u00a0\n\n(g) Any notice or other communication\nrequired or permitted under this Agreement shall be treated as having been given or delivered when (i)\u00a0delivered personally or by\novernight courier service (costs prepaid), (ii)\u00a0sent by facsimile or e-mail with confirmation of transmission by the transmitting\nequipment, or (iii)\u00a0received or rejected by the addressee, if sent by certified mail, return receipt requested, in each case, subject\nto the preceding sentence, to the addresses, facsimile numbers or e-mail addresses and marked to the attention of the person (by name\nor title) designated below (or to such other address, facsimile number, e-mail address or person as such party may designate by a written\nnotice delivered to the other party hereto). You also agree not to initiate or maintain contact related to the Possible Transaction with\nany Representative (other than the Companys financial advisors and counsel), customer or supplier of the Company (or any of its\naffiliates), except with the express permission of the Company.\n\n\u00a0\n\n(h) When this Agreement calls\nfor the consent of the Company, instructions by the Company, waivers by the Company, or any similar actions by the Company, or any notice\nto the Company, it means a consent, instruction, waiver or similar action by, and notice to, the Special Committee or any person designated\nby the Special Committee for so long as the Special Committee is in existence. After the date that the Special Committee has been disbanded,\nany references in this Agreement to the Special Committee shall be deemed a reference to the Company acting at the direction of the independent\nand disinterested members of the Board of Directors unless the Board of Directors empowers another committee of the Board of Directors\nwith authority relating to a possible transaction with you (in which case any references to the Special Committee shall refer to such\ncommittee).\n\n\u00a0\n\n(i) This Agreement also constitutes\nnotice to you that the Special Committee has engaged Sidley Austin LLP (\nSidley\n) as its legal counsel in connection\nwith the Possible Transaction. Notwithstanding the fact that Sidley may have represented, and may currently represent, the Company, you\nand/or any of your Representatives with respect to matters unrelated to the Possible Transaction, you (on behalf of yourself and your\naffiliates) hereby (i)\u00a0consent to Sidleys continued representation of the Special Committee in connection with the Possible\nTransaction, (ii)\u00a0waive any actual or alleged conflict that may arise from Sidleys representation of the Special Committee\nin connection with the Possible Transaction, and (iii)\u00a0agree that Sidley will be under no duty to disclose any confidential information\nof the Company to you. By entering into this Agreement, you hereby acknowledge that the Company and Sidley will be relying on your consent\nand waiver provided hereby. In addition, you hereby acknowledge that your consent and waiver under this Paragraph\u00a011(i) is voluntary\nand informed, and that you have obtained independent legal advice with respect to this consent and waiver. If you have any questions regarding\nthis Paragraph\u00a011(i), please contact Gary Gerstman and Derek Zaba at Sidley Austin LLP at (312) 853-2060 and (650) 565-7131 or at\nggerstman@sidley.com and dzaba@sidley.com.\n\n\u00a0\n\n(j) You and the Company each\nagree that unless a definitive agreement is executed and delivered with respect to the Possible Transaction (in which case, until such\nexecution and delivery), neither the Company nor you intends to be, nor shall either of us be, under any legal obligation with respect\nto the Possible Transaction or otherwise, by virtue of any written or oral expressions by our respective Representatives with respect\nto the Possible Transaction, including, without limitation, any obligation to commence or continue discussions or negotiations, except\nfor the matters specifically agreed to in this Agreement.\n\n\u00a0\n\n(k) For the convenience of the\nparties, this Agreement may be executed by PDF, facsimile or other electronic means and in counterparts, each of which shall be deemed\nto be an original, and both of which, taken together, shall constitute one agreement binding on both parties hereto.\n\n\u00a0\n\n[\nSignature pages follow\n]",
+        "start_char": 44852,
+        "end_char": 49122
+      },
+      "classification": {
+        "label": "Term & Survival",
+        "confidence": 0.8,
+        "rationale_short": "Clause defines notice and communication procedures"
+      },
+      "flags": [
+        {
+          "name": "unlimited_liability_language",
+          "severity": "High",
+          "evidence_snippet": "respective Representatives with respect\nto the Possible Transaction, including, without limitation, any obligation to commence or continue discussions or negotiations, except\nfor",
+          "explanation": "Language suggests liability may be uncapped or broadly expanded."
+        }
+      ],
+      "analysis": {
+        "clause_id": "c023",
+        "clause_type": "Term & Survival",
+        "plain_english_summary": "Notice and communication procedures for the Possible Transaction",
+        "business_risk": {
+          "severity": "High",
+          "why": [
+            "Notice and communication procedures are standard and do not introduce significant risk"
+          ]
+        },
+        "norm_deviation": {
+          "deviates": true,
+          "comparison": [
+            "Notice and communication procedures may not be typical in all industries or transactions"
+          ],
+          "suggested_revision": "Consider adding specific industry or transactional context to notice and communication procedures"
+        },
+        "uncertainty": {
+          "confidence": 0.7,
+          "reasons": [
+            "Notice and communication procedures may not be clearly defined or may be subject to interpretation"
+          ]
+        },
+        "citations": [
+          {
+            "rule": "unlimited_liability_language",
+            "evidence": "respective Representatives with respect\nto the Possible Transaction, including, without limitation, any obligation to commence or continue discussions or negotiations, except\nfor"
+          }
+        ],
+        "risk_score": 85
+      }
+    },
+    {
+      "clause": {
+        "id": "c024",
+        "text": "10\n\n\u00a0\n\n\u00a0\n\nPlease confirm your agreement\nwith the foregoing by signing and returning to the undersigned the duplicate copy of this Agreement enclosed herewith.\n\n\u00a0\n\nVery truly yours,\n\n\u00a0\n\nNordstrom, Inc.\n\n\u00a0\n\nBy:\n\n/s/ Ann Munson Steines\n\n\u00a0\n\nName:\n\u00a0\n\nAnn Munson Steines\n\n\u00a0\n\nTitle:\n\nChief Legal Officer, General Counsel and Corporate Secretary\n\n\u00a0\n\n\u00a0\n\nAddress: 1617\nSixth Avenue, Seattle, Washington 98101\n\nAttention: Ann\nMunson Steines, Chief Legal Officer, General Counsel and Corporate Secretary",
+        "start_char": 49122,
+        "end_char": 49627
+      },
+      "classification": {
+        "label": "Term & Survival",
+        "confidence": 1.0,
+        "rationale_short": "Endorsement of agreement"
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c024",
+        "clause_type": "Term & Survival",
+        "plain_english_summary": "Request to confirm agreement with the terms of the Agreement",
+        "business_risk": {
+          "severity": "Low",
+          "why": [
+            "This clause is a standard request for confirmation of agreement and does not pose a significant risk to the business."
+          ]
+        },
+        "norm_deviation": {
+          "deviates": false,
+          "comparison": [
+            "standard contract language"
+          ],
+          "suggested_revision": "None"
+        },
+        "uncertainty": {
+          "confidence": 0.8,
+          "reasons": [
+            "The clause is clear and unambiguous, but the exact implications of non-compliance are unclear."
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c026",
+        "text": "AGREED AS OF THE ABOVE DATE\n\n\u00a0\n\n/s/ Erik B. Nordstrom\n\n\u00a0\n\nErik B. Nordstrom\n\n\u00a0\n\n\u00a0\n\n/s/ Peter E. Nordstrom\n\n\u00a0\n\nPeter E. Nordstrom",
+        "start_char": 49640,
+        "end_char": 49776
+      },
+      "classification": {
+        "label": "Miscellaneous",
+        "confidence": 1.0,
+        "rationale_short": "Signatures only, no contractual content."
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c026",
+        "clause_type": "Miscellaneous",
+        "plain_english_summary": "This clause appears to be a signature block from a contract, indicating that the agreement has been signed by Erik B. Nordstrom and Peter E. Nordstrom.",
+        "business_risk": {
+          "severity": "Low",
+          "why": [
+            "The clause does not appear to contain any language that would indicate a significant business risk."
+          ]
+        },
+        "norm_deviation": {
+          "deviates": true,
+          "comparison": [
+            "Standard contract signature block"
+          ],
+          "suggested_revision": "Consider using a more formal or standardized signature block."
+        },
+        "uncertainty": {
+          "confidence": 0.8,
+          "reasons": [
+            "The clause is a standard signature block, but the context is not provided, which may affect the interpretation of the clause."
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c028",
+        "text": "NORDSTROM 2012 CHILDRENS TRUST\n\n\u00a0\n\nBy:\n\n/s/ Erik B. Nordstrom\n\n\u00a0\n\nName:\n\u00a0\n\nErik B. Nordstrom\n\n\u00a0\n\nTitle:\n\nTrustee",
+        "start_char": 49792,
+        "end_char": 49912
+      },
+      "classification": {
+        "label": "Miscellaneous",
+        "confidence": 1.0,
+        "rationale_short": "The clause appears to be a signature block for a trust document."
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c028",
+        "clause_type": "Miscellaneous",
+        "plain_english_summary": "Trustee signature for the NORDSTROM 2012 CHILDRENS TRUST",
+        "business_risk": {
+          "severity": "Low",
+          "why": [
+            "This clause is a standard trustee signature and does not appear to introduce any significant business risk."
+          ]
+        },
+        "norm_deviation": {
+          "deviates": false,
+          "comparison": [],
+          "suggested_revision": ""
+        },
+        "uncertainty": {
+          "confidence": 0.8,
+          "reasons": [
+            "The clause appears to be a standard trustee signature, but without more context, it is difficult to assess its relevance to the overall contract."
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c030",
+        "text": "MFN 2010 TRUST\n\n\u00a0\n\nBy:\n\n/s/ Erik B. Nordstrom\n\n\u00a0\n\nName:\n\u00a0\n\nErik B. Nordstrom\n\n\u00a0\n\nTitle:\n\nTrustee",
+        "start_char": 49928,
+        "end_char": 50032
+      },
+      "classification": {
+        "label": "Governing Law",
+        "confidence": 1.0,
+        "rationale_short": "The clause appears to be a signature block, indicating the governing law of the contract."
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c030",
+        "clause_type": "Governing Law",
+        "plain_english_summary": "This clause appears to be a signature block for a trust agreement, rather than a governing law clause.",
+        "business_risk": {
+          "severity": "Low",
+          "why": [
+            "This clause does not appear to have any significant business risk implications."
+          ]
+        },
+        "norm_deviation": {
+          "deviates": true,
+          "comparison": [
+            "Typical governing law clauses specify the applicable jurisdiction or law"
+          ],
+          "suggested_revision": "Consider adding a governing law clause to specify the applicable jurisdiction or law."
+        },
+        "uncertainty": {
+          "confidence": 0.7,
+          "reasons": [
+            "The text does not clearly indicate the purpose of the clause, and the signature block format is unusual for a governing law clause."
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c031",
+        "text": "PETE AND BRANDY CFN 2012 TRUST\n\n\u00a0\n\nBy:\n\n/s/ Erik B. Nordstrom\n\n\u00a0\n\nName:\n\u00a0\n\nErik B. Nordstrom\n\n\u00a0\n\nTitle:\n\nTrustee",
+        "start_char": 50032,
+        "end_char": 50161
+      },
+      "classification": {
+        "label": "Miscellaneous",
+        "confidence": 1.0,
+        "rationale_short": "No apparent confidentiality or IP-related content"
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c031",
+        "clause_type": "Miscellaneous",
+        "plain_english_summary": "This clause appears to be a trust document signed by Erik B. Nordstrom as Trustee, but it lacks specific details about the trust's purpose, assets, or obligations.",
+        "business_risk": {
+          "severity": "High",
+          "why": [
+            "The lack of clarity in the trust document may lead to misunderstandings or misinterpretations of the trust's terms.",
+            "The absence of specific details may result in disputes or conflicts among beneficiaries or other parties involved."
+          ]
+        },
+        "norm_deviation": {
+          "deviates": true,
+          "comparison": [
+            "Typically, trust documents include clear statements of purpose, assets, and obligations."
+          ],
+          "suggested_revision": "Consider adding a clear statement of purpose, assets, and obligations to the trust document."
+        },
+        "uncertainty": {
+          "confidence": 0.8,
+          "reasons": [
+            "The trust document is not a standard template, and its specific language and structure may be unique to this particular agreement.",
+            "The context in which the trust was created is not provided, which may affect the interpretation of the document."
+          ]
+        },
+        "citations": [],
+        "risk_score": 85
+      }
+    },
+    {
+      "clause": {
+        "id": "c032",
+        "text": "ERIK AND JULIE NORDSTROM 2012 SDN TRUST\n\n\u00a0\n\nBy:\n\n/s/ Peter E. Nordstrom\n\n\u00a0\n\nName:\n\u00a0\n\nPeter E. Nordstrom\n\n\u00a0\n\nTitle:\n\nTrustee\n\n\u00a0\n\n\u00a0\n\nBRUCE & JEANNIE NORDSTROM 2010 MFN TRUST\n\n\u00a0\n\nBy:\n\n/s/ Peter E. Nordstrom\n\n\u00a0\n\nName:\n\u00a0\n\nPeter E. Nordstrom\n\n\u00a0\n\nTitle: \n\nTrustee\n\n\u00a0\n\n\u00a0\n\nBRUCE & JEANNIE NORDSTROM 2012 CFN TRUST\n\n\u00a0\n\nBy:\n\n/s/ Peter E. Nordstrom\n\n\u00a0\n\nName:\n\u00a0\n\nPeter E. Nordstrom\n\n\u00a0\n\nTitle: \n\nTrustee",
+        "start_char": 50161,
+        "end_char": 50558
+      },
+      "classification": {
+        "label": "Miscellaneous",
+        "confidence": 1.0,
+        "rationale_short": "The clause appears to be a signature block with no contractual language."
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c032",
+        "clause_type": "Miscellaneous",
+        "plain_english_summary": "This clause appears to be a signature block for multiple trusts, indicating that Peter E. Nordstrom is the trustee for the BRUCE & JEANNIE NORDSTROM 2010 MFN TRUST, the BRUCE & JEANNIE NORDSTROM 2012 SDN TRUST, and the BRUCE & JEANNIE NORDSTROM 2012 CFN TRUST.",
+        "business_risk": {
+          "severity": "Low",
+          "why": [
+            "The clause does not appear to impose any significant obligations or restrictions on the trusts or their trustee."
+          ]
+        },
+        "norm_deviation": {
+          "deviates": false,
+          "comparison": [],
+          "suggested_revision": ""
+        },
+        "uncertainty": {
+          "confidence": 0.8,
+          "reasons": [
+            "The analysis is based on a limited understanding of the trusts and their purposes."
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c033",
+        "text": "1976 BRUCE A. NORDSTROM TRUST (aka ELIZABETH NORDSTROM 1976 TRUST FBO\nBRUCE NORDSTROM)\n\n\u00a0\n\nBy:\n\n/s/ Peter E. Nordstrom\n\n\u00a0\n\nName:\n\u00a0\n\nPeter E. Nordstrom\n\n\u00a0\n\nTitle: \n\nCo-Trustee\n\n\u00a0\n\n\u00a0\n\nBy:\n\n/s/ Erik B. Nordstrom\n\n\u00a0\n\nName:\n\u00a0\n\nErik B. Nordstrom\n\n\u00a0\n\nTitle:\n\nCo-Trustee\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\nFRANCES W. NORDSTROM TRUST FBO BAN, created under will dated April\u00a04,",
+        "start_char": 50558,
+        "end_char": 50907
+      },
+      "classification": {
+        "label": "Miscellaneous",
+        "confidence": 0.35,
+        "rationale_short": "keyword baseline"
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c033",
+        "clause_type": "Miscellaneous",
+        "plain_english_summary": "Trust agreement",
+        "business_risk": {
+          "severity": "Low",
+          "why": [
+            "This clause appears to be a standard trust agreement, with no apparent risks or liabilities"
+          ]
+        },
+        "norm_deviation": {
+          "deviates": false,
+          "comparison": [
+            "standard trust agreement"
+          ],
+          "suggested_revision": "None"
+        },
+        "uncertainty": {
+          "confidence": 0.9,
+          "reasons": [
+            "Limited context, but appears to be a standard trust agreement"
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c034",
+        "text": "1984\n\n\u00a0\n\nBy:\n\n/s/ Peter E. Nordstrom\n\n\u00a0\n\nName:\n\u00a0\n\nPeter E. Nordstrom\n\n\u00a0\n\nTitle: \n\nCo-Trustee\n\n\u00a0\n\n\u00a0\n\nBy:\n\n/s/ Erik B. Nordstrom\n\n\u00a0\n\nName:\n\u00a0\n\nErik B. Nordstrom\n\n\u00a0\n\nTitle:\n\nCo-Trustee\n\n\u00a0\n\n\u00a0\n\nAddress: 1617\nSixth Avenue, Seattle, Washington 98101\n\nAttention: Erik\nB. Nordstrom and Peter E. Nordstrom\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\n------MultipartBoundary--I3eWF0YnTPgma9Y3XdUVLZ1AUA9QK1szGmK91wZwhs------",
+        "start_char": 50907,
+        "end_char": 51288
+      },
+      "classification": {
+        "label": "Miscellaneous",
+        "confidence": 1.0,
+        "rationale_short": "Signatures and addresses of parties"
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c034",
+        "clause_type": "Miscellaneous",
+        "plain_english_summary": "Trustee signature block",
+        "business_risk": {
+          "severity": "Low",
+          "why": [
+            "This clause is a standard trustee signature block and does not appear to introduce any significant business risk."
+          ]
+        },
+        "norm_deviation": {
+          "deviates": false,
+          "comparison": [],
+          "suggested_revision": ""
+        },
+        "uncertainty": {
+          "confidence": 0.8,
+          "reasons": [
+            "The clause appears to be a standard trustee signature block, but without more context, it is uncertain whether this is a unique or boilerplate clause."
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    }
+  ],
+  "contract_risk": {
+    "score": 62,
+    "level": "Medium"
+  },
+  "missing_clauses": [
+    "Definition of Confidential Info"
+  ],
+  "settings": {
+    "use_llm_classification": true,
+    "use_rag": true,
+    "use_rules": true,
+    "use_llm_analysis": true
+  }
+}

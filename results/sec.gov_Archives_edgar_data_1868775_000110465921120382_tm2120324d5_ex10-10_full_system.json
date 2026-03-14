@@ -1,0 +1,500 @@
+{
+  "disclaimer": "Not legal advice. Educational decision support only. No attorney-client relationship is formed.",
+  "doc_flags": [],
+  "clauses": [
+    {
+      "clause": {
+        "id": "c001",
+        "text": "Snapshot-Content-Location: https://www.sec.gov/Archives/edgar/data/1868775/000110465921120382/tm2120324d5_ex10-10.htm\nSubject: \nDate: Mon, 9 Mar 2026 13:24:45 +0200\nMIME-Version: 1.0\nContent-Type: multipart/related;\n type=\"text/html\";\n boundary=\"----MultipartBoundary--5AdXGCuRRplMdDTIZ01O0ODdan9uZJ6lxAVI6cu8PD----\"\n\n------MultipartBoundary--5AdXGCuRRplMdDTIZ01O0ODdan9uZJ6lxAVI6cu8PD----\nContent-Type: text/html\nContent-ID: \n\nContent-Transfer-Encoding: binary\nContent-Location: https://www.sec.gov/Archives/edgar/data/1868775/000110465921120382/tm2120324d5_ex10-10.htm\n\nEX-10.10",
+        "start_char": 0,
+        "end_char": 582
+      },
+      "classification": {
+        "label": "Return/Destruction",
+        "confidence": 0.8,
+        "rationale_short": "Clause discusses content transfer encoding and content location"
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c001",
+        "clause_type": "Return/Destruction",
+        "plain_english_summary": "This clause appears to be a standard email header and footer, likely used for sending a document electronically.",
+        "business_risk": {
+          "severity": "Low",
+          "why": [
+            "The clause does not contain any language that would indicate a significant business risk."
+          ]
+        },
+        "norm_deviation": {
+          "deviates": true,
+          "comparison": [
+            "standard email headers and footers"
+          ],
+          "suggested_revision": "Consider including a clear statement of the purpose of the email and the document being sent."
+        },
+        "uncertainty": {
+          "confidence": 0.7,
+          "reasons": [
+            "The clause is a standard email header and footer, but it may not be clear what the purpose of the email is or what the document being sent contains."
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c002",
+        "text": "11\n\ntm2120324d5_ex10-10.htm\n\nEXHIBIT 10.10\n\n\u00a0\n\nExhibit 10.10",
+        "start_char": 582,
+        "end_char": 647
+      },
+      "classification": {
+        "label": "Miscellaneous",
+        "confidence": 1.0,
+        "rationale_short": "No clear contractual content, appears to be an exhibit title"
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c002",
+        "clause_type": "Miscellaneous",
+        "plain_english_summary": "Exhibit 10.10 with no content",
+        "business_risk": {
+          "severity": "Low",
+          "why": [
+            "No apparent business risk"
+          ]
+        },
+        "norm_deviation": {
+          "deviates": true,
+          "comparison": [
+            "Typical exhibit content"
+          ],
+          "suggested_revision": "Add meaningful content"
+        },
+        "uncertainty": {
+          "confidence": 0.8,
+          "reasons": [
+            "Limited context, unclear purpose"
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c003",
+        "text": "CONFIDENTIALITY AGREEMENT\n\n\u00a0\n\nThis Confidentiality Agreement\n(Agreement) is entered into on\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0,",
+        "start_char": 647,
+        "end_char": 760
+      },
+      "classification": {
+        "label": "Confidentiality",
+        "confidence": 1.0,
+        "rationale_short": "The clause is titled 'CONFIDENTIALITY AGREEMENT'"
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c003",
+        "clause_type": "Confidentiality",
+        "plain_english_summary": "This clause is a confidentiality agreement that outlines the terms and conditions for maintaining confidentiality.",
+        "business_risk": {
+          "severity": "Low",
+          "why": [
+            "The clause is a standard confidentiality agreement and does not introduce significant risk."
+          ]
+        },
+        "norm_deviation": {
+          "deviates": true,
+          "comparison": [
+            "industry standard confidentiality agreements"
+          ],
+          "suggested_revision": "Consider adding a specific definition of confidential information."
+        },
+        "uncertainty": {
+          "confidence": 0.8,
+          "reasons": [
+            "The clause is a standard template, but the specific circumstances of the agreement may affect its applicability."
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c004",
+        "text": "2021 by and between A SPAC I Acquisition Corp (the SPAC) and __Jin Ming_________ (Recipient).\n\n\u00a0\n\nWHEREAS, in connection with\na potential business relationship, the SPAC may disclose to Recipient certain Confidential Information (as defined below);\n\n\u00a0\n\nNOW THEREFORE, in consideration\nof the mutual covenants contained herein, the parties agree as follows:",
+        "start_char": 760,
+        "end_char": 1121
+      },
+      "classification": {
+        "label": "Confidentiality",
+        "confidence": 0.8,
+        "rationale_short": "References 'Confidential Information' and 'certain Confidential Information'."
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c004",
+        "clause_type": "Confidentiality",
+        "plain_english_summary": "The parties agree to keep confidential information shared between them.",
+        "business_risk": {
+          "severity": "Low",
+          "why": [
+            "The clause is a standard confidentiality agreement, which is common in business relationships."
+          ]
+        },
+        "norm_deviation": {
+          "deviates": false,
+          "comparison": [
+            "This clause follows the standard format and content of a confidentiality agreement."
+          ],
+          "suggested_revision": ""
+        },
+        "uncertainty": {
+          "confidence": 0.8,
+          "reasons": [
+            "The clause is a standard confidentiality agreement, but the parties involved may have different expectations or interpretations of what constitutes confidential information."
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c005",
+        "text": "1.\nRecipient may receive or become aware of certain confidential and proprietary information relating to\nthe business and operations of the SPAC, A SPAC (Holdings) Acquisition Corp., the SPACs sponsor, any target company considered\nby the SPAC for the initial business combination or any of their respective affiliates, including reports, financial information, trade\nsecrets, research information, finances and financial projections, current or future business plans and models and other business or operational\ninformation (the \nConfidential Information\n), regardless of whether such information is designated as confidential\ninformation at the time of its disclosure. Confidential Information shall include all information (oral or written)\nrelating to the potential business relationship (including the fact that the SPAC has reached out to Recipient regarding the potential\nbusiness relationship and, to the extent applicable, has entered into such business relationship), that the SPAC furnishes or has furnished\nto Recipient prior to, on or after the date of this Agreement, and all notes, analyses, compilations, forecasts, studies or other documents\nprepared by Recipient that contain, reflect or are based on such information.",
+        "start_char": 1121,
+        "end_char": 2364
+      },
+      "classification": {
+        "label": "Confidentiality",
+        "confidence": 1.0,
+        "rationale_short": "Describes confidential information and its scope"
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c005",
+        "clause_type": "Confidentiality",
+        "plain_english_summary": "The recipient may receive confidential information about the SPAC, its sponsor, target companies, and affiliates.",
+        "business_risk": {
+          "severity": "Medium",
+          "why": [
+            "The recipient may be exposed to confidential information that could harm the SPAC or its affiliates if it is disclosed."
+          ]
+        },
+        "norm_deviation": {
+          "deviates": true,
+          "comparison": [
+            "Standard confidentiality clauses typically do not include such broad definitions of confidential information."
+          ],
+          "suggested_revision": "Consider revising the definition to include only information that is truly confidential and not publicly available."
+        },
+        "uncertainty": {
+          "confidence": 0.7,
+          "reasons": [
+            "The clause may be overly broad, but it is unclear what specific information is intended to be protected."
+          ]
+        },
+        "citations": [],
+        "risk_score": 60
+      }
+    },
+    {
+      "clause": {
+        "id": "c006",
+        "text": "2.\nRecipient hereby acknowledges the confidential and proprietary nature of such Confidential Information\nand agrees that the Confidential information will be used solely in connection with Recipients service on the board of directors\nof the SPAC and for no other purpose and further agrees not to disclose or otherwise attempt to use or personally benefit from any Confidential\nInformation that is disclosed to or known by Recipient until such time as the Confidential Information has become publicly available through\nno action of Recipient, except to the extent required by law or as expressly permitted by the SPAC.",
+        "start_char": 2364,
+        "end_char": 2990
+      },
+      "classification": {
+        "label": "Confidentiality",
+        "confidence": 1.0,
+        "rationale_short": "Acknowledges confidential and proprietary nature of information"
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c006",
+        "clause_type": "Confidentiality",
+        "plain_english_summary": "The recipient agrees to keep confidential information confidential and only use it for specific purposes.",
+        "business_risk": {
+          "severity": "Low",
+          "why": [
+            "The risk of unauthorized disclosure is low as the recipient is only allowed to use the information for specific purposes."
+          ]
+        },
+        "norm_deviation": {
+          "deviates": false,
+          "comparison": [
+            "industry standard confidentiality agreements"
+          ],
+          "suggested_revision": "None"
+        },
+        "uncertainty": {
+          "confidence": 0.8,
+          "reasons": [
+            "The clause is standard and widely used, but the specific circumstances of the agreement may affect its interpretation."
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c007",
+        "text": "3.\nIf Recipient is requested or required, in connection with any proceeding by or before a governmental authority,\nto disclose any Confidential Information, Recipient will give the SPAC prompt written notice of such request or requirement so that the\nSPAC may seek an appropriate order or other remedy protecting the Confidential Information from disclosure, and Recipient will cooperate\nwith the SPAC to obtain such protective order or other remedy. In the event that a protective order or other remedy is not obtained or\nthe SPAC waives its rights to seek such an order or other remedy, Recipient may, without liability under this Agreement, furnish only\nthat portion of the Confidential Information which, in the written opinion of Recipients counsel, Recipient is legally required\nto disclose, provided that Recipient gives the SPAC written notice of the information to be disclosed as far in advance of its disclosure\nas practicable and uses its best efforts to obtain assurances that confidential treatment will be accorded to such information.",
+        "start_char": 2990,
+        "end_char": 4054
+      },
+      "classification": {
+        "label": "Permitted Disclosures",
+        "confidence": 0.8,
+        "rationale_short": "Clause describes when Recipient can disclose Confidential Information under certain conditions."
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c007",
+        "clause_type": "Permitted Disclosures",
+        "plain_english_summary": "Recipient must notify SPAC of requests to disclose confidential information and cooperate to protect it. If a protective order is not obtained, Recipient can disclose only the required information.",
+        "business_risk": {
+          "severity": "Low",
+          "why": [
+            "The clause provides a framework for Recipient to disclose confidential information while minimizing the risk of unauthorized disclosure."
+          ]
+        },
+        "norm_deviation": {
+          "deviates": true,
+          "comparison": [
+            "Standard confidentiality clauses typically do not specify the process for obtaining a protective order."
+          ],
+          "suggested_revision": "Consider adding a specific timeline for Recipient to notify SPAC of requests to disclose confidential information."
+        },
+        "uncertainty": {
+          "confidence": 0.8,
+          "reasons": [
+            "The clause's effectiveness in protecting confidential information may depend on the specific circumstances of the request and the cooperation of the parties involved."
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c008",
+        "text": "4.\nIn the event of the termination or conclusion of this potential or consummated relationship, Recipient\nshall return or destroy all Confidential Information and destroy or permanently erase (to the extent technically practicable) all copies\nof Confidential Information made by Recipient and use its reasonable endeavors to ensure that anyone to whom it has supplied any Confidential\nInformation destroys or permanently erases (to the extent technically practicable) such Confidential Information and any copies made save\nto the extent required to be retained by applicable law, rule or regulation or by any competent judicial, governmental, supervisory or\nregulatory body, or where the Confidential Information has been disclosed under paragraph 3 above.",
+        "start_char": 4054,
+        "end_char": 4817
+      },
+      "classification": {
+        "label": "Return/Destruction",
+        "confidence": 0.9,
+        "rationale_short": "Clause requires return or destruction of confidential information upon termination or conclusion of the relationship."
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c008",
+        "clause_type": "Return/Destruction",
+        "plain_english_summary": "The recipient must return or destroy all confidential information and ensure that anyone else who has received it does the same, except where required by law or regulation.",
+        "business_risk": {
+          "severity": "Medium",
+          "why": [
+            "Breaches of confidentiality can result in reputational damage, financial loss, and legal liability."
+          ]
+        },
+        "norm_deviation": {
+          "deviates": true,
+          "comparison": [
+            "NIST 800-171, 3.5; GDPR, Article 32"
+          ],
+          "suggested_revision": "Consider adding specific timelines for return or destruction of confidential information."
+        },
+        "uncertainty": {
+          "confidence": 0.7,
+          "reasons": [
+            "The clause may not cover all possible scenarios, such as accidental disclosure or unauthorized access."
+          ]
+        },
+        "citations": [],
+        "risk_score": 60
+      }
+    },
+    {
+      "clause": {
+        "id": "c009",
+        "text": "5.\nRecipient acknowledges that money damages would not be a sufficient remedy for any breach of this Agreement\nby Recipient and, in addition to all other remedies available under applicable law, the SPAC shall be entitled to seek specific performance\nand to injunctive or other equitable relief as a remedy for any such breach.",
+        "start_char": 4817,
+        "end_char": 5151
+      },
+      "classification": {
+        "label": "Remedies / Injunctive Relief",
+        "confidence": 1.0,
+        "rationale_short": "Specific performance and injunctive relief mentioned"
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c009",
+        "clause_type": "Remedies / Injunctive Relief",
+        "plain_english_summary": "The SPAC can seek specific performance and injunctive relief if the recipient breaches the agreement.",
+        "business_risk": {
+          "severity": "High",
+          "why": [
+            "The SPAC may not be able to fully recover from a breach, and injunctive relief can help prevent further harm."
+          ]
+        },
+        "norm_deviation": {
+          "deviates": true,
+          "comparison": [
+            "Typically, remedies for breach are limited to monetary damages"
+          ],
+          "suggested_revision": "Consider adding a specific timeline for when the SPAC can seek injunctive relief"
+        },
+        "uncertainty": {
+          "confidence": 0.8,
+          "reasons": [
+            "The specific performance and injunctive relief remedy may not be enforceable in all jurisdictions"
+          ]
+        },
+        "citations": [],
+        "risk_score": 85
+      }
+    },
+    {
+      "clause": {
+        "id": "c010",
+        "text": "6.\nThis Agreement shall be governed in all respects by the internal laws of the State of New York, without\ngiving effect to New York principles or rules of conflict of laws to the extent such principles or rules would require or permit the application\nof the laws of another jurisdiction.",
+        "start_char": 5151,
+        "end_char": 5446
+      },
+      "classification": {
+        "label": "Governing Law",
+        "confidence": 1.0,
+        "rationale_short": "States the governing law of the contract"
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c010",
+        "clause_type": "Governing Law",
+        "plain_english_summary": "This contract is governed by the laws of New York, excluding any principles or rules that would apply laws from other jurisdictions.",
+        "business_risk": {
+          "severity": "Low",
+          "why": [
+            "The choice of governing law is a common practice in contracts, and New York law is a neutral jurisdiction."
+          ]
+        },
+        "norm_deviation": {
+          "deviates": false,
+          "comparison": [
+            "Most contracts choose a governing law that is neutral or favorable to one of the parties."
+          ],
+          "suggested_revision": "None"
+        },
+        "uncertainty": {
+          "confidence": 0.8,
+          "reasons": [
+            "The clause is a standard choice of governing law, but the exclusion of New York principles or rules may be subject to interpretation."
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c011",
+        "text": "7.\nThis Agreement may be executed in one or more counterparts, each of which shall be deemed an original\ncopy of this Agreement, and all of which, taken together, shall be deemed to constitute one and the same agreement.",
+        "start_char": 5446,
+        "end_char": 5673
+      },
+      "classification": {
+        "label": "Term & Survival",
+        "confidence": 0.8,
+        "rationale_short": "Refers to the agreement's duration and continuation after termination"
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c011",
+        "clause_type": "Term & Survival",
+        "plain_english_summary": "Counterparts can be used to execute the agreement",
+        "business_risk": {
+          "severity": "Low",
+          "why": [
+            "This is a standard clause in many agreements"
+          ]
+        },
+        "norm_deviation": {
+          "deviates": false,
+          "comparison": [
+            "standard practice in contract law"
+          ],
+          "suggested_revision": "None"
+        },
+        "uncertainty": {
+          "confidence": 0.9,
+          "reasons": [
+            "The clause is clear and unambiguous, but may not be applicable in all jurisdictions"
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c012",
+        "text": "8.\nThis Agreement represents the entire understanding of the SPAC and Recipient and cannot be amended, supplemented\nor otherwise modified except in a writing executed by the parties.\n\n\u00a0\n\nI have read and understand the foregoing terms\nand conditions and agree to be bound by them as of the date written above.\n\n\u00a0\n\n[Signature pages follow]\n\n\u00a0\n\n[Signature page to confidentiality\nagreement]\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\nA SPAC I Acquisition Corp.\n\n\u00a0\n\nBy:\n\u00a0\n\n\u00a0\n\n\u00a0\nName: Claudius Tsang\n\n\u00a0\n\n\u00a0\nTitle: Chief Executive Officer\n\n\u00a0\n\n\u00a0\nDate:\n\n\u00a0\n\n\u00a0\n\n[Signature page to confidentiality\nagreement]\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\nName: Jin Ming\n\n\u00a0\n\nDate:\n\n\u00a0\n\n\u00a0\n\n[Signature page to confidentiality\nagreement]\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\n------MultipartBoundary--5AdXGCuRRplMdDTIZ01O0ODdan9uZJ6lxAVI6cu8PD------",
+        "start_char": 5673,
+        "end_char": 6420
+      },
+      "classification": {
+        "label": "Term & Survival",
+        "confidence": 0.8,
+        "rationale_short": "Clause specifies the entire agreement and its modification requirements."
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c012",
+        "clause_type": "Term & Survival",
+        "plain_english_summary": "This agreement cannot be changed without a written agreement from both parties.",
+        "business_risk": {
+          "severity": "Low",
+          "why": [
+            "This clause limits the ability of the parties to make changes to the agreement, which may reduce the risk of disputes or misunderstandings."
+          ]
+        },
+        "norm_deviation": {
+          "deviates": true,
+          "comparison": [
+            "This clause deviates from the standard practice of allowing parties to make changes to an agreement through oral or written communication."
+          ],
+          "suggested_revision": "Consider adding a provision for oral or written communication to make changes to the agreement."
+        },
+        "uncertainty": {
+          "confidence": 0.8,
+          "reasons": [
+            "The clause is clear and unambiguous, but the interpretation of 'writing' may vary depending on the jurisdiction."
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    }
+  ],
+  "contract_risk": {
+    "score": 44,
+    "level": "Medium"
+  },
+  "missing_clauses": [
+    "Definition of Confidential Info",
+    "Exceptions"
+  ],
+  "settings": {
+    "use_llm_classification": true,
+    "use_rag": true,
+    "use_rules": true,
+    "use_llm_analysis": true
+  }
+}

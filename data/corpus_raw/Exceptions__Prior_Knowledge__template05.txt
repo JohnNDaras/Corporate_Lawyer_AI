@@ -1,0 +1,3 @@
+EXCEPTIONS
+
+The obligations of confidentiality shall not apply to information that the Receiving Party can demonstrate was already known to it prior to disclosure by the Disclosing Party.

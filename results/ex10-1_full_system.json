@@ -1,0 +1,1057 @@
+{
+  "disclaimer": "Not legal advice. Educational decision support only. No attorney-client relationship is formed.",
+  "doc_flags": [],
+  "clauses": [
+    {
+      "clause": {
+        "id": "c001",
+        "text": "Snapshot-Content-Location: https://www.sec.gov/Archives/edgar/data/937136/000093713609000023/ex10-1.htm\nSubject: ex10-1.htm\nDate: Mon, 9 Mar 2026 16:05:19 +0200\nMIME-Version: 1.0\nContent-Type: multipart/related;\n type=\"text/html\";\n boundary=\"----MultipartBoundary--ZgMB0LqNaTxFdVfSatTgM4Lb8kKgextJxVXooVSdIY----\"\n\n------MultipartBoundary--ZgMB0LqNaTxFdVfSatTgM4Lb8kKgextJxVXooVSdIY----\nContent-Type: text/html\nContent-ID: \n\nContent-Transfer-Encoding: binary\nContent-Location: https://www.sec.gov/Archives/edgar/data/937136/000093713609000023/ex10-1.htm\n\nEX-10.1",
+        "start_char": 0,
+        "end_char": 563
+      },
+      "classification": {
+        "label": "Term & Survival",
+        "confidence": 0.9,
+        "rationale_short": "Clause appears to be a file attachment description"
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c001",
+        "clause_type": "Term & Survival",
+        "plain_english_summary": "This clause outlines the term and survival of the agreement, specifying that it will remain in effect for a certain period after termination or expiration.",
+        "business_risk": {
+          "severity": "Medium",
+          "why": [
+            "The clause may lead to ongoing obligations and liabilities after the agreement has ended, which could impact the company's financial situation."
+          ]
+        },
+        "norm_deviation": {
+          "deviates": true,
+          "comparison": "industry standard",
+          "suggested_revision": "Consider revising the clause to specify a more precise duration or conditions for survival."
+        },
+        "uncertainty": {
+          "confidence": 0.7,
+          "reasons": [
+            "The clause's language is unclear regarding the specific circumstances under which the agreement will survive termination or expiration."
+          ]
+        },
+        "citations": [],
+        "risk_score": 60
+      }
+    },
+    {
+      "clause": {
+        "id": "c002",
+        "text": "2\n\nex10-1.htm\n\nEXHIBIT 10.1\n\nex10-1.htm\n\nExhibit 10.1",
+        "start_char": 563,
+        "end_char": 624
+      },
+      "classification": {
+        "label": "Miscellaneous",
+        "confidence": 1.0,
+        "rationale_short": "No clear contractual content, appears to be exhibit information"
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c002",
+        "clause_type": "Miscellaneous",
+        "plain_english_summary": "This clause appears to be an exhibit or attachment to the contract, but does not contain any substantive terms or provisions.",
+        "business_risk": {
+          "severity": "Low",
+          "why": [
+            "This clause does not appear to have any significant business risk associated with it."
+          ]
+        },
+        "norm_deviation": {
+          "deviates": false,
+          "comparison": [],
+          "suggested_revision": "None"
+        },
+        "uncertainty": {
+          "confidence": 0.8,
+          "reasons": [
+            "The clause is very short and does not contain any complex or ambiguous language."
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c006",
+        "text": "AGREEMENT FOR EXCLUSIVE DEALING",
+        "start_char": 681,
+        "end_char": 715
+      },
+      "classification": {
+        "label": "Miscellaneous",
+        "confidence": 1.0,
+        "rationale_short": "The clause is an agreement for exclusive dealing, which doesn't fit into any specific category of the taxonomy."
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c006",
+        "clause_type": "Miscellaneous",
+        "plain_english_summary": "Exclusive dealing agreement",
+        "business_risk": {
+          "severity": "Low",
+          "why": [
+            "This clause is standard in many contracts and is unlikely to cause significant business risk"
+          ]
+        },
+        "norm_deviation": {
+          "deviates": false,
+          "comparison": [
+            "industry standards"
+          ],
+          "suggested_revision": "none"
+        },
+        "uncertainty": {
+          "confidence": 0.8,
+          "reasons": [
+            "Limited context, but this clause is common in contracts"
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c007",
+        "text": "AND LETTER OF INTENT\n\n\u00a0\n\nThis AGREEMENT FOR ECLUSIVE DEALING AND LETTER\u00a0OF INTENT (the \"LOI\"), is effective October 11, 2009 (the \"Effective Date\"), between Hyperdynamics Corporation of One Sugar Creek Center Blvd, Suite 125, Sugar Land, Texas 77478, USA (\"HDY\") acting for itself and as agent for on behalf of SCS Corporation of One Sugar Creek Center Blvd,\nSuite 125, Sugar Land, Texas 77478, USA (\"SCS\"), of the first part, \nand \nDana Petroleum (E&P) Limited, of 17 Carden Place, Aberdeen AB10 1\nUR, \nScotland, UK (\"DANA\"), of the second part. HDY and DANA may also be referred to herein individually as a \"Party\" or collectively as the \"P arties\".\n\n\u00a0\n\nRecitals:\n\n\u00a0\n\nWHEREAS, HDY owns, through its wholly owned and controlled subsidiary, SCS, certain rights pertaining to the Hydrocarbon Production Sharing Contract dated September 22, 2006 between the Republic of Guinea and SCS (the \"PSC\"); and\n\n\u00a0\n\nWHEREAS a Memorandum of Understanding in relation to the PSC has been entered into between the Republic of Guinea and SCS dated September II, 2009(the ''MoU'');and\n\n\u00a0\n\nWHEREAS, DANA possesses certain expertise and resources that it believes will be beneficial in the exploration and development of the area to which the PSC applies as may \nbe \nvaried pursuant to the MoU (the \"Project\"); and\n\n\u00a0\n\nWHEREAS, DANA wishes to evaluate its potential participation in the Project on an exclusive basis; and\n\n\u00a0\n\nWHEREAS, the Parties wish to record in this LOI certain binding and certain non-binding commercial terms and conditions on which the Parties have agreed to continue discussions and conduct further mutual evaluation \nand \nnegotiations with the possibility of, but not the obligation to,\nreaching binding definitive agreement(s) as to DANA's participation in the Project (the \"Definitive Agreements\").\n\n\u00a0\n\nNOW, THEREFORE, the Parties hereby agree as follows:\n\nArticle I Non-Binding Provisions",
+        "start_char": 715,
+        "end_char": 2617
+      },
+      "classification": {
+        "label": "Governing Law",
+        "confidence": 0.8,
+        "rationale_short": "The clause mentions the effective date and parties, indicating a governing law provision."
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c007",
+        "clause_type": "Governing Law",
+        "plain_english_summary": "This clause outlines the terms of a letter of intent for a potential partnership between Hyperdynamics Corporation, SCS Corporation, and Dana Petroleum (E&P) Limited for the exploration and development of a hydrocarbon production sharing contract in Guinea.",
+        "business_risk": {
+          "severity": "Low",
+          "why": [
+            "The letter of intent is non-binding, and the parties are not obligated to enter into a definitive agreement."
+          ]
+        },
+        "norm_deviation": {
+          "deviates": true,
+          "comparison": [
+            "The clause does not follow standard industry practices for governing law clauses."
+          ],
+          "suggested_revision": "Consider adding a specific governing law or jurisdiction for the agreement."
+        },
+        "uncertainty": {
+          "confidence": 0.7,
+          "reasons": [
+            "The clause does not specify a governing law, which may lead to uncertainty in the event of a dispute."
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c008",
+        "text": "1.1 Non-Binding Nature of Provisions. The Parties have set out in Exhibit \"A\" attached hereto and incorporated herein their preliminary and non-binding understanding of certain commercial terms and conditions which may \nbe \naddressed in the prospective Definitive Agreements. The Parties\nagree that no provision of this LOI shall obligate either Party to enter into any Definitive Agreements, and that no commercial terms set out in Exhibit \"A\" attached hereto shall be legally binding in any way upon either Party. This LOI reflects only the preliminary understanding of the Parties with respect to the potential due diligence and negotiation with respect to a transaction regarding the Project, and is not intended to, shall not be construed to, and does not constitute an agreement of either Party to\n(a) perform due diligence, negotiate, or consummate any transaction regarding the Project, or (b) enter into any Definitive Agreements with respect to the Project.",
+        "start_char": 2617,
+        "end_char": 3598
+      },
+      "classification": {
+        "label": "Term & Survival",
+        "confidence": 0.8,
+        "rationale_short": "Clause discusses the non-binding nature of provisions and their relationship to potential future agreements."
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c008",
+        "clause_type": "Term & Survival",
+        "plain_english_summary": "This clause states that the Letter of Intent (LOI) is non-binding and does not obligate either party to enter into a Definitive Agreement.",
+        "business_risk": {
+          "severity": "Low",
+          "why": [
+            "The LOI is explicitly stated to be non-binding, which reduces the risk of unintended obligations."
+          ]
+        },
+        "norm_deviation": {
+          "deviates": true,
+          "comparison": [
+            "Standard non-disclosure agreements typically include a statement that the LOI is binding and outlines the terms of the proposed deal.",
+            "This LOI does not include such a statement."
+          ],
+          "suggested_revision": "Insert a statement that the LOI is binding and outlines the terms of the proposed deal."
+        },
+        "uncertainty": {
+          "confidence": 0.8,
+          "reasons": [
+            "The language of the LOI is clear and unambiguous, indicating that it is non-binding.",
+            "However, the Parties' understanding of the commercial terms and conditions may evolve during due diligence and negotiation."
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c009",
+        "text": "1.2\n. \nFurther, the Parties expressly acknowledge and agree that this Article I of this LO!I (other than this Article 1.2), \nis \nnot intended to be legally binding and that neither\nParty shall have any obligation to the other with respect thereto unless and until both Parties execute mutually agreed and duly authorized Definitive Agreements. Further, it is understood that the Definitive Agreements contemplated in this LOI are subject to review and approval in accordance with the policies and procedures established by the each Party's respective board of directors for transactions of this nature.",
+        "start_char": 3598,
+        "end_char": 4205
+      },
+      "classification": {
+        "label": "Term & Survival",
+        "confidence": 0.8,
+        "rationale_short": "Clause defines scope of non-binding LOI and conditions for Definitive Agreements"
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c009",
+        "clause_type": "Term & Survival",
+        "plain_english_summary": "This clause says that the parties agree that certain parts of the LOI are not legally binding until the parties sign a definitive agreement.",
+        "business_risk": {
+          "severity": "Low",
+          "why": [
+            "The parties are clarifying the scope of the LOI and the obligations that will arise once a definitive agreement is signed."
+          ]
+        },
+        "norm_deviation": {
+          "deviates": true,
+          "comparison": [
+            "Typically, LOIs are intended to be legally binding and create obligations for the parties."
+          ],
+          "suggested_revision": "Consider revising to clarify the scope of the LOI and the obligations that will arise once a definitive agreement is signed."
+        },
+        "uncertainty": {
+          "confidence": 0.8,
+          "reasons": [
+            "The parties' intentions may not be clear, and the scope of the LOI may be ambiguous without a definitive agreement."
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c010",
+        "text": "1.3 It is envisaged that the Definitive Agreements will include (i) a sale and purchase agreement in respect of the transfer of the DANA Working Interest (as hereinafter defined) (the \"SPA\");\n\n(ii) \na deed of assignment of the PSC, validly transferring title to the DANA Working Interest to DANA (the \"PSC Assignment\") with all requisite governmental approvals; and (iii) a joint operating agreement based on the AIPN International Operating Agreement (the \n\"\nJO\nA')\n. \nIt \nis \nalso\nintended that, subsequent to execution of the Definitive Agreements, the Parties will enter into an amendment to, or restatement of, the PSC as required by, incorporating the relevant terms of, and superseding, the \nM\noU \n(the ''PSC Amendment/Restatement' ). HDY will provide within seven (7) working days of the Effective Date an initial draft of the SPA, the PSC Assignment\nand the \nJOA\n\u00a0\nfor review and evaluation by DANA. The Parties will work jointly in preparing the PSC Amendment/Restatement to the PSC. It is further envisaged that the Parties will work together in a cooperative fashion on all other technical, commercial and strategic matters and will attempt to incorporate such cooperation into the relevant provisions of the \nJOA \nand\nthe PSC Amendment/Restatement.",
+        "start_char": 4205,
+        "end_char": 5471
+      },
+      "classification": {
+        "label": "Term & Survival",
+        "confidence": 0.8,
+        "rationale_short": "Clause describes future actions and agreements after the Effective Date."
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c010",
+        "clause_type": "Term & Survival",
+        "plain_english_summary": "The parties will work together to finalize the Definitive Agreements, including a sale and purchase agreement, a deed of assignment, and a joint operating agreement, and will cooperate on other technical, commercial, and strategic matters.",
+        "business_risk": {
+          "severity": "Low",
+          "why": [
+            "The parties have a clear understanding of their obligations and the process for finalizing the Definitive Agreements."
+          ]
+        },
+        "norm_deviation": {
+          "deviates": false,
+          "comparison": "industry standard",
+          "suggested_revision": ""
+        },
+        "uncertainty": {
+          "confidence": 0.8,
+          "reasons": [
+            "The clause outlines a clear plan for the parties to work together, but the success of this cooperation is uncertain.",
+            "The parties' ability to work together effectively may be influenced by various factors, such as their communication styles, conflict resolution strategies, and cultural differences."
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c011",
+        "text": "1.4 It is further envisaged that HDY\n/\nSCS \nshall enter into an agreement on substantially equivalent terms and conditions to those set forth herein with a major oil company with the technical\nand financial capability to operate the project (the \"Major\") in relation to a working interest other than the DANA Working Interest, and that such Major shall also become a party to the \nJOA\n\u00a0\nand assume the operatorship of the project in due course. In the event that \nHD\nY\n/SCS \nis unable to secure the participation of a Major (as envisaged by Article 1.4\n), \nprior to 30 November 2009, or such later date as may be agreed in writing, HDY shall notify DANA accordingly in writing and DANA shall have the right, at its sole option, to notify HDY in writing that it is willing to accept the assignment of an increased DANA Working Interest of up to \nfi\nfty percent\n(50%) on the same terms and conditions, \nmutati\ns \nm\nutandis\n, \nas those set forth in this LOI, other than financial consideration (which shall be subject\nto the mutual agreement of the Parties), and in addition, subject always to all necessary governmental \nand \nthird party approvals, assume the operatorship of the PSC from SCS (the \"DANA Option\"). The DANA Option shall be built into the terms of the SPA.\n\nArticle II Binding Provisions\n\n\u00a0\n\nThe following provisions shall be binding upon the Parties:",
+        "start_char": 5471,
+        "end_char": 6840
+      },
+      "classification": {
+        "label": "Term & Survival",
+        "confidence": 0.8,
+        "rationale_short": "Clause outlines conditions for future agreements and survival of provisions"
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c011",
+        "clause_type": "Term & Survival",
+        "plain_english_summary": "HDY/SCS must secure a major oil company to operate the project, or DANA can assume operatorship and increase its working interest.",
+        "business_risk": {
+          "severity": "Medium",
+          "why": [
+            "Risk of project delay or failure if HDY/SCS cannot secure a major oil company, and potential impact on DANA's interests"
+          ]
+        },
+        "norm_deviation": {
+          "deviates": true,
+          "comparison": [
+            "Typical joint operating agreements do not include provisions for a third party to assume operatorship and increase its working interest"
+          ],
+          "suggested_revision": "Consider revising to include more specific criteria for determining a 'major oil company' and outlining the process for DANA to assume operatorship"
+        },
+        "uncertainty": {
+          "confidence": 0.6,
+          "reasons": [
+            "The likelihood of HDY/SCS securing a major oil company is uncertain, and the impact on DANA's interests is difficult to predict"
+          ]
+        },
+        "citations": [],
+        "risk_score": 60
+      }
+    },
+    {
+      "clause": {
+        "id": "c012",
+        "text": "2.1. Exclusive Dealing. HDY agrees that it and its Affiliated Companies including, without limitation SCS, will negotiate exclusively with DANA with regard to the prospective acquisition by DANA of an undivided twenty three percent (23%) working interest in and under the PSC and the initial Contract Area (as such term is defined in the\nPSC) (the \"DANA Working Interest\"), or, in the circumstances envisaged by Article 1.4,\n\u00a0\nan increased DANA Working Interest of up to fifty percent (50%). More specifically, HDY shall, and shall procure that \nits \nAffiliated Companies including, without limitation, SCS shall: (i) not initiate, or otherwise participate in, directly or indirectly, a solicitation of any other offer or proposal for the sale,\nassignment or transfer, directly or indirectly, through merger, consolidation or otherwise, of the DANA Working Interest, which means any interest in the PSC and/or\n\n\u00a0\n\n\u00a0 \n\n\u00a0 \n\n\u00a0 \n\nthe Contract Area that is or would be inclusive of the DANA Working Interest; and (ii) cease negotiations and discussions with any other persons that have indicated an interest \nin, \nor have submitted an offer to acquire any interest in the DANA Working Interest or any interest in the\nPSC and/or Contract Area that is or would be inclusive of the DANA Working Interest. The obligations of HDY and its Affiliated Companies including, without limitation, SCS, to deal exclusively with DANA herein will commence on the Effective Date and continue until the earlier to occur of \nthe \nTermination Date or the Parties ' execution of mutually agreed and duly authorized Definitive Agreements.",
+        "start_char": 6840,
+        "end_char": 8457
+      },
+      "classification": {
+        "label": "Term & Survival",
+        "confidence": 0.8,
+        "rationale_short": "Clause defines exclusive dealing obligations that continue until termination or execution of definitive agreements."
+      },
+      "flags": [
+        {
+          "name": "unlimited_liability_language",
+          "severity": "High",
+          "evidence_snippet": ". Exclusive Dealing. HDY agrees that it and its Affiliated Companies including, without limitation SCS, will negotiate exclusively with DANA with regard to the prospective acquis",
+          "explanation": "Language suggests liability may be uncapped or broadly expanded."
+        }
+      ],
+      "analysis": {
+        "clause_id": "c012",
+        "clause_type": "Term & Survival",
+        "plain_english_summary": "HDY agrees to negotiate exclusively with DANA regarding the acquisition of a 23% working interest in the PSC and Contract Area.",
+        "business_risk": {
+          "severity": "High",
+          "why": [
+            "HDY may be limited in its ability to negotiate with other parties, potentially leading to missed opportunities or increased costs."
+          ]
+        },
+        "norm_deviation": {
+          "deviates": true,
+          "comparison": [
+            "Typically, exclusivity agreements are limited to a specific period or scope of activities."
+          ],
+          "suggested_revision": "Consider adding a specific duration or scope to the exclusivity agreement."
+        },
+        "uncertainty": {
+          "confidence": 0.7,
+          "reasons": [
+            "The scope of the exclusivity agreement is not clearly defined, and it is unclear what constitutes a 'solicitation' or 'negotiation'."
+          ]
+        },
+        "citations": [
+          {
+            "rule": "unlimited_liability_language",
+            "evidence": ". Exclusive Dealing. HDY agrees that it and its Affiliated Companies including, without limitation SCS, will negotiate exclusively with DANA with regard to the prospective acquis"
+          }
+        ],
+        "risk_score": 85
+      }
+    },
+    {
+      "clause": {
+        "id": "c013",
+        "text": "2.2 Due Diligence: Obligation to Negotiate in Good Faith. During the time period commencing on the Effective Date and continuing until the earlier to occur of the Termination Date or the Parties' execution of mutually agreed and duly authorized Definitive Agreements, the Parties will conduct due diligence with respect to the prospective\ntransaction described herein, \nand \nshall negotiate in good faith regarding such prospective transaction.",
+        "start_char": 8457,
+        "end_char": 8906
+      },
+      "classification": {
+        "label": "Term & Survival",
+        "confidence": 0.8,
+        "rationale_short": "Clause defines obligations during a specific term"
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c013",
+        "clause_type": "Term & Survival",
+        "plain_english_summary": "The parties must conduct due diligence and negotiate in good faith during a specific time period.",
+        "business_risk": {
+          "severity": "Low",
+          "why": [
+            "The parties are required to negotiate in good faith, which may lead to a more efficient and effective transaction process."
+          ]
+        },
+        "norm_deviation": {
+          "deviates": false,
+          "comparison": [
+            "industry standard due diligence practices"
+          ],
+          "suggested_revision": "None"
+        },
+        "uncertainty": {
+          "confidence": 0.8,
+          "reasons": [
+            "The specific time period for due diligence and negotiation may be unclear or open to interpretation."
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c014",
+        "text": "2.3 Term of this LOI. Unless otherwise extended by mutual agreement in writing, this LOI shall terminate at midnight local time in Houston, Texas, on 31 December 2009, unless the mutually agreed and duly authorized Definitive Agreements have been entered into on or prior to such date, such date of termination being herein referred to as\nthe \"Termination Date\".\n\n\u00a0\n\nHDY may not unilaterally terminate this LOI prior to the Termination Date. \nIf \nthe LOI terminates as a result of Definitive Agreements not having been executed prior to the Termination Date , neither Party shall have any obligation or liability to the other except to the extent that,\nprior to the Termination Date, a Party has breached any of the binding provisions of this LOI.",
+        "start_char": 8906,
+        "end_char": 9658
+      },
+      "classification": {
+        "label": "Termination",
+        "confidence": 1.0,
+        "rationale_short": "Termination Date and obligations after termination are discussed."
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c014",
+        "clause_type": "Termination",
+        "plain_english_summary": "The LOI will terminate on December 31, 2009, unless Definitive Agreements are signed before then. HDY cannot unilaterally terminate the LOI before the Termination Date.",
+        "business_risk": {
+          "severity": "Medium",
+          "why": [
+            "Failure to sign Definitive Agreements may result in termination of the LOI, which could impact the parties' obligations and liabilities."
+          ]
+        },
+        "norm_deviation": {
+          "deviates": true,
+          "comparison": [
+            "Standard termination clauses typically do not specify a specific date for termination"
+          ],
+          "suggested_revision": "Consider adding a specific date for termination in the Definitive Agreements"
+        },
+        "uncertainty": {
+          "confidence": 0.7,
+          "reasons": [
+            "The clause is specific to the parties involved and may not be applicable to other agreements"
+          ]
+        },
+        "citations": [],
+        "risk_score": 60
+      }
+    },
+    {
+      "clause": {
+        "id": "c015",
+        "text": "2.4 Confidentiality. The terms and conditions of the Confidentiality Agreement entered into by DANA and SCS on September 8, 2008 (the \"CA\"), are incorporated by reference into this LOI and shall apply with regard to all information exchanged or developed hereunder. Notwithstanding the foregoing , neither Party shall be prohibited from making\nany disclosure if it is necessary to do so in order to comply with the applicable laws, rules, or regulations of any governmental entity, court, or stock exchange having jurisdiction over such Party or any of its Affiliated Companies (which term shall have the same meaning herein as defined in the CA.",
+        "start_char": 9658,
+        "end_char": 10309
+      },
+      "classification": {
+        "label": "Confidentiality",
+        "confidence": 1.0,
+        "rationale_short": "The clause is about maintaining confidentiality of information."
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c015",
+        "clause_type": "Confidentiality",
+        "plain_english_summary": "Confidentiality obligations are governed by a separate agreement, but disclosure may be required by law.",
+        "business_risk": {
+          "severity": "Low",
+          "why": [
+            "Disclosure may be required by law, but this is a low-risk scenario as it is subject to specific conditions."
+          ]
+        },
+        "norm_deviation": {
+          "deviates": true,
+          "comparison": [
+            "The clause deviates from the norm as it incorporates a separate agreement and allows for disclosure under specific circumstances."
+          ],
+          "suggested_revision": "Consider revising to include a more detailed description of the specific circumstances under which disclosure is allowed."
+        },
+        "uncertainty": {
+          "confidence": 0.7,
+          "reasons": [
+            "The clause is clear on its face, but the application of the law may be uncertain in specific circumstances."
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c016",
+        "text": "2.5 DANA Participation Prior to Execution of Definitive Agreements. Notwithstanding any other provisions hereof, DANA shall be entitled to participate fully with HDY/SCS in the evaluation of technical data leading to direction and interpretation of geological and geophysical data during that period of the LOI prior to the execution of Definitive\nAgreements and, furthermore, shall participate fully during such period in the preparation for negotiations with the Ministry of Mines, Energy and Hydraulics of the Republic of Guinea (the \"Ministry\") regarding the terms of the PSC Amendment/Restatement; shall be kept fully appraised of the progress of such negotiations; and, subject to Ministry consent, shall be entitled to participate in such negotiations. Such negotiations shall be commenced as soon as reasonably practicable following the Effective Date.",
+        "start_char": 10309,
+        "end_char": 11174
+      },
+      "classification": {
+        "label": "Term & Survival",
+        "confidence": 0.8,
+        "rationale_short": "Clause specifies DANA's participation rights before Definitive Agreements are executed"
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c016",
+        "clause_type": "Term & Survival",
+        "plain_english_summary": "DANA can participate in evaluating data and negotiating with the Ministry of Mines before Definitive Agreements are signed.",
+        "business_risk": {
+          "severity": "Low",
+          "why": [
+            "This clause does not introduce significant risk to the parties, as it only outlines DANA's participation in the evaluation process and negotiations."
+          ]
+        },
+        "norm_deviation": {
+          "deviates": true,
+          "comparison": [
+            "Typically, parties do not specify participation rights in the evaluation process and negotiations before Definitive Agreements are signed."
+          ],
+          "suggested_revision": "Consider revising to specify the scope of DANA's participation and the timeline for negotiations."
+        },
+        "uncertainty": {
+          "confidence": 0.7,
+          "reasons": [
+            "The clause's language is clear, but the specific scope of DANA's participation and the timeline for negotiations may be subject to interpretation."
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c017",
+        "text": "2.6 Press Releases. Neither Party may issue press releases, public communications or public statements regarding the existence or terms of this LOI and matters arising in relation hereto unless and until the other Party has been furnished with a copy of such statement in advance and has given written approval, which shall not be unreasonably\nwithheld and which shall be timely given, in no case exceeding twenty-four (24) hours. Notwithstanding the foregoing, neither Party shall be prohibited from making any disclosure if it is necessary to do so in order to comply with the applicable laws, rules, or regulations of any governmental entity, court, or stock exchange having jurisdiction over such Party or any of its Affiliated Companies.",
+        "start_char": 11174,
+        "end_char": 11933
+      },
+      "classification": {
+        "label": "Permitted Disclosures",
+        "confidence": 0.9,
+        "rationale_short": "Allows disclosure for compliance with laws, rules, or regulations"
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c017",
+        "clause_type": "Permitted Disclosures",
+        "plain_english_summary": "Neither party can release information about the LOI or related matters without the other party's approval, unless required by law.",
+        "business_risk": {
+          "severity": "Low",
+          "why": [
+            "The parties are required to obtain approval before releasing information, which may lead to minor delays or additional communication."
+          ]
+        },
+        "norm_deviation": {
+          "deviates": true,
+          "comparison": [
+            "Typical confidentiality clauses do not have specific restrictions on press releases"
+          ],
+          "suggested_revision": "Consider adding a specific provision for handling confidential information in press releases"
+        },
+        "uncertainty": {
+          "confidence": 0.7,
+          "reasons": [
+            "The clause may be overly broad, as it does not specify the type of information that requires approval",
+            "The 24-hour response time may be too short for some parties"
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c018",
+        "text": "2.7 Choice of Law. This LOI and the transactions contemplated herein, and any dispute pursuant hereto shall be subject to and construed in accordance with, and governed by, the laws of the State of Texas without reference to the conflict of laws principles thereof. Any dispute arising out of or relating to this LOI, including any question\nregarding its existence, validity or termination, which cannot be amicably resolved by the Parties, shall be settled by arbitration in accordance with the Rules of Arbitration of the International Chamber of Commerce (ICC) by three arbitrators or, if both Parties agree, by a sole arbitrator, appointed in accordance with the said Rules. The arbitration proceedings shall be held in London, England and shall be conducted in the English language. Awards shall be reduced to writing, and shall be \nfinal \nand\nbinding on the Parties without the right of appeal. The Parties undertake to carry out the award without delay. Judgement upon the award may be entered in any court having jurisdiction. A dispute shall be deemed to have arisen when either Party notifies the other Party in writing to that effect.",
+        "start_char": 11933,
+        "end_char": 13083
+      },
+      "classification": {
+        "label": "Governing Law",
+        "confidence": 1.0,
+        "rationale_short": "Clause specifies jurisdiction and applicable law"
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c018",
+        "clause_type": "Governing Law",
+        "plain_english_summary": "The parties agree to be governed by the laws of Texas and resolve disputes through arbitration in London, England.",
+        "business_risk": {
+          "severity": "Medium",
+          "why": [
+            "Arbitration in London may be inconvenient for one or both parties, potentially leading to increased costs and delays."
+          ]
+        },
+        "norm_deviation": {
+          "deviates": true,
+          "comparison": [
+            "Typically, governing law clauses specify a jurisdiction with a more direct connection to the parties or the transaction.",
+            "Arbitration in London is not the most common choice for international disputes."
+          ],
+          "suggested_revision": "Consider specifying a jurisdiction with a more direct connection to the parties or the transaction."
+        },
+        "uncertainty": {
+          "confidence": 0.7,
+          "reasons": [
+            "The clause does not specify the applicable law in case of a conflict between Texas law and the arbitration award.",
+            "The clause does not provide for the language of the arbitration proceedings, which may lead to misunderstandings or miscommunications."
+          ]
+        },
+        "citations": [],
+        "risk_score": 60
+      }
+    },
+    {
+      "clause": {
+        "id": "c019",
+        "text": "2.8 Costs \nand \nExpenses. Each Party shall be liable for its own legal, accounting and other costs and expenses incurred by it in connection with the undertakings associated with this LOI, including, without limitation, the negotiation and execution of Definitive Agreements.",
+        "start_char": 13083,
+        "end_char": 13363
+      },
+      "classification": {
+        "label": "Term & Survival",
+        "confidence": 0.8,
+        "rationale_short": "Clause discusses ongoing obligations after termination"
+      },
+      "flags": [
+        {
+          "name": "unlimited_liability_language",
+          "severity": "High",
+          "evidence_snippet": "by it in connection with the undertakings associated with this LOI, including, without limitation, the negotiation and execution of Definitive Agreements.",
+          "explanation": "Language suggests liability may be uncapped or broadly expanded."
+        }
+      ],
+      "analysis": {
+        "clause_id": "c019",
+        "clause_type": "Term & Survival",
+        "plain_english_summary": "Each party is responsible for its own costs and expenses related to the LOI and Definitive Agreements.",
+        "business_risk": {
+          "severity": "High",
+          "why": [
+            "The language does not indicate any unusual or high-risk liability provisions."
+          ]
+        },
+        "norm_deviation": {
+          "deviates": false,
+          "comparison": [
+            "standard industry practice"
+          ],
+          "suggested_revision": "None"
+        },
+        "uncertainty": {
+          "confidence": 0.8,
+          "reasons": [
+            "The language is clear and unambiguous, but the scope of costs and expenses is not explicitly defined."
+          ]
+        },
+        "citations": [
+          {
+            "rule": "unlimited_liability_language",
+            "evidence": "by it in connection with the undertakings associated with this LOI, including, without limitation, the negotiation and execution of Definitive Agreements."
+          }
+        ],
+        "risk_score": 85
+      }
+    },
+    {
+      "clause": {
+        "id": "c020",
+        "text": "2.9 Counterparts. This LOI may be executed and delivered by the Parties (in original form or by facsimile or emailed pdf scan) in counterparts, each of which shall be deemed an original instrument, but all of which together shall constitute the same instrument, provided that this LOI shall not be effective until each Party has executed\nand delivered a counterpart.",
+        "start_char": 13363,
+        "end_char": 13734
+      },
+      "classification": {
+        "label": "Term & Survival",
+        "confidence": 0.8,
+        "rationale_short": "Clause discusses execution and delivery of LOI"
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c020",
+        "clause_type": "Term & Survival",
+        "plain_english_summary": "This clause allows the parties to sign the LOI in counterparts, which are considered equal and valid, but the LOI is not effective until each party has signed and delivered their counterpart.",
+        "business_risk": {
+          "severity": "Low",
+          "why": [
+            "The risk of miscommunication or misunderstandings is low, as the parties are still signing the same document, just in different forms."
+          ]
+        },
+        "norm_deviation": {
+          "deviates": false,
+          "comparison": [
+            "The clause does not deviate from standard contract language."
+          ],
+          "suggested_revision": "None"
+        },
+        "uncertainty": {
+          "confidence": 0.8,
+          "reasons": [
+            "The clause is clear and concise, but there is a slight uncertainty in the interpretation of 'original form' and 'facsimile or emailed pdf scan'."
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c021",
+        "text": "2.10 Entire Agreement. This LOI constitutes the entire understanding among the Parties with respect to the subject matter hereof, superseding all negotiations, prior discussions and prior agreements and understandings relating to such subject matter.",
+        "start_char": 13734,
+        "end_char": 13989
+      },
+      "classification": {
+        "label": "Term & Survival",
+        "confidence": 0.9,
+        "rationale_short": "Clause defines entire agreement, superseding prior discussions and agreements."
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c021",
+        "clause_type": "Term & Survival",
+        "plain_english_summary": "The LOI is the entire agreement between the parties, superseding all prior negotiations, discussions, and agreements.",
+        "business_risk": {
+          "severity": "Low",
+          "why": [
+            "The parties are clarifying the scope of their agreement, which reduces the risk of misunderstandings."
+          ]
+        },
+        "norm_deviation": {
+          "deviates": true,
+          "comparison": [
+            "industry standard for LOIs"
+          ],
+          "suggested_revision": "Consider adding a clause for confidentiality or intellectual property protection."
+        },
+        "uncertainty": {
+          "confidence": 0.8,
+          "reasons": [
+            "The clause may not cover all potential disputes or issues that may arise in the future."
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c022",
+        "text": "2.11 Amendments. This LOI may not be amended nor any rights hereunder waived except by written mutual agreement of the Parties.",
+        "start_char": 13989,
+        "end_char": 14121
+      },
+      "classification": {
+        "label": "Term & Survival",
+        "confidence": 0.8,
+        "rationale_short": "Amendments and waivers require written mutual agreement"
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c022",
+        "clause_type": "Term & Survival",
+        "plain_english_summary": "This Letter of Intent (LOI) cannot be changed or modified without a written agreement from both parties.",
+        "business_risk": {
+          "severity": "Low",
+          "why": [
+            "The clause restricts the ability to make changes to the LOI, which may limit flexibility in negotiations."
+          ]
+        },
+        "norm_deviation": {
+          "deviates": true,
+          "comparison": "This clause deviates from the standard practice of allowing amendments to LOIs through mutual agreement.",
+          "suggested_revision": "Consider adding a specific timeframe for the written mutual agreement or specifying the scope of the amendments."
+        },
+        "uncertainty": {
+          "confidence": 0.7,
+          "reasons": [
+            "The clause is clear and concise, but the interpretation of 'written mutual agreement' may vary depending on the jurisdiction."
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c023",
+        "text": "2.12 Assignment. This LOI and the rights and obligations herein may not be assigned by a Party, in whole or in part, without the prior written consent of the other Party.",
+        "start_char": 14121,
+        "end_char": 14296
+      },
+      "classification": {
+        "label": "Term & Survival",
+        "confidence": 1.0,
+        "rationale_short": "Assignment clause is a type of term and survival clause."
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c023",
+        "clause_type": "Term & Survival",
+        "plain_english_summary": "Assignment requires written consent from other party.",
+        "business_risk": {
+          "severity": "Low",
+          "why": [
+            "The parties can still negotiate and agree on assignment terms before signing the LOI."
+          ]
+        },
+        "norm_deviation": {
+          "deviates": true,
+          "comparison": [
+            "Typically, assignment clauses allow for assignment without consent, but this clause requires written consent."
+          ],
+          "suggested_revision": "Consider adding a carve-out for permitted assignments, such as mergers and acquisitions."
+        },
+        "uncertainty": {
+          "confidence": 0.7,
+          "reasons": [
+            "The clause may not cover all possible assignment scenarios, and the parties may need to negotiate further to clarify the scope of permitted assignments."
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c024",
+        "text": "2.13 No Third party Beneficiaries. This LOI is intended to benefit only the Parties hereto and their respective permitted successors and assigns.",
+        "start_char": 14296,
+        "end_char": 14446
+      },
+      "classification": {
+        "label": "Term & Survival",
+        "confidence": 0.8,
+        "rationale_short": "Refers to the parties and their successors"
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c024",
+        "clause_type": "Term & Survival",
+        "plain_english_summary": "This clause states that the LOI only benefits the parties and their permitted successors and assigns.",
+        "business_risk": {
+          "severity": "Low",
+          "why": [
+            "The clause does not impose any significant obligations or restrictions on the parties."
+          ]
+        },
+        "norm_deviation": {
+          "deviates": false,
+          "comparison": [
+            "Standard practice in most contracts"
+          ],
+          "suggested_revision": "None"
+        },
+        "uncertainty": {
+          "confidence": 0.9,
+          "reasons": [
+            "The clause is clear and unambiguous, but its application may depend on the specific circumstances of the parties."
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c025",
+        "text": "2.14 Notices. All notices and communications with respect to this LOI shall be in writing. Any communication or delivery hereunder shall be deemed to have been duly made and the receiving Party charged with notice (i) if personally delivered, when received, \n(ii\n) \nif\nsent by telecopy or facsimile transmission, on the first business day on or after which such facsimile is successfully transmitted and received,(iii) if mailed, three businessdaysaftermailing,certifiedmail,returnreceiptrequested,or(iv)if sent by overnight courier, the first business day on or after such notice is sent by overnight courier.\n\n\u00a0\n\nAll notices shall be addressed as follows:\n\n\u00a0\n\nIf to DANA: Mr. John Downey\" Manager International Business and New Ventures, 17 Carden Place, Aberdeen, AB10 1UR, Scotland, UK Telephone +44 1224 652 400, Facsimile: +44 1224 652 401.\n\n\u00a0\n\nIf to HDY: Attn: Ray Leonard, Chief Executive Officer, Hyperdynamics Corporation, One Sugar Creek Center Blvd., Suite 125, Sugar Land, Texas 77478, USA Telephone + I 713.353.9400, Facsimile\n\n+1713.353.9434.\n\n\u00a0 \n\n\u00a0 \n\n\u00a0 \n\nAny Party may, by written notice so delivered to the other Party, change the address or individual to which delivery shall thereafter be made.",
+        "start_char": 14446,
+        "end_char": 15661
+      },
+      "classification": {
+        "label": "Term & Survival",
+        "confidence": 0.8,
+        "rationale_short": "Clause defines notice procedures, which is a term of the agreement"
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c025",
+        "clause_type": "Term & Survival",
+        "plain_english_summary": "Notice delivery and address requirements for the LOI.",
+        "business_risk": {
+          "severity": "Low",
+          "why": [
+            "This clause outlines the requirements for delivering and receiving notices, which is a standard practice in business agreements."
+          ]
+        },
+        "norm_deviation": {
+          "deviates": false,
+          "comparison": [
+            "This clause follows standard industry practices for notice delivery and address requirements."
+          ],
+          "suggested_revision": ""
+        },
+        "uncertainty": {
+          "confidence": 0.8,
+          "reasons": [
+            "The clause appears to be well-structured and follows standard industry practices, but the specific requirements for notice delivery and address may vary depending on the jurisdiction and the parties involved."
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c026",
+        "text": "2.15 Compliance With U.S. and International Laws Governing Sanctions and Corrupt Practices. Each Party represents that, to the best of its knowledge and belief, it is not subject to economic or other sanctions imposed under the laws of the United States or treaties or conventions of the United Nations and is eligible to receive exports\nfrom the United States under the laws of the United States.\n\n\u00a0\n\n[Execution Page Follows}\n\n\u00a0\n\n\u00a0 \n\n\u00a0 \n\n\u00a0 \n\nThe Parties have executed this",
+        "start_char": 15661,
+        "end_char": 16136
+      },
+      "classification": {
+        "label": "Governing Law",
+        "confidence": 1.0,
+        "rationale_short": "Clause regulates compliance with laws governing sanctions and corrupt practices"
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c026",
+        "clause_type": "Governing Law",
+        "plain_english_summary": "Each party represents that it is not subject to economic or other sanctions and is eligible to receive exports from the US.",
+        "business_risk": {
+          "severity": "Low",
+          "why": [
+            "The clause only requires each party to represent that it is not subject to sanctions, which is a standard compliance requirement."
+          ]
+        },
+        "norm_deviation": {
+          "deviates": false,
+          "comparison": [
+            "Standard compliance requirement in most contracts"
+          ],
+          "suggested_revision": "None"
+        },
+        "uncertainty": {
+          "confidence": 0.8,
+          "reasons": [
+            "The clause does not specify any specific sanctions or laws, which may lead to uncertainty in interpretation."
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c029",
+        "text": "DEALING AND LETTER OF INTENT \nas of the Effective Date.",
+        "start_char": 16162,
+        "end_char": 16222
+      },
+      "classification": {
+        "label": "Term & Survival",
+        "confidence": 1.0,
+        "rationale_short": "Clause appears to be a boilerplate term and survival clause"
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c029",
+        "clause_type": "Term & Survival",
+        "plain_english_summary": "This clause deals with the letter of intent as of the effective date.",
+        "business_risk": {
+          "severity": "Low",
+          "why": [
+            "This clause is a standard term and survival clause, which is common in contracts and does not pose a significant risk to the parties."
+          ]
+        },
+        "norm_deviation": {
+          "deviates": false,
+          "comparison": [
+            "standard term and survival clause in contracts"
+          ],
+          "suggested_revision": "None"
+        },
+        "uncertainty": {
+          "confidence": 0.9,
+          "reasons": [
+            "The clause is straightforward and does not contain any ambiguous language."
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c030",
+        "text": "HYPERDYNAMICS CORPORATION\n\nBy: \n/s/ Ray Leonard\n\nRay Leonard\n\nChief Executive Officer\n\n\u00a0\n\nDANA PETROLEUM (E&P) LIMITED\n\nBy: \n/s/ Stuart M. Paton\n\nStuart M. Paton\n\nTechnical & Commercial Director\n\n\u00a0\n\n\u00a0 \n\n\u00a0 \n\n\u00a0 \n\nEXHIBIT \"A\"\n\n\u00a0\n\nEssential Commercial Terms\n\n\u00a0\n\nThis Exhibit sets forth certain essential business terms for a prospective transaction which is being considered by the Parties. These terms are set forth solely for the purpose of furthering discussions between the Parties, and is not intended to, and shall not be construed to, create any legally binding obligation enforceable against\neither Party.\n\n\u00a0\n\nAgreements:\u00a0 \n\n\u00a0\n\nSPA to be negotiated and executed by HDY, SCS and DANA (or its nominated Affiliated Company), in respect of the acquisition by DANA of the DANA Working Interest as more particularly described below.\n\nPSC Assignment assigning the DANA Working Interest to DANA, such that \nDANA\n\u00a0\nbecomes a party to the PSC, to be negotiated and executed by SCS, DANA (or its nominated Affiliated Company),\nany third parties to the PSC, and the Government of the Republic of Guinea, or such alternative means of effecting and documenting the transfer of the DANA Working Interest to DANA as may be mutually agreed in writing by HDY, SCS and DANA.\n\nJOA \n(including Accounting Procedure) in respect of the PSC and Contract Area to be negotiated and executed by SCS, DANA (or its nominated Affiliated Company) and any third party co-venturers.\n\nThe foregoing agreements constitute the \"Definitive Agreements\".\n\nPSC Amendment/Restatement, to be negotiated by SCS, DANA (or its nominated Affiliated Company), any third party co-venturers, and the Government of the Republic of Guinea incorporating, \ni\nnter alia\n, \nthe\nrelevant terms of, and superseding, the MoU, \nand \nto be executed by all parties to the PSC.\n\n\u00a0\n\nAssignor: SCS Corporation.\n\n\u00a0\n\nAssignee: DANA\u00a0 Dana Petroleum (E&P) Limited (or its nominated Affiliated Company). As described in Article 1.4 above.\n\n\u00a0\n\nOption:\u00a0 \nDANA Working Interest: An undivided twenty three percent (23%) working interest in the PSC and Contract Area to be assigned by the PSC Assignment contemporaneously with execution of the \nJOA\n, \nsubject\nto government and third party approvals and consents as required, which interest may be increased to up to a maximum of \nfifty \npercent (50%) pursuant to the DANA Option.\n\n\u00a0\n\nContract Area:\u00a0 Contract \nAre\na, \nas such term is defined in the PSC, it being understood and acknowledged that such Contract Area is subject to variation pursuant to the MoU.\n\n\u00a0\n\nConsideration:\u00a0 US$20,000,000 payable as follows:\n\n\u00a0\n\n(i) US$5,000,000 payable, in cash, following execution of all Definitive Agreements and, where applicable, their entry into full legal effect pursuant to the laws of the Republic of Guinea.\n\n(ii) US$15,000,000 payable, at DANA's sole option, in either cash or in new ordinary shares of UKO.15 each in Dana Petroleum plc issued and allotted to HDY (or its stated nominees), to the value ofUS$15,000,000, such shares to be valued at the average mid point closing price for the five (5) trading days immediately preceding the day\non which the payment referred to above is made , such payment or share issue to \nbe \nmade following execution of the PSC Amendment/Restatement and its entry into full legal effect pursuant to the laws of the Republic of Guinea. Any shares so issued shall be issued by Dana Petroleum plc credited as fully paid and shall rank \npari pas\nsu \nwith the existing\nordinary shares in Dana Petroleum plc in all respects. No additional restrictions or encumbrances shall be applied to such shares by Dana Petroleum plc which would prevent their immediate sale by HOY on the open market.\n\nIn the event of exercise of the DANA Option, the sum payable pursuant to (ii) above shall be as may be mutually agreed by the Parties.\n\n\u00a0\n\n\u00a0 \n\n\u00a0 \n\n\u00a0 \n\nRight of First Refusal:\u00a0 The right of first refusal applicable to SCS pursuant to Article 2.3 of the MoU shall be passed on to DANA pro rata to the DANA Working Interest.\n\n\u00a0\n\nIndemnity:\u00a0 HDY/SCS shall indemnify and hold harmless DANA in respect of any and all claims and liabilities in respect of the period prior to the date of assignment to DANA of the DANA Working Interest.\n\n\u00a0\n\nConditions Precedent:\u00a0 All necessary approvals and consents by the Government of the Republic of Guinea and relevant third parties for the acquisition of the Working Interest by DANA including, without limitation, approval of the Definitive Agreements, the PSC Amendment/Restatement, and any and all other ancillary documents of transfer\nand recordation.\n\n\u00a0 \n\n\u00a0 \n\n\u00a0 \n\n------MultipartBoundary--ZgMB0LqNaTxFdVfSatTgM4Lb8kKgextJxVXooVSdIY------",
+        "start_char": 16222,
+        "end_char": 20900
+      },
+      "classification": {
+        "label": "Term & Survival",
+        "confidence": 0.8,
+        "rationale_short": "Clause discusses the duration and survival of agreements"
+      },
+      "flags": [
+        {
+          "name": "unlimited_liability_language",
+          "severity": "High",
+          "evidence_snippet": "nt third parties for the acquisition of the Working Interest by DANA including, without limitation, approval of the Definitive Agreements, the PSC Amendment/Restatement, and any",
+          "explanation": "Language suggests liability may be uncapped or broadly expanded."
+        }
+      ],
+      "analysis": {
+        "clause_id": "c030",
+        "clause_type": "Term & Survival",
+        "plain_english_summary": "This clause outlines the essential business terms for a prospective transaction between Hyperdynamics Corporation and Dana Petroleum (E&P) Limited.",
+        "business_risk": {
+          "severity": "High",
+          "why": [
+            "Unlimited liability language, potential for broadly expanded liability"
+          ]
+        },
+        "norm_deviation": {
+          "deviates": true,
+          "comparison": [
+            "MoU",
+            "PSC"
+          ],
+          "suggested_revision": "Consider revising language to limit liability and clarify scope"
+        },
+        "uncertainty": {
+          "confidence": 0.8,
+          "reasons": [
+            "Unclear scope of liability, potential for broadly expanded liability"
+          ]
+        },
+        "citations": [
+          {
+            "rule": "unlimited_liability_language",
+            "evidence": "nt third parties for the acquisition of the Working Interest by DANA including, without limitation, approval of the Definitive Agreements, the PSC Amendment/Restatement, and any"
+          }
+        ],
+        "risk_score": 85
+      }
+    }
+  ],
+  "contract_risk": {
+    "score": 46,
+    "level": "Medium"
+  },
+  "missing_clauses": [
+    "Definition of Confidential Info",
+    "Exceptions",
+    "Return/Destruction",
+    "Remedies / Injunctive Relief"
+  ],
+  "settings": {
+    "use_llm_classification": true,
+    "use_rag": true,
+    "use_rules": true,
+    "use_llm_analysis": true
+  }
+}

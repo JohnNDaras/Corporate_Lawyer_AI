@@ -1,0 +1,783 @@
+{
+  "disclaimer": "Not legal advice. Educational decision support only. No attorney-client relationship is formed.",
+  "doc_flags": [],
+  "clauses": [
+    {
+      "clause": {
+        "id": "c001",
+        "text": "Snapshot-Content-Location: https://www.sec.gov/Archives/edgar/data/1881767/000149315224036458/ex10-15.htm\nSubject: \nDate: Mon, 9 Mar 2026 16:04:29 +0200\nMIME-Version: 1.0\nContent-Type: multipart/related;\n type=\"text/html\";\n boundary=\"----MultipartBoundary--21LjCgD5o7dSJTWp08Ogob0YdjvzI48dpHSIR6U0DF----\"\n\n------MultipartBoundary--21LjCgD5o7dSJTWp08Ogob0YdjvzI48dpHSIR6U0DF----\nContent-Type: text/html\nContent-ID: \n\nContent-Transfer-Encoding: binary\nContent-Location: https://www.sec.gov/Archives/edgar/data/1881767/000149315224036458/ex10-15.htm\n\nEX-10.15",
+        "start_char": 0,
+        "end_char": 558
+      },
+      "classification": {
+        "label": "Governing Law",
+        "confidence": 0.8,
+        "rationale_short": "MIME-Version and Content-Type headers suggest jurisdictional implications"
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c001",
+        "clause_type": "Governing Law",
+        "plain_english_summary": "This clause specifies the governing law for the contract.",
+        "business_risk": {
+          "severity": "Low",
+          "why": [
+            "The governing law is typically a standard provision and does not introduce significant risk."
+          ]
+        },
+        "norm_deviation": {
+          "deviates": false,
+          "comparison": [
+            "standard contract language"
+          ],
+          "suggested_revision": "None"
+        },
+        "uncertainty": {
+          "confidence": 0.8,
+          "reasons": [
+            "The governing law is a standard provision, but it may vary depending on the jurisdiction."
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c002",
+        "text": "26\n\nex10-15.htm\n\n\u00a0\n\nExhibit",
+        "start_char": 558,
+        "end_char": 586
+      },
+      "classification": {
+        "label": "Miscellaneous",
+        "confidence": 1.0,
+        "rationale_short": "No clear indication of confidentiality or IP ownership"
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c002",
+        "clause_type": "Miscellaneous",
+        "plain_english_summary": "Exhibit",
+        "business_risk": {
+          "severity": "Low",
+          "why": [
+            "Uncertainty in exhibit content"
+          ]
+        },
+        "norm_deviation": {
+          "deviates": true,
+          "comparison": [
+            "Exhibit content deviates from standard"
+          ],
+          "suggested_revision": "Standardize exhibit content"
+        },
+        "uncertainty": {
+          "confidence": 0.5,
+          "reasons": [
+            "Exhibit content may not be accurate"
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c005",
+        "text": "CAPITAL CORPORATION\n\n\u00a0\n\nFORM",
+        "start_char": 604,
+        "end_char": 633
+      },
+      "classification": {
+        "label": "Miscellaneous",
+        "confidence": 1.0,
+        "rationale_short": "No clear relevance to confidentiality or intellectual property"
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c005",
+        "clause_type": "Miscellaneous",
+        "plain_english_summary": "This clause appears to be a form header or title page, likely from a standard contract template.",
+        "business_risk": {
+          "severity": "Low",
+          "why": [
+            "This clause does not introduce any significant contractual obligations or risks."
+          ]
+        },
+        "norm_deviation": {
+          "deviates": false,
+          "comparison": [],
+          "suggested_revision": "None"
+        },
+        "uncertainty": {
+          "confidence": 0.8,
+          "reasons": [
+            "The clause is a standard form header, but it's unclear what specific contract it's from or what its purpose is."
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c006",
+        "text": "OF CONFIDENTIALITY AGREEMENT\n\n\u00a0\n\nTHIS",
+        "start_char": 633,
+        "end_char": 671
+      },
+      "classification": {
+        "label": "Confidentiality",
+        "confidence": 1.0,
+        "rationale_short": "Starts with 'OF CONFIDENTIALITY AGREEMENT'"
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c006",
+        "clause_type": "Confidentiality",
+        "plain_english_summary": "This clause is a confidentiality agreement.",
+        "business_risk": {
+          "severity": "Low",
+          "why": [
+            "The clause is a standard confidentiality agreement, which is a common practice in many industries."
+          ]
+        },
+        "norm_deviation": {
+          "deviates": false,
+          "comparison": [],
+          "suggested_revision": ""
+        },
+        "uncertainty": {
+          "confidence": 0.8,
+          "reasons": [
+            "The clause is a standard template, but the specific context of the agreement is not provided."
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c007",
+        "text": "CONFIDENTIALITY AGREEMENT\n (the \nAgreement\n) is made effective as of ______, 2024, by and between the undersigned\nrecipient (\nRecipient\n), and Spirits Capital Corporation, a Delaware corporation (the \nCompany\n),\nto assure the protection and preservation of the confidential and proprietary nature of information to be made available by the Company\nto Recipient in connection with Recipients duties as a member of the Board of Directors of the Company (the \nBoard\n)\nor other management meetings from time-to-time (each a \nBoard Meeting\n). The parties, intending to be legally bound,\nagree as follows:",
+        "start_char": 671,
+        "end_char": 1275
+      },
+      "classification": {
+        "label": "Confidentiality",
+        "confidence": 1.0,
+        "rationale_short": "Clause establishes confidentiality agreement between parties"
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c007",
+        "clause_type": "Confidentiality",
+        "plain_english_summary": "The parties agree to keep confidential information shared by the Company with the Board of Directors or management meetings.",
+        "business_risk": {
+          "severity": "Low",
+          "why": [
+            "The risk of breach is low as the parties are agreeing to keep confidential information, which is a standard clause in many agreements."
+          ]
+        },
+        "norm_deviation": {
+          "deviates": false,
+          "comparison": [
+            "standard confidentiality agreement language"
+          ],
+          "suggested_revision": "None"
+        },
+        "uncertainty": {
+          "confidence": 0.8,
+          "reasons": [
+            "The clause is standard and widely used, but the effectiveness of the agreement depends on the parties' actual behavior."
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c008",
+        "text": "1.\nRecipient acknowledges that a Board members fiduciary duty includes the obligation to not disclose and to maintain the\nconfidentiality of all information disclosed by the Company to Recipient in connection with Recipients status as a Board\nmember, whether in oral, written, graphic, or electronic form (subject to the limitations set forth in Section 3, referred to herein\nas the \nConfidential Information\n). The Confidential Information will be shared by the Company with the Board in\norder to permit the Board to carry out its responsibilities.",
+        "start_char": 1275,
+        "end_char": 1829
+      },
+      "classification": {
+        "label": "Confidentiality",
+        "confidence": 1.0,
+        "rationale_short": "The clause discusses the obligation to maintain confidentiality of information disclosed by the Company."
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c008",
+        "clause_type": "Confidentiality",
+        "plain_english_summary": "The Board member agrees to keep confidential information shared by the Company in connection with their role.",
+        "business_risk": {
+          "severity": "Low",
+          "why": [
+            "The risk of breach is low as the Board member is already a fiduciary and has a duty to maintain confidentiality."
+          ]
+        },
+        "norm_deviation": {
+          "deviates": false,
+          "comparison": [
+            "Standard confidentiality clauses in similar agreements"
+          ],
+          "suggested_revision": "None"
+        },
+        "uncertainty": {
+          "confidence": 0.8,
+          "reasons": [
+            "The clause is clear and well-written, but the scope of confidential information may be unclear in practice."
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c009",
+        "text": "2.\nRecipient hereby specifically agrees and acknowledges that, subject to the limitations set forth in \nSection 3\n, all\ninformation disclosed to Recipient at a Board Meeting or in Board materials is Confidential Information.",
+        "start_char": 1829,
+        "end_char": 2058
+      },
+      "classification": {
+        "label": "Confidentiality",
+        "confidence": 1.0,
+        "rationale_short": "The clause specifically acknowledges and agrees to confidentiality of disclosed information."
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c009",
+        "clause_type": "Confidentiality",
+        "plain_english_summary": "Recipient agrees to keep confidential information disclosed at a Board Meeting or in Board materials.",
+        "business_risk": {
+          "severity": "Low",
+          "why": [
+            "The confidentiality obligation is subject to limitations set forth in Section 3, which may reduce the scope of confidential information."
+          ]
+        },
+        "norm_deviation": {
+          "deviates": true,
+          "comparison": "This clause is more restrictive than typical confidentiality clauses, which often require confidentiality for all disclosed information.",
+          "suggested_revision": "Consider revising to require confidentiality for all disclosed information, subject to standard exceptions."
+        },
+        "uncertainty": {
+          "confidence": 0.7,
+          "reasons": [
+            "The clause's scope is limited to information disclosed at a Board Meeting or in Board materials, which may not be comprehensive.",
+            "The clause's reliance on Section 3 for limitations may introduce uncertainty about the scope of confidential information."
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c010",
+        "text": "3.\nConfidential Information shall not include information that Recipient can demonstrate by competent written proof is now, or hereafter\nbecomes, through no breach of this Agreement by Recipient, generally known or available or is hereafter furnished to Recipient by a third\nparty, as a matter of right and without restriction on disclosure.",
+        "start_char": 2058,
+        "end_char": 2404
+      },
+      "classification": {
+        "label": "Definition of Confidential Info",
+        "confidence": 1.0,
+        "rationale_short": "Defines what constitutes confidential information"
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c010",
+        "clause_type": "Definition of Confidential Info",
+        "plain_english_summary": "Confidential Info doesn't include publicly available or third-party disclosed information.",
+        "business_risk": {
+          "severity": "Low",
+          "why": [
+            "The clause only applies to confidential information, not sensitive or proprietary information."
+          ]
+        },
+        "norm_deviation": {
+          "deviates": true,
+          "comparison": [
+            "industry standards for confidentiality agreements"
+          ],
+          "suggested_revision": "Consider adding a specific definition of 'publicly available' or 'third-party disclosed' to avoid ambiguity."
+        },
+        "uncertainty": {
+          "confidence": 0.7,
+          "reasons": [
+            "The clause's language is clear, but the concept of 'competent written proof' may be subject to interpretation."
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c011",
+        "text": "4.\nRecipient shall maintain all Confidential Information in trust and confidence and shall not disclose any Confidential Information to\nany third party or use any Confidential Information for any purpose other than the evaluation of information for the benefit of the Company,\nfor evaluation of Recipients investment in the Company, and for any other permitted use by a director of a Delaware corporation\nunder the General Corporation Law of Delaware.",
+        "start_char": 2404,
+        "end_char": 2860
+      },
+      "classification": {
+        "label": "Confidentiality",
+        "confidence": 1.0,
+        "rationale_short": "Maintains confidentiality and restricts disclosure"
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c011",
+        "clause_type": "Confidentiality",
+        "plain_english_summary": "The recipient must keep confidential information confidential and only use it for specific purposes.",
+        "business_risk": {
+          "severity": "Low",
+          "why": [
+            "The risk of unauthorized disclosure is relatively low as the recipient is only allowed to use the information for specific purposes."
+          ]
+        },
+        "norm_deviation": {
+          "deviates": false,
+          "comparison": [
+            "industry standards"
+          ],
+          "suggested_revision": "none"
+        },
+        "uncertainty": {
+          "confidence": 0.8,
+          "reasons": [
+            "The clause is standard for confidentiality agreements, but it's always possible that the recipient may not fully comply with the terms."
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c012",
+        "text": "5.\nNotwithstanding any other provision of this Agreement, disclosure of Confidential Information shall not be precluded if such disclosure\nis in response to a valid order of a court or other governmental body of competent jurisdiction of the United States or any political\nsubdivision thereof or is otherwise required by law or regulation; \nprovided\n, \nhowever\n, that Recipient shall first have given\nnotice to the Company and, at the Companys request and expense, shall cooperate with the Companys efforts, which efforts\nshall be at the Companys sole expense, to obtain a protective order requiring that the Confidential Information so disclosed be\nused only for the purposes for which the order was issued or the law or regulation required or to seek other confidential treatment of\nsuch information.",
+        "start_char": 2860,
+        "end_char": 3676
+      },
+      "classification": {
+        "label": "Permitted Disclosures",
+        "confidence": 1.0,
+        "rationale_short": "Specifically allows disclosure in response to valid court order or law"
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c012",
+        "clause_type": "Permitted Disclosures",
+        "plain_english_summary": "The company can disclose confidential information if required by law or a court order, but must first notify the other party and cooperate with their efforts to protect the information.",
+        "business_risk": {
+          "severity": "Low",
+          "why": [
+            "The clause only allows disclosure in response to a valid court or government order, or if required by law or regulation, which reduces the risk of unauthorized disclosure."
+          ]
+        },
+        "norm_deviation": {
+          "deviates": true,
+          "comparison": [
+            "The clause deviates from the standard permitted disclosures clause by adding a requirement for the recipient to cooperate with the company's efforts to obtain a protective order."
+          ],
+          "suggested_revision": "Consider revising the clause to remove the requirement for the recipient to cooperate with the company's efforts to obtain a protective order, as this may not be feasible or practical."
+        },
+        "uncertainty": {
+          "confidence": 0.8,
+          "reasons": [
+            "The clause is clear and specific about the circumstances under which disclosure is permitted, but the effectiveness of the company's efforts to obtain a protective order may be uncertain."
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c013",
+        "text": "6.\nNo rights or licenses to trademarks, inventions, copyrights, patents, or any other intellectual property rights are implied or granted\nunder this Agreement.",
+        "start_char": 3676,
+        "end_char": 3840
+      },
+      "classification": {
+        "label": "IP Ownership / Assignment",
+        "confidence": 1.0,
+        "rationale_short": "Grants no rights to intellectual property"
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c013",
+        "clause_type": "IP Ownership / Assignment",
+        "plain_english_summary": "The agreement does not grant any rights to intellectual property.",
+        "business_risk": {
+          "severity": "Low",
+          "why": [
+            "The agreement does not grant any rights to intellectual property, so there is no risk of unauthorized use."
+          ]
+        },
+        "norm_deviation": {
+          "deviates": true,
+          "comparison": [
+            "Typically, agreements grant some rights to intellectual property"
+          ],
+          "suggested_revision": "Consider adding a clause that grants limited rights to intellectual property for specific purposes."
+        },
+        "uncertainty": {
+          "confidence": 0.8,
+          "reasons": [
+            "The clause may not be exhaustive, and there may be other intellectual property rights not explicitly mentioned."
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c014",
+        "text": "7.\nAll Confidential Information (including all copies thereof) shall at all times remain the property of the Company and shall be returned\nto the Company or destroyed (and such destruction certified in writing to the Company) after Recipients need for it has expired\nor upon request of the Company.",
+        "start_char": 3840,
+        "end_char": 4143
+      },
+      "classification": {
+        "label": "Return/Destruction",
+        "confidence": 1.0,
+        "rationale_short": "Clause requires return or destruction of confidential information."
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c014",
+        "clause_type": "Return/Destruction",
+        "plain_english_summary": "Company owns confidential information and requires its return or destruction after use.",
+        "business_risk": {
+          "severity": "Low",
+          "why": [
+            "The clause is standard in many contracts and does not introduce significant risk."
+          ]
+        },
+        "norm_deviation": {
+          "deviates": false,
+          "comparison": [
+            "industry standards"
+          ],
+          "suggested_revision": "None"
+        },
+        "uncertainty": {
+          "confidence": 0.8,
+          "reasons": [
+            "The clause is clear and unambiguous, but the definition of 'Confidential Information' may be subject to interpretation."
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c015",
+        "text": "8.\nThis Agreement will be governed by and construed according to the laws of the State of Delaware without giving effect to principles of\nconflicts of law.",
+        "start_char": 4143,
+        "end_char": 4303
+      },
+      "classification": {
+        "label": "Governing Law",
+        "confidence": 1.0,
+        "rationale_short": "Specifically mentions Delaware law"
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c015",
+        "clause_type": "Governing Law",
+        "plain_english_summary": "The agreement will be governed by Delaware law.",
+        "business_risk": {
+          "severity": "Low",
+          "why": [
+            "The choice of law provision is a standard term in many contracts and is unlikely to cause significant business risk."
+          ]
+        },
+        "norm_deviation": {
+          "deviates": false,
+          "comparison": [
+            "industry standard"
+          ],
+          "suggested_revision": "None"
+        },
+        "uncertainty": {
+          "confidence": 0.8,
+          "reasons": [
+            "The choice of law provision may not be applicable in all jurisdictions, but this is a common provision in Delaware-based contracts."
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c016",
+        "text": "9.\nRecipients obligations under this Agreement shall survive termination or expiration of this Agreement indefinitely.",
+        "start_char": 4303,
+        "end_char": 4426
+      },
+      "classification": {
+        "label": "Term & Survival",
+        "confidence": 1.0,
+        "rationale_short": "Survival of obligations after termination or expiration"
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c016",
+        "clause_type": "Term & Survival",
+        "plain_english_summary": "The obligations of the recipient will continue after the agreement ends.",
+        "business_risk": {
+          "severity": "Low",
+          "why": [
+            "The clause ensures that the recipient's obligations are not terminated with the agreement, which can provide stability and predictability."
+          ]
+        },
+        "norm_deviation": {
+          "deviates": true,
+          "comparison": "Most contracts have a time limit for surviving obligations",
+          "suggested_revision": "The obligations of the recipient shall survive termination or expiration of this Agreement for a period of [X] years."
+        },
+        "uncertainty": {
+          "confidence": 0.7,
+          "reasons": [
+            "The clause is clear and unambiguous, but the lack of a specific time limit for surviving obligations may lead to uncertainty in practice."
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c017",
+        "text": "10.\nRecipient hereby acknowledges and agrees that the breach of this Agreement by Recipient would result in irreparable injury to the Company\nsuch that no remedy at law would adequately protect or appropriately compensate the Company for such injury. Accordingly, Recipient agrees\nthat the Company shall have the right to enforce this Agreement and any of its provisions by injunction, specific performance or other\nequitable relief, without bond and without prejudice to any other rights and remedies that the Company may have.",
+        "start_char": 4426,
+        "end_char": 4959
+      },
+      "classification": {
+        "label": "Remedies / Injunctive Relief",
+        "confidence": 1.0,
+        "rationale_short": "Clause grants Company right to seek injunctive relief for breach"
+      },
+      "flags": [
+        {
+          "name": "injunction_no_bond",
+          "severity": "Med",
+          "evidence_snippet": "f its provisions by injunction, specific performance or other\nequitable relief, without bond and without prejudice to any other rights and remedies that the Company may hav",
+          "explanation": "Injunctive relief without bond can strengthen remedies against the recipient."
+        }
+      ],
+      "analysis": {
+        "clause_id": "c017",
+        "clause_type": "Remedies / Injunctive Relief",
+        "plain_english_summary": "The company can seek injunctive relief without bond if the recipient breaches the agreement.",
+        "business_risk": {
+          "severity": "High",
+          "why": [
+            "The company may not be able to recover damages through other means, and the recipient may not be deterred by the threat of damages alone."
+          ]
+        },
+        "norm_deviation": {
+          "deviates": true,
+          "comparison": [
+            "Typically, injunctive relief requires a bond to ensure the company is not harmed further by the recipient's actions."
+          ],
+          "suggested_revision": "Consider adding a bond requirement for injunctive relief to balance the company's interests with the recipient's."
+        },
+        "uncertainty": {
+          "confidence": 0.8,
+          "reasons": [
+            "The clause may be overly broad or ambiguous, and the company's ability to seek injunctive relief without bond may be subject to judicial discretion."
+          ]
+        },
+        "citations": [
+          {
+            "rule": "injunction_no_bond",
+            "evidence": "f its provisions by injunction, specific performance or other\nequitable relief, without bond and without prejudice to any other rights and remedies that the Company may hav"
+          }
+        ],
+        "risk_score": 85
+      }
+    },
+    {
+      "clause": {
+        "id": "c018",
+        "text": "11.\nThis Agreement may not be amended or supplemented except by a written instrument signed by both parties, and no waiver of any provision\nof this Agreement shall be effective unless in writing and signed by the party granting such waiver. The waiver from time-to-time by\nthe Company of any of its rights or the Companys failure to exercise any remedy shall not operate or be construed as a continuing\nwaiver of same or of any other of the Companys rights or remedies provided in this Agreement.",
+        "start_char": 4959,
+        "end_char": 5460
+      },
+      "classification": {
+        "label": "Term & Survival",
+        "confidence": 1.0,
+        "rationale_short": "Clause governs amendment and waiver of agreement terms"
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c018",
+        "clause_type": "Term & Survival",
+        "plain_english_summary": "Changes to the agreement require a written instrument signed by both parties, and waivers must also be in writing and signed.",
+        "business_risk": {
+          "severity": "Low",
+          "why": [
+            "The clause provides clear guidelines for making changes to the agreement, reducing the risk of misunderstandings."
+          ]
+        },
+        "norm_deviation": {
+          "deviates": true,
+          "comparison": [
+            "industry standard is often 'any' or 'all' methods of waiver"
+          ],
+          "suggested_revision": "Consider allowing for oral waivers in certain circumstances"
+        },
+        "uncertainty": {
+          "confidence": 0.7,
+          "reasons": [
+            "The clause may be overly restrictive, but it provides clarity and reduces the risk of disputes"
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c019",
+        "text": "12.\nThis Agreement constitutes the entire understanding among the parties concerning the subject matter hereof and supersedes any prior understandings\nand/or written or oral agreements between them with respect to such subject matter. In the event of any conflicts between the terms and\nconditions of this agreement and the terms and conditions of the Recipients executive employment agreement, the Recipients\nexecutive employment agreement will govern.",
+        "start_char": 5460,
+        "end_char": 5918
+      },
+      "classification": {
+        "label": "Term & Survival",
+        "confidence": 0.8,
+        "rationale_short": "Refers to the entire understanding among parties and supersedes prior agreements."
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c019",
+        "clause_type": "Term & Survival",
+        "plain_english_summary": "Entire agreement and conflict resolution",
+        "business_risk": {
+          "severity": "Low",
+          "why": [
+            "This clause clarifies the scope of the agreement and resolves potential conflicts with other agreements, reducing the risk of misunderstandings and disputes."
+          ]
+        },
+        "norm_deviation": {
+          "deviates": false,
+          "comparison": [],
+          "suggested_revision": ""
+        },
+        "uncertainty": {
+          "confidence": 0.8,
+          "reasons": [
+            "The language is clear and unambiguous, but the application of this clause may depend on the specific circumstances and the interpretation of the parties involved."
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c020",
+        "text": "13.\nThis Agreement may be executed in two or more counterparts, each of which shall be deemed an original, but all of which together shall\nconstitute one and the same instrument. Facsimile signatures or signatures received in portable document format (.pdf) shall be as effective\nas original signatures.\n\n\u00a0\n\n[\nSignature\npage follows\n]\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\nIN",
+        "start_char": 5918,
+        "end_char": 6269
+      },
+      "classification": {
+        "label": "Term & Survival",
+        "confidence": 1.0,
+        "rationale_short": "Execution and signature of agreement"
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c020",
+        "clause_type": "Term & Survival",
+        "plain_english_summary": "Multiple signature formats are accepted for this agreement.",
+        "business_risk": {
+          "severity": "Low",
+          "why": [
+            "This clause allows for flexibility in the signing process, reducing the risk of delays or disputes related to signature authenticity."
+          ]
+        },
+        "norm_deviation": {
+          "deviates": false,
+          "comparison": [
+            "Standard practice in contract law allows for multiple signature formats, including facsimile and digital signatures."
+          ],
+          "suggested_revision": ""
+        },
+        "uncertainty": {
+          "confidence": 0.8,
+          "reasons": [
+            "The clause is clear and unambiguous in its acceptance of multiple signature formats.",
+            "However, the specific laws and regulations regarding electronic signatures may vary by jurisdiction, introducing some uncertainty."
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c021",
+        "text": "WITNESS WHEREOF\n, the parties have executed this Confidentiality Agreement, as of the date first above written.\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\n------MultipartBoundary--21LjCgD5o7dSJTWp08Ogob0YdjvzI48dpHSIR6U0DF------",
+        "start_char": 6269,
+        "end_char": 6464
+      },
+      "classification": {
+        "label": "Confidentiality",
+        "confidence": 1.0,
+        "rationale_short": "Witness clause indicates confidentiality agreement"
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c021",
+        "clause_type": "Confidentiality",
+        "plain_english_summary": "This clause is a boilerplate confidentiality agreement",
+        "business_risk": {
+          "severity": "Low",
+          "why": [
+            "The language is standard and does not introduce significant risk"
+          ]
+        },
+        "norm_deviation": {
+          "deviates": false,
+          "comparison": [
+            "standard confidentiality agreement language"
+          ],
+          "suggested_revision": "None"
+        },
+        "uncertainty": {
+          "confidence": 0.8,
+          "reasons": [
+            "The clause is standard, but may not cover all potential confidentiality scenarios"
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    }
+  ],
+  "contract_risk": {
+    "score": 36,
+    "level": "Low"
+  },
+  "missing_clauses": [
+    "Exceptions"
+  ],
+  "settings": {
+    "use_llm_classification": true,
+    "use_rag": true,
+    "use_rules": true,
+    "use_llm_analysis": true
+  }
+}

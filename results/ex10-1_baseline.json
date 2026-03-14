@@ -1,0 +1,922 @@
+{
+  "disclaimer": "Not legal advice. Educational decision support only. No attorney-client relationship is formed.",
+  "doc_flags": [],
+  "clauses": [
+    {
+      "clause": {
+        "id": "c001",
+        "text": "Snapshot-Content-Location: https://www.sec.gov/Archives/edgar/data/937136/000093713609000023/ex10-1.htm\nSubject: ex10-1.htm\nDate: Mon, 9 Mar 2026 16:05:19 +0200\nMIME-Version: 1.0\nContent-Type: multipart/related;\n type=\"text/html\";\n boundary=\"----MultipartBoundary--ZgMB0LqNaTxFdVfSatTgM4Lb8kKgextJxVXooVSdIY----\"\n\n------MultipartBoundary--ZgMB0LqNaTxFdVfSatTgM4Lb8kKgextJxVXooVSdIY----\nContent-Type: text/html\nContent-ID: \n\nContent-Transfer-Encoding: binary\nContent-Location: https://www.sec.gov/Archives/edgar/data/937136/000093713609000023/ex10-1.htm\n\nEX-10.1",
+        "start_char": 0,
+        "end_char": 563
+      },
+      "classification": {
+        "label": "Miscellaneous",
+        "confidence": 0.35,
+        "rationale_short": "keyword baseline"
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c001",
+        "clause_type": "Miscellaneous",
+        "plain_english_summary": "(LLM analysis disabled)",
+        "business_risk": {
+          "severity": "Low",
+          "why": []
+        },
+        "norm_deviation": {
+          "deviates": false,
+          "comparison": [],
+          "suggested_revision": ""
+        },
+        "uncertainty": {
+          "confidence": 0.35,
+          "reasons": [
+            "LLM analysis disabled"
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c002",
+        "text": "2\n\nex10-1.htm\n\nEXHIBIT 10.1\n\nex10-1.htm\n\nExhibit 10.1",
+        "start_char": 563,
+        "end_char": 624
+      },
+      "classification": {
+        "label": "Miscellaneous",
+        "confidence": 0.35,
+        "rationale_short": "keyword baseline"
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c002",
+        "clause_type": "Miscellaneous",
+        "plain_english_summary": "(LLM analysis disabled)",
+        "business_risk": {
+          "severity": "Low",
+          "why": []
+        },
+        "norm_deviation": {
+          "deviates": false,
+          "comparison": [],
+          "suggested_revision": ""
+        },
+        "uncertainty": {
+          "confidence": 0.35,
+          "reasons": [
+            "LLM analysis disabled"
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c006",
+        "text": "AGREEMENT FOR EXCLUSIVE DEALING",
+        "start_char": 681,
+        "end_char": 715
+      },
+      "classification": {
+        "label": "Miscellaneous",
+        "confidence": 0.35,
+        "rationale_short": "keyword baseline"
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c006",
+        "clause_type": "Miscellaneous",
+        "plain_english_summary": "(LLM analysis disabled)",
+        "business_risk": {
+          "severity": "Low",
+          "why": []
+        },
+        "norm_deviation": {
+          "deviates": false,
+          "comparison": [],
+          "suggested_revision": ""
+        },
+        "uncertainty": {
+          "confidence": 0.35,
+          "reasons": [
+            "LLM analysis disabled"
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c007",
+        "text": "AND LETTER OF INTENT\n\n\u00a0\n\nThis AGREEMENT FOR ECLUSIVE DEALING AND LETTER\u00a0OF INTENT (the \"LOI\"), is effective October 11, 2009 (the \"Effective Date\"), between Hyperdynamics Corporation of One Sugar Creek Center Blvd, Suite 125, Sugar Land, Texas 77478, USA (\"HDY\") acting for itself and as agent for on behalf of SCS Corporation of One Sugar Creek Center Blvd,\nSuite 125, Sugar Land, Texas 77478, USA (\"SCS\"), of the first part, \nand \nDana Petroleum (E&P) Limited, of 17 Carden Place, Aberdeen AB10 1\nUR, \nScotland, UK (\"DANA\"), of the second part. HDY and DANA may also be referred to herein individually as a \"Party\" or collectively as the \"P arties\".\n\n\u00a0\n\nRecitals:\n\n\u00a0\n\nWHEREAS, HDY owns, through its wholly owned and controlled subsidiary, SCS, certain rights pertaining to the Hydrocarbon Production Sharing Contract dated September 22, 2006 between the Republic of Guinea and SCS (the \"PSC\"); and\n\n\u00a0\n\nWHEREAS a Memorandum of Understanding in relation to the PSC has been entered into between the Republic of Guinea and SCS dated September II, 2009(the ''MoU'');and\n\n\u00a0\n\nWHEREAS, DANA possesses certain expertise and resources that it believes will be beneficial in the exploration and development of the area to which the PSC applies as may \nbe \nvaried pursuant to the MoU (the \"Project\"); and\n\n\u00a0\n\nWHEREAS, DANA wishes to evaluate its potential participation in the Project on an exclusive basis; and\n\n\u00a0\n\nWHEREAS, the Parties wish to record in this LOI certain binding and certain non-binding commercial terms and conditions on which the Parties have agreed to continue discussions and conduct further mutual evaluation \nand \nnegotiations with the possibility of, but not the obligation to,\nreaching binding definitive agreement(s) as to DANA's participation in the Project (the \"Definitive Agreements\").\n\n\u00a0\n\nNOW, THEREFORE, the Parties hereby agree as follows:\n\nArticle I Non-Binding Provisions",
+        "start_char": 715,
+        "end_char": 2617
+      },
+      "classification": {
+        "label": "Term & Survival",
+        "confidence": 0.52,
+        "rationale_short": "keyword baseline"
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c007",
+        "clause_type": "Term & Survival",
+        "plain_english_summary": "(LLM analysis disabled)",
+        "business_risk": {
+          "severity": "Low",
+          "why": []
+        },
+        "norm_deviation": {
+          "deviates": false,
+          "comparison": [],
+          "suggested_revision": ""
+        },
+        "uncertainty": {
+          "confidence": 0.52,
+          "reasons": [
+            "LLM analysis disabled"
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c008",
+        "text": "1.1 Non-Binding Nature of Provisions. The Parties have set out in Exhibit \"A\" attached hereto and incorporated herein their preliminary and non-binding understanding of certain commercial terms and conditions which may \nbe \naddressed in the prospective Definitive Agreements. The Parties\nagree that no provision of this LOI shall obligate either Party to enter into any Definitive Agreements, and that no commercial terms set out in Exhibit \"A\" attached hereto shall be legally binding in any way upon either Party. This LOI reflects only the preliminary understanding of the Parties with respect to the potential due diligence and negotiation with respect to a transaction regarding the Project, and is not intended to, shall not be construed to, and does not constitute an agreement of either Party to\n(a) perform due diligence, negotiate, or consummate any transaction regarding the Project, or (b) enter into any Definitive Agreements with respect to the Project.",
+        "start_char": 2617,
+        "end_char": 3598
+      },
+      "classification": {
+        "label": "Term & Survival",
+        "confidence": 0.52,
+        "rationale_short": "keyword baseline"
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c008",
+        "clause_type": "Term & Survival",
+        "plain_english_summary": "(LLM analysis disabled)",
+        "business_risk": {
+          "severity": "Low",
+          "why": []
+        },
+        "norm_deviation": {
+          "deviates": false,
+          "comparison": [],
+          "suggested_revision": ""
+        },
+        "uncertainty": {
+          "confidence": 0.52,
+          "reasons": [
+            "LLM analysis disabled"
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c009",
+        "text": "1.2\n. \nFurther, the Parties expressly acknowledge and agree that this Article I of this LO!I (other than this Article 1.2), \nis \nnot intended to be legally binding and that neither\nParty shall have any obligation to the other with respect thereto unless and until both Parties execute mutually agreed and duly authorized Definitive Agreements. Further, it is understood that the Definitive Agreements contemplated in this LOI are subject to review and approval in accordance with the policies and procedures established by the each Party's respective board of directors for transactions of this nature.",
+        "start_char": 3598,
+        "end_char": 4205
+      },
+      "classification": {
+        "label": "Miscellaneous",
+        "confidence": 0.35,
+        "rationale_short": "keyword baseline"
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c009",
+        "clause_type": "Miscellaneous",
+        "plain_english_summary": "(LLM analysis disabled)",
+        "business_risk": {
+          "severity": "Low",
+          "why": []
+        },
+        "norm_deviation": {
+          "deviates": false,
+          "comparison": [],
+          "suggested_revision": ""
+        },
+        "uncertainty": {
+          "confidence": 0.35,
+          "reasons": [
+            "LLM analysis disabled"
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c010",
+        "text": "1.3 It is envisaged that the Definitive Agreements will include (i) a sale and purchase agreement in respect of the transfer of the DANA Working Interest (as hereinafter defined) (the \"SPA\");\n\n(ii) \na deed of assignment of the PSC, validly transferring title to the DANA Working Interest to DANA (the \"PSC Assignment\") with all requisite governmental approvals; and (iii) a joint operating agreement based on the AIPN International Operating Agreement (the \n\"\nJO\nA')\n. \nIt \nis \nalso\nintended that, subsequent to execution of the Definitive Agreements, the Parties will enter into an amendment to, or restatement of, the PSC as required by, incorporating the relevant terms of, and superseding, the \nM\noU \n(the ''PSC Amendment/Restatement' ). HDY will provide within seven (7) working days of the Effective Date an initial draft of the SPA, the PSC Assignment\nand the \nJOA\n\u00a0\nfor review and evaluation by DANA. The Parties will work jointly in preparing the PSC Amendment/Restatement to the PSC. It is further envisaged that the Parties will work together in a cooperative fashion on all other technical, commercial and strategic matters and will attempt to incorporate such cooperation into the relevant provisions of the \nJOA \nand\nthe PSC Amendment/Restatement.",
+        "start_char": 4205,
+        "end_char": 5471
+      },
+      "classification": {
+        "label": "Miscellaneous",
+        "confidence": 0.62,
+        "rationale_short": "keyword baseline"
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c010",
+        "clause_type": "Miscellaneous",
+        "plain_english_summary": "(LLM analysis disabled)",
+        "business_risk": {
+          "severity": "Low",
+          "why": []
+        },
+        "norm_deviation": {
+          "deviates": false,
+          "comparison": [],
+          "suggested_revision": ""
+        },
+        "uncertainty": {
+          "confidence": 0.62,
+          "reasons": [
+            "LLM analysis disabled"
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c011",
+        "text": "1.4 It is further envisaged that HDY\n/\nSCS \nshall enter into an agreement on substantially equivalent terms and conditions to those set forth herein with a major oil company with the technical\nand financial capability to operate the project (the \"Major\") in relation to a working interest other than the DANA Working Interest, and that such Major shall also become a party to the \nJOA\n\u00a0\nand assume the operatorship of the project in due course. In the event that \nHD\nY\n/SCS \nis unable to secure the participation of a Major (as envisaged by Article 1.4\n), \nprior to 30 November 2009, or such later date as may be agreed in writing, HDY shall notify DANA accordingly in writing and DANA shall have the right, at its sole option, to notify HDY in writing that it is willing to accept the assignment of an increased DANA Working Interest of up to \nfi\nfty percent\n(50%) on the same terms and conditions, \nmutati\ns \nm\nutandis\n, \nas those set forth in this LOI, other than financial consideration (which shall be subject\nto the mutual agreement of the Parties), and in addition, subject always to all necessary governmental \nand \nthird party approvals, assume the operatorship of the PSC from SCS (the \"DANA Option\"). The DANA Option shall be built into the terms of the SPA.\n\nArticle II Binding Provisions\n\n\u00a0\n\nThe following provisions shall be binding upon the Parties:",
+        "start_char": 5471,
+        "end_char": 6840
+      },
+      "classification": {
+        "label": "Term & Survival",
+        "confidence": 0.52,
+        "rationale_short": "keyword baseline"
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c011",
+        "clause_type": "Term & Survival",
+        "plain_english_summary": "(LLM analysis disabled)",
+        "business_risk": {
+          "severity": "Low",
+          "why": []
+        },
+        "norm_deviation": {
+          "deviates": false,
+          "comparison": [],
+          "suggested_revision": ""
+        },
+        "uncertainty": {
+          "confidence": 0.52,
+          "reasons": [
+            "LLM analysis disabled"
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c012",
+        "text": "2.1. Exclusive Dealing. HDY agrees that it and its Affiliated Companies including, without limitation SCS, will negotiate exclusively with DANA with regard to the prospective acquisition by DANA of an undivided twenty three percent (23%) working interest in and under the PSC and the initial Contract Area (as such term is defined in the\nPSC) (the \"DANA Working Interest\"), or, in the circumstances envisaged by Article 1.4,\n\u00a0\nan increased DANA Working Interest of up to fifty percent (50%). More specifically, HDY shall, and shall procure that \nits \nAffiliated Companies including, without limitation, SCS shall: (i) not initiate, or otherwise participate in, directly or indirectly, a solicitation of any other offer or proposal for the sale,\nassignment or transfer, directly or indirectly, through merger, consolidation or otherwise, of the DANA Working Interest, which means any interest in the PSC and/or\n\n\u00a0\n\n\u00a0 \n\n\u00a0 \n\n\u00a0 \n\nthe Contract Area that is or would be inclusive of the DANA Working Interest; and (ii) cease negotiations and discussions with any other persons that have indicated an interest \nin, \nor have submitted an offer to acquire any interest in the DANA Working Interest or any interest in the\nPSC and/or Contract Area that is or would be inclusive of the DANA Working Interest. The obligations of HDY and its Affiliated Companies including, without limitation, SCS, to deal exclusively with DANA herein will commence on the Effective Date and continue until the earlier to occur of \nthe \nTermination Date or the Parties ' execution of mutually agreed and duly authorized Definitive Agreements.",
+        "start_char": 6840,
+        "end_char": 8457
+      },
+      "classification": {
+        "label": "Definition of Confidential Info",
+        "confidence": 0.52,
+        "rationale_short": "keyword baseline"
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c012",
+        "clause_type": "Definition of Confidential Info",
+        "plain_english_summary": "(LLM analysis disabled)",
+        "business_risk": {
+          "severity": "Low",
+          "why": []
+        },
+        "norm_deviation": {
+          "deviates": false,
+          "comparison": [],
+          "suggested_revision": ""
+        },
+        "uncertainty": {
+          "confidence": 0.52,
+          "reasons": [
+            "LLM analysis disabled"
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c013",
+        "text": "2.2 Due Diligence: Obligation to Negotiate in Good Faith. During the time period commencing on the Effective Date and continuing until the earlier to occur of the Termination Date or the Parties' execution of mutually agreed and duly authorized Definitive Agreements, the Parties will conduct due diligence with respect to the prospective\ntransaction described herein, \nand \nshall negotiate in good faith regarding such prospective transaction.",
+        "start_char": 8457,
+        "end_char": 8906
+      },
+      "classification": {
+        "label": "Term & Survival",
+        "confidence": 0.52,
+        "rationale_short": "keyword baseline"
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c013",
+        "clause_type": "Term & Survival",
+        "plain_english_summary": "(LLM analysis disabled)",
+        "business_risk": {
+          "severity": "Low",
+          "why": []
+        },
+        "norm_deviation": {
+          "deviates": false,
+          "comparison": [],
+          "suggested_revision": ""
+        },
+        "uncertainty": {
+          "confidence": 0.52,
+          "reasons": [
+            "LLM analysis disabled"
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c014",
+        "text": "2.3 Term of this LOI. Unless otherwise extended by mutual agreement in writing, this LOI shall terminate at midnight local time in Houston, Texas, on 31 December 2009, unless the mutually agreed and duly authorized Definitive Agreements have been entered into on or prior to such date, such date of termination being herein referred to as\nthe \"Termination Date\".\n\n\u00a0\n\nHDY may not unilaterally terminate this LOI prior to the Termination Date. \nIf \nthe LOI terminates as a result of Definitive Agreements not having been executed prior to the Termination Date , neither Party shall have any obligation or liability to the other except to the extent that,\nprior to the Termination Date, a Party has breached any of the binding provisions of this LOI.",
+        "start_char": 8906,
+        "end_char": 9658
+      },
+      "classification": {
+        "label": "Termination",
+        "confidence": 0.72,
+        "rationale_short": "keyword baseline"
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c014",
+        "clause_type": "Termination",
+        "plain_english_summary": "(LLM analysis disabled)",
+        "business_risk": {
+          "severity": "Low",
+          "why": []
+        },
+        "norm_deviation": {
+          "deviates": false,
+          "comparison": [],
+          "suggested_revision": ""
+        },
+        "uncertainty": {
+          "confidence": 0.72,
+          "reasons": [
+            "LLM analysis disabled"
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c015",
+        "text": "2.4 Confidentiality. The terms and conditions of the Confidentiality Agreement entered into by DANA and SCS on September 8, 2008 (the \"CA\"), are incorporated by reference into this LOI and shall apply with regard to all information exchanged or developed hereunder. Notwithstanding the foregoing , neither Party shall be prohibited from making\nany disclosure if it is necessary to do so in order to comply with the applicable laws, rules, or regulations of any governmental entity, court, or stock exchange having jurisdiction over such Party or any of its Affiliated Companies (which term shall have the same meaning herein as defined in the CA.",
+        "start_char": 9658,
+        "end_char": 10309
+      },
+      "classification": {
+        "label": "Definition of Confidential Info",
+        "confidence": 0.62,
+        "rationale_short": "keyword baseline"
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c015",
+        "clause_type": "Definition of Confidential Info",
+        "plain_english_summary": "(LLM analysis disabled)",
+        "business_risk": {
+          "severity": "Low",
+          "why": []
+        },
+        "norm_deviation": {
+          "deviates": false,
+          "comparison": [],
+          "suggested_revision": ""
+        },
+        "uncertainty": {
+          "confidence": 0.62,
+          "reasons": [
+            "LLM analysis disabled"
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c016",
+        "text": "2.5 DANA Participation Prior to Execution of Definitive Agreements. Notwithstanding any other provisions hereof, DANA shall be entitled to participate fully with HDY/SCS in the evaluation of technical data leading to direction and interpretation of geological and geophysical data during that period of the LOI prior to the execution of Definitive\nAgreements and, furthermore, shall participate fully during such period in the preparation for negotiations with the Ministry of Mines, Energy and Hydraulics of the Republic of Guinea (the \"Ministry\") regarding the terms of the PSC Amendment/Restatement; shall be kept fully appraised of the progress of such negotiations; and, subject to Ministry consent, shall be entitled to participate in such negotiations. Such negotiations shall be commenced as soon as reasonably practicable following the Effective Date.",
+        "start_char": 10309,
+        "end_char": 11174
+      },
+      "classification": {
+        "label": "Term & Survival",
+        "confidence": 0.52,
+        "rationale_short": "keyword baseline"
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c016",
+        "clause_type": "Term & Survival",
+        "plain_english_summary": "(LLM analysis disabled)",
+        "business_risk": {
+          "severity": "Low",
+          "why": []
+        },
+        "norm_deviation": {
+          "deviates": false,
+          "comparison": [],
+          "suggested_revision": ""
+        },
+        "uncertainty": {
+          "confidence": 0.52,
+          "reasons": [
+            "LLM analysis disabled"
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c017",
+        "text": "2.6 Press Releases. Neither Party may issue press releases, public communications or public statements regarding the existence or terms of this LOI and matters arising in relation hereto unless and until the other Party has been furnished with a copy of such statement in advance and has given written approval, which shall not be unreasonably\nwithheld and which shall be timely given, in no case exceeding twenty-four (24) hours. Notwithstanding the foregoing, neither Party shall be prohibited from making any disclosure if it is necessary to do so in order to comply with the applicable laws, rules, or regulations of any governmental entity, court, or stock exchange having jurisdiction over such Party or any of its Affiliated Companies.",
+        "start_char": 11174,
+        "end_char": 11933
+      },
+      "classification": {
+        "label": "Governing Law",
+        "confidence": 0.72,
+        "rationale_short": "keyword baseline"
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c017",
+        "clause_type": "Governing Law",
+        "plain_english_summary": "(LLM analysis disabled)",
+        "business_risk": {
+          "severity": "Low",
+          "why": []
+        },
+        "norm_deviation": {
+          "deviates": false,
+          "comparison": [],
+          "suggested_revision": ""
+        },
+        "uncertainty": {
+          "confidence": 0.72,
+          "reasons": [
+            "LLM analysis disabled"
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c018",
+        "text": "2.7 Choice of Law. This LOI and the transactions contemplated herein, and any dispute pursuant hereto shall be subject to and construed in accordance with, and governed by, the laws of the State of Texas without reference to the conflict of laws principles thereof. Any dispute arising out of or relating to this LOI, including any question\nregarding its existence, validity or termination, which cannot be amicably resolved by the Parties, shall be settled by arbitration in accordance with the Rules of Arbitration of the International Chamber of Commerce (ICC) by three arbitrators or, if both Parties agree, by a sole arbitrator, appointed in accordance with the said Rules. The arbitration proceedings shall be held in London, England and shall be conducted in the English language. Awards shall be reduced to writing, and shall be \nfinal \nand\nbinding on the Parties without the right of appeal. The Parties undertake to carry out the award without delay. Judgement upon the award may be entered in any court having jurisdiction. A dispute shall be deemed to have arisen when either Party notifies the other Party in writing to that effect.",
+        "start_char": 11933,
+        "end_char": 13083
+      },
+      "classification": {
+        "label": "Dispute Resolution",
+        "confidence": 0.8200000000000001,
+        "rationale_short": "keyword baseline"
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c018",
+        "clause_type": "Dispute Resolution",
+        "plain_english_summary": "(LLM analysis disabled)",
+        "business_risk": {
+          "severity": "Low",
+          "why": []
+        },
+        "norm_deviation": {
+          "deviates": false,
+          "comparison": [],
+          "suggested_revision": ""
+        },
+        "uncertainty": {
+          "confidence": 0.8200000000000001,
+          "reasons": [
+            "LLM analysis disabled"
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c019",
+        "text": "2.8 Costs \nand \nExpenses. Each Party shall be liable for its own legal, accounting and other costs and expenses incurred by it in connection with the undertakings associated with this LOI, including, without limitation, the negotiation and execution of Definitive Agreements.",
+        "start_char": 13083,
+        "end_char": 13363
+      },
+      "classification": {
+        "label": "Limitation of Liability",
+        "confidence": 0.52,
+        "rationale_short": "keyword baseline"
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c019",
+        "clause_type": "Limitation of Liability",
+        "plain_english_summary": "(LLM analysis disabled)",
+        "business_risk": {
+          "severity": "Low",
+          "why": []
+        },
+        "norm_deviation": {
+          "deviates": false,
+          "comparison": [],
+          "suggested_revision": ""
+        },
+        "uncertainty": {
+          "confidence": 0.52,
+          "reasons": [
+            "LLM analysis disabled"
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c020",
+        "text": "2.9 Counterparts. This LOI may be executed and delivered by the Parties (in original form or by facsimile or emailed pdf scan) in counterparts, each of which shall be deemed an original instrument, but all of which together shall constitute the same instrument, provided that this LOI shall not be effective until each Party has executed\nand delivered a counterpart.",
+        "start_char": 13363,
+        "end_char": 13734
+      },
+      "classification": {
+        "label": "Miscellaneous",
+        "confidence": 0.52,
+        "rationale_short": "keyword baseline"
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c020",
+        "clause_type": "Miscellaneous",
+        "plain_english_summary": "(LLM analysis disabled)",
+        "business_risk": {
+          "severity": "Low",
+          "why": []
+        },
+        "norm_deviation": {
+          "deviates": false,
+          "comparison": [],
+          "suggested_revision": ""
+        },
+        "uncertainty": {
+          "confidence": 0.52,
+          "reasons": [
+            "LLM analysis disabled"
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c021",
+        "text": "2.10 Entire Agreement. This LOI constitutes the entire understanding among the Parties with respect to the subject matter hereof, superseding all negotiations, prior discussions and prior agreements and understandings relating to such subject matter.",
+        "start_char": 13734,
+        "end_char": 13989
+      },
+      "classification": {
+        "label": "Miscellaneous",
+        "confidence": 0.52,
+        "rationale_short": "keyword baseline"
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c021",
+        "clause_type": "Miscellaneous",
+        "plain_english_summary": "(LLM analysis disabled)",
+        "business_risk": {
+          "severity": "Low",
+          "why": []
+        },
+        "norm_deviation": {
+          "deviates": false,
+          "comparison": [],
+          "suggested_revision": ""
+        },
+        "uncertainty": {
+          "confidence": 0.52,
+          "reasons": [
+            "LLM analysis disabled"
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c022",
+        "text": "2.11 Amendments. This LOI may not be amended nor any rights hereunder waived except by written mutual agreement of the Parties.",
+        "start_char": 13989,
+        "end_char": 14121
+      },
+      "classification": {
+        "label": "Miscellaneous",
+        "confidence": 0.52,
+        "rationale_short": "keyword baseline"
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c022",
+        "clause_type": "Miscellaneous",
+        "plain_english_summary": "(LLM analysis disabled)",
+        "business_risk": {
+          "severity": "Low",
+          "why": []
+        },
+        "norm_deviation": {
+          "deviates": false,
+          "comparison": [],
+          "suggested_revision": ""
+        },
+        "uncertainty": {
+          "confidence": 0.52,
+          "reasons": [
+            "LLM analysis disabled"
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c023",
+        "text": "2.12 Assignment. This LOI and the rights and obligations herein may not be assigned by a Party, in whole or in part, without the prior written consent of the other Party.",
+        "start_char": 14121,
+        "end_char": 14296
+      },
+      "classification": {
+        "label": "IP Ownership / Assignment",
+        "confidence": 0.52,
+        "rationale_short": "keyword baseline"
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c023",
+        "clause_type": "IP Ownership / Assignment",
+        "plain_english_summary": "(LLM analysis disabled)",
+        "business_risk": {
+          "severity": "Low",
+          "why": []
+        },
+        "norm_deviation": {
+          "deviates": false,
+          "comparison": [],
+          "suggested_revision": ""
+        },
+        "uncertainty": {
+          "confidence": 0.52,
+          "reasons": [
+            "LLM analysis disabled"
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c024",
+        "text": "2.13 No Third party Beneficiaries. This LOI is intended to benefit only the Parties hereto and their respective permitted successors and assigns.",
+        "start_char": 14296,
+        "end_char": 14446
+      },
+      "classification": {
+        "label": "Permitted Disclosures",
+        "confidence": 0.52,
+        "rationale_short": "keyword baseline"
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c024",
+        "clause_type": "Permitted Disclosures",
+        "plain_english_summary": "(LLM analysis disabled)",
+        "business_risk": {
+          "severity": "Low",
+          "why": []
+        },
+        "norm_deviation": {
+          "deviates": false,
+          "comparison": [],
+          "suggested_revision": ""
+        },
+        "uncertainty": {
+          "confidence": 0.52,
+          "reasons": [
+            "LLM analysis disabled"
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c025",
+        "text": "2.14 Notices. All notices and communications with respect to this LOI shall be in writing. Any communication or delivery hereunder shall be deemed to have been duly made and the receiving Party charged with notice (i) if personally delivered, when received, \n(ii\n) \nif\nsent by telecopy or facsimile transmission, on the first business day on or after which such facsimile is successfully transmitted and received,(iii) if mailed, three businessdaysaftermailing,certifiedmail,returnreceiptrequested,or(iv)if sent by overnight courier, the first business day on or after such notice is sent by overnight courier.\n\n\u00a0\n\nAll notices shall be addressed as follows:\n\n\u00a0\n\nIf to DANA: Mr. John Downey\" Manager International Business and New Ventures, 17 Carden Place, Aberdeen, AB10 1UR, Scotland, UK Telephone +44 1224 652 400, Facsimile: +44 1224 652 401.\n\n\u00a0\n\nIf to HDY: Attn: Ray Leonard, Chief Executive Officer, Hyperdynamics Corporation, One Sugar Creek Center Blvd., Suite 125, Sugar Land, Texas 77478, USA Telephone + I 713.353.9400, Facsimile\n\n+1713.353.9434.\n\n\u00a0 \n\n\u00a0 \n\n\u00a0 \n\nAny Party may, by written notice so delivered to the other Party, change the address or individual to which delivery shall thereafter be made.",
+        "start_char": 14446,
+        "end_char": 15661
+      },
+      "classification": {
+        "label": "Term & Survival",
+        "confidence": 0.52,
+        "rationale_short": "keyword baseline"
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c025",
+        "clause_type": "Term & Survival",
+        "plain_english_summary": "(LLM analysis disabled)",
+        "business_risk": {
+          "severity": "Low",
+          "why": []
+        },
+        "norm_deviation": {
+          "deviates": false,
+          "comparison": [],
+          "suggested_revision": ""
+        },
+        "uncertainty": {
+          "confidence": 0.52,
+          "reasons": [
+            "LLM analysis disabled"
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c026",
+        "text": "2.15 Compliance With U.S. and International Laws Governing Sanctions and Corrupt Practices. Each Party represents that, to the best of its knowledge and belief, it is not subject to economic or other sanctions imposed under the laws of the United States or treaties or conventions of the United Nations and is eligible to receive exports\nfrom the United States under the laws of the United States.\n\n\u00a0\n\n[Execution Page Follows}\n\n\u00a0\n\n\u00a0 \n\n\u00a0 \n\n\u00a0 \n\nThe Parties have executed this",
+        "start_char": 15661,
+        "end_char": 16136
+      },
+      "classification": {
+        "label": "Governing Law",
+        "confidence": 0.72,
+        "rationale_short": "keyword baseline"
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c026",
+        "clause_type": "Governing Law",
+        "plain_english_summary": "(LLM analysis disabled)",
+        "business_risk": {
+          "severity": "Low",
+          "why": []
+        },
+        "norm_deviation": {
+          "deviates": false,
+          "comparison": [],
+          "suggested_revision": ""
+        },
+        "uncertainty": {
+          "confidence": 0.72,
+          "reasons": [
+            "LLM analysis disabled"
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c029",
+        "text": "DEALING AND LETTER OF INTENT \nas of the Effective Date.",
+        "start_char": 16162,
+        "end_char": 16222
+      },
+      "classification": {
+        "label": "Miscellaneous",
+        "confidence": 0.35,
+        "rationale_short": "keyword baseline"
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c029",
+        "clause_type": "Miscellaneous",
+        "plain_english_summary": "(LLM analysis disabled)",
+        "business_risk": {
+          "severity": "Low",
+          "why": []
+        },
+        "norm_deviation": {
+          "deviates": false,
+          "comparison": [],
+          "suggested_revision": ""
+        },
+        "uncertainty": {
+          "confidence": 0.35,
+          "reasons": [
+            "LLM analysis disabled"
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c030",
+        "text": "HYPERDYNAMICS CORPORATION\n\nBy: \n/s/ Ray Leonard\n\nRay Leonard\n\nChief Executive Officer\n\n\u00a0\n\nDANA PETROLEUM (E&P) LIMITED\n\nBy: \n/s/ Stuart M. Paton\n\nStuart M. Paton\n\nTechnical & Commercial Director\n\n\u00a0\n\n\u00a0 \n\n\u00a0 \n\n\u00a0 \n\nEXHIBIT \"A\"\n\n\u00a0\n\nEssential Commercial Terms\n\n\u00a0\n\nThis Exhibit sets forth certain essential business terms for a prospective transaction which is being considered by the Parties. These terms are set forth solely for the purpose of furthering discussions between the Parties, and is not intended to, and shall not be construed to, create any legally binding obligation enforceable against\neither Party.\n\n\u00a0\n\nAgreements:\u00a0 \n\n\u00a0\n\nSPA to be negotiated and executed by HDY, SCS and DANA (or its nominated Affiliated Company), in respect of the acquisition by DANA of the DANA Working Interest as more particularly described below.\n\nPSC Assignment assigning the DANA Working Interest to DANA, such that \nDANA\n\u00a0\nbecomes a party to the PSC, to be negotiated and executed by SCS, DANA (or its nominated Affiliated Company),\nany third parties to the PSC, and the Government of the Republic of Guinea, or such alternative means of effecting and documenting the transfer of the DANA Working Interest to DANA as may be mutually agreed in writing by HDY, SCS and DANA.\n\nJOA \n(including Accounting Procedure) in respect of the PSC and Contract Area to be negotiated and executed by SCS, DANA (or its nominated Affiliated Company) and any third party co-venturers.\n\nThe foregoing agreements constitute the \"Definitive Agreements\".\n\nPSC Amendment/Restatement, to be negotiated by SCS, DANA (or its nominated Affiliated Company), any third party co-venturers, and the Government of the Republic of Guinea incorporating, \ni\nnter alia\n, \nthe\nrelevant terms of, and superseding, the MoU, \nand \nto be executed by all parties to the PSC.\n\n\u00a0\n\nAssignor: SCS Corporation.\n\n\u00a0\n\nAssignee: DANA\u00a0 Dana Petroleum (E&P) Limited (or its nominated Affiliated Company). As described in Article 1.4 above.\n\n\u00a0\n\nOption:\u00a0 \nDANA Working Interest: An undivided twenty three percent (23%) working interest in the PSC and Contract Area to be assigned by the PSC Assignment contemporaneously with execution of the \nJOA\n, \nsubject\nto government and third party approvals and consents as required, which interest may be increased to up to a maximum of \nfifty \npercent (50%) pursuant to the DANA Option.\n\n\u00a0\n\nContract Area:\u00a0 Contract \nAre\na, \nas such term is defined in the PSC, it being understood and acknowledged that such Contract Area is subject to variation pursuant to the MoU.\n\n\u00a0\n\nConsideration:\u00a0 US$20,000,000 payable as follows:\n\n\u00a0\n\n(i) US$5,000,000 payable, in cash, following execution of all Definitive Agreements and, where applicable, their entry into full legal effect pursuant to the laws of the Republic of Guinea.\n\n(ii) US$15,000,000 payable, at DANA's sole option, in either cash or in new ordinary shares of UKO.15 each in Dana Petroleum plc issued and allotted to HDY (or its stated nominees), to the value ofUS$15,000,000, such shares to be valued at the average mid point closing price for the five (5) trading days immediately preceding the day\non which the payment referred to above is made , such payment or share issue to \nbe \nmade following execution of the PSC Amendment/Restatement and its entry into full legal effect pursuant to the laws of the Republic of Guinea. Any shares so issued shall be issued by Dana Petroleum plc credited as fully paid and shall rank \npari pas\nsu \nwith the existing\nordinary shares in Dana Petroleum plc in all respects. No additional restrictions or encumbrances shall be applied to such shares by Dana Petroleum plc which would prevent their immediate sale by HOY on the open market.\n\nIn the event of exercise of the DANA Option, the sum payable pursuant to (ii) above shall be as may be mutually agreed by the Parties.\n\n\u00a0\n\n\u00a0 \n\n\u00a0 \n\n\u00a0 \n\nRight of First Refusal:\u00a0 The right of first refusal applicable to SCS pursuant to Article 2.3 of the MoU shall be passed on to DANA pro rata to the DANA Working Interest.\n\n\u00a0\n\nIndemnity:\u00a0 HDY/SCS shall indemnify and hold harmless DANA in respect of any and all claims and liabilities in respect of the period prior to the date of assignment to DANA of the DANA Working Interest.\n\n\u00a0\n\nConditions Precedent:\u00a0 All necessary approvals and consents by the Government of the Republic of Guinea and relevant third parties for the acquisition of the Working Interest by DANA including, without limitation, approval of the Definitive Agreements, the PSC Amendment/Restatement, and any and all other ancillary documents of transfer\nand recordation.\n\n\u00a0 \n\n\u00a0 \n\n\u00a0 \n\n------MultipartBoundary--ZgMB0LqNaTxFdVfSatTgM4Lb8kKgextJxVXooVSdIY------",
+        "start_char": 16222,
+        "end_char": 20900
+      },
+      "classification": {
+        "label": "Governing Law",
+        "confidence": 0.62,
+        "rationale_short": "keyword baseline"
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c030",
+        "clause_type": "Governing Law",
+        "plain_english_summary": "(LLM analysis disabled)",
+        "business_risk": {
+          "severity": "Low",
+          "why": []
+        },
+        "norm_deviation": {
+          "deviates": false,
+          "comparison": [],
+          "suggested_revision": ""
+        },
+        "uncertainty": {
+          "confidence": 0.62,
+          "reasons": [
+            "LLM analysis disabled"
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    }
+  ],
+  "contract_risk": {
+    "score": 33,
+    "level": "Low"
+  },
+  "missing_clauses": [
+    "Confidentiality",
+    "Exceptions",
+    "Return/Destruction",
+    "Remedies / Injunctive Relief"
+  ],
+  "settings": {
+    "use_llm_classification": false,
+    "use_rag": false,
+    "use_rules": false,
+    "use_llm_analysis": false
+  }
+}

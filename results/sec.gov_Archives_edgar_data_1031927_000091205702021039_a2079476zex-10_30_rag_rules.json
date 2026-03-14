@@ -1,0 +1,1531 @@
+{
+  "disclaimer": "Not legal advice. Educational decision support only. No attorney-client relationship is formed.",
+  "doc_flags": [],
+  "clauses": [
+    {
+      "clause": {
+        "id": "c001",
+        "text": "Snapshot-Content-Location: https://www.sec.gov/Archives/edgar/data/1031927/000091205702021039/a2079476zex-10_30.htm\nSubject: \nDate: Mon, 9 Mar 2026 16:05:05 +0200\nMIME-Version: 1.0\nContent-Type: multipart/related;\n type=\"text/html\";\n boundary=\"----MultipartBoundary--LThtqcKgcVwBuZoiL8QGrFUgjOrYJZ7LWfQk8Tlfca----\"\n\n------MultipartBoundary--LThtqcKgcVwBuZoiL8QGrFUgjOrYJZ7LWfQk8Tlfca----\nContent-Type: text/html\nContent-ID: \n\nContent-Transfer-Encoding: binary\nContent-Location: https://www.sec.gov/Archives/edgar/data/1031927/000091205702021039/a2079476zex-10_30.htm\n\nEX-10.30",
+        "start_char": 0,
+        "end_char": 578
+      },
+      "classification": {
+        "label": "Miscellaneous",
+        "confidence": 0.35,
+        "rationale_short": "keyword baseline"
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c001",
+        "clause_type": "Miscellaneous",
+        "plain_english_summary": "(LLM analysis disabled)",
+        "business_risk": {
+          "severity": "Low",
+          "why": []
+        },
+        "norm_deviation": {
+          "deviates": false,
+          "comparison": [],
+          "suggested_revision": ""
+        },
+        "uncertainty": {
+          "confidence": 0.35,
+          "reasons": [
+            "LLM analysis disabled"
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c002",
+        "text": "6\n\na2079476zex-10_30.htm\n\nEXHIBIT 10.30\n\nQuickLinks\n\n -- Click here to rapidly navigate through this document\n\nExhibit\u00a010.30",
+        "start_char": 578,
+        "end_char": 713
+      },
+      "classification": {
+        "label": "Miscellaneous",
+        "confidence": 0.35,
+        "rationale_short": "keyword baseline"
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c002",
+        "clause_type": "Miscellaneous",
+        "plain_english_summary": "(LLM analysis disabled)",
+        "business_risk": {
+          "severity": "Low",
+          "why": []
+        },
+        "norm_deviation": {
+          "deviates": false,
+          "comparison": [],
+          "suggested_revision": ""
+        },
+        "uncertainty": {
+          "confidence": 0.35,
+          "reasons": [
+            "LLM analysis disabled"
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c003",
+        "text": "BROKERAGE AGREEMENT\n\n \n \n\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0THIS ENGAGEMENT AGREEMENT (this \"Agreement\") is made as of the 15th day of March, 2001 by and between ChoiceTel Communications,\u00a0Inc., a Minnesota\ncorporation (the \"Company\"), and Wimbish Riteway Realtors, a Florida corporation (the \"Broker\").\n\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0WHEREAS, the Company desires to retain Broker and Broker desires to be retained by the Company as brokerage agent to assist the Company with a sale of substantially all of the Company's\nPuerto Rican pay telephone business assets;\n\n \n\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0NOW, THEREFORE, for good and valuable consideration the receipt and sufficiency of which are hereby acknowledged, the parties agree as follows:",
+        "start_char": 713,
+        "end_char": 1389
+      },
+      "classification": {
+        "label": "Miscellaneous",
+        "confidence": 0.35,
+        "rationale_short": "keyword baseline"
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c003",
+        "clause_type": "Miscellaneous",
+        "plain_english_summary": "(LLM analysis disabled)",
+        "business_risk": {
+          "severity": "Low",
+          "why": []
+        },
+        "norm_deviation": {
+          "deviates": false,
+          "comparison": [],
+          "suggested_revision": ""
+        },
+        "uncertainty": {
+          "confidence": 0.35,
+          "reasons": [
+            "LLM analysis disabled"
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c004",
+        "text": "1.\u00a0\u00a0\u00a0\u00a0\nEngagement of Broker.\n\u00a0\u00a0\u00a0\u00a0The Company hereby appoints Broker and Broker hereby agrees to act as\nthe Company's brokerage agent to find a purchaser for the Company's Puerto Rican pay telephone business assets (the \"Puerto Rican Assets\"). As brokerage agent, Broker shall:\n\n(A)\nMaintain\nstrict confidentiality of all confidential and other proprietary information, data, and materials relating to the Company;\n\n(B)\nFamiliarize\nitself with the business, operations, physical assets, financial condition and prospects of the Company;\n\n(C)\nDevelop\na list of potential buyers of the Puerto Rican Assets whom Broker believes in good faith to be financially qualified and potentially interested in participating in a Qualified\nTransaction (as defined below);\n\n(D)\nNot\nshare with any potential purchaser any confidential, non-public information relating to the Company unless the potential purchaser has executed and delivered a\nConfidentiality Agreement in the form attached hereto as Exhibit\u00a0A;\n\n(E)\nContact\nqualified purchasers on the Company's behalf and, as appropriate, arrange for and orchestrate meetings between qualified purchasers and the Company;\n\n(F)\nAssist\nwith the preparation of data and analysis as may be reasonably requested by a potential purchaser, the final drafts of which must be presented to the Company for its approval;\n\n(G)\nWork\nin the capacity outlined above with the Company's legal counsel, accountants, and other advisors as reasonably requested and directed by the Company;\n\n(H)\nPresent\nto the Company all proposals from potential purchasers and make recommendations as to the Company's appropriate negotiating strategy and course of conduct;\n\n(I)\nAssist\nin all negotiations and in all document review as reasonably requested and directed by the Company;\n\n(J)\nMaintain\na current contact list of all potential purchasers and the response status of each, and at Company's request provide Company with a current copy; and\n\n(K)\nProvide\nCompany with a weekly activity report by telephone or in writing indicating actions taken during the preceding week and proposed actions to be taken during following week.",
+        "start_char": 1389,
+        "end_char": 3527
+      },
+      "classification": {
+        "label": "Confidentiality",
+        "confidence": 0.62,
+        "rationale_short": "keyword baseline"
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c004",
+        "clause_type": "Confidentiality",
+        "plain_english_summary": "(LLM analysis disabled)",
+        "business_risk": {
+          "severity": "Low",
+          "why": []
+        },
+        "norm_deviation": {
+          "deviates": false,
+          "comparison": [],
+          "suggested_revision": ""
+        },
+        "uncertainty": {
+          "confidence": 0.62,
+          "reasons": [
+            "LLM analysis disabled"
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c005",
+        "text": "2.\u00a0\u00a0\u00a0\u00a0\nTerm and Termination.\n\u00a0\u00a0\u00a0\u00a0This Agreement shall continue in effect for one (1)\u00a0year from the\ndate of execution (the (\"Term\"), unless earlier terminated pursuant to this Section\u00a02. Either party may terminate this Agreement before expiration of the Term, without notice, for Cause.\n\"Cause\" shall include (i)\u00a0Broker's misappropriation, theft or embezzlement of the Company's property; (ii)\u00a0Broker's conviction for any crime or violation of law (other than misdemeanor\ntraffic violations); (iii)\u00a0dishonest, unethical or unlawful business conduct by Broker; (iv)\u00a0any action of, or inaction by Broker that may or does result in any damage to the reputation\nor goodwill of the Company; (v)\u00a0the material breach of\n\n \n\nany provision of this Agreement by either party which is not cured within thirty (30)\u00a0days of the date of the written notice by the non-breaching party to the breaching party or\n(vi)\u00a0the failure by Broker to preform any of the duties or obligations specified in this Agreement (including, but not limited to the\n\nobligations enumerated in Section\u00a01). Upon termination of this Agreement, neither party shall have any liability to the other except that if with in six months of the termination of this\nagreement, if a transaction is closed between a registered buyer submitted by Wimbish Riteway Realtors or any Cooperating Broker, the company will owe the Brokerage Fee.",
+        "start_char": 3527,
+        "end_char": 4914
+      },
+      "classification": {
+        "label": "Termination",
+        "confidence": 0.9199999999999999,
+        "rationale_short": "keyword baseline"
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c005",
+        "clause_type": "Termination",
+        "plain_english_summary": "(LLM analysis disabled)",
+        "business_risk": {
+          "severity": "Low",
+          "why": []
+        },
+        "norm_deviation": {
+          "deviates": false,
+          "comparison": [],
+          "suggested_revision": ""
+        },
+        "uncertainty": {
+          "confidence": 0.9199999999999999,
+          "reasons": [
+            "LLM analysis disabled"
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c006",
+        "text": "3.\u00a0\u00a0\u00a0\u00a0\nBrokerage Fee.\n\u00a0\u00a0\u00a0\u00a0The Company shall pay Broker a brokerage fee equal to five and\none-half percent (5",
+        "start_char": 4914,
+        "end_char": 5023
+      },
+      "classification": {
+        "label": "Miscellaneous",
+        "confidence": 0.35,
+        "rationale_short": "keyword baseline"
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c006",
+        "clause_type": "Miscellaneous",
+        "plain_english_summary": "(LLM analysis disabled)",
+        "business_risk": {
+          "severity": "Low",
+          "why": []
+        },
+        "norm_deviation": {
+          "deviates": false,
+          "comparison": [],
+          "suggested_revision": ""
+        },
+        "uncertainty": {
+          "confidence": 0.35,
+          "reasons": [
+            "LLM analysis disabled"
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c008",
+        "text": "2\n%) of the Total Consideration received by the Company with respect to any Qualified Transaction (the \"Brokerage Fee\") if the purchase price accepted by\nthe company is less than $6,100,000, and pay seven percent (7.0%) if the Total Consideration received by the Company with respect to any Qualified Transaction is $6,100,000 or more. The Company shall\nnot pay any additional amount to any other party involved in facilitating a Qualified Transaction whether such party has been engaged by Broker, a potential purchaser or otherwise. A \"Qualified\nTransaction\" shall be any sale of the Puerto Rican Assets to any person or entity. The Company shall refer to the Broker any party contacting the Company as a result of Broker's efforts. \"Total\nConsideration\" shall include (a)\u00a0cash paid and securities transferred to the Company at closing and (b)\u00a0all deferred installments of the purchase price and any portion of the\nconsideration which is held in escrow subsequent to the closing; provided that the Total Consideration shall be reduced by the amount of any cash or short term investments convertible into cash within\nninety (90)\u00a0days which are received by a purchaser as part of any Qualified Transaction (including but not limited to cash and investments currently held by the Company and received by a\npurchaser upon a purchase of the Company). If any portion of the Total Consideration is in the form of securities, rather than cash, Broker may choose to be paid a relative portion of the Brokerage\nFee in such securities or by payment of an amount of cash equal to the fair market value of such securities. If any portion of the Total Consideration is to be received by the Company on a deferred\nbasis, the Company shall pay such portion of the Brokerage Fee on the same deferred schedule.",
+        "start_char": 5027,
+        "end_char": 6826
+      },
+      "classification": {
+        "label": "Term & Survival",
+        "confidence": 0.52,
+        "rationale_short": "keyword baseline"
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c008",
+        "clause_type": "Term & Survival",
+        "plain_english_summary": "(LLM analysis disabled)",
+        "business_risk": {
+          "severity": "Low",
+          "why": []
+        },
+        "norm_deviation": {
+          "deviates": false,
+          "comparison": [],
+          "suggested_revision": ""
+        },
+        "uncertainty": {
+          "confidence": 0.52,
+          "reasons": [
+            "LLM analysis disabled"
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c009",
+        "text": "4.\u00a0\u00a0\u00a0\u00a0\nNo Obligation.\n\u00a0\u00a0\u00a0\u00a0The Company has no obligation to enter into any proposed Qualified Transaction\nand may reject any and all offers for Qualified Transactions submitted by Broker in the Company's sole and absolute discretion, except that the Company must enter into good faith negotiations with any\nbona fide potential purchaser offering Total Consideration (determined in accordance with Section\u00a03) of at least Six Million Four Hundred Thousand and 00/100 ($6,400,000), payable in cash on an\nacceptable closing date.",
+        "start_char": 6826,
+        "end_char": 7352
+      },
+      "classification": {
+        "label": "Term & Survival",
+        "confidence": 0.52,
+        "rationale_short": "keyword baseline"
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c009",
+        "clause_type": "Term & Survival",
+        "plain_english_summary": "(LLM analysis disabled)",
+        "business_risk": {
+          "severity": "Low",
+          "why": []
+        },
+        "norm_deviation": {
+          "deviates": false,
+          "comparison": [],
+          "suggested_revision": ""
+        },
+        "uncertainty": {
+          "confidence": 0.52,
+          "reasons": [
+            "LLM analysis disabled"
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c010",
+        "text": "5.\u00a0\u00a0\u00a0\u00a0\nIndemnification.\n\u00a0\u00a0\u00a0\u00a0Broker shall indemnify and hold harmless the Company, its shareholders,\nofficers and employees against any expenses (including counsel fees and preparation costs, if any), claims, liabilities or other damages to third parties arising from or related to this Agreement\n(including but not limited to the performance of brokerage services by Broker) or any confidentiality agreement executed in connection with this Agreement. This indemnification provision shall survive\ntermination of this Agreement.",
+        "start_char": 7352,
+        "end_char": 7884
+      },
+      "classification": {
+        "label": "Term & Survival",
+        "confidence": 0.62,
+        "rationale_short": "keyword baseline"
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c010",
+        "clause_type": "Term & Survival",
+        "plain_english_summary": "(LLM analysis disabled)",
+        "business_risk": {
+          "severity": "Low",
+          "why": []
+        },
+        "norm_deviation": {
+          "deviates": false,
+          "comparison": [],
+          "suggested_revision": ""
+        },
+        "uncertainty": {
+          "confidence": 0.62,
+          "reasons": [
+            "LLM analysis disabled"
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c011",
+        "text": "6.\u00a0\u00a0\u00a0\u00a0\nComplete and Binding Agreement.\n\u00a0\u00a0\u00a0\u00a0This Agreement is the final, entire agreement between the\nparties with respect to its subject matter and supercedes any prior agreements, negotiations or discussions and may not be modified or amended except by a writing signed by both parties.",
+        "start_char": 7884,
+        "end_char": 8176
+      },
+      "classification": {
+        "label": "Miscellaneous",
+        "confidence": 0.52,
+        "rationale_short": "keyword baseline"
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c011",
+        "clause_type": "Miscellaneous",
+        "plain_english_summary": "(LLM analysis disabled)",
+        "business_risk": {
+          "severity": "Low",
+          "why": []
+        },
+        "norm_deviation": {
+          "deviates": false,
+          "comparison": [],
+          "suggested_revision": ""
+        },
+        "uncertainty": {
+          "confidence": 0.52,
+          "reasons": [
+            "LLM analysis disabled"
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c012",
+        "text": "7.\u00a0\u00a0\u00a0\u00a0\nSeverability.\n\u00a0\u00a0\u00a0\u00a0The invalidity, illegality or unenforceability of any provision of this\nAgreement shall not affect the validity, legality or enforceability of any other provision of this Agreement.",
+        "start_char": 8176,
+        "end_char": 8387
+      },
+      "classification": {
+        "label": "Miscellaneous",
+        "confidence": 0.52,
+        "rationale_short": "keyword baseline"
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c012",
+        "clause_type": "Miscellaneous",
+        "plain_english_summary": "(LLM analysis disabled)",
+        "business_risk": {
+          "severity": "Low",
+          "why": []
+        },
+        "norm_deviation": {
+          "deviates": false,
+          "comparison": [],
+          "suggested_revision": ""
+        },
+        "uncertainty": {
+          "confidence": 0.52,
+          "reasons": [
+            "LLM analysis disabled"
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c013",
+        "text": "8.\u00a0\u00a0\u00a0\u00a0\nAuthority.\n\u00a0\u00a0\u00a0\u00a0The parties hereto, and the individuals executing this Agreement on behalf of each\nof the parties, each have the full right and power to enter into, execute, deliver and perform their obligations under this Agreement. The parties have each duly authorized, executed and delivered\nthis Agreement and each other document contemplated herein to which it will be a party. Neither the execution, delivery or performance of this Agreement by either of the parties or any other document\ncontemplated hereby to which either is or will be a party, does or will, after the giving of notice or the lapse of time or otherwise, conflict with, result in a breach or violation of, or constitute\na default under, the charter or other governing documents of either of the parties or any federal, foreign, state\n\n \n\nor local law, statute, ordinance, rule or regulation, or any court or administrative order, writ, judgment, injunction, award or decree, or any contract, agreement, commitment or plan to which either\nis a party or by which the rights, properties or assets of either of the parties are subject or bound.",
+        "start_char": 8387,
+        "end_char": 9514
+      },
+      "classification": {
+        "label": "Governing Law",
+        "confidence": 0.62,
+        "rationale_short": "keyword baseline"
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c013",
+        "clause_type": "Governing Law",
+        "plain_english_summary": "(LLM analysis disabled)",
+        "business_risk": {
+          "severity": "Low",
+          "why": []
+        },
+        "norm_deviation": {
+          "deviates": false,
+          "comparison": [],
+          "suggested_revision": ""
+        },
+        "uncertainty": {
+          "confidence": 0.62,
+          "reasons": [
+            "LLM analysis disabled"
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c014",
+        "text": "9.\u00a0\u00a0\u00a0\u00a0\nAssignment.\n\u00a0\u00a0\u00a0\u00a0Broker may not assign any of Broker's obligations or interest in this Agreement\nwithout the Company's written consent.",
+        "start_char": 9514,
+        "end_char": 9660
+      },
+      "classification": {
+        "label": "IP Ownership / Assignment",
+        "confidence": 0.52,
+        "rationale_short": "keyword baseline"
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c014",
+        "clause_type": "IP Ownership / Assignment",
+        "plain_english_summary": "(LLM analysis disabled)",
+        "business_risk": {
+          "severity": "Low",
+          "why": []
+        },
+        "norm_deviation": {
+          "deviates": false,
+          "comparison": [],
+          "suggested_revision": ""
+        },
+        "uncertainty": {
+          "confidence": 0.52,
+          "reasons": [
+            "LLM analysis disabled"
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c015",
+        "text": "10.\u00a0\u00a0\u00a0\u00a0\nConfidentiality.\n\u00a0\u00a0\u00a0\u00a0All information, whether written or oral, given to Broker by the Company or\nthe Company's agents or advisors either before or after the date of this Agreement, unless publicly available or otherwise available to Broker without restriction or breach of any Confidentiality\nAgreement, will be held by Broker in confidence and will not be disclosed to anyone other than Broker's agents and advisors or used for any purpose other than those referred to in this Agreement\nwithout the Company's prior written approval. Broker shall execute and deliver the Confidentiality Agreement attached hereto as Exhibit\u00a0B. The Company shall not disclose the terms of any\npotential Qualified Transaction to any other potential purchaser, except as may be required by applicable law, including but not limited to applicable federal or state securities laws.",
+        "start_char": 9660,
+        "end_char": 10532
+      },
+      "classification": {
+        "label": "Confidentiality",
+        "confidence": 0.62,
+        "rationale_short": "keyword baseline"
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c015",
+        "clause_type": "Confidentiality",
+        "plain_english_summary": "(LLM analysis disabled)",
+        "business_risk": {
+          "severity": "Low",
+          "why": []
+        },
+        "norm_deviation": {
+          "deviates": false,
+          "comparison": [],
+          "suggested_revision": ""
+        },
+        "uncertainty": {
+          "confidence": 0.62,
+          "reasons": [
+            "LLM analysis disabled"
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c016",
+        "text": "11.\u00a0\u00a0\u00a0\u00a0\nIndependent Contractor.\n\u00a0\u00a0\u00a0\u00a0Broker shall be an independent contractor and nothing in this\nAgreement is intended to constitute either party to be a legal representative, subsidiary, joint venturer, partner, employee or servant of the other for any purpose whatsoever.",
+        "start_char": 10532,
+        "end_char": 10811
+      },
+      "classification": {
+        "label": "Miscellaneous",
+        "confidence": 0.35,
+        "rationale_short": "keyword baseline"
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c016",
+        "clause_type": "Miscellaneous",
+        "plain_english_summary": "(LLM analysis disabled)",
+        "business_risk": {
+          "severity": "Low",
+          "why": []
+        },
+        "norm_deviation": {
+          "deviates": false,
+          "comparison": [],
+          "suggested_revision": ""
+        },
+        "uncertainty": {
+          "confidence": 0.35,
+          "reasons": [
+            "LLM analysis disabled"
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c017",
+        "text": "12.\u00a0\u00a0\u00a0\u00a0\nNotices.\n\u00a0\u00a0\u00a0\u00a0Any notice, request, instruction, legal process or other instrument to be given or\nserved hereunder by any party upon another party or parties shall be deemed given or served if in writing and delivered personally or sent via certified mail, return receipt requested, or by\nregistered mail to the respective party or parties at the addresses above.",
+        "start_char": 10811,
+        "end_char": 11182
+      },
+      "classification": {
+        "label": "Return/Destruction",
+        "confidence": 0.62,
+        "rationale_short": "keyword baseline"
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c017",
+        "clause_type": "Return/Destruction",
+        "plain_english_summary": "(LLM analysis disabled)",
+        "business_risk": {
+          "severity": "Low",
+          "why": []
+        },
+        "norm_deviation": {
+          "deviates": false,
+          "comparison": [],
+          "suggested_revision": ""
+        },
+        "uncertainty": {
+          "confidence": 0.62,
+          "reasons": [
+            "LLM analysis disabled"
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c018",
+        "text": "13.\u00a0\u00a0\u00a0\u00a0\nAcknowledgment.\n\u00a0\u00a0\u00a0\u00a0The Company acknowledges that Wimbish Riteway Realtors or its agents will be\na transaction broker and may represent the buyer and the seller with respect to any Qualified Transaction.\n\n \n\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0The undersigned have executed and delivered this Agreement as of the date first above written.\n\n \n\nCHOICETEL COMMUNICATIONS, INC.:",
+        "start_char": 11182,
+        "end_char": 11541
+      },
+      "classification": {
+        "label": "Miscellaneous",
+        "confidence": 0.35,
+        "rationale_short": "keyword baseline"
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c018",
+        "clause_type": "Miscellaneous",
+        "plain_english_summary": "(LLM analysis disabled)",
+        "business_risk": {
+          "severity": "Low",
+          "why": []
+        },
+        "norm_deviation": {
+          "deviates": false,
+          "comparison": [],
+          "suggested_revision": ""
+        },
+        "uncertainty": {
+          "confidence": 0.35,
+          "reasons": [
+            "LLM analysis disabled"
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c019",
+        "text": "WIMBISH RITEWAY REALTORS\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\n/s/ Jeffrey Paletz\n\n\u00a0\n\n\u00a0\n\n/s/ George Coloney\n\n\u00a0\n\nBy:\n\nJeffrey Paletz\n\n\u00a0\n\nBy:\n\nGeorge Coloney\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\nIts:\n\nPresident\n\n\u00a0\n\nIts:\n\nAgent\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\n/s/ George Coloney\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\nBy:\n\nGeorge Coloney\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\nBroker Associate",
+        "start_char": 11541,
+        "end_char": 11863
+      },
+      "classification": {
+        "label": "Miscellaneous",
+        "confidence": 0.35,
+        "rationale_short": "keyword baseline"
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c019",
+        "clause_type": "Miscellaneous",
+        "plain_english_summary": "(LLM analysis disabled)",
+        "business_risk": {
+          "severity": "Low",
+          "why": []
+        },
+        "norm_deviation": {
+          "deviates": false,
+          "comparison": [],
+          "suggested_revision": ""
+        },
+        "uncertainty": {
+          "confidence": 0.35,
+          "reasons": [
+            "LLM analysis disabled"
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c020",
+        "text": "EXHIBIT A\n TO\n BROKERAGE AGREEMENT\n\n \n \n\nForm of Confidentiality Agreement",
+        "start_char": 11863,
+        "end_char": 11945
+      },
+      "classification": {
+        "label": "Confidentiality",
+        "confidence": 0.52,
+        "rationale_short": "keyword baseline"
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c020",
+        "clause_type": "Confidentiality",
+        "plain_english_summary": "(LLM analysis disabled)",
+        "business_risk": {
+          "severity": "Low",
+          "why": []
+        },
+        "norm_deviation": {
+          "deviates": false,
+          "comparison": [],
+          "suggested_revision": ""
+        },
+        "uncertainty": {
+          "confidence": 0.52,
+          "reasons": [
+            "LLM analysis disabled"
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c021",
+        "text": "CONFIDENTIALITY AND NON-DISCLOSURE AGREEMENT\n\n \n \n\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0THIS AGREEMENT is made as of the \n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\n day of\n\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\n, 2001, by and between, ChoiceTel\nCommunications,\u00a0Inc., a Minnesota corporation (the \"Company\"), and \n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\n (the \"Recipient\").\n\n \n\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0In connection with a possible transaction (the \"Transaction\") between the Recipient and the Company, the Company is prepared to make available to the Recipient certain information with\nrespect to the Company which is non-public, confidential or proprietary in nature. As a condition to furnishing such information to the Recipient, the Company requires and the Recipient\nagrees that any information concerning the Company (whether prepared by the Company, its advisors or otherwise) which is furnished to the Recipient by or on behalf of the Company (whether before or\nafter the date of this Agreement, whether furnished orally or in writing or gathered by inspection, and regardless of whether or not specifically marked or identified as \"confidential\") (the\n\"Evaluation Material\") shall be safeguarded and treated as confidential in accordance with the provisions of this Agreement. The term \"Evaluation Material\" does not include information which\n(a)\u00a0is or becomes generally available to the public other than by disclosure by the Recipient, (b)\u00a0was or becomes available to the Recipient on a non-confidential basis from\na third party who, to the best of the Recipient's knowledge, was not under an obligation of confidentiality to the Company, or (c)\u00a0was or is independently developed by the Recipient without\nreference to the Evaluation Material.",
+        "start_char": 11945,
+        "end_char": 13586
+      },
+      "classification": {
+        "label": "Confidentiality",
+        "confidence": 0.62,
+        "rationale_short": "keyword baseline"
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c021",
+        "clause_type": "Confidentiality",
+        "plain_english_summary": "(LLM analysis disabled)",
+        "business_risk": {
+          "severity": "Low",
+          "why": []
+        },
+        "norm_deviation": {
+          "deviates": false,
+          "comparison": [],
+          "suggested_revision": ""
+        },
+        "uncertainty": {
+          "confidence": 0.62,
+          "reasons": [
+            "LLM analysis disabled"
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c022",
+        "text": "1.\u00a0\u00a0\u00a0\u00a0\nUse of Evaluation Material.\n\u00a0\u00a0\u00a0\u00a0The Recipient agrees that it shall use the Evaluation Material\nsolely for the purpose of evaluating the Transaction and not for any other purpose. The Recipient further agrees that it shall not take, or fail to take, any action that would allow, assist or permit\nany other person or entity to use the Evaluation Material in a manner that, if so used by the Recipient, would be in violation of any of the terms of this Agreement.",
+        "start_char": 13586,
+        "end_char": 14058
+      },
+      "classification": {
+        "label": "Term & Survival",
+        "confidence": 0.52,
+        "rationale_short": "keyword baseline"
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c022",
+        "clause_type": "Term & Survival",
+        "plain_english_summary": "(LLM analysis disabled)",
+        "business_risk": {
+          "severity": "Low",
+          "why": []
+        },
+        "norm_deviation": {
+          "deviates": false,
+          "comparison": [],
+          "suggested_revision": ""
+        },
+        "uncertainty": {
+          "confidence": 0.52,
+          "reasons": [
+            "LLM analysis disabled"
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c023",
+        "text": "2.\u00a0\u00a0\u00a0\u00a0\nNon-Disclosure of Evaluation Material.\n\u00a0\u00a0\u00a0\u00a0The Recipient agrees that the Evaluation\nMaterial shall be kept confidential by it and its Representatives, and that the Recipient shall not disclose any of the Evaluation Material in any manner whatsoever except (a)\u00a0to those\ndirectors, officers, employees, consultants, auditors or counsel of the Recipient (the \"Representatives\") who need to know such information for purposes directly relating to the Transaction, or\n(b)\u00a0with the prior written consent of the Company. The Recipient agrees to expressly advise such Representatives that the information is to be kept confidential, and such Representatives shall\nagree to keep such information confidential and abide by the terms of this Agreement.",
+        "start_char": 14058,
+        "end_char": 14811
+      },
+      "classification": {
+        "label": "Confidentiality",
+        "confidence": 0.72,
+        "rationale_short": "keyword baseline"
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c023",
+        "clause_type": "Confidentiality",
+        "plain_english_summary": "(LLM analysis disabled)",
+        "business_risk": {
+          "severity": "Low",
+          "why": []
+        },
+        "norm_deviation": {
+          "deviates": false,
+          "comparison": [],
+          "suggested_revision": ""
+        },
+        "uncertainty": {
+          "confidence": 0.72,
+          "reasons": [
+            "LLM analysis disabled"
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c024",
+        "text": "3.\u00a0\u00a0\u00a0\u00a0\nNo Competition.\n\u00a0\u00a0\u00a0\u00a0The Recipient shall not use the Evaluation Material, including but not limited\nto any customer lists, for Recipient's own benefit or for the benefit of any other person, firm or corporation, directly or indirectly or in any manner that would compete with the Company in any way.",
+        "start_char": 14811,
+        "end_char": 15121
+      },
+      "classification": {
+        "label": "Miscellaneous",
+        "confidence": 0.35,
+        "rationale_short": "keyword baseline"
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c024",
+        "clause_type": "Miscellaneous",
+        "plain_english_summary": "(LLM analysis disabled)",
+        "business_risk": {
+          "severity": "Low",
+          "why": []
+        },
+        "norm_deviation": {
+          "deviates": false,
+          "comparison": [],
+          "suggested_revision": ""
+        },
+        "uncertainty": {
+          "confidence": 0.35,
+          "reasons": [
+            "LLM analysis disabled"
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c025",
+        "text": "4.\u00a0\u00a0\u00a0\u00a0\nLegal Proceedings.\n\u00a0\u00a0\u00a0\u00a0In the event that Recipient is requested or required (by oral questions,\ninterrogatories, requests for information or documents, subpoena, civil investigative demand or other process or requirement of law) to disclose (i)\u00a0all or any part of Evaluation Material or\n(ii)\u00a0any information relating to its opinion, judgment or recommendations concerning the Company, its affiliates or subsidiaries as developed from Evaluation Material, Recipient will provide\nthe Company with prompt notice of any such request or requirement so that the Company may seek an appropriate protective order, other appropriate remedy or waive Recipient's compliance with the\nprovisions of this Agreement. If, failing the entry of a protective order or other appropriate remedy or the receipt of a waiver hereunder, disclosure of all or any part of the Evaluation Material is\nrequired, Recipient may disclose that portion of the Evaluation Material which, upon advise of counsel, Recipient is compelled to disclose. In any event, Recipient will not oppose action by the\nCompany to obtain an appropriate\n\nprotective order or other reliable assurance that confidential treatment will be accorded to the Evaluation Material.",
+        "start_char": 15121,
+        "end_char": 16347
+      },
+      "classification": {
+        "label": "Confidentiality",
+        "confidence": 0.62,
+        "rationale_short": "keyword baseline"
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c025",
+        "clause_type": "Confidentiality",
+        "plain_english_summary": "(LLM analysis disabled)",
+        "business_risk": {
+          "severity": "Low",
+          "why": []
+        },
+        "norm_deviation": {
+          "deviates": false,
+          "comparison": [],
+          "suggested_revision": ""
+        },
+        "uncertainty": {
+          "confidence": 0.62,
+          "reasons": [
+            "LLM analysis disabled"
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c026",
+        "text": "5.\u00a0\u00a0\u00a0\u00a0\nReturn of Evaluation Material.\n\u00a0\u00a0\u00a0\u00a0Upon completion of the negotiations between the Recipient and\nthe Company with respect to the Transaction, whether or not the Transaction is consummated, the Recipient and its Representatives shall promptly deliver to the Company all written Evaluation Material\n(and copies thereof) and all information derived therefrom. At any time upon the written request of the Company for any reason, the Recipient shall promptly deliver to the Company (or certify the\ndestruction of) all Evaluation Material (and all copies thereof) furnished to the Recipient or its Representatives by or on behalf of the Company pursuant to this Agreement. Upon completion of the\nnegotiations or upon such request, all other Evaluation Material prepared by the Recipient or its representative shall be destroyed and no copy thereof shall be retained.",
+        "start_char": 16347,
+        "end_char": 17219
+      },
+      "classification": {
+        "label": "Return/Destruction",
+        "confidence": 0.95,
+        "rationale_short": "keyword baseline"
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c026",
+        "clause_type": "Return/Destruction",
+        "plain_english_summary": "(LLM analysis disabled)",
+        "business_risk": {
+          "severity": "Low",
+          "why": []
+        },
+        "norm_deviation": {
+          "deviates": false,
+          "comparison": [],
+          "suggested_revision": ""
+        },
+        "uncertainty": {
+          "confidence": 0.95,
+          "reasons": [
+            "LLM analysis disabled"
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c027",
+        "text": "6.\u00a0\u00a0\u00a0\u00a0\nDisclaimer.\n\u00a0\u00a0\u00a0\u00a0Although the Company has endeavored to include in the Evaluation Material\ninformation known to it which it believes to be relevant for the purpose of evaluating the Transaction, neither the Company nor its representatives makes any representation or warranty as to the\naccuracy or completeness of the Evaluation Material. Neither the Company nor its representatives shall have any liability to the Recipient resulting from the use of the Evaluation Material. Further,\nit is expressly understood that this Agreement is not intended to, and does not, constitute an agreement to\n\nconsummate a Transaction or to enter into a definitive agreement, and neither the Company nor Recipient will have any rights or obligations of any kind whatsoever with respect to such Transaction by\nvirtue of this Agreement unless and until a definitive agreement between the Company and Recipient is executed and delivered, other than for the matter specifically agreed to herein.",
+        "start_char": 17219,
+        "end_char": 18205
+      },
+      "classification": {
+        "label": "Exceptions",
+        "confidence": 0.52,
+        "rationale_short": "keyword baseline"
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c027",
+        "clause_type": "Exceptions",
+        "plain_english_summary": "(LLM analysis disabled)",
+        "business_risk": {
+          "severity": "Low",
+          "why": []
+        },
+        "norm_deviation": {
+          "deviates": false,
+          "comparison": [],
+          "suggested_revision": ""
+        },
+        "uncertainty": {
+          "confidence": 0.52,
+          "reasons": [
+            "LLM analysis disabled"
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c028",
+        "text": "7.\u00a0\u00a0\u00a0\u00a0\nRemedies.\n\u00a0\u00a0\u00a0\u00a0The parties agree that money damages would not be a sufficient remedy for any breach\nof this Agreement and that the Company shall be entitled to equitable relief, including injunction and specific performance, as a remedy for any such breach. Such remedies shall not be deemed to be\nthe exclusive remedies for a breach by the Recipient of this Agreement but shall be in addition to all other remedies available at law or equity.",
+        "start_char": 18205,
+        "end_char": 18659
+      },
+      "classification": {
+        "label": "Remedies / Injunctive Relief",
+        "confidence": 0.62,
+        "rationale_short": "keyword baseline"
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c028",
+        "clause_type": "Remedies / Injunctive Relief",
+        "plain_english_summary": "(LLM analysis disabled)",
+        "business_risk": {
+          "severity": "Low",
+          "why": []
+        },
+        "norm_deviation": {
+          "deviates": false,
+          "comparison": [],
+          "suggested_revision": ""
+        },
+        "uncertainty": {
+          "confidence": 0.62,
+          "reasons": [
+            "LLM analysis disabled"
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c029",
+        "text": "8.\u00a0\u00a0\u00a0\u00a0\nGeneral Provisions.\n\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0a.\u00a0\u00a0\u00a0\u00a0No failure or delay by the Company in exercising any right, power or privilege hereunder shall operate as a waiver thereof, nor shall any single or partial exercise\nthereof preclude any other or further exercise thereof or the exercise of any right, power or privilege.\n\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0b.\u00a0\u00a0\u00a0\u00a0This Agreement shall be governed by and construed in accordance with the laws of the State of Minnesota.\n\n \n\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0c.\u00a0\u00a0\u00a0\u00a0This Agreement shall be binding and inure to the benefit of the parties hereto and their respective successors and assigns.\n\n \n\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0d.\u00a0\u00a0\u00a0\u00a0This Agreement shall constitute the entire agreement between the parties hereto with regard to the subject matter hereof. No modification, amendment or waiver shall be\nbinding without the written consent of the parties. Each party hereto represents and warrants that it has the full power and authority to enter into this Agreement and to perform its obligations\nhereunder.\n\n \n\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0IN WITNESS WHEREOF, the parties hereto have executed and delivered this Agreement as of the date first above written.\n\n \n\nRECIPIENT:\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\nBy\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\nIts\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\nCOMPANY:\n\n\u00a0\n\nCHOICETEL COMMUNICATIONS,\u00a0INC..\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\nBy\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\nIts",
+        "start_char": 18659,
+        "end_char": 20000
+      },
+      "classification": {
+        "label": "Miscellaneous",
+        "confidence": 0.72,
+        "rationale_short": "keyword baseline"
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c029",
+        "clause_type": "Miscellaneous",
+        "plain_english_summary": "(LLM analysis disabled)",
+        "business_risk": {
+          "severity": "Low",
+          "why": []
+        },
+        "norm_deviation": {
+          "deviates": false,
+          "comparison": [],
+          "suggested_revision": ""
+        },
+        "uncertainty": {
+          "confidence": 0.72,
+          "reasons": [
+            "LLM analysis disabled"
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c030",
+        "text": "EXHIBIT B\n TO\n BROKERAGE AGREEMENT\n\n \n \n\nForm of Confidentiality Agreement between Company and Broker",
+        "start_char": 20000,
+        "end_char": 20109
+      },
+      "classification": {
+        "label": "Confidentiality",
+        "confidence": 0.52,
+        "rationale_short": "keyword baseline"
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c030",
+        "clause_type": "Confidentiality",
+        "plain_english_summary": "(LLM analysis disabled)",
+        "business_risk": {
+          "severity": "Low",
+          "why": []
+        },
+        "norm_deviation": {
+          "deviates": false,
+          "comparison": [],
+          "suggested_revision": ""
+        },
+        "uncertainty": {
+          "confidence": 0.52,
+          "reasons": [
+            "LLM analysis disabled"
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c031",
+        "text": "CONFIDENTIALITY AND NON-DISCLOSURE AGREEMENT\n\n \n \n\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0THIS AGREEMENT is made as of the \n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\n day of\n\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\n, 2001, by and between, ChoiceTel\nCommunications,\u00a0Inc., a Minnesota corporation (the \"Company\"), and Wimbish Riteway Realtors, a Florida corporation (the \"Recipient\").\n\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0In connection with the engagement of Recipient as brokerage agent pursuant to that certain Brokerage Agreement of even date herewith (the \"Brokerage Agreement\") between the Recipient and\nthe Company, the Company is prepared to make available to the Recipient certain information with respect to the Company which is non-public, confidential or proprietary in nature. As a\ncondition to furnishing such information to the Recipient, the Company requires and the Recipient agrees that any information concerning the Company (whether prepared by the Company, its advisors or\notherwise) which is furnished to the Recipient by or on behalf of the Company (whether before or after the date of this Agreement, whether furnished orally or in writing or gathered by inspection, and\nregardless of whether or not specifically marked or identified as \"confidential\") (the \"Confidential Material\") shall be safeguarded and treated as confidential in accordance with the provisions of\nthis Agreement. The term \"Confidential Material\" does not include information which (a)\u00a0is or becomes generally available to the public other than by disclosure by the Recipient, (b)\u00a0was\nor becomes available to the Recipient on a non-confidential basis from a third party who, to the best of the Recipient's knowledge, was not under an obligation of confidentiality to the\nCompany, or (c)\u00a0was or is independently developed by the Recipient without reference to the Confidential Material.",
+        "start_char": 20109,
+        "end_char": 21876
+      },
+      "classification": {
+        "label": "Confidentiality",
+        "confidence": 0.62,
+        "rationale_short": "keyword baseline"
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c031",
+        "clause_type": "Confidentiality",
+        "plain_english_summary": "(LLM analysis disabled)",
+        "business_risk": {
+          "severity": "Low",
+          "why": []
+        },
+        "norm_deviation": {
+          "deviates": false,
+          "comparison": [],
+          "suggested_revision": ""
+        },
+        "uncertainty": {
+          "confidence": 0.62,
+          "reasons": [
+            "LLM analysis disabled"
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c032",
+        "text": "1.\u00a0\u00a0\u00a0\u00a0\nUse of Confidential Material.\n\u00a0\u00a0\u00a0\u00a0The Recipient agrees that it shall use the Confidential Material\nsolely for the purpose of performing Recipient's obligations under the Brokerage Agreement and not for any other purpose. The Recipient further agrees that it shall not take, or fail to take, any\naction that would allow, assist or permit any other person or entity to use the Brokerage Material in a manner that, if so used by the Recipient, would be in violation of any of the terms of this\nAgreement.",
+        "start_char": 21876,
+        "end_char": 22389
+      },
+      "classification": {
+        "label": "Confidentiality",
+        "confidence": 0.52,
+        "rationale_short": "keyword baseline"
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c032",
+        "clause_type": "Confidentiality",
+        "plain_english_summary": "(LLM analysis disabled)",
+        "business_risk": {
+          "severity": "Low",
+          "why": []
+        },
+        "norm_deviation": {
+          "deviates": false,
+          "comparison": [],
+          "suggested_revision": ""
+        },
+        "uncertainty": {
+          "confidence": 0.52,
+          "reasons": [
+            "LLM analysis disabled"
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c033",
+        "text": "2.\u00a0\u00a0\u00a0\u00a0\nNon-Disclosure of Confidential Material.\n\u00a0\u00a0\u00a0\u00a0The Recipient agrees that the\nConfidential Material shall be kept confidential by it and its Representatives, and that the Recipient shall not disclose any of the Confidential Material in any manner whatsoever except (a)\u00a0to\nthose directors, officers, employees, consultants, auditors or counsel of the Recipient (the \"Representatives\") who need to know such information for purposes directly relating to the Brokerage\nAgreement, or (b)\u00a0with the prior written consent of the Company. The Recipient agrees to expressly advise such Representatives that the information is to be kept confidential, and such\nRepresentatives shall agree to keep such information confidential and abide by the terms of this Agreement.",
+        "start_char": 22389,
+        "end_char": 23156
+      },
+      "classification": {
+        "label": "Confidentiality",
+        "confidence": 0.72,
+        "rationale_short": "keyword baseline"
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c033",
+        "clause_type": "Confidentiality",
+        "plain_english_summary": "(LLM analysis disabled)",
+        "business_risk": {
+          "severity": "Low",
+          "why": []
+        },
+        "norm_deviation": {
+          "deviates": false,
+          "comparison": [],
+          "suggested_revision": ""
+        },
+        "uncertainty": {
+          "confidence": 0.72,
+          "reasons": [
+            "LLM analysis disabled"
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c034",
+        "text": "3.\u00a0\u00a0\u00a0\u00a0\nLegal Proceedings.\n\u00a0\u00a0\u00a0\u00a0In the event that Recipient is requested or required (by oral questions,\ninterrogatories, requests for information or documents, subpoena, civil investigative demand or other process or requirement of law) to disclose (i)\u00a0all or any part of the Confidential Material\nor (ii)\u00a0any information relating to its opinion, judgment or recommendations concerning the Company, its affiliates or subsidiaries as developed from Confidential Material, Recipient will\nprovide the Company with prompt notice of any such request or requirement so that the Company may seek an appropriate protective order, other appropriate remedy or waive Recipient's compliance with\nthe provisions of this Agreement. If, failing the entry of a protective order or other appropriate remedy or the receipt of a waiver hereunder, disclosure of all or any part of the Confidential\nMaterial is required, Recipient may disclose that portion of the Confidential Material which, upon advise of counsel, Recipient is compelled to disclose. In any event, Recipient will not oppose action\nby the Company to obtain an appropriate\n\nprotective order or other reliable assurance that confidential treatment will be accorded to the Confidential Material.",
+        "start_char": 23156,
+        "end_char": 24399
+      },
+      "classification": {
+        "label": "Confidentiality",
+        "confidence": 0.62,
+        "rationale_short": "keyword baseline"
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c034",
+        "clause_type": "Confidentiality",
+        "plain_english_summary": "(LLM analysis disabled)",
+        "business_risk": {
+          "severity": "Low",
+          "why": []
+        },
+        "norm_deviation": {
+          "deviates": false,
+          "comparison": [],
+          "suggested_revision": ""
+        },
+        "uncertainty": {
+          "confidence": 0.62,
+          "reasons": [
+            "LLM analysis disabled"
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c035",
+        "text": "4.\u00a0\u00a0\u00a0\u00a0\nReturn of Confidential Material.\n\u00a0\u00a0\u00a0\u00a0Upon termination of the Brokerage Agreement, the Recipient\nand its Representatives shall promptly deliver to the Company all written Confidential Material (and copies thereof) and all information derived therefrom. At any time upon the written request of the\nCompany for any reason, the Recipient shall promptly deliver to the Company (or certify the destruction of) all Confidential Material (and all copies thereof) furnished to the Recipient or its\nRepresentatives by or on behalf of the Company pursuant to this Agreement.",
+        "start_char": 24399,
+        "end_char": 24974
+      },
+      "classification": {
+        "label": "Return/Destruction",
+        "confidence": 0.8200000000000001,
+        "rationale_short": "keyword baseline"
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c035",
+        "clause_type": "Return/Destruction",
+        "plain_english_summary": "(LLM analysis disabled)",
+        "business_risk": {
+          "severity": "Low",
+          "why": []
+        },
+        "norm_deviation": {
+          "deviates": false,
+          "comparison": [],
+          "suggested_revision": ""
+        },
+        "uncertainty": {
+          "confidence": 0.8200000000000001,
+          "reasons": [
+            "LLM analysis disabled"
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c036",
+        "text": "5.\u00a0\u00a0\u00a0\u00a0\nDisclaimer.\n\u00a0\u00a0\u00a0\u00a0Neither the Company nor its representatives makes any representation or warranty\nas to the accuracy or completeness of the Confidential Material. Neither the Company nor its representatives shall have any liability to the Recipient resulting from the use of the Confidential\nMaterial.",
+        "start_char": 24974,
+        "end_char": 25286
+      },
+      "classification": {
+        "label": "Confidentiality",
+        "confidence": 0.52,
+        "rationale_short": "keyword baseline"
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c036",
+        "clause_type": "Confidentiality",
+        "plain_english_summary": "(LLM analysis disabled)",
+        "business_risk": {
+          "severity": "Low",
+          "why": []
+        },
+        "norm_deviation": {
+          "deviates": false,
+          "comparison": [],
+          "suggested_revision": ""
+        },
+        "uncertainty": {
+          "confidence": 0.52,
+          "reasons": [
+            "LLM analysis disabled"
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c037",
+        "text": "6.\u00a0\u00a0\u00a0\u00a0\nRemedies.\n\u00a0\u00a0\u00a0\u00a0The parties agree that money damages would not be a sufficient remedy for any breach\nof this Agreement and that the Company shall be entitled to equitable relief, including injunction and specific performance, as a remedy for any such breach. Such remedies shall not be deemed to be\nthe exclusive remedies for a breach by the Recipient of this Agreement but shall be in addition to all other remedies available at law or equity.",
+        "start_char": 25286,
+        "end_char": 25740
+      },
+      "classification": {
+        "label": "Remedies / Injunctive Relief",
+        "confidence": 0.62,
+        "rationale_short": "keyword baseline"
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c037",
+        "clause_type": "Remedies / Injunctive Relief",
+        "plain_english_summary": "(LLM analysis disabled)",
+        "business_risk": {
+          "severity": "Low",
+          "why": []
+        },
+        "norm_deviation": {
+          "deviates": false,
+          "comparison": [],
+          "suggested_revision": ""
+        },
+        "uncertainty": {
+          "confidence": 0.62,
+          "reasons": [
+            "LLM analysis disabled"
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c038",
+        "text": "7.\u00a0\u00a0\u00a0\u00a0\nGeneral Provisions.\n\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0a.\u00a0\u00a0\u00a0\u00a0No failure or delay by the Company in exercising any right, power or privilege hereunder shall operate as a waiver thereof, nor shall any single or partial exercise\nthereof preclude any other or further exercise thereof or the exercise of any right, power or privilege.\n\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0b.\u00a0\u00a0\u00a0\u00a0This Agreement shall be governed by and construed in accordance with the laws of the State of Minnesota.\n\n \n\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0c.\u00a0\u00a0\u00a0\u00a0This Agreement shall be binding and inure to the benefit of the parties hereto and their respective successors and assigns.\n\n \n\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0d.\u00a0\u00a0\u00a0\u00a0This Agreement shall constitute the entire agreement between the parties hereto with regard to the subject matter hereof. No modification, amendment or waiver shall be\nbinding without the written consent of the parties. Each party hereto represents and warrants that it has the full power and authority to enter into this Agreement and to perform its obligations\nhereunder.\n\n \n\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0IN WITNESS WHEREOF, the parties hereto have executed and delivered this Agreement as of the date first above written.\n\n \n\nRECIPIENT:",
+        "start_char": 25740,
+        "end_char": 26855
+      },
+      "classification": {
+        "label": "Miscellaneous",
+        "confidence": 0.72,
+        "rationale_short": "keyword baseline"
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c038",
+        "clause_type": "Miscellaneous",
+        "plain_english_summary": "(LLM analysis disabled)",
+        "business_risk": {
+          "severity": "Low",
+          "why": []
+        },
+        "norm_deviation": {
+          "deviates": false,
+          "comparison": [],
+          "suggested_revision": ""
+        },
+        "uncertainty": {
+          "confidence": 0.72,
+          "reasons": [
+            "LLM analysis disabled"
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c039",
+        "text": "WIMBISH RITEWAY REALTORS\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\nBy\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\nIts\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\nCOMPANY:\n\n\u00a0\n\nCHOICETEL COMMUNICATIONS,\u00a0INC.\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\nBy\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\nIts\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\nQuickLinks",
+        "start_char": 26855,
+        "end_char": 27097
+      },
+      "classification": {
+        "label": "Miscellaneous",
+        "confidence": 0.35,
+        "rationale_short": "keyword baseline"
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c039",
+        "clause_type": "Miscellaneous",
+        "plain_english_summary": "(LLM analysis disabled)",
+        "business_risk": {
+          "severity": "Low",
+          "why": []
+        },
+        "norm_deviation": {
+          "deviates": false,
+          "comparison": [],
+          "suggested_revision": ""
+        },
+        "uncertainty": {
+          "confidence": 0.35,
+          "reasons": [
+            "LLM analysis disabled"
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c041",
+        "text": "EXHIBIT A TO BROKERAGE AGREEMENT",
+        "start_char": 27118,
+        "end_char": 27152
+      },
+      "classification": {
+        "label": "Miscellaneous",
+        "confidence": 0.35,
+        "rationale_short": "keyword baseline"
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c041",
+        "clause_type": "Miscellaneous",
+        "plain_english_summary": "(LLM analysis disabled)",
+        "business_risk": {
+          "severity": "Low",
+          "why": []
+        },
+        "norm_deviation": {
+          "deviates": false,
+          "comparison": [],
+          "suggested_revision": ""
+        },
+        "uncertainty": {
+          "confidence": 0.35,
+          "reasons": [
+            "LLM analysis disabled"
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c042",
+        "text": "CONFIDENTIALITY AND NON-DISCLOSURE AGREEMENT",
+        "start_char": 27152,
+        "end_char": 27198
+      },
+      "classification": {
+        "label": "Confidentiality",
+        "confidence": 0.62,
+        "rationale_short": "keyword baseline"
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c042",
+        "clause_type": "Confidentiality",
+        "plain_english_summary": "(LLM analysis disabled)",
+        "business_risk": {
+          "severity": "Low",
+          "why": []
+        },
+        "norm_deviation": {
+          "deviates": false,
+          "comparison": [],
+          "suggested_revision": ""
+        },
+        "uncertainty": {
+          "confidence": 0.62,
+          "reasons": [
+            "LLM analysis disabled"
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c043",
+        "text": "EXHIBIT B TO BROKERAGE AGREEMENT",
+        "start_char": 27198,
+        "end_char": 27232
+      },
+      "classification": {
+        "label": "Miscellaneous",
+        "confidence": 0.35,
+        "rationale_short": "keyword baseline"
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c043",
+        "clause_type": "Miscellaneous",
+        "plain_english_summary": "(LLM analysis disabled)",
+        "business_risk": {
+          "severity": "Low",
+          "why": []
+        },
+        "norm_deviation": {
+          "deviates": false,
+          "comparison": [],
+          "suggested_revision": ""
+        },
+        "uncertainty": {
+          "confidence": 0.35,
+          "reasons": [
+            "LLM analysis disabled"
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c044",
+        "text": "CONFIDENTIALITY AND NON-DISCLOSURE AGREEMENT\n\n------MultipartBoundary--LThtqcKgcVwBuZoiL8QGrFUgjOrYJZ7LWfQk8Tlfca------",
+        "start_char": 27232,
+        "end_char": 27351
+      },
+      "classification": {
+        "label": "Confidentiality",
+        "confidence": 0.62,
+        "rationale_short": "keyword baseline"
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c044",
+        "clause_type": "Confidentiality",
+        "plain_english_summary": "(LLM analysis disabled)",
+        "business_risk": {
+          "severity": "Low",
+          "why": []
+        },
+        "norm_deviation": {
+          "deviates": false,
+          "comparison": [],
+          "suggested_revision": ""
+        },
+        "uncertainty": {
+          "confidence": 0.62,
+          "reasons": [
+            "LLM analysis disabled"
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    }
+  ],
+  "contract_risk": {
+    "score": 33,
+    "level": "Low"
+  },
+  "missing_clauses": [
+    "Definition of Confidential Info"
+  ],
+  "settings": {
+    "use_llm_classification": false,
+    "use_rag": true,
+    "use_rules": true,
+    "use_llm_analysis": false
+  }
+}

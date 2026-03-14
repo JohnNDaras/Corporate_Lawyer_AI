@@ -1,0 +1,388 @@
+{
+  "disclaimer": "Not legal advice. Educational decision support only. No attorney-client relationship is formed.",
+  "doc_flags": [
+    {
+      "name": "missing_governing_law",
+      "severity": "Med",
+      "evidence_snippet": "(document-level)",
+      "explanation": "No governing law detected; may increase uncertainty and dispute costs."
+    }
+  ],
+  "clauses": [
+    {
+      "clause": {
+        "id": "c001",
+        "text": "An Example of a \nOne-way Non-Disclosure Agreement \n\nDate: 201[ ] \n\nParties: \n\n[NAME OF INDIVIDUAL RECEIVING INFORMATION] of [address of individual] \nOR \n[NAME OF COMPANY RECEIVING INFORMATION], a company registered in [England] under \ncompany number [number on Register of Companies] whose registered office is at [address of \noffice on the Register of Companies] \n(the Recipient) \nand \n[NAME OF INDIVIDUAL DISCLOSING INFORMATION] of [address of individual] \nOR \n[NAME OF COMPANY DISCLOSING INFORMATION], a company registered in [England] under \ncompany number [number on Register of Companies] whose registered office is at [address of \noffice on the Register of Companies] \n(the Discloser)",
+        "start_char": 0,
+        "end_char": 694
+      },
+      "classification": {
+        "label": "Governing Law",
+        "confidence": 0.8,
+        "rationale_short": "Identifies parties' locations and registration numbers"
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c001",
+        "clause_type": "Governing Law",
+        "plain_english_summary": "This clause specifies the law that will govern the interpretation and enforcement of the agreement.",
+        "business_risk": {
+          "severity": "Low",
+          "why": [
+            "The governing law clause is a standard provision that does not pose significant business risk."
+          ]
+        },
+        "norm_deviation": {
+          "deviates": false,
+          "comparison": [
+            "The governing law clause is consistent with standard practice in one-way non-disclosure agreements."
+          ],
+          "suggested_revision": ""
+        },
+        "uncertainty": {
+          "confidence": 0.8,
+          "reasons": [
+            "The governing law clause is a standard provision, but the specific jurisdiction may impact the enforceability of the agreement."
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c002",
+        "text": "1. The Discloser intends to disclose information (the Confidential Information) to the Recipient for \nthe purpose of [insert details e.g. discussing the possibility of the Recipient and the \nDiscloser entering into a joint venture] (the Purpose).",
+        "start_char": 694,
+        "end_char": 943
+      },
+      "classification": {
+        "label": "Confidentiality",
+        "confidence": 0.9,
+        "rationale_short": "Clause introduces confidential information and its purpose"
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c002",
+        "clause_type": "Confidentiality",
+        "plain_english_summary": "The Discloser will share confidential information with the Recipient for a specific purpose.",
+        "business_risk": {
+          "severity": "Low",
+          "why": [
+            "The purpose of disclosure is specified, and the information is intended for a specific use."
+          ]
+        },
+        "norm_deviation": {
+          "deviates": false,
+          "comparison": [
+            "standard confidentiality clauses"
+          ],
+          "suggested_revision": "None"
+        },
+        "uncertainty": {
+          "confidence": 0.8,
+          "reasons": [
+            "The clause does not specify the duration of confidentiality or the consequences of breach."
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c003",
+        "text": "2. The Recipient undertakes not to use the Confidential Information for any purpose except the \n\nPurpose, without first obtaining the written agreement of the Discloser.",
+        "start_char": 943,
+        "end_char": 1115
+      },
+      "classification": {
+        "label": "Confidentiality",
+        "confidence": 0.9,
+        "rationale_short": "Clause restricts use of confidential information"
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c003",
+        "clause_type": "Confidentiality",
+        "plain_english_summary": "The recipient must not use confidential information for any purpose other than the agreed-upon purpose without written consent from the discloser.",
+        "business_risk": {
+          "severity": "Medium",
+          "why": [
+            "Breach of confidentiality can lead to loss of competitive advantage, damage to reputation, and potential legal action."
+          ]
+        },
+        "norm_deviation": {
+          "deviates": true,
+          "comparison": [
+            "Typically, confidentiality clauses require a broader scope of use, such as for due diligence or audit purposes."
+          ],
+          "suggested_revision": "Consider adding specific examples of permitted uses to avoid ambiguity."
+        },
+        "uncertainty": {
+          "confidence": 0.7,
+          "reasons": [
+            "The clause does not specify what constitutes 'written agreement' or 'Purpose', which may lead to interpretation issues."
+          ]
+        },
+        "citations": [],
+        "risk_score": 60
+      }
+    },
+    {
+      "clause": {
+        "id": "c004",
+        "text": "3. The Recipient undertakes to keep the Confidential Information secure and not to disclose it to \nany third party [except to its employees [and professional advisers] who need to know the \nsame for the Purpose, who know they owe a duty of confidence to the Discloser and who are \nbound by obligations equivalent to those in clause 2 above and this clause 3.",
+        "start_char": 1115,
+        "end_char": 1476
+      },
+      "classification": {
+        "label": "Confidentiality",
+        "confidence": 1.0,
+        "rationale_short": "The clause deals with the Recipient's obligation to keep Confidential Information secure and not disclose it to third parties."
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c004",
+        "clause_type": "Confidentiality",
+        "plain_english_summary": "The recipient must keep confidential information secure and only share it with employees and professional advisors who need to know and are bound by confidentiality obligations.",
+        "business_risk": {
+          "severity": "Low",
+          "why": [
+            "The risk of unauthorized disclosure is low as the recipient is required to keep the information secure and only share it with trusted individuals."
+          ]
+        },
+        "norm_deviation": {
+          "deviates": true,
+          "comparison": [
+            "Standard confidentiality clauses typically do not specify the types of individuals who may receive confidential information."
+          ],
+          "suggested_revision": "Consider adding a specific list of authorized recipients, such as employees and professional advisors, to the clause."
+        },
+        "uncertainty": {
+          "confidence": 0.7,
+          "reasons": [
+            "The clause does not specify the process for handling confidential information, which may lead to uncertainty about how to handle confidential information."
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c005",
+        "text": "4. The undertakings in clauses 2 and 3 above apply to all of the information disclosed by the \n\nDiscloser to the Recipient, regardless of the way or form in which it is disclosed or recorded but \nthey do not apply to: \n\na) any information which is or in future comes into the public domain (unless as a result of the \n\nbreach of this Agreement); or \n\nb) any information which is already known to the Recipient and which was not subject to any \n\nobligation of confidence before it was disclosed to the Recipient by the Discloser.",
+        "start_char": 1476,
+        "end_char": 2007
+      },
+      "classification": {
+        "label": "Exceptions",
+        "confidence": 1.0,
+        "rationale_short": "Clause defines exceptions to confidentiality obligations"
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c005",
+        "clause_type": "Exceptions",
+        "plain_english_summary": "Exceptions to confidentiality obligations",
+        "business_risk": {
+          "severity": "Low",
+          "why": [
+            "The exceptions are specific and limited, reducing the risk of unauthorized disclosure"
+          ]
+        },
+        "norm_deviation": {
+          "deviates": true,
+          "comparison": [
+            "Standard confidentiality clauses typically do not include such specific exceptions"
+          ],
+          "suggested_revision": "Consider revising to include more specific exceptions or clarify the scope of confidentiality obligations"
+        },
+        "uncertainty": {
+          "confidence": 0.7,
+          "reasons": [
+            "The exceptions may not be exhaustive, and the scope of confidentiality obligations may be unclear"
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c006",
+        "text": "5. Nothing in this Agreement will prevent the Recipient from making any disclosure of the \n\nConfidential Information required by law or by any competent authority.",
+        "start_char": 2007,
+        "end_char": 2173
+      },
+      "classification": {
+        "label": "Permitted Disclosures",
+        "confidence": 1.0,
+        "rationale_short": "Required by law or authority"
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c006",
+        "clause_type": "Permitted Disclosures",
+        "plain_english_summary": "The recipient can disclose confidential information if required by law or a competent authority.",
+        "business_risk": {
+          "severity": "Low",
+          "why": [
+            "Disclosure is required by law or authority, which is a legitimate reason"
+          ]
+        },
+        "norm_deviation": {
+          "deviates": false,
+          "comparison": [
+            "standard confidentiality agreements"
+          ],
+          "suggested_revision": "None"
+        },
+        "uncertainty": {
+          "confidence": 0.8,
+          "reasons": [
+            "The clause is straightforward and does not introduce any unusual or ambiguous terms"
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c007",
+        "text": "6. The Recipient will, on request from the Discloser, return all copies and records of the \n\nConfidential Information to the Discloser and will not retain any copies or records of the \nConfidential Information.",
+        "start_char": 2173,
+        "end_char": 2386
+      },
+      "classification": {
+        "label": "Return/Destruction",
+        "confidence": 1.0,
+        "rationale_short": "Clause requires return of confidential information"
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c007",
+        "clause_type": "Return/Destruction",
+        "plain_english_summary": "The recipient must return all confidential information to the discloser upon request and not retain any copies.",
+        "business_risk": {
+          "severity": "Low",
+          "why": [
+            "The risk of non-compliance is low as the recipient is explicitly required to return all confidential information upon request."
+          ]
+        },
+        "norm_deviation": {
+          "deviates": false,
+          "comparison": [
+            "The clause is consistent with industry standards for return and destruction of confidential information."
+          ],
+          "suggested_revision": ""
+        },
+        "uncertainty": {
+          "confidence": 0.8,
+          "reasons": [
+            "The clause is clear and concise, but the definition of 'Confidential Information' is not provided in the retrieved context."
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c008",
+        "text": "7. Neither this Agreement nor the supply of any information grants the Recipient any licence, \n\ninterest or right in respect of any intellectual property rights of the Discloser except the right to \ncopy the Confidential Information solely for the Purpose. \n\n \n \n \n \n \n \n \n \n \n \n \n \n\f8. The undertakings in clauses 2 and 3 will continue in force [indefinitely.] [for [insert number] \n\nyears from the date of this Agreement.]",
+        "start_char": 2386,
+        "end_char": 2813
+      },
+      "classification": {
+        "label": "IP Ownership / Assignment",
+        "confidence": 0.8,
+        "rationale_short": "Grants no licence or interest in intellectual property rights except for copying confidential info."
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c008",
+        "clause_type": "IP Ownership / Assignment",
+        "plain_english_summary": "The recipient has a limited licence to copy confidential information for a specific purpose, but no other rights to intellectual property.",
+        "business_risk": {
+          "severity": "Low",
+          "why": [
+            "The recipient's licence is limited to copying confidential information for a specific purpose, which reduces the risk of intellectual property infringement."
+          ]
+        },
+        "norm_deviation": {
+          "deviates": true,
+          "comparison": [
+            "Typical IP ownership/assignment clauses grant more extensive rights to the recipient, such as a licence to use or modify the intellectual property."
+          ],
+          "suggested_revision": "Consider revising the clause to grant the recipient more extensive rights to the intellectual property, while still maintaining confidentiality requirements."
+        },
+        "uncertainty": {
+          "confidence": 0.6,
+          "reasons": [
+            "The clause is unclear on the scope of the licence granted to the recipient, and the duration of the licence is not specified."
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c009",
+        "text": "9. This Agreement is governed by, and is to be construed in accordance with, English law. The \n\nEnglish Courts will have non-exclusive jurisdiction to deal with any dispute which has arisen or \nmay arise out of, or in connection with, this Agreement. \n\nIf the Recipient is an individual \n\nSigned and Delivered as a Deed by: \n[name of Recipient] in the presence of: \n\n_____________________________ \nSignature \n\n_____________________________ \nSignature of witness \n\n_____________________________ \nName of witness \n\n_____________________________ \n\n_____________________________ \n\n_____________________________ \n\nAddress of witness \n\nIf the Recipient is a company \n\nExecuted and Delivered as a Deed by \n[name of Recipient] acting by \n[name of director], a director, \nin the presence of: \n\n_____________________________ \nSignature of Director \n\n_____________________________ \nSignature of witness \n\n_____________________________ \nName of witness \n\n_____________________________ \n\n_____________________________ \n\n_____________________________ \nAddress of witness",
+        "start_char": 2813,
+        "end_char": 3869
+      },
+      "classification": {
+        "label": "Governing Law",
+        "confidence": 1.0,
+        "rationale_short": "Clause specifies jurisdiction and applicable law."
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c009",
+        "clause_type": "Governing Law",
+        "plain_english_summary": "This contract is governed by English law and any disputes will be resolved by the English Courts.",
+        "business_risk": {
+          "severity": "Low",
+          "why": [
+            "The clause specifies a clear governing law and jurisdiction, reducing uncertainty and potential disputes."
+          ]
+        },
+        "norm_deviation": {
+          "deviates": false,
+          "comparison": [
+            "Standard governing law clauses typically specify a governing law and jurisdiction, but may not always be as specific as this clause."
+          ],
+          "suggested_revision": "None"
+        },
+        "uncertainty": {
+          "confidence": 0.8,
+          "reasons": [
+            "The clause is clear and specific, but the jurisdiction may be subject to change or interpretation."
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    }
+  ],
+  "contract_risk": {
+    "score": 37,
+    "level": "Low"
+  },
+  "missing_clauses": [
+    "Definition of Confidential Info",
+    "Term & Survival",
+    "Remedies / Injunctive Relief"
+  ],
+  "settings": {
+    "use_llm_classification": true,
+    "use_rag": true,
+    "use_rules": true,
+    "use_llm_analysis": true
+  }
+}

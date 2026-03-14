@@ -1,0 +1,3 @@
+EXCEPTIONS
+
+Confidential Information does not include information developed by the Receiving Party independently without reliance on the Disclosing Party’s Confidential Information.

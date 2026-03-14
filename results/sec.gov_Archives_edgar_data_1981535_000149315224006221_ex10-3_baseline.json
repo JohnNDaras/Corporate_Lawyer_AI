@@ -1,0 +1,418 @@
+{
+  "disclaimer": "Not legal advice. Educational decision support only. No attorney-client relationship is formed.",
+  "doc_flags": [],
+  "clauses": [
+    {
+      "clause": {
+        "id": "c001",
+        "text": "Snapshot-Content-Location: https://www.sec.gov/Archives/edgar/data/1981535/000149315224006221/ex10-3.htm\nSubject: \nDate: Mon, 9 Mar 2026 16:04:24 +0200\nMIME-Version: 1.0\nContent-Type: multipart/related;\n type=\"text/html\";\n boundary=\"----MultipartBoundary--kNIP2TfS7jBFk3gbTi2f1FKCH8kQO7mzR6xHvNSlbt----\"\n\n------MultipartBoundary--kNIP2TfS7jBFk3gbTi2f1FKCH8kQO7mzR6xHvNSlbt----\nContent-Type: text/html\nContent-ID: \n\nContent-Transfer-Encoding: binary\nContent-Location: https://www.sec.gov/Archives/edgar/data/1981535/000149315224006221/ex10-3.htm\n\nEX-10.3",
+        "start_char": 0,
+        "end_char": 555
+      },
+      "classification": {
+        "label": "Miscellaneous",
+        "confidence": 0.35,
+        "rationale_short": "keyword baseline"
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c001",
+        "clause_type": "Miscellaneous",
+        "plain_english_summary": "(LLM analysis disabled)",
+        "business_risk": {
+          "severity": "Low",
+          "why": []
+        },
+        "norm_deviation": {
+          "deviates": false,
+          "comparison": [],
+          "suggested_revision": ""
+        },
+        "uncertainty": {
+          "confidence": 0.35,
+          "reasons": [
+            "LLM analysis disabled"
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c002",
+        "text": "8\n\nex10-3.htm\n\n\u00a0\n\nExhibit",
+        "start_char": 555,
+        "end_char": 581
+      },
+      "classification": {
+        "label": "Miscellaneous",
+        "confidence": 0.35,
+        "rationale_short": "keyword baseline"
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c002",
+        "clause_type": "Miscellaneous",
+        "plain_english_summary": "(LLM analysis disabled)",
+        "business_risk": {
+          "severity": "Low",
+          "why": []
+        },
+        "norm_deviation": {
+          "deviates": false,
+          "comparison": [],
+          "suggested_revision": ""
+        },
+        "uncertainty": {
+          "confidence": 0.35,
+          "reasons": [
+            "LLM analysis disabled"
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c006",
+        "text": "AGREEMENT\n\n\u00a0\n\nThis\nConfidentiality Agreement is entered into this 14th day of February, 2024 between SharpLink Gaming, Inc. (SharpLink or\nthe Company), a Delaware Corporation, and Obie McKenzie (the Director).\n\n\u00a0\n\nWHEREAS,\nthe Director has been elected to and has agreed to serve as an independent member of the Board of Directors of SharpLink;\n\n\u00a0\n\nWHEREAS,\nthe undersigned acknowledges that a Directors fiduciary duty includes the obligation to not disclose and to maintain the confidentiality\nof the Confidential Information shared by SharpLink with Board Members in order to permit them to carry out their responsibilities as\nDirectors;\n\n\u00a0\n\nWHEREAS,\nthe parties agree that it is appropriate to enter into this Agreement by which the Director acknowledges his/her fiduciary duty to maintain,\nprotect and not disclose the Confidential Information of SharpLink both during her term as Director and thereafter;\n\n\u00a0\n\nNOW,\nTHEREFORE, in consideration of the mutual promises herein contained, the parties agree as follows:",
+        "start_char": 629,
+        "end_char": 1651
+      },
+      "classification": {
+        "label": "Confidentiality",
+        "confidence": 0.72,
+        "rationale_short": "keyword baseline"
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c006",
+        "clause_type": "Confidentiality",
+        "plain_english_summary": "(LLM analysis disabled)",
+        "business_risk": {
+          "severity": "Low",
+          "why": []
+        },
+        "norm_deviation": {
+          "deviates": false,
+          "comparison": [],
+          "suggested_revision": ""
+        },
+        "uncertainty": {
+          "confidence": 0.72,
+          "reasons": [
+            "LLM analysis disabled"
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c007",
+        "text": "1.\nConfidential Information. As used herein, Confidential Information means all information furnished by SharpLink to the\nDirector in connection with the performance by the Director of her Board responsibilities which should be reasonably understood by the\nDirector to be confidential or proprietary information of SharpLink, whether furnished orally or in writing, and regardless of whether\nspecifically identified as confidential and all notes, analyses, compilations, studies or other documents which contain\nor otherwise reflect such Confidential Information.",
+        "start_char": 1651,
+        "end_char": 2219
+      },
+      "classification": {
+        "label": "Confidentiality",
+        "confidence": 0.52,
+        "rationale_short": "keyword baseline"
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c007",
+        "clause_type": "Confidentiality",
+        "plain_english_summary": "(LLM analysis disabled)",
+        "business_risk": {
+          "severity": "Low",
+          "why": []
+        },
+        "norm_deviation": {
+          "deviates": false,
+          "comparison": [],
+          "suggested_revision": ""
+        },
+        "uncertainty": {
+          "confidence": 0.52,
+          "reasons": [
+            "LLM analysis disabled"
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c008",
+        "text": "2.\nConfidential Information Exclusions. The provisions of this Agreement shall not apply to information in the public domain at the time\nit is shared with the Director; information that, after disclosure to the Director, becomes part of the public domain through dissemination\nby SharpLink; generic information or knowledge that the Director would have learned in the course of similar board experiences; and information\nwhich was not acquired directly or indirectly from SharpLink.",
+        "start_char": 2219,
+        "end_char": 2706
+      },
+      "classification": {
+        "label": "Confidentiality",
+        "confidence": 0.52,
+        "rationale_short": "keyword baseline"
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c008",
+        "clause_type": "Confidentiality",
+        "plain_english_summary": "(LLM analysis disabled)",
+        "business_risk": {
+          "severity": "Low",
+          "why": []
+        },
+        "norm_deviation": {
+          "deviates": false,
+          "comparison": [],
+          "suggested_revision": ""
+        },
+        "uncertainty": {
+          "confidence": 0.52,
+          "reasons": [
+            "LLM analysis disabled"
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c009",
+        "text": "3.\nNon-Disclosure and Use of Confidential Information. The Director agrees that during her term as a Board Member and for two (2) years\nthereafter to:\n\n\u00a0\n\n(a)\nHold in confidence and not to directly or indirectly disclose, disseminate, divulge, lecture upon, publish, report, reveal or transfer\nany Confidential Information to any person or entity;",
+        "start_char": 2706,
+        "end_char": 3058
+      },
+      "classification": {
+        "label": "Confidentiality",
+        "confidence": 0.62,
+        "rationale_short": "keyword baseline"
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c009",
+        "clause_type": "Confidentiality",
+        "plain_english_summary": "(LLM analysis disabled)",
+        "business_risk": {
+          "severity": "Low",
+          "why": []
+        },
+        "norm_deviation": {
+          "deviates": false,
+          "comparison": [],
+          "suggested_revision": ""
+        },
+        "uncertainty": {
+          "confidence": 0.62,
+          "reasons": [
+            "LLM analysis disabled"
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c010",
+        "text": "1\n\n\u00a0\n\n\u00a0\n\n(b)\nNot directly or indirectly make use of any Confidential Information except for the purposes of carrying out her responsibilities as a\nDirector; and\n\n\u00a0\n\n(c)\nNot permit unauthorized use of any Confidential Information by any (c) person or entity.",
+        "start_char": 3058,
+        "end_char": 3320
+      },
+      "classification": {
+        "label": "Confidentiality",
+        "confidence": 0.52,
+        "rationale_short": "keyword baseline"
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c010",
+        "clause_type": "Confidentiality",
+        "plain_english_summary": "(LLM analysis disabled)",
+        "business_risk": {
+          "severity": "Low",
+          "why": []
+        },
+        "norm_deviation": {
+          "deviates": false,
+          "comparison": [],
+          "suggested_revision": ""
+        },
+        "uncertainty": {
+          "confidence": 0.52,
+          "reasons": [
+            "LLM analysis disabled"
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c011",
+        "text": "4.\nOwnership and Return of Documents. All Confidential Information remains the exclusive property of SharpLink. SharpLinks administrative\nstaff will instruct the Director in the proper retention/destruction of Confidential Information which may have been supplied to him/her\nas part of her duties.",
+        "start_char": 3320,
+        "end_char": 3622
+      },
+      "classification": {
+        "label": "Return/Destruction",
+        "confidence": 0.62,
+        "rationale_short": "keyword baseline"
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c011",
+        "clause_type": "Return/Destruction",
+        "plain_english_summary": "(LLM analysis disabled)",
+        "business_risk": {
+          "severity": "Low",
+          "why": []
+        },
+        "norm_deviation": {
+          "deviates": false,
+          "comparison": [],
+          "suggested_revision": ""
+        },
+        "uncertainty": {
+          "confidence": 0.62,
+          "reasons": [
+            "LLM analysis disabled"
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c012",
+        "text": "5.\nEnforcement. SharpLinks executive management team, in consultation with its legal counsel and the Board of Directors, will determine\nwhether a breach of this policy has occurred and how it will be addressed, including, if necessary, the pursuit of legal remedies by\nSharpLink.\n\n\u00a0\n\nIN\nWITNESS WHEREOF, the Director and SharpLink have caused this Confidentiality Agreement to be executed as of the day and year first above\nwritten.",
+        "start_char": 3622,
+        "end_char": 4059
+      },
+      "classification": {
+        "label": "Confidentiality",
+        "confidence": 0.52,
+        "rationale_short": "keyword baseline"
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c012",
+        "clause_type": "Confidentiality",
+        "plain_english_summary": "(LLM analysis disabled)",
+        "business_risk": {
+          "severity": "Low",
+          "why": []
+        },
+        "norm_deviation": {
+          "deviates": false,
+          "comparison": [],
+          "suggested_revision": ""
+        },
+        "uncertainty": {
+          "confidence": 0.52,
+          "reasons": [
+            "LLM analysis disabled"
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c013",
+        "text": "OBIE MCKENZIE\n\n\u00a0\n\nSHARPLINK GAMING, INC.\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\nBy: \n\n/s/ Obie McKenzie\n\n\u00a0\n\nBy: \n\n/s/ Rob Phythian\n\n\u00a0\n\nObie McKenzie\n\n\u00a0\n\n\u00a0\n\nRob Phythian\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\nChairman \nand Chief Executive Officer",
+        "start_char": 4059,
+        "end_char": 4251
+      },
+      "classification": {
+        "label": "Miscellaneous",
+        "confidence": 0.35,
+        "rationale_short": "keyword baseline"
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c013",
+        "clause_type": "Miscellaneous",
+        "plain_english_summary": "(LLM analysis disabled)",
+        "business_risk": {
+          "severity": "Low",
+          "why": []
+        },
+        "norm_deviation": {
+          "deviates": false,
+          "comparison": [],
+          "suggested_revision": ""
+        },
+        "uncertainty": {
+          "confidence": 0.35,
+          "reasons": [
+            "LLM analysis disabled"
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c014",
+        "text": "2\n\n\u00a0\n\n------MultipartBoundary--kNIP2TfS7jBFk3gbTi2f1FKCH8kQO7mzR6xHvNSlbt----\nContent-Type: image/jpeg\nContent-Transfer-Encoding: binary\nContent-Location: https://www.sec.gov/Archives/edgar/data/1981535/000149315224006221/ex10-3_001.jpg\n\n\ufffd\u0010JFIF\ufffd\u0001\u0001\u0001\ufffd`\ufffd`\ufffd\ufffd\ufffdC\ufffd\b\u0006\u0006\u0007\u0006\u0005\b\u0007\u0007\u0007 \b\n\f\u0014\n\f\u000b\u000b\f\u0019\u0012\u0013\u000f\u0014\u001d\u001a\u001f\u001e\u001d\u001a\u001c\u001c $.' \",#\u001c\u001c(7),01444\u001f'9=82<.342\ufffdC\u0001\b \f\u000b\f\u0018\n\n\u00182!\u001c!22222222222222222222222222222222222222222222222222\ufffd\u0011\b\ufffd:\u0001\u001c\u0003\u0001\"\ufffd\u0002\u0011\u0001\u0003\u0011\u0001\ufffd\u001f\ufffd\ufffd\u0001\u0005\u0001\u0001\u0001\u0001\u0001\u0001\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\u0001\u0002\u0003\u0004\u0005\u0006\u0007\b \n\u000b\ufffd\u0010\ufffd\u0002\u0001\u0003\u0003\u0002\u0004\u0003\u0005\u0005\u0004\u0004\ufffd\ufffd\u0001}\u0001\u0002\u0003\ufffd\u0004\u0011\u0005\u0012!1A\u0006\u0013Qa\u0007\"q\u00142\b#B\u0015R$3br \n\u0016\u0017\u0018\u0019\u001a%&'()*456789:CDEFGHIJSTUVWXYZcdefghijstuvwxyz\ufffd\u001f\u0001\ufffd\u0003\u0001\u0001\u0001\u0001\u0001\u0001\u0001\u0001\u0001\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\u0001\u0002\u0003\u0004\u0005\u0006\u0007\b \n\u000b\ufffd\u0011\ufffd\u0002\u0001\u0002\u0004\u0004\u0003\u0004\u0007\u0005\u0004\u0004\ufffd\u0001\u0002w\ufffd\u0001\u0002\u0003\u0011\u0004\u0005!1\u0006\u0012AQ\u0007aq\u0013\"2\b\u0014B #3R\u0015br\n\u0016$4%\u0017\u0018\u0019\u001a&'()*56789:CDEFGHIJSTUVWXYZcdefghijstuvwxyz\ufffd\f\u0003\u0001\ufffd\u0002\u0011\u0003\u0011\ufffd?\ufffd|A0y*5?\u022efz{6[M6)%qOo\u001f\u000eh\u001cS^\u0793\u0338;}\u0015z\ufffd\n/s\u000e\u0003inp\u05f23\u000f\u007f\u07d8}+~\u0015oi\u03ecZ|+\u000fk\u001d\u001f\ufffd$zW?t!\u01ed\ufffd.|M\u0013\u0016:\ufffdb#m;QSO?W\u0010\u0019_e$%Sw~X\u0013\u0013h\ufffd\u007f\u001fJ5\u001aWzG\n\\\u001c'.X.I\ufffd,\u007f(\u001a6k\u0016 \f\u0015#5\u0003V\n6L\u0002jwu\u0019\u0705U\u0019$\u0015:x\ufffdW\nkV\\s\u02a6pjkUiY]\u0005\u0015\u0014\u0013X\u0015\u0006[s.\u07528}\u007f\u001a\u055f=\ufffdt\ufffd*I5tpT*u\u001d9ng\u0004m?\ufffdI\u0016c;F?\u0092?\u0017_mQu}\u001d\u0408\u0002IWG|+k?QK\u02a3\np\bk5J<:zl\u0007Ff_^{;W qw\u0004,FB RG\\\u007fMzV\u04ae-o$ide\u000b#\u001c8\u0004\ns\u0012\u0017^3m\u064aF\u0017\"Uv\u0014sQ[K\u000bRV\u05d2\u02ebiWP$\u0002e\ufffd\u001a\b# \u001a>\u0012X\u0018,G\u92a1GP[7/f2\u00d6T\u0019V\u0003 tI)\u001bPNSTqWiizm\u0775Ssq\u0014!\u0019\u001c.\u007f:X2R\nGC^qo=4\ufffdk\u007f\u000fc\ufffd^\ufffd\"3{\u001cp\u0018ju6\\n/-6\u0018w}1\u969a\u007fN ,\u000e\u0019b\u0011\u076fG\u0002\b\u0004\u0010AEC\u0015P$$\u0004\u0014X\ufffd\u01c5r_+?/t\u0015j6[[\u0739l\u000e6#\u0007\u0015\u0015k{;;nt`2\ufb7aRz\nm~|\ufffd\n\u07bd:M\u000bZO\f0zwS^v[\u000fu\ufffd4V5\u0330'RU#=\u001c\u0013\u007fwC8#i&#z\ufffd~&\u0019\u1e4f\u0302XLr0a{\ufffd\"N\ufffdkY\u000ea/neXY\u0019\u074e\ufffd\u001cSu-S\u0013\b \u0323ch2M*G\u0018\u0001d7\b^\u001bPpY\u001c0^]sqJ>j^ElV=o\u03bd3Mm4\b\u0011\u0018\u001d'\nmh\n\u19f7=\u001dX\u0014<-G:Q\u037aVkXc\u001d;\fU\u001dI?7GsiFU~[\u02baW>\u0017\ufffd{\ufffd\ufffd\u001a^\u001bYiol,0m\u001c]Z;\n~EBo;\u0013\u0003\u00032\u001fUBR\u007f\nZ\u06ff\u0001{]5-?u8? A\u0017\u06beA\u0019X\ufffdV_\f5\u0014Q\u0002ut\u001d}\u0005s5=4_\u0015\u001e\u03ad5}-'}5<\n<7H.YM\u0006)P:.{?q\u0012\u0005t\ub0bbQ#3&O\u0004xH\u0002sp\u0016e~?\u03b9/\nOt26\u001a\u05af/\\hp_9Gi_m\u000fl:\u0015\u0458~3\u000bK\u000bT\u001c&h\u0016hif#\u0019\u0003\ufffd\ufffd*\u0014`FOU)6{\u001c\u0012)B\u0363wm\u06f1\ufffd\u0017?J\ufffd'@?\u001f+\u000f\fGKU>*\u0016\ufffdTj\f\u007fvis>g+br*~\u05d8|^\ufffd_<5-]l\u0006e\u0019wtO\u0002\u007f\ufffdN3L5\\>c\bUVzL{\u001f\ufffdKyomakq\u0018\u0019c]Oq\n+\u001f\ufffdKyG_\u0018)t#\u0002\u06a1k\ufffd\u048awf\u0019K\u02e4\u071eL\ufffdysr*[y\u0333B$R>u9\u0004\u0018z\u05e1x@\u0016%+(\u074f\u05bc\u001au\u0597\u00162#\u0003r=\u0019QK\u001a\n\u001e<\u001b3\u007f\n>\u0567wj9^\u0012\nTOT\"\u001bVk;)\n\u001fX\u000e'hDV\u0018%H\ufffd\u001f\u04a4\u04bc\u001bi\u0005=b\u05e3D>\u001f\u007fJ\u007f[N\n\u0675\u001a#O~\u007fI\u0269)ON\u02e9Q\u0019Rt0r*\u076f\u05ee'\u000f\u0016&\ufffdK]\u00066%y\u000e\u0621w<\n-\u0005=%\u04ac$e\u001fk\u008bZ6dZdS\\\u0427\u0015DEEK\u0013=-:\u05e1nVZ\u0005{k4\u0010n\u0018kv\u0006v+\u001cQbz\u0005\u0002/\u0010^\"ob\u01666-C\u0011!\u033f7s=i~!jENyFF9b\u0007\u007fO\u019fRox_m:jismCS%=jKd\f\u001e\u007f*5\u0012xm\u001c%\u02d5\fa1\u001b6\u001aolel\u0013\u00f0n\u001c#{\u0007[>5P\u05fc;irY\u0011\u0605Ud\u001b\u0005N8II7n'uNW&MB@\u0010\u0017\u0004=\ufffdU_\u0011Z/V\u0019\u0005X\u0003v7c\\i47VZ\u00194\u001a \n#y*J\u0013~]*\u047fw\ufffd\u0694{Y6*\n0J\\&{|^!4(u`0B\u0015\u0014nFjj\u05a7EmZ&mD&`SP3#\u001b\u0598\u0018\u0002\u000f\u0672\u000f\u007fj'\"l\bv5\u0018d\u0016*~_\ufffd=\n7U\u017bbii\u0542\u071ei4S-/4HGV\u001fLGs\ufffdZmimNk\u000587QcVF&?\bl6e\ufffd+P\u001a-\u0019]=\ufffd\u0016\u06f3\u001ccm\u001c{vOa}Z;+RIwvz\u017dWv\u02c8@Jm$\u001fjX\u00125\u000e\u007fr$\u0325b\u0004(\u00101}+nS<:;wFh*\u000f1*;NE\u0014P!\u0019\u0015\u0014&/\u0227@\u01ach*\u000f\u00142+\u0007\u001eE\u0001v\u0014\u0408!T\u0013\nu\u0014\b)6.F\\sKE\ufffd!\u0001\b\u0004z\u001a\u0015UF\u0014\ufffd=\ufffd\u0010F\b=7\u024by)P; \u0010A\u0019\u0007r:mgm3PSp}~F*e\bYPT.jn\u07d3[3\ud8fa\udc61%,D.Q?W_\u001eva`\u0007dMt:7:ms\u001cdC\u000eOVcu:[\u0133y|6=3X>t\u0013=(-JrJmtW_+\u0010E}k-\u05ca.\u001blK\b\u000e\ufffd~Wicimeo\u001c\u0010EA\u055a+XSQ\u05e9_\u0017RQzEl|Wv\u0015Z~lB[a:2\u001fPkJVg<'*rRG3im.;/#\u000fl\u000e+U[Y5iZ8Qo\u0001@^MhR\u00155*&\u001a\u018fkiew,\u00182\u001c2\u0403L-nc--\u0011>b@s\u06b4\u05a9\u0014^t\u007fz\"KYP`\u001a\ufffdz\u0011=}f\u001b:V\u0014SQ8+E[S*\ufffdz\u00061[\u00f3iV|\u0003'\u0015kS-u}>[\u001b \u001dG\u0015n\\M5z)ZivDz`C%Gm\u0007r\u0001}eP\u064eZ;#?+\u00174M 5}\u0016\u0016evpPF>TZE\u0015i[DsNN\u0745\u0014Q@(\u0002(\u0002(\u0002(\u0002(\u0002(\u0002(\u000f\n------MultipartBoundary--kNIP2TfS7jBFk3gbTi2f1FKCH8kQO7mzR6xHvNSlbt------",
+        "start_char": 4251,
+        "end_char": 6759
+      },
+      "classification": {
+        "label": "Miscellaneous",
+        "confidence": 0.35,
+        "rationale_short": "keyword baseline"
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c014",
+        "clause_type": "Miscellaneous",
+        "plain_english_summary": "(LLM analysis disabled)",
+        "business_risk": {
+          "severity": "Low",
+          "why": []
+        },
+        "norm_deviation": {
+          "deviates": false,
+          "comparison": [],
+          "suggested_revision": ""
+        },
+        "uncertainty": {
+          "confidence": 0.35,
+          "reasons": [
+            "LLM analysis disabled"
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    }
+  ],
+  "contract_risk": {
+    "score": 33,
+    "level": "Low"
+  },
+  "missing_clauses": [
+    "Definition of Confidential Info",
+    "Exceptions",
+    "Term & Survival",
+    "Remedies / Injunctive Relief"
+  ],
+  "settings": {
+    "use_llm_classification": false,
+    "use_rag": false,
+    "use_rules": false,
+    "use_llm_analysis": false
+  }
+}

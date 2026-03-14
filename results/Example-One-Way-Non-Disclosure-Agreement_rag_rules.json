@@ -1,0 +1,353 @@
+{
+  "disclaimer": "Not legal advice. Educational decision support only. No attorney-client relationship is formed.",
+  "doc_flags": [
+    {
+      "name": "missing_governing_law",
+      "severity": "Med",
+      "evidence_snippet": "(document-level)",
+      "explanation": "No governing law detected; may increase uncertainty and dispute costs."
+    }
+  ],
+  "clauses": [
+    {
+      "clause": {
+        "id": "c001",
+        "text": "An Example of a \nOne-way Non-Disclosure Agreement \n\nDate: 201[ ] \n\nParties: \n\n[NAME OF INDIVIDUAL RECEIVING INFORMATION] of [address of individual] \nOR \n[NAME OF COMPANY RECEIVING INFORMATION], a company registered in [England] under \ncompany number [number on Register of Companies] whose registered office is at [address of \noffice on the Register of Companies] \n(the Recipient) \nand \n[NAME OF INDIVIDUAL DISCLOSING INFORMATION] of [address of individual] \nOR \n[NAME OF COMPANY DISCLOSING INFORMATION], a company registered in [England] under \ncompany number [number on Register of Companies] whose registered office is at [address of \noffice on the Register of Companies] \n(the Discloser)",
+        "start_char": 0,
+        "end_char": 694
+      },
+      "classification": {
+        "label": "Confidentiality",
+        "confidence": 0.52,
+        "rationale_short": "keyword baseline"
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c001",
+        "clause_type": "Confidentiality",
+        "plain_english_summary": "(LLM analysis disabled)",
+        "business_risk": {
+          "severity": "Low",
+          "why": []
+        },
+        "norm_deviation": {
+          "deviates": false,
+          "comparison": [],
+          "suggested_revision": ""
+        },
+        "uncertainty": {
+          "confidence": 0.52,
+          "reasons": [
+            "LLM analysis disabled"
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c002",
+        "text": "1. The Discloser intends to disclose information (the Confidential Information) to the Recipient for \nthe purpose of [insert details e.g. discussing the possibility of the Recipient and the \nDiscloser entering into a joint venture] (the Purpose).",
+        "start_char": 694,
+        "end_char": 943
+      },
+      "classification": {
+        "label": "Confidentiality",
+        "confidence": 0.52,
+        "rationale_short": "keyword baseline"
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c002",
+        "clause_type": "Confidentiality",
+        "plain_english_summary": "(LLM analysis disabled)",
+        "business_risk": {
+          "severity": "Low",
+          "why": []
+        },
+        "norm_deviation": {
+          "deviates": false,
+          "comparison": [],
+          "suggested_revision": ""
+        },
+        "uncertainty": {
+          "confidence": 0.52,
+          "reasons": [
+            "LLM analysis disabled"
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c003",
+        "text": "2. The Recipient undertakes not to use the Confidential Information for any purpose except the \n\nPurpose, without first obtaining the written agreement of the Discloser.",
+        "start_char": 943,
+        "end_char": 1115
+      },
+      "classification": {
+        "label": "Confidentiality",
+        "confidence": 0.52,
+        "rationale_short": "keyword baseline"
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c003",
+        "clause_type": "Confidentiality",
+        "plain_english_summary": "(LLM analysis disabled)",
+        "business_risk": {
+          "severity": "Low",
+          "why": []
+        },
+        "norm_deviation": {
+          "deviates": false,
+          "comparison": [],
+          "suggested_revision": ""
+        },
+        "uncertainty": {
+          "confidence": 0.52,
+          "reasons": [
+            "LLM analysis disabled"
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c004",
+        "text": "3. The Recipient undertakes to keep the Confidential Information secure and not to disclose it to \nany third party [except to its employees [and professional advisers] who need to know the \nsame for the Purpose, who know they owe a duty of confidence to the Discloser and who are \nbound by obligations equivalent to those in clause 2 above and this clause 3.",
+        "start_char": 1115,
+        "end_char": 1476
+      },
+      "classification": {
+        "label": "Confidentiality",
+        "confidence": 0.62,
+        "rationale_short": "keyword baseline"
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c004",
+        "clause_type": "Confidentiality",
+        "plain_english_summary": "(LLM analysis disabled)",
+        "business_risk": {
+          "severity": "Low",
+          "why": []
+        },
+        "norm_deviation": {
+          "deviates": false,
+          "comparison": [],
+          "suggested_revision": ""
+        },
+        "uncertainty": {
+          "confidence": 0.62,
+          "reasons": [
+            "LLM analysis disabled"
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c005",
+        "text": "4. The undertakings in clauses 2 and 3 above apply to all of the information disclosed by the \n\nDiscloser to the Recipient, regardless of the way or form in which it is disclosed or recorded but \nthey do not apply to: \n\na) any information which is or in future comes into the public domain (unless as a result of the \n\nbreach of this Agreement); or \n\nb) any information which is already known to the Recipient and which was not subject to any \n\nobligation of confidence before it was disclosed to the Recipient by the Discloser.",
+        "start_char": 1476,
+        "end_char": 2007
+      },
+      "classification": {
+        "label": "Exceptions",
+        "confidence": 0.62,
+        "rationale_short": "keyword baseline"
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c005",
+        "clause_type": "Exceptions",
+        "plain_english_summary": "(LLM analysis disabled)",
+        "business_risk": {
+          "severity": "Low",
+          "why": []
+        },
+        "norm_deviation": {
+          "deviates": false,
+          "comparison": [],
+          "suggested_revision": ""
+        },
+        "uncertainty": {
+          "confidence": 0.62,
+          "reasons": [
+            "LLM analysis disabled"
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c006",
+        "text": "5. Nothing in this Agreement will prevent the Recipient from making any disclosure of the \n\nConfidential Information required by law or by any competent authority.",
+        "start_char": 2007,
+        "end_char": 2173
+      },
+      "classification": {
+        "label": "Confidentiality",
+        "confidence": 0.52,
+        "rationale_short": "keyword baseline"
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c006",
+        "clause_type": "Confidentiality",
+        "plain_english_summary": "(LLM analysis disabled)",
+        "business_risk": {
+          "severity": "Low",
+          "why": []
+        },
+        "norm_deviation": {
+          "deviates": false,
+          "comparison": [],
+          "suggested_revision": ""
+        },
+        "uncertainty": {
+          "confidence": 0.52,
+          "reasons": [
+            "LLM analysis disabled"
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c007",
+        "text": "6. The Recipient will, on request from the Discloser, return all copies and records of the \n\nConfidential Information to the Discloser and will not retain any copies or records of the \nConfidential Information.",
+        "start_char": 2173,
+        "end_char": 2386
+      },
+      "classification": {
+        "label": "Confidentiality",
+        "confidence": 0.52,
+        "rationale_short": "keyword baseline"
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c007",
+        "clause_type": "Confidentiality",
+        "plain_english_summary": "(LLM analysis disabled)",
+        "business_risk": {
+          "severity": "Low",
+          "why": []
+        },
+        "norm_deviation": {
+          "deviates": false,
+          "comparison": [],
+          "suggested_revision": ""
+        },
+        "uncertainty": {
+          "confidence": 0.52,
+          "reasons": [
+            "LLM analysis disabled"
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c008",
+        "text": "7. Neither this Agreement nor the supply of any information grants the Recipient any licence, \n\ninterest or right in respect of any intellectual property rights of the Discloser except the right to \ncopy the Confidential Information solely for the Purpose. \n\n \n \n \n \n \n \n \n \n \n \n \n \n\f8. The undertakings in clauses 2 and 3 will continue in force [indefinitely.] [for [insert number] \n\nyears from the date of this Agreement.]",
+        "start_char": 2386,
+        "end_char": 2813
+      },
+      "classification": {
+        "label": "Confidentiality",
+        "confidence": 0.52,
+        "rationale_short": "keyword baseline"
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c008",
+        "clause_type": "Confidentiality",
+        "plain_english_summary": "(LLM analysis disabled)",
+        "business_risk": {
+          "severity": "Low",
+          "why": []
+        },
+        "norm_deviation": {
+          "deviates": false,
+          "comparison": [],
+          "suggested_revision": ""
+        },
+        "uncertainty": {
+          "confidence": 0.52,
+          "reasons": [
+            "LLM analysis disabled"
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c009",
+        "text": "9. This Agreement is governed by, and is to be construed in accordance with, English law. The \n\nEnglish Courts will have non-exclusive jurisdiction to deal with any dispute which has arisen or \nmay arise out of, or in connection with, this Agreement. \n\nIf the Recipient is an individual \n\nSigned and Delivered as a Deed by: \n[name of Recipient] in the presence of: \n\n_____________________________ \nSignature \n\n_____________________________ \nSignature of witness \n\n_____________________________ \nName of witness \n\n_____________________________ \n\n_____________________________ \n\n_____________________________ \n\nAddress of witness \n\nIf the Recipient is a company \n\nExecuted and Delivered as a Deed by \n[name of Recipient] acting by \n[name of director], a director, \nin the presence of: \n\n_____________________________ \nSignature of Director \n\n_____________________________ \nSignature of witness \n\n_____________________________ \nName of witness \n\n_____________________________ \n\n_____________________________ \n\n_____________________________ \nAddress of witness",
+        "start_char": 2813,
+        "end_char": 3869
+      },
+      "classification": {
+        "label": "Dispute Resolution",
+        "confidence": 0.72,
+        "rationale_short": "keyword baseline"
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c009",
+        "clause_type": "Dispute Resolution",
+        "plain_english_summary": "(LLM analysis disabled)",
+        "business_risk": {
+          "severity": "Low",
+          "why": []
+        },
+        "norm_deviation": {
+          "deviates": false,
+          "comparison": [],
+          "suggested_revision": ""
+        },
+        "uncertainty": {
+          "confidence": 0.72,
+          "reasons": [
+            "LLM analysis disabled"
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    }
+  ],
+  "contract_risk": {
+    "score": 33,
+    "level": "Low"
+  },
+  "missing_clauses": [
+    "Definition of Confidential Info",
+    "Term & Survival",
+    "Return/Destruction",
+    "Remedies / Injunctive Relief"
+  ],
+  "settings": {
+    "use_llm_classification": false,
+    "use_rag": true,
+    "use_rules": true,
+    "use_llm_analysis": false
+  }
+}

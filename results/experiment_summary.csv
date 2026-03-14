@@ -1,0 +1,873 @@
+contract,experiment,clause_id,clause_type,risk_score,severity,deviation,confidence
+sec.gov_Archives_edgar_data_1053374_000114420418062970_tv508217_ex-d2.htm,baseline,c001,Miscellaneous,30,Low,False,0.35
+sec.gov_Archives_edgar_data_1053374_000114420418062970_tv508217_ex-d2.htm,baseline,c002,Miscellaneous,30,Low,False,0.35
+sec.gov_Archives_edgar_data_1053374_000114420418062970_tv508217_ex-d2.htm,baseline,c003,Confidentiality,30,Low,False,0.52
+sec.gov_Archives_edgar_data_1053374_000114420418062970_tv508217_ex-d2.htm,baseline,c004,Confidentiality,30,Low,False,0.62
+sec.gov_Archives_edgar_data_1053374_000114420418062970_tv508217_ex-d2.htm,baseline,c005,Confidentiality,30,Low,False,0.72
+sec.gov_Archives_edgar_data_1053374_000114420418062970_tv508217_ex-d2.htm,baseline,c006,Confidentiality,30,Low,False,0.72
+sec.gov_Archives_edgar_data_1053374_000114420418062970_tv508217_ex-d2.htm,baseline,c007,Confidentiality,30,Low,False,0.52
+sec.gov_Archives_edgar_data_1053374_000114420418062970_tv508217_ex-d2.htm,baseline,c008,Confidentiality,30,Low,False,0.62
+sec.gov_Archives_edgar_data_1053374_000114420418062970_tv508217_ex-d2.htm,baseline,c009,Limitation of Liability,30,Low,False,0.8200000000000001
+sec.gov_Archives_edgar_data_1053374_000114420418062970_tv508217_ex-d2.htm,baseline,c010,Return/Destruction,30,Low,False,0.8200000000000001
+sec.gov_Archives_edgar_data_1053374_000114420418062970_tv508217_ex-d2.htm,baseline,c011,Governing Law,30,Low,False,0.62
+sec.gov_Archives_edgar_data_1053374_000114420418062970_tv508217_ex-d2.htm,baseline,c012,Confidentiality,30,Low,False,0.62
+sec.gov_Archives_edgar_data_1053374_000114420418062970_tv508217_ex-d2.htm,baseline,c013,Term & Survival,30,Low,False,0.72
+sec.gov_Archives_edgar_data_1053374_000114420418062970_tv508217_ex-d2.htm,baseline,c014,Governing Law,30,Low,False,0.8200000000000001
+sec.gov_Archives_edgar_data_1053374_000114420418062970_tv508217_ex-d2.htm,baseline,c015,Miscellaneous,30,Low,False,0.52
+sec.gov_Archives_edgar_data_1053374_000114420418062970_tv508217_ex-d2.htm,baseline,c016,Miscellaneous,30,Low,False,0.52
+sec.gov_Archives_edgar_data_1053374_000114420418062970_tv508217_ex-d2.htm,baseline,c017,Term & Survival,30,Low,False,0.52
+sec.gov_Archives_edgar_data_1053374_000114420418062970_tv508217_ex-d2.htm,baseline,c018,Miscellaneous,30,Low,False,0.62
+sec.gov_Archives_edgar_data_1053374_000114420418062970_tv508217_ex-d2.htm,baseline,c019,Permitted Disclosures,30,Low,False,0.52
+sec.gov_Archives_edgar_data_1053374_000114420418062970_tv508217_ex-d2.htm,baseline,c020,Confidentiality,30,Low,False,0.52
+sec.gov_Archives_edgar_data_1053374_000114420418062970_tv508217_ex-d2.htm,rules_only,c001,Miscellaneous,30,Low,False,0.35
+sec.gov_Archives_edgar_data_1053374_000114420418062970_tv508217_ex-d2.htm,rules_only,c002,Miscellaneous,30,Low,False,0.35
+sec.gov_Archives_edgar_data_1053374_000114420418062970_tv508217_ex-d2.htm,rules_only,c003,Confidentiality,30,Low,False,0.52
+sec.gov_Archives_edgar_data_1053374_000114420418062970_tv508217_ex-d2.htm,rules_only,c004,Confidentiality,30,Low,False,0.62
+sec.gov_Archives_edgar_data_1053374_000114420418062970_tv508217_ex-d2.htm,rules_only,c005,Confidentiality,30,Low,False,0.576
+sec.gov_Archives_edgar_data_1053374_000114420418062970_tv508217_ex-d2.htm,rules_only,c006,Confidentiality,30,Low,False,0.72
+sec.gov_Archives_edgar_data_1053374_000114420418062970_tv508217_ex-d2.htm,rules_only,c007,Confidentiality,30,Low,False,0.52
+sec.gov_Archives_edgar_data_1053374_000114420418062970_tv508217_ex-d2.htm,rules_only,c008,Confidentiality,30,Low,False,0.62
+sec.gov_Archives_edgar_data_1053374_000114420418062970_tv508217_ex-d2.htm,rules_only,c009,Limitation of Liability,30,Low,False,0.6560000000000001
+sec.gov_Archives_edgar_data_1053374_000114420418062970_tv508217_ex-d2.htm,rules_only,c010,Return/Destruction,30,Low,False,0.8200000000000001
+sec.gov_Archives_edgar_data_1053374_000114420418062970_tv508217_ex-d2.htm,rules_only,c011,Governing Law,30,Low,False,0.62
+sec.gov_Archives_edgar_data_1053374_000114420418062970_tv508217_ex-d2.htm,rules_only,c012,Confidentiality,30,Low,False,0.62
+sec.gov_Archives_edgar_data_1053374_000114420418062970_tv508217_ex-d2.htm,rules_only,c013,Term & Survival,30,Low,False,0.72
+sec.gov_Archives_edgar_data_1053374_000114420418062970_tv508217_ex-d2.htm,rules_only,c014,Governing Law,30,Low,False,0.8200000000000001
+sec.gov_Archives_edgar_data_1053374_000114420418062970_tv508217_ex-d2.htm,rules_only,c015,Miscellaneous,30,Low,False,0.52
+sec.gov_Archives_edgar_data_1053374_000114420418062970_tv508217_ex-d2.htm,rules_only,c016,Miscellaneous,30,Low,False,0.52
+sec.gov_Archives_edgar_data_1053374_000114420418062970_tv508217_ex-d2.htm,rules_only,c017,Term & Survival,30,Low,False,0.52
+sec.gov_Archives_edgar_data_1053374_000114420418062970_tv508217_ex-d2.htm,rules_only,c018,Miscellaneous,30,Low,False,0.62
+sec.gov_Archives_edgar_data_1053374_000114420418062970_tv508217_ex-d2.htm,rules_only,c019,Permitted Disclosures,30,Low,False,0.52
+sec.gov_Archives_edgar_data_1053374_000114420418062970_tv508217_ex-d2.htm,rules_only,c020,Confidentiality,30,Low,False,0.41600000000000004
+sec.gov_Archives_edgar_data_1053374_000114420418062970_tv508217_ex-d2.htm,rag_rules,c001,Miscellaneous,30,Low,False,0.35
+sec.gov_Archives_edgar_data_1053374_000114420418062970_tv508217_ex-d2.htm,rag_rules,c002,Miscellaneous,30,Low,False,0.35
+sec.gov_Archives_edgar_data_1053374_000114420418062970_tv508217_ex-d2.htm,rag_rules,c003,Confidentiality,30,Low,False,0.52
+sec.gov_Archives_edgar_data_1053374_000114420418062970_tv508217_ex-d2.htm,rag_rules,c004,Confidentiality,30,Low,False,0.62
+sec.gov_Archives_edgar_data_1053374_000114420418062970_tv508217_ex-d2.htm,rag_rules,c005,Confidentiality,30,Low,False,0.576
+sec.gov_Archives_edgar_data_1053374_000114420418062970_tv508217_ex-d2.htm,rag_rules,c006,Confidentiality,30,Low,False,0.72
+sec.gov_Archives_edgar_data_1053374_000114420418062970_tv508217_ex-d2.htm,rag_rules,c007,Confidentiality,30,Low,False,0.52
+sec.gov_Archives_edgar_data_1053374_000114420418062970_tv508217_ex-d2.htm,rag_rules,c008,Confidentiality,30,Low,False,0.62
+sec.gov_Archives_edgar_data_1053374_000114420418062970_tv508217_ex-d2.htm,rag_rules,c009,Limitation of Liability,30,Low,False,0.6560000000000001
+sec.gov_Archives_edgar_data_1053374_000114420418062970_tv508217_ex-d2.htm,rag_rules,c010,Return/Destruction,30,Low,False,0.8200000000000001
+sec.gov_Archives_edgar_data_1053374_000114420418062970_tv508217_ex-d2.htm,rag_rules,c011,Governing Law,30,Low,False,0.62
+sec.gov_Archives_edgar_data_1053374_000114420418062970_tv508217_ex-d2.htm,rag_rules,c012,Confidentiality,30,Low,False,0.62
+sec.gov_Archives_edgar_data_1053374_000114420418062970_tv508217_ex-d2.htm,rag_rules,c013,Term & Survival,30,Low,False,0.72
+sec.gov_Archives_edgar_data_1053374_000114420418062970_tv508217_ex-d2.htm,rag_rules,c014,Governing Law,30,Low,False,0.8200000000000001
+sec.gov_Archives_edgar_data_1053374_000114420418062970_tv508217_ex-d2.htm,rag_rules,c015,Miscellaneous,30,Low,False,0.52
+sec.gov_Archives_edgar_data_1053374_000114420418062970_tv508217_ex-d2.htm,rag_rules,c016,Miscellaneous,30,Low,False,0.52
+sec.gov_Archives_edgar_data_1053374_000114420418062970_tv508217_ex-d2.htm,rag_rules,c017,Term & Survival,30,Low,False,0.52
+sec.gov_Archives_edgar_data_1053374_000114420418062970_tv508217_ex-d2.htm,rag_rules,c018,Miscellaneous,30,Low,False,0.62
+sec.gov_Archives_edgar_data_1053374_000114420418062970_tv508217_ex-d2.htm,rag_rules,c019,Permitted Disclosures,30,Low,False,0.52
+sec.gov_Archives_edgar_data_1053374_000114420418062970_tv508217_ex-d2.htm,rag_rules,c020,Confidentiality,30,Low,False,0.41600000000000004
+sec.gov_Archives_edgar_data_1053374_000114420418062970_tv508217_ex-d2.htm,full_system,c001,Miscellaneous,30,Low,False,0.9
+sec.gov_Archives_edgar_data_1053374_000114420418062970_tv508217_ex-d2.htm,full_system,c002,Miscellaneous,30,Low,False,0.5
+sec.gov_Archives_edgar_data_1053374_000114420418062970_tv508217_ex-d2.htm,full_system,c003,Confidentiality,30,Low,False,0.7
+sec.gov_Archives_edgar_data_1053374_000114420418062970_tv508217_ex-d2.htm,full_system,c004,Confidentiality,30,Low,False,0.8
+sec.gov_Archives_edgar_data_1053374_000114420418062970_tv508217_ex-d2.htm,full_system,c005,Definition of Confidential Info,85,High,True,0.7
+sec.gov_Archives_edgar_data_1053374_000114420418062970_tv508217_ex-d2.htm,full_system,c006,Confidentiality,30,Low,True,0.7
+sec.gov_Archives_edgar_data_1053374_000114420418062970_tv508217_ex-d2.htm,full_system,c007,Exceptions,30,Low,True,0.8
+sec.gov_Archives_edgar_data_1053374_000114420418062970_tv508217_ex-d2.htm,full_system,c008,Confidentiality,30,Low,True,0.7
+sec.gov_Archives_edgar_data_1053374_000114420418062970_tv508217_ex-d2.htm,full_system,c009,Remedies / Injunctive Relief,85,High,True,0.7
+sec.gov_Archives_edgar_data_1053374_000114420418062970_tv508217_ex-d2.htm,full_system,c010,Return/Destruction,30,Low,False,0.8
+sec.gov_Archives_edgar_data_1053374_000114420418062970_tv508217_ex-d2.htm,full_system,c011,Confidentiality,30,Low,False,0.7
+sec.gov_Archives_edgar_data_1053374_000114420418062970_tv508217_ex-d2.htm,full_system,c012,Permitted Disclosures,85,High,True,0.8
+sec.gov_Archives_edgar_data_1053374_000114420418062970_tv508217_ex-d2.htm,full_system,c013,Term & Survival,30,Low,True,0.8
+sec.gov_Archives_edgar_data_1053374_000114420418062970_tv508217_ex-d2.htm,full_system,c014,Governing Law,30,Low,False,0.8
+sec.gov_Archives_edgar_data_1053374_000114420418062970_tv508217_ex-d2.htm,full_system,c015,Term & Survival,30,Low,False,0.8
+sec.gov_Archives_edgar_data_1053374_000114420418062970_tv508217_ex-d2.htm,full_system,c016,Term & Survival,30,Low,False,0.8
+sec.gov_Archives_edgar_data_1053374_000114420418062970_tv508217_ex-d2.htm,full_system,c017,Term & Survival,30,Low,True,0.8
+sec.gov_Archives_edgar_data_1053374_000114420418062970_tv508217_ex-d2.htm,full_system,c018,Term & Survival,30,Low,False,0.8
+sec.gov_Archives_edgar_data_1053374_000114420418062970_tv508217_ex-d2.htm,full_system,c019,Return/Destruction,30,Low,False,0.9
+sec.gov_Archives_edgar_data_1053374_000114420418062970_tv508217_ex-d2.htm,full_system,c020,Confidentiality,85,High,True,0.7
+Example-One-Way-Non-Disclosure-Agreement.pdf,baseline,c001,Confidentiality,30,Low,False,0.52
+Example-One-Way-Non-Disclosure-Agreement.pdf,baseline,c002,Confidentiality,30,Low,False,0.52
+Example-One-Way-Non-Disclosure-Agreement.pdf,baseline,c003,Confidentiality,30,Low,False,0.52
+Example-One-Way-Non-Disclosure-Agreement.pdf,baseline,c004,Confidentiality,30,Low,False,0.62
+Example-One-Way-Non-Disclosure-Agreement.pdf,baseline,c005,Exceptions,30,Low,False,0.62
+Example-One-Way-Non-Disclosure-Agreement.pdf,baseline,c006,Confidentiality,30,Low,False,0.52
+Example-One-Way-Non-Disclosure-Agreement.pdf,baseline,c007,Confidentiality,30,Low,False,0.52
+Example-One-Way-Non-Disclosure-Agreement.pdf,baseline,c008,Confidentiality,30,Low,False,0.52
+Example-One-Way-Non-Disclosure-Agreement.pdf,baseline,c009,Dispute Resolution,30,Low,False,0.72
+Example-One-Way-Non-Disclosure-Agreement.pdf,rules_only,c001,Confidentiality,30,Low,False,0.52
+Example-One-Way-Non-Disclosure-Agreement.pdf,rules_only,c002,Confidentiality,30,Low,False,0.52
+Example-One-Way-Non-Disclosure-Agreement.pdf,rules_only,c003,Confidentiality,30,Low,False,0.52
+Example-One-Way-Non-Disclosure-Agreement.pdf,rules_only,c004,Confidentiality,30,Low,False,0.62
+Example-One-Way-Non-Disclosure-Agreement.pdf,rules_only,c005,Exceptions,30,Low,False,0.62
+Example-One-Way-Non-Disclosure-Agreement.pdf,rules_only,c006,Confidentiality,30,Low,False,0.52
+Example-One-Way-Non-Disclosure-Agreement.pdf,rules_only,c007,Confidentiality,30,Low,False,0.52
+Example-One-Way-Non-Disclosure-Agreement.pdf,rules_only,c008,Confidentiality,30,Low,False,0.52
+Example-One-Way-Non-Disclosure-Agreement.pdf,rules_only,c009,Dispute Resolution,30,Low,False,0.72
+Example-One-Way-Non-Disclosure-Agreement.pdf,rag_rules,c001,Confidentiality,30,Low,False,0.52
+Example-One-Way-Non-Disclosure-Agreement.pdf,rag_rules,c002,Confidentiality,30,Low,False,0.52
+Example-One-Way-Non-Disclosure-Agreement.pdf,rag_rules,c003,Confidentiality,30,Low,False,0.52
+Example-One-Way-Non-Disclosure-Agreement.pdf,rag_rules,c004,Confidentiality,30,Low,False,0.62
+Example-One-Way-Non-Disclosure-Agreement.pdf,rag_rules,c005,Exceptions,30,Low,False,0.62
+Example-One-Way-Non-Disclosure-Agreement.pdf,rag_rules,c006,Confidentiality,30,Low,False,0.52
+Example-One-Way-Non-Disclosure-Agreement.pdf,rag_rules,c007,Confidentiality,30,Low,False,0.52
+Example-One-Way-Non-Disclosure-Agreement.pdf,rag_rules,c008,Confidentiality,30,Low,False,0.52
+Example-One-Way-Non-Disclosure-Agreement.pdf,rag_rules,c009,Dispute Resolution,30,Low,False,0.72
+Example-One-Way-Non-Disclosure-Agreement.pdf,full_system,c001,Governing Law,30,Low,False,0.8
+Example-One-Way-Non-Disclosure-Agreement.pdf,full_system,c002,Confidentiality,30,Low,False,0.8
+Example-One-Way-Non-Disclosure-Agreement.pdf,full_system,c003,Confidentiality,60,Medium,True,0.7
+Example-One-Way-Non-Disclosure-Agreement.pdf,full_system,c004,Confidentiality,30,Low,True,0.7
+Example-One-Way-Non-Disclosure-Agreement.pdf,full_system,c005,Exceptions,30,Low,True,0.7
+Example-One-Way-Non-Disclosure-Agreement.pdf,full_system,c006,Permitted Disclosures,30,Low,False,0.8
+Example-One-Way-Non-Disclosure-Agreement.pdf,full_system,c007,Return/Destruction,30,Low,False,0.8
+Example-One-Way-Non-Disclosure-Agreement.pdf,full_system,c008,IP Ownership / Assignment,30,Low,True,0.6
+Example-One-Way-Non-Disclosure-Agreement.pdf,full_system,c009,Governing Law,30,Low,False,0.8
+sec.gov_Archives_edgar_data_1000180_000104746914005832_a2220589zex-99_d10.htm,baseline,c001,Miscellaneous,30,Low,False,0.35
+sec.gov_Archives_edgar_data_1000180_000104746914005832_a2220589zex-99_d10.htm,baseline,c002,Miscellaneous,30,Low,False,0.35
+sec.gov_Archives_edgar_data_1000180_000104746914005832_a2220589zex-99_d10.htm,baseline,c003,Confidentiality,30,Low,False,0.62
+sec.gov_Archives_edgar_data_1000180_000104746914005832_a2220589zex-99_d10.htm,baseline,c004,Confidentiality,30,Low,False,0.52
+sec.gov_Archives_edgar_data_1000180_000104746914005832_a2220589zex-99_d10.htm,baseline,c005,Confidentiality,30,Low,False,0.62
+sec.gov_Archives_edgar_data_1000180_000104746914005832_a2220589zex-99_d10.htm,baseline,c006,Permitted Disclosures,30,Low,False,0.9199999999999999
+sec.gov_Archives_edgar_data_1000180_000104746914005832_a2220589zex-99_d10.htm,baseline,c007,Definition of Confidential Info,30,Low,False,0.8200000000000001
+sec.gov_Archives_edgar_data_1000180_000104746914005832_a2220589zex-99_d10.htm,baseline,c008,Return/Destruction,30,Low,False,0.72
+sec.gov_Archives_edgar_data_1000180_000104746914005832_a2220589zex-99_d10.htm,baseline,c009,Confidentiality,30,Low,False,0.52
+sec.gov_Archives_edgar_data_1000180_000104746914005832_a2220589zex-99_d10.htm,baseline,c010,Confidentiality,30,Low,False,0.52
+sec.gov_Archives_edgar_data_1000180_000104746914005832_a2220589zex-99_d10.htm,baseline,c011,Permitted Disclosures,30,Low,False,0.62
+sec.gov_Archives_edgar_data_1000180_000104746914005832_a2220589zex-99_d10.htm,baseline,c012,Permitted Disclosures,30,Low,False,0.52
+sec.gov_Archives_edgar_data_1000180_000104746914005832_a2220589zex-99_d10.htm,baseline,c013,Permitted Disclosures,30,Low,False,0.52
+sec.gov_Archives_edgar_data_1000180_000104746914005832_a2220589zex-99_d10.htm,baseline,c014,Confidentiality,30,Low,False,0.52
+sec.gov_Archives_edgar_data_1000180_000104746914005832_a2220589zex-99_d10.htm,baseline,c015,Remedies / Injunctive Relief,30,Low,False,0.62
+sec.gov_Archives_edgar_data_1000180_000104746914005832_a2220589zex-99_d10.htm,baseline,c016,Return/Destruction,30,Low,False,0.52
+sec.gov_Archives_edgar_data_1000180_000104746914005832_a2220589zex-99_d10.htm,baseline,c017,Term & Survival,30,Low,False,0.72
+sec.gov_Archives_edgar_data_1000180_000104746914005832_a2220589zex-99_d10.htm,baseline,c018,IP Ownership / Assignment,30,Low,False,0.62
+sec.gov_Archives_edgar_data_1000180_000104746914005832_a2220589zex-99_d10.htm,baseline,c019,Governing Law,30,Low,False,0.8200000000000001
+sec.gov_Archives_edgar_data_1000180_000104746914005832_a2220589zex-99_d10.htm,baseline,c020,Dispute Resolution,30,Low,False,0.62
+sec.gov_Archives_edgar_data_1000180_000104746914005832_a2220589zex-99_d10.htm,baseline,c021,Limitation of Liability,30,Low,False,0.52
+sec.gov_Archives_edgar_data_1000180_000104746914005832_a2220589zex-99_d10.htm,baseline,c022,Governing Law,30,Low,False,0.62
+sec.gov_Archives_edgar_data_1000180_000104746914005832_a2220589zex-99_d10.htm,baseline,c023,Miscellaneous,30,Low,False,0.72
+sec.gov_Archives_edgar_data_1000180_000104746914005832_a2220589zex-99_d10.htm,baseline,c024,Permitted Disclosures,30,Low,False,0.52
+sec.gov_Archives_edgar_data_1000180_000104746914005832_a2220589zex-99_d10.htm,baseline,c025,Confidentiality,30,Low,False,0.62
+sec.gov_Archives_edgar_data_1000180_000104746914005832_a2220589zex-99_d10.htm,baseline,c026,Miscellaneous,30,Low,False,0.35
+sec.gov_Archives_edgar_data_1000180_000104746914005832_a2220589zex-99_d10.htm,rules_only,c001,Miscellaneous,30,Low,False,0.35
+sec.gov_Archives_edgar_data_1000180_000104746914005832_a2220589zex-99_d10.htm,rules_only,c002,Miscellaneous,30,Low,False,0.35
+sec.gov_Archives_edgar_data_1000180_000104746914005832_a2220589zex-99_d10.htm,rules_only,c003,Confidentiality,30,Low,False,0.62
+sec.gov_Archives_edgar_data_1000180_000104746914005832_a2220589zex-99_d10.htm,rules_only,c004,Confidentiality,30,Low,False,0.52
+sec.gov_Archives_edgar_data_1000180_000104746914005832_a2220589zex-99_d10.htm,rules_only,c005,Confidentiality,30,Low,False,0.62
+sec.gov_Archives_edgar_data_1000180_000104746914005832_a2220589zex-99_d10.htm,rules_only,c006,Permitted Disclosures,30,Low,False,0.736
+sec.gov_Archives_edgar_data_1000180_000104746914005832_a2220589zex-99_d10.htm,rules_only,c007,Definition of Confidential Info,30,Low,False,0.6560000000000001
+sec.gov_Archives_edgar_data_1000180_000104746914005832_a2220589zex-99_d10.htm,rules_only,c008,Return/Destruction,30,Low,False,0.576
+sec.gov_Archives_edgar_data_1000180_000104746914005832_a2220589zex-99_d10.htm,rules_only,c009,Confidentiality,30,Low,False,0.52
+sec.gov_Archives_edgar_data_1000180_000104746914005832_a2220589zex-99_d10.htm,rules_only,c010,Confidentiality,30,Low,False,0.52
+sec.gov_Archives_edgar_data_1000180_000104746914005832_a2220589zex-99_d10.htm,rules_only,c011,Permitted Disclosures,30,Low,False,0.62
+sec.gov_Archives_edgar_data_1000180_000104746914005832_a2220589zex-99_d10.htm,rules_only,c012,Permitted Disclosures,30,Low,False,0.52
+sec.gov_Archives_edgar_data_1000180_000104746914005832_a2220589zex-99_d10.htm,rules_only,c013,Permitted Disclosures,30,Low,False,0.52
+sec.gov_Archives_edgar_data_1000180_000104746914005832_a2220589zex-99_d10.htm,rules_only,c014,Confidentiality,30,Low,False,0.41600000000000004
+sec.gov_Archives_edgar_data_1000180_000104746914005832_a2220589zex-99_d10.htm,rules_only,c015,Remedies / Injunctive Relief,30,Low,False,0.62
+sec.gov_Archives_edgar_data_1000180_000104746914005832_a2220589zex-99_d10.htm,rules_only,c016,Return/Destruction,30,Low,False,0.52
+sec.gov_Archives_edgar_data_1000180_000104746914005832_a2220589zex-99_d10.htm,rules_only,c017,Term & Survival,30,Low,False,0.72
+sec.gov_Archives_edgar_data_1000180_000104746914005832_a2220589zex-99_d10.htm,rules_only,c018,IP Ownership / Assignment,30,Low,False,0.62
+sec.gov_Archives_edgar_data_1000180_000104746914005832_a2220589zex-99_d10.htm,rules_only,c019,Governing Law,30,Low,False,0.8200000000000001
+sec.gov_Archives_edgar_data_1000180_000104746914005832_a2220589zex-99_d10.htm,rules_only,c020,Dispute Resolution,30,Low,False,0.62
+sec.gov_Archives_edgar_data_1000180_000104746914005832_a2220589zex-99_d10.htm,rules_only,c021,Limitation of Liability,30,Low,False,0.41600000000000004
+sec.gov_Archives_edgar_data_1000180_000104746914005832_a2220589zex-99_d10.htm,rules_only,c022,Governing Law,30,Low,False,0.62
+sec.gov_Archives_edgar_data_1000180_000104746914005832_a2220589zex-99_d10.htm,rules_only,c023,Miscellaneous,30,Low,False,0.576
+sec.gov_Archives_edgar_data_1000180_000104746914005832_a2220589zex-99_d10.htm,rules_only,c024,Permitted Disclosures,30,Low,False,0.52
+sec.gov_Archives_edgar_data_1000180_000104746914005832_a2220589zex-99_d10.htm,rules_only,c025,Confidentiality,30,Low,False,0.62
+sec.gov_Archives_edgar_data_1000180_000104746914005832_a2220589zex-99_d10.htm,rules_only,c026,Miscellaneous,30,Low,False,0.35
+sec.gov_Archives_edgar_data_1000180_000104746914005832_a2220589zex-99_d10.htm,rag_rules,c001,Miscellaneous,30,Low,False,0.35
+sec.gov_Archives_edgar_data_1000180_000104746914005832_a2220589zex-99_d10.htm,rag_rules,c002,Miscellaneous,30,Low,False,0.35
+sec.gov_Archives_edgar_data_1000180_000104746914005832_a2220589zex-99_d10.htm,rag_rules,c003,Confidentiality,30,Low,False,0.62
+sec.gov_Archives_edgar_data_1000180_000104746914005832_a2220589zex-99_d10.htm,rag_rules,c004,Confidentiality,30,Low,False,0.52
+sec.gov_Archives_edgar_data_1000180_000104746914005832_a2220589zex-99_d10.htm,rag_rules,c005,Confidentiality,30,Low,False,0.62
+sec.gov_Archives_edgar_data_1000180_000104746914005832_a2220589zex-99_d10.htm,rag_rules,c006,Permitted Disclosures,30,Low,False,0.736
+sec.gov_Archives_edgar_data_1000180_000104746914005832_a2220589zex-99_d10.htm,rag_rules,c007,Definition of Confidential Info,30,Low,False,0.6560000000000001
+sec.gov_Archives_edgar_data_1000180_000104746914005832_a2220589zex-99_d10.htm,rag_rules,c008,Return/Destruction,30,Low,False,0.576
+sec.gov_Archives_edgar_data_1000180_000104746914005832_a2220589zex-99_d10.htm,rag_rules,c009,Confidentiality,30,Low,False,0.52
+sec.gov_Archives_edgar_data_1000180_000104746914005832_a2220589zex-99_d10.htm,rag_rules,c010,Confidentiality,30,Low,False,0.52
+sec.gov_Archives_edgar_data_1000180_000104746914005832_a2220589zex-99_d10.htm,rag_rules,c011,Permitted Disclosures,30,Low,False,0.62
+sec.gov_Archives_edgar_data_1000180_000104746914005832_a2220589zex-99_d10.htm,rag_rules,c012,Permitted Disclosures,30,Low,False,0.52
+sec.gov_Archives_edgar_data_1000180_000104746914005832_a2220589zex-99_d10.htm,rag_rules,c013,Permitted Disclosures,30,Low,False,0.52
+sec.gov_Archives_edgar_data_1000180_000104746914005832_a2220589zex-99_d10.htm,rag_rules,c014,Confidentiality,30,Low,False,0.41600000000000004
+sec.gov_Archives_edgar_data_1000180_000104746914005832_a2220589zex-99_d10.htm,rag_rules,c015,Remedies / Injunctive Relief,30,Low,False,0.62
+sec.gov_Archives_edgar_data_1000180_000104746914005832_a2220589zex-99_d10.htm,rag_rules,c016,Return/Destruction,30,Low,False,0.52
+sec.gov_Archives_edgar_data_1000180_000104746914005832_a2220589zex-99_d10.htm,rag_rules,c017,Term & Survival,30,Low,False,0.72
+sec.gov_Archives_edgar_data_1000180_000104746914005832_a2220589zex-99_d10.htm,rag_rules,c018,IP Ownership / Assignment,30,Low,False,0.62
+sec.gov_Archives_edgar_data_1000180_000104746914005832_a2220589zex-99_d10.htm,rag_rules,c019,Governing Law,30,Low,False,0.8200000000000001
+sec.gov_Archives_edgar_data_1000180_000104746914005832_a2220589zex-99_d10.htm,rag_rules,c020,Dispute Resolution,30,Low,False,0.62
+sec.gov_Archives_edgar_data_1000180_000104746914005832_a2220589zex-99_d10.htm,rag_rules,c021,Limitation of Liability,30,Low,False,0.41600000000000004
+sec.gov_Archives_edgar_data_1000180_000104746914005832_a2220589zex-99_d10.htm,rag_rules,c022,Governing Law,30,Low,False,0.62
+sec.gov_Archives_edgar_data_1000180_000104746914005832_a2220589zex-99_d10.htm,rag_rules,c023,Miscellaneous,30,Low,False,0.576
+sec.gov_Archives_edgar_data_1000180_000104746914005832_a2220589zex-99_d10.htm,rag_rules,c024,Permitted Disclosures,30,Low,False,0.52
+sec.gov_Archives_edgar_data_1000180_000104746914005832_a2220589zex-99_d10.htm,rag_rules,c025,Confidentiality,30,Low,False,0.62
+sec.gov_Archives_edgar_data_1000180_000104746914005832_a2220589zex-99_d10.htm,rag_rules,c026,Miscellaneous,30,Low,False,0.35
+sec.gov_Archives_edgar_data_1000180_000104746914005832_a2220589zex-99_d10.htm,full_system,c001,Miscellaneous,30,Low,True,0.8
+sec.gov_Archives_edgar_data_1000180_000104746914005832_a2220589zex-99_d10.htm,full_system,c002,Miscellaneous,30,Low,False,0.8
+sec.gov_Archives_edgar_data_1000180_000104746914005832_a2220589zex-99_d10.htm,full_system,c003,Confidentiality,30,Low,False,0.8
+sec.gov_Archives_edgar_data_1000180_000104746914005832_a2220589zex-99_d10.htm,full_system,c004,Confidentiality,30,Low,False,0.8
+sec.gov_Archives_edgar_data_1000180_000104746914005832_a2220589zex-99_d10.htm,full_system,c005,Definition of Confidential Info,60,Medium,True,0.8
+sec.gov_Archives_edgar_data_1000180_000104746914005832_a2220589zex-99_d10.htm,full_system,c006,Confidentiality,85,High,True,0.7
+sec.gov_Archives_edgar_data_1000180_000104746914005832_a2220589zex-99_d10.htm,full_system,c007,Confidentiality,85,High,True,0.6
+sec.gov_Archives_edgar_data_1000180_000104746914005832_a2220589zex-99_d10.htm,full_system,c008,Return/Destruction,85,High,True,0.7
+sec.gov_Archives_edgar_data_1000180_000104746914005832_a2220589zex-99_d10.htm,full_system,c009,Confidentiality,30,Low,True,0.7
+sec.gov_Archives_edgar_data_1000180_000104746914005832_a2220589zex-99_d10.htm,full_system,c010,IP Ownership / Assignment,30,Low,True,0.7
+sec.gov_Archives_edgar_data_1000180_000104746914005832_a2220589zex-99_d10.htm,full_system,c011,Term & Survival,85,High,True,0.7
+sec.gov_Archives_edgar_data_1000180_000104746914005832_a2220589zex-99_d10.htm,full_system,c012,Term & Survival,85,High,True,0.7
+sec.gov_Archives_edgar_data_1000180_000104746914005832_a2220589zex-99_d10.htm,full_system,c013,Permitted Disclosures,30,Low,True,0.7
+sec.gov_Archives_edgar_data_1000180_000104746914005832_a2220589zex-99_d10.htm,full_system,c014,Confidentiality,85,High,True,0.7
+sec.gov_Archives_edgar_data_1000180_000104746914005832_a2220589zex-99_d10.htm,full_system,c015,Remedies / Injunctive Relief,85,High,True,0.8
+sec.gov_Archives_edgar_data_1000180_000104746914005832_a2220589zex-99_d10.htm,full_system,c016,Term & Survival,30,Low,False,0.9
+sec.gov_Archives_edgar_data_1000180_000104746914005832_a2220589zex-99_d10.htm,full_system,c017,Term & Survival,30,Low,True,0.7
+sec.gov_Archives_edgar_data_1000180_000104746914005832_a2220589zex-99_d10.htm,full_system,c018,Term & Survival,30,Low,True,0.7
+sec.gov_Archives_edgar_data_1000180_000104746914005832_a2220589zex-99_d10.htm,full_system,c019,Governing Law,30,Low,False,0.8
+sec.gov_Archives_edgar_data_1000180_000104746914005832_a2220589zex-99_d10.htm,full_system,c020,Dispute Resolution,30,Low,True,0.7
+sec.gov_Archives_edgar_data_1000180_000104746914005832_a2220589zex-99_d10.htm,full_system,c021,Term & Survival,85,High,True,0.7
+sec.gov_Archives_edgar_data_1000180_000104746914005832_a2220589zex-99_d10.htm,full_system,c022,Confidentiality,30,Low,False,0.8
+sec.gov_Archives_edgar_data_1000180_000104746914005832_a2220589zex-99_d10.htm,full_system,c023,Miscellaneous,85,High,False,0.8
+sec.gov_Archives_edgar_data_1000180_000104746914005832_a2220589zex-99_d10.htm,full_system,c024,Term & Survival,30,Low,False,0.9
+sec.gov_Archives_edgar_data_1000180_000104746914005832_a2220589zex-99_d10.htm,full_system,c025,Term & Survival,30,Low,False,0.8
+sec.gov_Archives_edgar_data_1000180_000104746914005832_a2220589zex-99_d10.htm,full_system,c026,Return/Destruction,30,Low,True,0.7
+sec.gov_Archives_edgar_data_1981535_000149315224006221_ex10-3.htm,baseline,c001,Miscellaneous,30,Low,False,0.35
+sec.gov_Archives_edgar_data_1981535_000149315224006221_ex10-3.htm,baseline,c002,Miscellaneous,30,Low,False,0.35
+sec.gov_Archives_edgar_data_1981535_000149315224006221_ex10-3.htm,baseline,c006,Confidentiality,30,Low,False,0.72
+sec.gov_Archives_edgar_data_1981535_000149315224006221_ex10-3.htm,baseline,c007,Confidentiality,30,Low,False,0.52
+sec.gov_Archives_edgar_data_1981535_000149315224006221_ex10-3.htm,baseline,c008,Confidentiality,30,Low,False,0.52
+sec.gov_Archives_edgar_data_1981535_000149315224006221_ex10-3.htm,baseline,c009,Confidentiality,30,Low,False,0.62
+sec.gov_Archives_edgar_data_1981535_000149315224006221_ex10-3.htm,baseline,c010,Confidentiality,30,Low,False,0.52
+sec.gov_Archives_edgar_data_1981535_000149315224006221_ex10-3.htm,baseline,c011,Return/Destruction,30,Low,False,0.62
+sec.gov_Archives_edgar_data_1981535_000149315224006221_ex10-3.htm,baseline,c012,Confidentiality,30,Low,False,0.52
+sec.gov_Archives_edgar_data_1981535_000149315224006221_ex10-3.htm,baseline,c013,Miscellaneous,30,Low,False,0.35
+sec.gov_Archives_edgar_data_1981535_000149315224006221_ex10-3.htm,baseline,c014,Miscellaneous,30,Low,False,0.35
+sec.gov_Archives_edgar_data_1981535_000149315224006221_ex10-3.htm,rules_only,c001,Miscellaneous,30,Low,False,0.35
+sec.gov_Archives_edgar_data_1981535_000149315224006221_ex10-3.htm,rules_only,c002,Miscellaneous,30,Low,False,0.35
+sec.gov_Archives_edgar_data_1981535_000149315224006221_ex10-3.htm,rules_only,c006,Confidentiality,30,Low,False,0.72
+sec.gov_Archives_edgar_data_1981535_000149315224006221_ex10-3.htm,rules_only,c007,Confidentiality,30,Low,False,0.52
+sec.gov_Archives_edgar_data_1981535_000149315224006221_ex10-3.htm,rules_only,c008,Confidentiality,30,Low,False,0.52
+sec.gov_Archives_edgar_data_1981535_000149315224006221_ex10-3.htm,rules_only,c009,Confidentiality,30,Low,False,0.62
+sec.gov_Archives_edgar_data_1981535_000149315224006221_ex10-3.htm,rules_only,c010,Confidentiality,30,Low,False,0.52
+sec.gov_Archives_edgar_data_1981535_000149315224006221_ex10-3.htm,rules_only,c011,Return/Destruction,30,Low,False,0.62
+sec.gov_Archives_edgar_data_1981535_000149315224006221_ex10-3.htm,rules_only,c012,Confidentiality,30,Low,False,0.52
+sec.gov_Archives_edgar_data_1981535_000149315224006221_ex10-3.htm,rules_only,c013,Miscellaneous,30,Low,False,0.35
+sec.gov_Archives_edgar_data_1981535_000149315224006221_ex10-3.htm,rules_only,c014,Miscellaneous,30,Low,False,0.35
+sec.gov_Archives_edgar_data_1981535_000149315224006221_ex10-3.htm,rag_rules,c001,Miscellaneous,30,Low,False,0.35
+sec.gov_Archives_edgar_data_1981535_000149315224006221_ex10-3.htm,rag_rules,c002,Miscellaneous,30,Low,False,0.35
+sec.gov_Archives_edgar_data_1981535_000149315224006221_ex10-3.htm,rag_rules,c006,Confidentiality,30,Low,False,0.72
+sec.gov_Archives_edgar_data_1981535_000149315224006221_ex10-3.htm,rag_rules,c007,Confidentiality,30,Low,False,0.52
+sec.gov_Archives_edgar_data_1981535_000149315224006221_ex10-3.htm,rag_rules,c008,Confidentiality,30,Low,False,0.52
+sec.gov_Archives_edgar_data_1981535_000149315224006221_ex10-3.htm,rag_rules,c009,Confidentiality,30,Low,False,0.62
+sec.gov_Archives_edgar_data_1981535_000149315224006221_ex10-3.htm,rag_rules,c010,Confidentiality,30,Low,False,0.52
+sec.gov_Archives_edgar_data_1981535_000149315224006221_ex10-3.htm,rag_rules,c011,Return/Destruction,30,Low,False,0.62
+sec.gov_Archives_edgar_data_1981535_000149315224006221_ex10-3.htm,rag_rules,c012,Confidentiality,30,Low,False,0.52
+sec.gov_Archives_edgar_data_1981535_000149315224006221_ex10-3.htm,rag_rules,c013,Miscellaneous,30,Low,False,0.35
+sec.gov_Archives_edgar_data_1981535_000149315224006221_ex10-3.htm,rag_rules,c014,Miscellaneous,30,Low,False,0.35
+sec.gov_Archives_edgar_data_1981535_000149315224006221_ex10-3.htm,full_system,c001,Term & Survival,30,Low,True,0.8
+sec.gov_Archives_edgar_data_1981535_000149315224006221_ex10-3.htm,full_system,c002,Miscellaneous,30,Low,True,0.8
+sec.gov_Archives_edgar_data_1981535_000149315224006221_ex10-3.htm,full_system,c006,Confidentiality,30,Low,False,0.8
+sec.gov_Archives_edgar_data_1981535_000149315224006221_ex10-3.htm,full_system,c007,Confidentiality,30,Low,False,0.8
+sec.gov_Archives_edgar_data_1981535_000149315224006221_ex10-3.htm,full_system,c008,Exceptions,30,Low,True,0.7
+sec.gov_Archives_edgar_data_1981535_000149315224006221_ex10-3.htm,full_system,c009,Confidentiality,30,Low,False,0.8
+sec.gov_Archives_edgar_data_1981535_000149315224006221_ex10-3.htm,full_system,c010,Confidentiality,30,Low,True,0.7
+sec.gov_Archives_edgar_data_1981535_000149315224006221_ex10-3.htm,full_system,c011,Return/Destruction,30,Low,False,0.8
+sec.gov_Archives_edgar_data_1981535_000149315224006221_ex10-3.htm,full_system,c012,Remedies / Injunctive Relief,30,Low,True,0.6
+sec.gov_Archives_edgar_data_1981535_000149315224006221_ex10-3.htm,full_system,c013,Miscellaneous,30,Low,True,0.8
+sec.gov_Archives_edgar_data_1981535_000149315224006221_ex10-3.htm,full_system,c014,Miscellaneous,50,Unknown,True,0.8
+sec.gov_Archives_edgar_data_1031927_000091205702021039_a2079476zex-10_30.htm,baseline,c001,Miscellaneous,30,Low,False,0.35
+sec.gov_Archives_edgar_data_1031927_000091205702021039_a2079476zex-10_30.htm,baseline,c002,Miscellaneous,30,Low,False,0.35
+sec.gov_Archives_edgar_data_1031927_000091205702021039_a2079476zex-10_30.htm,baseline,c003,Miscellaneous,30,Low,False,0.35
+sec.gov_Archives_edgar_data_1031927_000091205702021039_a2079476zex-10_30.htm,baseline,c004,Confidentiality,30,Low,False,0.62
+sec.gov_Archives_edgar_data_1031927_000091205702021039_a2079476zex-10_30.htm,baseline,c005,Termination,30,Low,False,0.9199999999999999
+sec.gov_Archives_edgar_data_1031927_000091205702021039_a2079476zex-10_30.htm,baseline,c006,Miscellaneous,30,Low,False,0.35
+sec.gov_Archives_edgar_data_1031927_000091205702021039_a2079476zex-10_30.htm,baseline,c008,Term & Survival,30,Low,False,0.52
+sec.gov_Archives_edgar_data_1031927_000091205702021039_a2079476zex-10_30.htm,baseline,c009,Term & Survival,30,Low,False,0.52
+sec.gov_Archives_edgar_data_1031927_000091205702021039_a2079476zex-10_30.htm,baseline,c010,Term & Survival,30,Low,False,0.62
+sec.gov_Archives_edgar_data_1031927_000091205702021039_a2079476zex-10_30.htm,baseline,c011,Miscellaneous,30,Low,False,0.52
+sec.gov_Archives_edgar_data_1031927_000091205702021039_a2079476zex-10_30.htm,baseline,c012,Miscellaneous,30,Low,False,0.52
+sec.gov_Archives_edgar_data_1031927_000091205702021039_a2079476zex-10_30.htm,baseline,c013,Governing Law,30,Low,False,0.62
+sec.gov_Archives_edgar_data_1031927_000091205702021039_a2079476zex-10_30.htm,baseline,c014,IP Ownership / Assignment,30,Low,False,0.52
+sec.gov_Archives_edgar_data_1031927_000091205702021039_a2079476zex-10_30.htm,baseline,c015,Confidentiality,30,Low,False,0.62
+sec.gov_Archives_edgar_data_1031927_000091205702021039_a2079476zex-10_30.htm,baseline,c016,Miscellaneous,30,Low,False,0.35
+sec.gov_Archives_edgar_data_1031927_000091205702021039_a2079476zex-10_30.htm,baseline,c017,Return/Destruction,30,Low,False,0.62
+sec.gov_Archives_edgar_data_1031927_000091205702021039_a2079476zex-10_30.htm,baseline,c018,Miscellaneous,30,Low,False,0.35
+sec.gov_Archives_edgar_data_1031927_000091205702021039_a2079476zex-10_30.htm,baseline,c019,Miscellaneous,30,Low,False,0.35
+sec.gov_Archives_edgar_data_1031927_000091205702021039_a2079476zex-10_30.htm,baseline,c020,Confidentiality,30,Low,False,0.52
+sec.gov_Archives_edgar_data_1031927_000091205702021039_a2079476zex-10_30.htm,baseline,c021,Confidentiality,30,Low,False,0.62
+sec.gov_Archives_edgar_data_1031927_000091205702021039_a2079476zex-10_30.htm,baseline,c022,Term & Survival,30,Low,False,0.52
+sec.gov_Archives_edgar_data_1031927_000091205702021039_a2079476zex-10_30.htm,baseline,c023,Confidentiality,30,Low,False,0.72
+sec.gov_Archives_edgar_data_1031927_000091205702021039_a2079476zex-10_30.htm,baseline,c024,Miscellaneous,30,Low,False,0.35
+sec.gov_Archives_edgar_data_1031927_000091205702021039_a2079476zex-10_30.htm,baseline,c025,Confidentiality,30,Low,False,0.62
+sec.gov_Archives_edgar_data_1031927_000091205702021039_a2079476zex-10_30.htm,baseline,c026,Return/Destruction,30,Low,False,0.95
+sec.gov_Archives_edgar_data_1031927_000091205702021039_a2079476zex-10_30.htm,baseline,c027,Exceptions,30,Low,False,0.52
+sec.gov_Archives_edgar_data_1031927_000091205702021039_a2079476zex-10_30.htm,baseline,c028,Remedies / Injunctive Relief,30,Low,False,0.62
+sec.gov_Archives_edgar_data_1031927_000091205702021039_a2079476zex-10_30.htm,baseline,c029,Miscellaneous,30,Low,False,0.72
+sec.gov_Archives_edgar_data_1031927_000091205702021039_a2079476zex-10_30.htm,baseline,c030,Confidentiality,30,Low,False,0.52
+sec.gov_Archives_edgar_data_1031927_000091205702021039_a2079476zex-10_30.htm,baseline,c031,Confidentiality,30,Low,False,0.62
+sec.gov_Archives_edgar_data_1031927_000091205702021039_a2079476zex-10_30.htm,baseline,c032,Confidentiality,30,Low,False,0.52
+sec.gov_Archives_edgar_data_1031927_000091205702021039_a2079476zex-10_30.htm,baseline,c033,Confidentiality,30,Low,False,0.72
+sec.gov_Archives_edgar_data_1031927_000091205702021039_a2079476zex-10_30.htm,baseline,c034,Confidentiality,30,Low,False,0.62
+sec.gov_Archives_edgar_data_1031927_000091205702021039_a2079476zex-10_30.htm,baseline,c035,Return/Destruction,30,Low,False,0.8200000000000001
+sec.gov_Archives_edgar_data_1031927_000091205702021039_a2079476zex-10_30.htm,baseline,c036,Confidentiality,30,Low,False,0.52
+sec.gov_Archives_edgar_data_1031927_000091205702021039_a2079476zex-10_30.htm,baseline,c037,Remedies / Injunctive Relief,30,Low,False,0.62
+sec.gov_Archives_edgar_data_1031927_000091205702021039_a2079476zex-10_30.htm,baseline,c038,Miscellaneous,30,Low,False,0.72
+sec.gov_Archives_edgar_data_1031927_000091205702021039_a2079476zex-10_30.htm,baseline,c039,Miscellaneous,30,Low,False,0.35
+sec.gov_Archives_edgar_data_1031927_000091205702021039_a2079476zex-10_30.htm,baseline,c041,Miscellaneous,30,Low,False,0.35
+sec.gov_Archives_edgar_data_1031927_000091205702021039_a2079476zex-10_30.htm,baseline,c042,Confidentiality,30,Low,False,0.62
+sec.gov_Archives_edgar_data_1031927_000091205702021039_a2079476zex-10_30.htm,baseline,c043,Miscellaneous,30,Low,False,0.35
+sec.gov_Archives_edgar_data_1031927_000091205702021039_a2079476zex-10_30.htm,baseline,c044,Confidentiality,30,Low,False,0.62
+sec.gov_Archives_edgar_data_1031927_000091205702021039_a2079476zex-10_30.htm,rules_only,c001,Miscellaneous,30,Low,False,0.35
+sec.gov_Archives_edgar_data_1031927_000091205702021039_a2079476zex-10_30.htm,rules_only,c002,Miscellaneous,30,Low,False,0.35
+sec.gov_Archives_edgar_data_1031927_000091205702021039_a2079476zex-10_30.htm,rules_only,c003,Miscellaneous,30,Low,False,0.35
+sec.gov_Archives_edgar_data_1031927_000091205702021039_a2079476zex-10_30.htm,rules_only,c004,Confidentiality,30,Low,False,0.62
+sec.gov_Archives_edgar_data_1031927_000091205702021039_a2079476zex-10_30.htm,rules_only,c005,Termination,30,Low,False,0.9199999999999999
+sec.gov_Archives_edgar_data_1031927_000091205702021039_a2079476zex-10_30.htm,rules_only,c006,Miscellaneous,30,Low,False,0.35
+sec.gov_Archives_edgar_data_1031927_000091205702021039_a2079476zex-10_30.htm,rules_only,c008,Term & Survival,30,Low,False,0.52
+sec.gov_Archives_edgar_data_1031927_000091205702021039_a2079476zex-10_30.htm,rules_only,c009,Term & Survival,30,Low,False,0.52
+sec.gov_Archives_edgar_data_1031927_000091205702021039_a2079476zex-10_30.htm,rules_only,c010,Term & Survival,30,Low,False,0.62
+sec.gov_Archives_edgar_data_1031927_000091205702021039_a2079476zex-10_30.htm,rules_only,c011,Miscellaneous,30,Low,False,0.52
+sec.gov_Archives_edgar_data_1031927_000091205702021039_a2079476zex-10_30.htm,rules_only,c012,Miscellaneous,30,Low,False,0.52
+sec.gov_Archives_edgar_data_1031927_000091205702021039_a2079476zex-10_30.htm,rules_only,c013,Governing Law,30,Low,False,0.62
+sec.gov_Archives_edgar_data_1031927_000091205702021039_a2079476zex-10_30.htm,rules_only,c014,IP Ownership / Assignment,30,Low,False,0.52
+sec.gov_Archives_edgar_data_1031927_000091205702021039_a2079476zex-10_30.htm,rules_only,c015,Confidentiality,30,Low,False,0.62
+sec.gov_Archives_edgar_data_1031927_000091205702021039_a2079476zex-10_30.htm,rules_only,c016,Miscellaneous,30,Low,False,0.35
+sec.gov_Archives_edgar_data_1031927_000091205702021039_a2079476zex-10_30.htm,rules_only,c017,Return/Destruction,30,Low,False,0.62
+sec.gov_Archives_edgar_data_1031927_000091205702021039_a2079476zex-10_30.htm,rules_only,c018,Miscellaneous,30,Low,False,0.35
+sec.gov_Archives_edgar_data_1031927_000091205702021039_a2079476zex-10_30.htm,rules_only,c019,Miscellaneous,30,Low,False,0.35
+sec.gov_Archives_edgar_data_1031927_000091205702021039_a2079476zex-10_30.htm,rules_only,c020,Confidentiality,30,Low,False,0.52
+sec.gov_Archives_edgar_data_1031927_000091205702021039_a2079476zex-10_30.htm,rules_only,c021,Confidentiality,30,Low,False,0.62
+sec.gov_Archives_edgar_data_1031927_000091205702021039_a2079476zex-10_30.htm,rules_only,c022,Term & Survival,30,Low,False,0.52
+sec.gov_Archives_edgar_data_1031927_000091205702021039_a2079476zex-10_30.htm,rules_only,c023,Confidentiality,30,Low,False,0.72
+sec.gov_Archives_edgar_data_1031927_000091205702021039_a2079476zex-10_30.htm,rules_only,c024,Miscellaneous,30,Low,False,0.35
+sec.gov_Archives_edgar_data_1031927_000091205702021039_a2079476zex-10_30.htm,rules_only,c025,Confidentiality,30,Low,False,0.62
+sec.gov_Archives_edgar_data_1031927_000091205702021039_a2079476zex-10_30.htm,rules_only,c026,Return/Destruction,30,Low,False,0.95
+sec.gov_Archives_edgar_data_1031927_000091205702021039_a2079476zex-10_30.htm,rules_only,c027,Exceptions,30,Low,False,0.52
+sec.gov_Archives_edgar_data_1031927_000091205702021039_a2079476zex-10_30.htm,rules_only,c028,Remedies / Injunctive Relief,30,Low,False,0.62
+sec.gov_Archives_edgar_data_1031927_000091205702021039_a2079476zex-10_30.htm,rules_only,c029,Miscellaneous,30,Low,False,0.72
+sec.gov_Archives_edgar_data_1031927_000091205702021039_a2079476zex-10_30.htm,rules_only,c030,Confidentiality,30,Low,False,0.52
+sec.gov_Archives_edgar_data_1031927_000091205702021039_a2079476zex-10_30.htm,rules_only,c031,Confidentiality,30,Low,False,0.62
+sec.gov_Archives_edgar_data_1031927_000091205702021039_a2079476zex-10_30.htm,rules_only,c032,Confidentiality,30,Low,False,0.52
+sec.gov_Archives_edgar_data_1031927_000091205702021039_a2079476zex-10_30.htm,rules_only,c033,Confidentiality,30,Low,False,0.72
+sec.gov_Archives_edgar_data_1031927_000091205702021039_a2079476zex-10_30.htm,rules_only,c034,Confidentiality,30,Low,False,0.62
+sec.gov_Archives_edgar_data_1031927_000091205702021039_a2079476zex-10_30.htm,rules_only,c035,Return/Destruction,30,Low,False,0.8200000000000001
+sec.gov_Archives_edgar_data_1031927_000091205702021039_a2079476zex-10_30.htm,rules_only,c036,Confidentiality,30,Low,False,0.52
+sec.gov_Archives_edgar_data_1031927_000091205702021039_a2079476zex-10_30.htm,rules_only,c037,Remedies / Injunctive Relief,30,Low,False,0.62
+sec.gov_Archives_edgar_data_1031927_000091205702021039_a2079476zex-10_30.htm,rules_only,c038,Miscellaneous,30,Low,False,0.72
+sec.gov_Archives_edgar_data_1031927_000091205702021039_a2079476zex-10_30.htm,rules_only,c039,Miscellaneous,30,Low,False,0.35
+sec.gov_Archives_edgar_data_1031927_000091205702021039_a2079476zex-10_30.htm,rules_only,c041,Miscellaneous,30,Low,False,0.35
+sec.gov_Archives_edgar_data_1031927_000091205702021039_a2079476zex-10_30.htm,rules_only,c042,Confidentiality,30,Low,False,0.62
+sec.gov_Archives_edgar_data_1031927_000091205702021039_a2079476zex-10_30.htm,rules_only,c043,Miscellaneous,30,Low,False,0.35
+sec.gov_Archives_edgar_data_1031927_000091205702021039_a2079476zex-10_30.htm,rules_only,c044,Confidentiality,30,Low,False,0.62
+sec.gov_Archives_edgar_data_1031927_000091205702021039_a2079476zex-10_30.htm,rag_rules,c001,Miscellaneous,30,Low,False,0.35
+sec.gov_Archives_edgar_data_1031927_000091205702021039_a2079476zex-10_30.htm,rag_rules,c002,Miscellaneous,30,Low,False,0.35
+sec.gov_Archives_edgar_data_1031927_000091205702021039_a2079476zex-10_30.htm,rag_rules,c003,Miscellaneous,30,Low,False,0.35
+sec.gov_Archives_edgar_data_1031927_000091205702021039_a2079476zex-10_30.htm,rag_rules,c004,Confidentiality,30,Low,False,0.62
+sec.gov_Archives_edgar_data_1031927_000091205702021039_a2079476zex-10_30.htm,rag_rules,c005,Termination,30,Low,False,0.9199999999999999
+sec.gov_Archives_edgar_data_1031927_000091205702021039_a2079476zex-10_30.htm,rag_rules,c006,Miscellaneous,30,Low,False,0.35
+sec.gov_Archives_edgar_data_1031927_000091205702021039_a2079476zex-10_30.htm,rag_rules,c008,Term & Survival,30,Low,False,0.52
+sec.gov_Archives_edgar_data_1031927_000091205702021039_a2079476zex-10_30.htm,rag_rules,c009,Term & Survival,30,Low,False,0.52
+sec.gov_Archives_edgar_data_1031927_000091205702021039_a2079476zex-10_30.htm,rag_rules,c010,Term & Survival,30,Low,False,0.62
+sec.gov_Archives_edgar_data_1031927_000091205702021039_a2079476zex-10_30.htm,rag_rules,c011,Miscellaneous,30,Low,False,0.52
+sec.gov_Archives_edgar_data_1031927_000091205702021039_a2079476zex-10_30.htm,rag_rules,c012,Miscellaneous,30,Low,False,0.52
+sec.gov_Archives_edgar_data_1031927_000091205702021039_a2079476zex-10_30.htm,rag_rules,c013,Governing Law,30,Low,False,0.62
+sec.gov_Archives_edgar_data_1031927_000091205702021039_a2079476zex-10_30.htm,rag_rules,c014,IP Ownership / Assignment,30,Low,False,0.52
+sec.gov_Archives_edgar_data_1031927_000091205702021039_a2079476zex-10_30.htm,rag_rules,c015,Confidentiality,30,Low,False,0.62
+sec.gov_Archives_edgar_data_1031927_000091205702021039_a2079476zex-10_30.htm,rag_rules,c016,Miscellaneous,30,Low,False,0.35
+sec.gov_Archives_edgar_data_1031927_000091205702021039_a2079476zex-10_30.htm,rag_rules,c017,Return/Destruction,30,Low,False,0.62
+sec.gov_Archives_edgar_data_1031927_000091205702021039_a2079476zex-10_30.htm,rag_rules,c018,Miscellaneous,30,Low,False,0.35
+sec.gov_Archives_edgar_data_1031927_000091205702021039_a2079476zex-10_30.htm,rag_rules,c019,Miscellaneous,30,Low,False,0.35
+sec.gov_Archives_edgar_data_1031927_000091205702021039_a2079476zex-10_30.htm,rag_rules,c020,Confidentiality,30,Low,False,0.52
+sec.gov_Archives_edgar_data_1031927_000091205702021039_a2079476zex-10_30.htm,rag_rules,c021,Confidentiality,30,Low,False,0.62
+sec.gov_Archives_edgar_data_1031927_000091205702021039_a2079476zex-10_30.htm,rag_rules,c022,Term & Survival,30,Low,False,0.52
+sec.gov_Archives_edgar_data_1031927_000091205702021039_a2079476zex-10_30.htm,rag_rules,c023,Confidentiality,30,Low,False,0.72
+sec.gov_Archives_edgar_data_1031927_000091205702021039_a2079476zex-10_30.htm,rag_rules,c024,Miscellaneous,30,Low,False,0.35
+sec.gov_Archives_edgar_data_1031927_000091205702021039_a2079476zex-10_30.htm,rag_rules,c025,Confidentiality,30,Low,False,0.62
+sec.gov_Archives_edgar_data_1031927_000091205702021039_a2079476zex-10_30.htm,rag_rules,c026,Return/Destruction,30,Low,False,0.95
+sec.gov_Archives_edgar_data_1031927_000091205702021039_a2079476zex-10_30.htm,rag_rules,c027,Exceptions,30,Low,False,0.52
+sec.gov_Archives_edgar_data_1031927_000091205702021039_a2079476zex-10_30.htm,rag_rules,c028,Remedies / Injunctive Relief,30,Low,False,0.62
+sec.gov_Archives_edgar_data_1031927_000091205702021039_a2079476zex-10_30.htm,rag_rules,c029,Miscellaneous,30,Low,False,0.72
+sec.gov_Archives_edgar_data_1031927_000091205702021039_a2079476zex-10_30.htm,rag_rules,c030,Confidentiality,30,Low,False,0.52
+sec.gov_Archives_edgar_data_1031927_000091205702021039_a2079476zex-10_30.htm,rag_rules,c031,Confidentiality,30,Low,False,0.62
+sec.gov_Archives_edgar_data_1031927_000091205702021039_a2079476zex-10_30.htm,rag_rules,c032,Confidentiality,30,Low,False,0.52
+sec.gov_Archives_edgar_data_1031927_000091205702021039_a2079476zex-10_30.htm,rag_rules,c033,Confidentiality,30,Low,False,0.72
+sec.gov_Archives_edgar_data_1031927_000091205702021039_a2079476zex-10_30.htm,rag_rules,c034,Confidentiality,30,Low,False,0.62
+sec.gov_Archives_edgar_data_1031927_000091205702021039_a2079476zex-10_30.htm,rag_rules,c035,Return/Destruction,30,Low,False,0.8200000000000001
+sec.gov_Archives_edgar_data_1031927_000091205702021039_a2079476zex-10_30.htm,rag_rules,c036,Confidentiality,30,Low,False,0.52
+sec.gov_Archives_edgar_data_1031927_000091205702021039_a2079476zex-10_30.htm,rag_rules,c037,Remedies / Injunctive Relief,30,Low,False,0.62
+sec.gov_Archives_edgar_data_1031927_000091205702021039_a2079476zex-10_30.htm,rag_rules,c038,Miscellaneous,30,Low,False,0.72
+sec.gov_Archives_edgar_data_1031927_000091205702021039_a2079476zex-10_30.htm,rag_rules,c039,Miscellaneous,30,Low,False,0.35
+sec.gov_Archives_edgar_data_1031927_000091205702021039_a2079476zex-10_30.htm,rag_rules,c041,Miscellaneous,30,Low,False,0.35
+sec.gov_Archives_edgar_data_1031927_000091205702021039_a2079476zex-10_30.htm,rag_rules,c042,Confidentiality,30,Low,False,0.62
+sec.gov_Archives_edgar_data_1031927_000091205702021039_a2079476zex-10_30.htm,rag_rules,c043,Miscellaneous,30,Low,False,0.35
+sec.gov_Archives_edgar_data_1031927_000091205702021039_a2079476zex-10_30.htm,rag_rules,c044,Confidentiality,30,Low,False,0.62
+sec.gov_Archives_edgar_data_1031927_000091205702021039_a2079476zex-10_30.htm,full_system,c001,Term & Survival,30,Low,True,0.7
+sec.gov_Archives_edgar_data_1031927_000091205702021039_a2079476zex-10_30.htm,full_system,c002,Miscellaneous,30,Low,False,0.8
+sec.gov_Archives_edgar_data_1031927_000091205702021039_a2079476zex-10_30.htm,full_system,c003,Termination,30,Low,False,0.8
+sec.gov_Archives_edgar_data_1031927_000091205702021039_a2079476zex-10_30.htm,full_system,c004,Confidentiality,30,Low,False,0.8
+sec.gov_Archives_edgar_data_1031927_000091205702021039_a2079476zex-10_30.htm,full_system,c005,Termination,85,High,True,0.8
+sec.gov_Archives_edgar_data_1031927_000091205702021039_a2079476zex-10_30.htm,full_system,c006,Term & Survival,30,Low,False,0.8
+sec.gov_Archives_edgar_data_1031927_000091205702021039_a2079476zex-10_30.htm,full_system,c008,Limitation of Liability,30,Low,False,0.8
+sec.gov_Archives_edgar_data_1031927_000091205702021039_a2079476zex-10_30.htm,full_system,c009,Term & Survival,30,Low,False,0.8
+sec.gov_Archives_edgar_data_1031927_000091205702021039_a2079476zex-10_30.htm,full_system,c010,Limitation of Liability,60,Medium,True,0.7
+sec.gov_Archives_edgar_data_1031927_000091205702021039_a2079476zex-10_30.htm,full_system,c011,Term & Survival,30,Low,False,0.8
+sec.gov_Archives_edgar_data_1031927_000091205702021039_a2079476zex-10_30.htm,full_system,c012,Term & Survival,30,Low,False,0.9
+sec.gov_Archives_edgar_data_1031927_000091205702021039_a2079476zex-10_30.htm,full_system,c013,Term & Survival,30,Low,False,0.8
+sec.gov_Archives_edgar_data_1031927_000091205702021039_a2079476zex-10_30.htm,full_system,c014,Term & Survival,30,Low,True,0.7
+sec.gov_Archives_edgar_data_1031927_000091205702021039_a2079476zex-10_30.htm,full_system,c015,Confidentiality,30,Low,False,0.8
+sec.gov_Archives_edgar_data_1031927_000091205702021039_a2079476zex-10_30.htm,full_system,c016,Term & Survival,30,Low,False,0.8
+sec.gov_Archives_edgar_data_1031927_000091205702021039_a2079476zex-10_30.htm,full_system,c017,Governing Law,30,Low,False,0.8
+sec.gov_Archives_edgar_data_1031927_000091205702021039_a2079476zex-10_30.htm,full_system,c018,Term & Survival,30,Low,False,0.8
+sec.gov_Archives_edgar_data_1031927_000091205702021039_a2079476zex-10_30.htm,full_system,c019,Miscellaneous,30,Low,False,0.9
+sec.gov_Archives_edgar_data_1031927_000091205702021039_a2079476zex-10_30.htm,full_system,c020,Confidentiality,30,Low,False,0.8
+sec.gov_Archives_edgar_data_1031927_000091205702021039_a2079476zex-10_30.htm,full_system,c021,Confidentiality,30,Low,True,0.7
+sec.gov_Archives_edgar_data_1031927_000091205702021039_a2079476zex-10_30.htm,full_system,c022,Confidentiality,30,Low,False,0.8
+sec.gov_Archives_edgar_data_1031927_000091205702021039_a2079476zex-10_30.htm,full_system,c023,Confidentiality,60,Medium,True,0.7
+sec.gov_Archives_edgar_data_1031927_000091205702021039_a2079476zex-10_30.htm,full_system,c024,Confidentiality,85,High,True,0.8
+sec.gov_Archives_edgar_data_1031927_000091205702021039_a2079476zex-10_30.htm,full_system,c025,Remedies / Injunctive Relief,30,Low,True,0.7
+sec.gov_Archives_edgar_data_1031927_000091205702021039_a2079476zex-10_30.htm,full_system,c026,Return/Destruction,30,Low,False,0.8
+sec.gov_Archives_edgar_data_1031927_000091205702021039_a2079476zex-10_30.htm,full_system,c027,Limitation of Liability,30,Low,True,0.8
+sec.gov_Archives_edgar_data_1031927_000091205702021039_a2079476zex-10_30.htm,full_system,c028,Remedies / Injunctive Relief,85,High,True,0.8
+sec.gov_Archives_edgar_data_1031927_000091205702021039_a2079476zex-10_30.htm,full_system,c029,Governing Law,30,Low,False,0.9
+sec.gov_Archives_edgar_data_1031927_000091205702021039_a2079476zex-10_30.htm,full_system,c030,Confidentiality,30,Low,False,0.8
+sec.gov_Archives_edgar_data_1031927_000091205702021039_a2079476zex-10_30.htm,full_system,c031,Confidentiality,30,Low,True,0.7
+sec.gov_Archives_edgar_data_1031927_000091205702021039_a2079476zex-10_30.htm,full_system,c032,Confidentiality,30,Low,False,0.8
+sec.gov_Archives_edgar_data_1031927_000091205702021039_a2079476zex-10_30.htm,full_system,c033,Confidentiality,60,Medium,True,0.7
+sec.gov_Archives_edgar_data_1031927_000091205702021039_a2079476zex-10_30.htm,full_system,c034,Remedies / Injunctive Relief,60,Medium,True,0.7
+sec.gov_Archives_edgar_data_1031927_000091205702021039_a2079476zex-10_30.htm,full_system,c035,Return/Destruction,30,Low,True,0.7
+sec.gov_Archives_edgar_data_1031927_000091205702021039_a2079476zex-10_30.htm,full_system,c036,Limitation of Liability,85,High,True,0.8
+sec.gov_Archives_edgar_data_1031927_000091205702021039_a2079476zex-10_30.htm,full_system,c037,Remedies / Injunctive Relief,85,High,True,0.7
+sec.gov_Archives_edgar_data_1031927_000091205702021039_a2079476zex-10_30.htm,full_system,c038,Term & Survival,30,Low,False,0.8
+sec.gov_Archives_edgar_data_1031927_000091205702021039_a2079476zex-10_30.htm,full_system,c039,Miscellaneous,30,Low,False,0.8
+sec.gov_Archives_edgar_data_1031927_000091205702021039_a2079476zex-10_30.htm,full_system,c041,Miscellaneous,30,Low,False,0.8
+sec.gov_Archives_edgar_data_1031927_000091205702021039_a2079476zex-10_30.htm,full_system,c042,Confidentiality,30,Low,False,0.8
+sec.gov_Archives_edgar_data_1031927_000091205702021039_a2079476zex-10_30.htm,full_system,c043,Term & Survival,30,Low,False,0.8
+sec.gov_Archives_edgar_data_1031927_000091205702021039_a2079476zex-10_30.htm,full_system,c044,Confidentiality,30,Low,True,0.7
+sec.gov_Archives_edgar_data_276283_000104746920001067_a2240819zex-99_d3.htm,baseline,c001,Miscellaneous,30,Low,False,0.35
+sec.gov_Archives_edgar_data_276283_000104746920001067_a2240819zex-99_d3.htm,baseline,c002,Confidentiality,30,Low,False,0.9199999999999999
+sec.gov_Archives_edgar_data_276283_000104746920001067_a2240819zex-99_d3.htm,baseline,c003,Miscellaneous,30,Low,False,0.9199999999999999
+sec.gov_Archives_edgar_data_276283_000104746920001067_a2240819zex-99_d3.htm,baseline,c004,Miscellaneous,30,Low,False,0.72
+sec.gov_Archives_edgar_data_276283_000104746920001067_a2240819zex-99_d3.htm,baseline,c006,Confidentiality,30,Low,False,0.52
+sec.gov_Archives_edgar_data_276283_000104746920001067_a2240819zex-99_d3.htm,baseline,c007,Confidentiality,30,Low,False,0.52
+sec.gov_Archives_edgar_data_276283_000104746920001067_a2240819zex-99_d3.htm,rules_only,c001,Miscellaneous,30,Low,False,0.35
+sec.gov_Archives_edgar_data_276283_000104746920001067_a2240819zex-99_d3.htm,rules_only,c002,Confidentiality,30,Low,False,0.9199999999999999
+sec.gov_Archives_edgar_data_276283_000104746920001067_a2240819zex-99_d3.htm,rules_only,c003,Miscellaneous,30,Low,False,0.736
+sec.gov_Archives_edgar_data_276283_000104746920001067_a2240819zex-99_d3.htm,rules_only,c004,Miscellaneous,30,Low,False,0.72
+sec.gov_Archives_edgar_data_276283_000104746920001067_a2240819zex-99_d3.htm,rules_only,c006,Confidentiality,30,Low,False,0.52
+sec.gov_Archives_edgar_data_276283_000104746920001067_a2240819zex-99_d3.htm,rules_only,c007,Confidentiality,30,Low,False,0.52
+sec.gov_Archives_edgar_data_276283_000104746920001067_a2240819zex-99_d3.htm,rag_rules,c001,Miscellaneous,30,Low,False,0.35
+sec.gov_Archives_edgar_data_276283_000104746920001067_a2240819zex-99_d3.htm,rag_rules,c002,Confidentiality,30,Low,False,0.9199999999999999
+sec.gov_Archives_edgar_data_276283_000104746920001067_a2240819zex-99_d3.htm,rag_rules,c003,Miscellaneous,30,Low,False,0.736
+sec.gov_Archives_edgar_data_276283_000104746920001067_a2240819zex-99_d3.htm,rag_rules,c004,Miscellaneous,30,Low,False,0.72
+sec.gov_Archives_edgar_data_276283_000104746920001067_a2240819zex-99_d3.htm,rag_rules,c006,Confidentiality,30,Low,False,0.52
+sec.gov_Archives_edgar_data_276283_000104746920001067_a2240819zex-99_d3.htm,rag_rules,c007,Confidentiality,30,Low,False,0.52
+sec.gov_Archives_edgar_data_276283_000104746920001067_a2240819zex-99_d3.htm,full_system,c001,Miscellaneous,30,Low,False,0.8
+sec.gov_Archives_edgar_data_276283_000104746920001067_a2240819zex-99_d3.htm,full_system,c002,Confidentiality,60,Medium,True,0.7
+sec.gov_Archives_edgar_data_276283_000104746920001067_a2240819zex-99_d3.htm,full_system,c003,Confidentiality,85,High,True,0.8
+sec.gov_Archives_edgar_data_276283_000104746920001067_a2240819zex-99_d3.htm,full_system,c004,Term & Survival,30,Low,False,0.8
+sec.gov_Archives_edgar_data_276283_000104746920001067_a2240819zex-99_d3.htm,full_system,c006,Term & Survival,30,Low,False,0.9
+sec.gov_Archives_edgar_data_276283_000104746920001067_a2240819zex-99_d3.htm,full_system,c007,Confidentiality,60,Medium,True,0.7
+211119-NDA.pdf,baseline,c002,Confidentiality,30,Low,False,0.72
+211119-NDA.pdf,baseline,c004,Confidentiality,30,Low,False,0.52
+211119-NDA.pdf,baseline,c005,Confidentiality,30,Low,False,0.52
+211119-NDA.pdf,baseline,c006,Miscellaneous,30,Low,False,0.35
+211119-NDA.pdf,baseline,c007,Miscellaneous,30,Low,False,0.35
+211119-NDA.pdf,baseline,c008,Confidentiality,30,Low,False,0.62
+211119-NDA.pdf,baseline,c009,Confidentiality,30,Low,False,0.52
+211119-NDA.pdf,baseline,c010,Return/Destruction,30,Low,False,0.9199999999999999
+211119-NDA.pdf,baseline,c011,Confidentiality,30,Low,False,0.62
+211119-NDA.pdf,baseline,c013,Exceptions,30,Low,False,0.62
+211119-NDA.pdf,baseline,c014,Exceptions,30,Low,False,0.52
+211119-NDA.pdf,baseline,c015,Confidentiality,30,Low,False,0.62
+211119-NDA.pdf,baseline,c016,Confidentiality,30,Low,False,0.52
+211119-NDA.pdf,baseline,c018,Confidentiality,30,Low,False,0.72
+211119-NDA.pdf,baseline,c019,Confidentiality,30,Low,False,0.62
+211119-NDA.pdf,baseline,c020,Confidentiality,30,Low,False,0.52
+211119-NDA.pdf,baseline,c021,Permitted Disclosures,30,Low,False,0.72
+211119-NDA.pdf,baseline,c023,Remedies / Injunctive Relief,30,Low,False,0.62
+211119-NDA.pdf,baseline,c025,Term & Survival,30,Low,False,0.72
+211119-NDA.pdf,baseline,c026,Governing Law,30,Low,False,0.72
+211119-NDA.pdf,baseline,c028,Miscellaneous,30,Low,False,0.62
+211119-NDA.pdf,baseline,c029,Term & Survival,30,Low,False,0.52
+211119-NDA.pdf,rules_only,c002,Confidentiality,30,Low,False,0.576
+211119-NDA.pdf,rules_only,c004,Confidentiality,30,Low,False,0.41600000000000004
+211119-NDA.pdf,rules_only,c005,Confidentiality,30,Low,False,0.41600000000000004
+211119-NDA.pdf,rules_only,c006,Miscellaneous,30,Low,False,0.35
+211119-NDA.pdf,rules_only,c007,Miscellaneous,30,Low,False,0.35
+211119-NDA.pdf,rules_only,c008,Confidentiality,30,Low,False,0.496
+211119-NDA.pdf,rules_only,c009,Confidentiality,30,Low,False,0.52
+211119-NDA.pdf,rules_only,c010,Return/Destruction,30,Low,False,0.9199999999999999
+211119-NDA.pdf,rules_only,c011,Confidentiality,30,Low,False,0.496
+211119-NDA.pdf,rules_only,c013,Exceptions,30,Low,False,0.62
+211119-NDA.pdf,rules_only,c014,Exceptions,30,Low,False,0.52
+211119-NDA.pdf,rules_only,c015,Confidentiality,30,Low,False,0.496
+211119-NDA.pdf,rules_only,c016,Confidentiality,30,Low,False,0.41600000000000004
+211119-NDA.pdf,rules_only,c018,Confidentiality,30,Low,False,0.576
+211119-NDA.pdf,rules_only,c019,Confidentiality,30,Low,False,0.496
+211119-NDA.pdf,rules_only,c020,Confidentiality,30,Low,False,0.52
+211119-NDA.pdf,rules_only,c021,Permitted Disclosures,30,Low,False,0.72
+211119-NDA.pdf,rules_only,c023,Remedies / Injunctive Relief,30,Low,False,0.62
+211119-NDA.pdf,rules_only,c025,Term & Survival,30,Low,False,0.72
+211119-NDA.pdf,rules_only,c026,Governing Law,30,Low,False,0.72
+211119-NDA.pdf,rules_only,c028,Miscellaneous,30,Low,False,0.62
+211119-NDA.pdf,rules_only,c029,Term & Survival,30,Low,False,0.52
+211119-NDA.pdf,rag_rules,c002,Confidentiality,30,Low,False,0.576
+211119-NDA.pdf,rag_rules,c004,Confidentiality,30,Low,False,0.41600000000000004
+211119-NDA.pdf,rag_rules,c005,Confidentiality,30,Low,False,0.41600000000000004
+211119-NDA.pdf,rag_rules,c006,Miscellaneous,30,Low,False,0.35
+211119-NDA.pdf,rag_rules,c007,Miscellaneous,30,Low,False,0.35
+211119-NDA.pdf,rag_rules,c008,Confidentiality,30,Low,False,0.496
+211119-NDA.pdf,rag_rules,c009,Confidentiality,30,Low,False,0.52
+211119-NDA.pdf,rag_rules,c010,Return/Destruction,30,Low,False,0.9199999999999999
+211119-NDA.pdf,rag_rules,c011,Confidentiality,30,Low,False,0.496
+211119-NDA.pdf,rag_rules,c013,Exceptions,30,Low,False,0.62
+211119-NDA.pdf,rag_rules,c014,Exceptions,30,Low,False,0.52
+211119-NDA.pdf,rag_rules,c015,Confidentiality,30,Low,False,0.496
+211119-NDA.pdf,rag_rules,c016,Confidentiality,30,Low,False,0.41600000000000004
+211119-NDA.pdf,rag_rules,c018,Confidentiality,30,Low,False,0.576
+211119-NDA.pdf,rag_rules,c019,Confidentiality,30,Low,False,0.496
+211119-NDA.pdf,rag_rules,c020,Confidentiality,30,Low,False,0.52
+211119-NDA.pdf,rag_rules,c021,Permitted Disclosures,30,Low,False,0.72
+211119-NDA.pdf,rag_rules,c023,Remedies / Injunctive Relief,30,Low,False,0.62
+211119-NDA.pdf,rag_rules,c025,Term & Survival,30,Low,False,0.72
+211119-NDA.pdf,rag_rules,c026,Governing Law,30,Low,False,0.72
+211119-NDA.pdf,rag_rules,c028,Miscellaneous,30,Low,False,0.62
+211119-NDA.pdf,rag_rules,c029,Term & Survival,30,Low,False,0.52
+211119-NDA.pdf,full_system,c002,Confidentiality,60,Medium,False,0.8
+211119-NDA.pdf,full_system,c004,Confidentiality,60,Medium,False,0.8
+211119-NDA.pdf,full_system,c005,Confidentiality,85,High,True,0.6
+211119-NDA.pdf,full_system,c006,Definition of Confidential Info,30,Low,False,0.8
+211119-NDA.pdf,full_system,c007,Term & Survival,30,Low,False,0.8
+211119-NDA.pdf,full_system,c008,Confidentiality,60,Medium,False,0.8
+211119-NDA.pdf,full_system,c009,Confidentiality,30,Low,False,0.8
+211119-NDA.pdf,full_system,c010,Return/Destruction,30,Low,False,0.8
+211119-NDA.pdf,full_system,c011,Confidentiality,60,Med,True,0.7
+211119-NDA.pdf,full_system,c013,Exceptions,30,Low,False,0.8
+211119-NDA.pdf,full_system,c014,Exceptions,30,Low,True,0.6
+211119-NDA.pdf,full_system,c015,Exceptions,30,Low,True,0.8
+211119-NDA.pdf,full_system,c016,Definition of Confidential Info,60,Medium,True,0.7
+211119-NDA.pdf,full_system,c018,Permitted Disclosures,30,Low,False,0.8
+211119-NDA.pdf,full_system,c019,Exceptions,30,Low,True,0.7
+211119-NDA.pdf,full_system,c020,Confidentiality,30,Low,False,0.9
+211119-NDA.pdf,full_system,c021,Limitation of Liability,30,Low,True,0.7
+211119-NDA.pdf,full_system,c023,Remedies / Injunctive Relief,85,High,True,0.8
+211119-NDA.pdf,full_system,c025,Term & Survival,30,Low,True,0.7
+211119-NDA.pdf,full_system,c026,Governing Law,30,Low,True,0.6
+211119-NDA.pdf,full_system,c028,Term & Survival,30,Low,False,0.8
+211119-NDA.pdf,full_system,c029,Term & Survival,30,Low,True,0.7
+sec.gov_Archives_edgar_data_1868775_000110465921120382_tm2120324d5_ex10-10.htm,baseline,c001,Miscellaneous,30,Low,False,0.35
+sec.gov_Archives_edgar_data_1868775_000110465921120382_tm2120324d5_ex10-10.htm,baseline,c002,Miscellaneous,30,Low,False,0.35
+sec.gov_Archives_edgar_data_1868775_000110465921120382_tm2120324d5_ex10-10.htm,baseline,c003,Confidentiality,30,Low,False,0.52
+sec.gov_Archives_edgar_data_1868775_000110465921120382_tm2120324d5_ex10-10.htm,baseline,c004,Confidentiality,30,Low,False,0.52
+sec.gov_Archives_edgar_data_1868775_000110465921120382_tm2120324d5_ex10-10.htm,baseline,c005,Confidentiality,30,Low,False,0.52
+sec.gov_Archives_edgar_data_1868775_000110465921120382_tm2120324d5_ex10-10.htm,baseline,c006,Confidentiality,30,Low,False,0.52
+sec.gov_Archives_edgar_data_1868775_000110465921120382_tm2120324d5_ex10-10.htm,baseline,c007,Confidentiality,30,Low,False,0.62
+sec.gov_Archives_edgar_data_1868775_000110465921120382_tm2120324d5_ex10-10.htm,baseline,c008,Return/Destruction,30,Low,False,0.72
+sec.gov_Archives_edgar_data_1868775_000110465921120382_tm2120324d5_ex10-10.htm,baseline,c009,Remedies / Injunctive Relief,30,Low,False,0.62
+sec.gov_Archives_edgar_data_1868775_000110465921120382_tm2120324d5_ex10-10.htm,baseline,c010,Governing Law,30,Low,False,0.72
+sec.gov_Archives_edgar_data_1868775_000110465921120382_tm2120324d5_ex10-10.htm,baseline,c011,Miscellaneous,30,Low,False,0.52
+sec.gov_Archives_edgar_data_1868775_000110465921120382_tm2120324d5_ex10-10.htm,baseline,c012,Confidentiality,30,Low,False,0.52
+sec.gov_Archives_edgar_data_1868775_000110465921120382_tm2120324d5_ex10-10.htm,rules_only,c001,Miscellaneous,30,Low,False,0.35
+sec.gov_Archives_edgar_data_1868775_000110465921120382_tm2120324d5_ex10-10.htm,rules_only,c002,Miscellaneous,30,Low,False,0.35
+sec.gov_Archives_edgar_data_1868775_000110465921120382_tm2120324d5_ex10-10.htm,rules_only,c003,Confidentiality,30,Low,False,0.52
+sec.gov_Archives_edgar_data_1868775_000110465921120382_tm2120324d5_ex10-10.htm,rules_only,c004,Confidentiality,30,Low,False,0.52
+sec.gov_Archives_edgar_data_1868775_000110465921120382_tm2120324d5_ex10-10.htm,rules_only,c005,Confidentiality,30,Low,False,0.52
+sec.gov_Archives_edgar_data_1868775_000110465921120382_tm2120324d5_ex10-10.htm,rules_only,c006,Confidentiality,30,Low,False,0.52
+sec.gov_Archives_edgar_data_1868775_000110465921120382_tm2120324d5_ex10-10.htm,rules_only,c007,Confidentiality,30,Low,False,0.62
+sec.gov_Archives_edgar_data_1868775_000110465921120382_tm2120324d5_ex10-10.htm,rules_only,c008,Return/Destruction,30,Low,False,0.72
+sec.gov_Archives_edgar_data_1868775_000110465921120382_tm2120324d5_ex10-10.htm,rules_only,c009,Remedies / Injunctive Relief,30,Low,False,0.62
+sec.gov_Archives_edgar_data_1868775_000110465921120382_tm2120324d5_ex10-10.htm,rules_only,c010,Governing Law,30,Low,False,0.72
+sec.gov_Archives_edgar_data_1868775_000110465921120382_tm2120324d5_ex10-10.htm,rules_only,c011,Miscellaneous,30,Low,False,0.52
+sec.gov_Archives_edgar_data_1868775_000110465921120382_tm2120324d5_ex10-10.htm,rules_only,c012,Confidentiality,30,Low,False,0.52
+sec.gov_Archives_edgar_data_1868775_000110465921120382_tm2120324d5_ex10-10.htm,rag_rules,c001,Miscellaneous,30,Low,False,0.35
+sec.gov_Archives_edgar_data_1868775_000110465921120382_tm2120324d5_ex10-10.htm,rag_rules,c002,Miscellaneous,30,Low,False,0.35
+sec.gov_Archives_edgar_data_1868775_000110465921120382_tm2120324d5_ex10-10.htm,rag_rules,c003,Confidentiality,30,Low,False,0.52
+sec.gov_Archives_edgar_data_1868775_000110465921120382_tm2120324d5_ex10-10.htm,rag_rules,c004,Confidentiality,30,Low,False,0.52
+sec.gov_Archives_edgar_data_1868775_000110465921120382_tm2120324d5_ex10-10.htm,rag_rules,c005,Confidentiality,30,Low,False,0.52
+sec.gov_Archives_edgar_data_1868775_000110465921120382_tm2120324d5_ex10-10.htm,rag_rules,c006,Confidentiality,30,Low,False,0.52
+sec.gov_Archives_edgar_data_1868775_000110465921120382_tm2120324d5_ex10-10.htm,rag_rules,c007,Confidentiality,30,Low,False,0.62
+sec.gov_Archives_edgar_data_1868775_000110465921120382_tm2120324d5_ex10-10.htm,rag_rules,c008,Return/Destruction,30,Low,False,0.72
+sec.gov_Archives_edgar_data_1868775_000110465921120382_tm2120324d5_ex10-10.htm,rag_rules,c009,Remedies / Injunctive Relief,30,Low,False,0.62
+sec.gov_Archives_edgar_data_1868775_000110465921120382_tm2120324d5_ex10-10.htm,rag_rules,c010,Governing Law,30,Low,False,0.72
+sec.gov_Archives_edgar_data_1868775_000110465921120382_tm2120324d5_ex10-10.htm,rag_rules,c011,Miscellaneous,30,Low,False,0.52
+sec.gov_Archives_edgar_data_1868775_000110465921120382_tm2120324d5_ex10-10.htm,rag_rules,c012,Confidentiality,30,Low,False,0.52
+sec.gov_Archives_edgar_data_1868775_000110465921120382_tm2120324d5_ex10-10.htm,full_system,c001,Return/Destruction,30,Low,True,0.7
+sec.gov_Archives_edgar_data_1868775_000110465921120382_tm2120324d5_ex10-10.htm,full_system,c002,Miscellaneous,30,Low,True,0.8
+sec.gov_Archives_edgar_data_1868775_000110465921120382_tm2120324d5_ex10-10.htm,full_system,c003,Confidentiality,30,Low,True,0.8
+sec.gov_Archives_edgar_data_1868775_000110465921120382_tm2120324d5_ex10-10.htm,full_system,c004,Confidentiality,30,Low,False,0.8
+sec.gov_Archives_edgar_data_1868775_000110465921120382_tm2120324d5_ex10-10.htm,full_system,c005,Confidentiality,60,Medium,True,0.7
+sec.gov_Archives_edgar_data_1868775_000110465921120382_tm2120324d5_ex10-10.htm,full_system,c006,Confidentiality,30,Low,False,0.8
+sec.gov_Archives_edgar_data_1868775_000110465921120382_tm2120324d5_ex10-10.htm,full_system,c007,Permitted Disclosures,30,Low,True,0.8
+sec.gov_Archives_edgar_data_1868775_000110465921120382_tm2120324d5_ex10-10.htm,full_system,c008,Return/Destruction,60,Medium,True,0.7
+sec.gov_Archives_edgar_data_1868775_000110465921120382_tm2120324d5_ex10-10.htm,full_system,c009,Remedies / Injunctive Relief,85,High,True,0.8
+sec.gov_Archives_edgar_data_1868775_000110465921120382_tm2120324d5_ex10-10.htm,full_system,c010,Governing Law,30,Low,False,0.8
+sec.gov_Archives_edgar_data_1868775_000110465921120382_tm2120324d5_ex10-10.htm,full_system,c011,Term & Survival,30,Low,False,0.9
+sec.gov_Archives_edgar_data_1868775_000110465921120382_tm2120324d5_ex10-10.htm,full_system,c012,Term & Survival,30,Low,True,0.8
+ex10-1.htm,baseline,c001,Miscellaneous,30,Low,False,0.35
+ex10-1.htm,baseline,c002,Miscellaneous,30,Low,False,0.35
+ex10-1.htm,baseline,c006,Miscellaneous,30,Low,False,0.35
+ex10-1.htm,baseline,c007,Term & Survival,30,Low,False,0.52
+ex10-1.htm,baseline,c008,Term & Survival,30,Low,False,0.52
+ex10-1.htm,baseline,c009,Miscellaneous,30,Low,False,0.35
+ex10-1.htm,baseline,c010,Miscellaneous,30,Low,False,0.62
+ex10-1.htm,baseline,c011,Term & Survival,30,Low,False,0.52
+ex10-1.htm,baseline,c012,Definition of Confidential Info,30,Low,False,0.52
+ex10-1.htm,baseline,c013,Term & Survival,30,Low,False,0.52
+ex10-1.htm,baseline,c014,Termination,30,Low,False,0.72
+ex10-1.htm,baseline,c015,Definition of Confidential Info,30,Low,False,0.62
+ex10-1.htm,baseline,c016,Term & Survival,30,Low,False,0.52
+ex10-1.htm,baseline,c017,Governing Law,30,Low,False,0.72
+ex10-1.htm,baseline,c018,Dispute Resolution,30,Low,False,0.8200000000000001
+ex10-1.htm,baseline,c019,Limitation of Liability,30,Low,False,0.52
+ex10-1.htm,baseline,c020,Miscellaneous,30,Low,False,0.52
+ex10-1.htm,baseline,c021,Miscellaneous,30,Low,False,0.52
+ex10-1.htm,baseline,c022,Miscellaneous,30,Low,False,0.52
+ex10-1.htm,baseline,c023,IP Ownership / Assignment,30,Low,False,0.52
+ex10-1.htm,baseline,c024,Permitted Disclosures,30,Low,False,0.52
+ex10-1.htm,baseline,c025,Term & Survival,30,Low,False,0.52
+ex10-1.htm,baseline,c026,Governing Law,30,Low,False,0.72
+ex10-1.htm,baseline,c029,Miscellaneous,30,Low,False,0.35
+ex10-1.htm,baseline,c030,Governing Law,30,Low,False,0.62
+ex10-1.htm,rules_only,c001,Miscellaneous,30,Low,False,0.35
+ex10-1.htm,rules_only,c002,Miscellaneous,30,Low,False,0.35
+ex10-1.htm,rules_only,c006,Miscellaneous,30,Low,False,0.35
+ex10-1.htm,rules_only,c007,Term & Survival,30,Low,False,0.52
+ex10-1.htm,rules_only,c008,Term & Survival,30,Low,False,0.52
+ex10-1.htm,rules_only,c009,Miscellaneous,30,Low,False,0.35
+ex10-1.htm,rules_only,c010,Miscellaneous,30,Low,False,0.62
+ex10-1.htm,rules_only,c011,Term & Survival,30,Low,False,0.52
+ex10-1.htm,rules_only,c012,Definition of Confidential Info,30,Low,False,0.41600000000000004
+ex10-1.htm,rules_only,c013,Term & Survival,30,Low,False,0.52
+ex10-1.htm,rules_only,c014,Termination,30,Low,False,0.72
+ex10-1.htm,rules_only,c015,Definition of Confidential Info,30,Low,False,0.62
+ex10-1.htm,rules_only,c016,Term & Survival,30,Low,False,0.52
+ex10-1.htm,rules_only,c017,Governing Law,30,Low,False,0.72
+ex10-1.htm,rules_only,c018,Dispute Resolution,30,Low,False,0.8200000000000001
+ex10-1.htm,rules_only,c019,Limitation of Liability,30,Low,False,0.41600000000000004
+ex10-1.htm,rules_only,c020,Miscellaneous,30,Low,False,0.52
+ex10-1.htm,rules_only,c021,Miscellaneous,30,Low,False,0.52
+ex10-1.htm,rules_only,c022,Miscellaneous,30,Low,False,0.52
+ex10-1.htm,rules_only,c023,IP Ownership / Assignment,30,Low,False,0.52
+ex10-1.htm,rules_only,c024,Permitted Disclosures,30,Low,False,0.52
+ex10-1.htm,rules_only,c025,Term & Survival,30,Low,False,0.52
+ex10-1.htm,rules_only,c026,Governing Law,30,Low,False,0.72
+ex10-1.htm,rules_only,c029,Miscellaneous,30,Low,False,0.35
+ex10-1.htm,rules_only,c030,Governing Law,30,Low,False,0.496
+ex10-1.htm,rag_rules,c001,Miscellaneous,30,Low,False,0.35
+ex10-1.htm,rag_rules,c002,Miscellaneous,30,Low,False,0.35
+ex10-1.htm,rag_rules,c006,Miscellaneous,30,Low,False,0.35
+ex10-1.htm,rag_rules,c007,Term & Survival,30,Low,False,0.52
+ex10-1.htm,rag_rules,c008,Term & Survival,30,Low,False,0.52
+ex10-1.htm,rag_rules,c009,Miscellaneous,30,Low,False,0.35
+ex10-1.htm,rag_rules,c010,Miscellaneous,30,Low,False,0.62
+ex10-1.htm,rag_rules,c011,Term & Survival,30,Low,False,0.52
+ex10-1.htm,rag_rules,c012,Definition of Confidential Info,30,Low,False,0.41600000000000004
+ex10-1.htm,rag_rules,c013,Term & Survival,30,Low,False,0.52
+ex10-1.htm,rag_rules,c014,Termination,30,Low,False,0.72
+ex10-1.htm,rag_rules,c015,Definition of Confidential Info,30,Low,False,0.62
+ex10-1.htm,rag_rules,c016,Term & Survival,30,Low,False,0.52
+ex10-1.htm,rag_rules,c017,Governing Law,30,Low,False,0.72
+ex10-1.htm,rag_rules,c018,Dispute Resolution,30,Low,False,0.8200000000000001
+ex10-1.htm,rag_rules,c019,Limitation of Liability,30,Low,False,0.41600000000000004
+ex10-1.htm,rag_rules,c020,Miscellaneous,30,Low,False,0.52
+ex10-1.htm,rag_rules,c021,Miscellaneous,30,Low,False,0.52
+ex10-1.htm,rag_rules,c022,Miscellaneous,30,Low,False,0.52
+ex10-1.htm,rag_rules,c023,IP Ownership / Assignment,30,Low,False,0.52
+ex10-1.htm,rag_rules,c024,Permitted Disclosures,30,Low,False,0.52
+ex10-1.htm,rag_rules,c025,Term & Survival,30,Low,False,0.52
+ex10-1.htm,rag_rules,c026,Governing Law,30,Low,False,0.72
+ex10-1.htm,rag_rules,c029,Miscellaneous,30,Low,False,0.35
+ex10-1.htm,rag_rules,c030,Governing Law,30,Low,False,0.496
+ex10-1.htm,full_system,c001,Term & Survival,60,Medium,True,0.7
+ex10-1.htm,full_system,c002,Miscellaneous,30,Low,False,0.8
+ex10-1.htm,full_system,c006,Miscellaneous,30,Low,False,0.8
+ex10-1.htm,full_system,c007,Governing Law,30,Low,True,0.7
+ex10-1.htm,full_system,c008,Term & Survival,30,Low,True,0.8
+ex10-1.htm,full_system,c009,Term & Survival,30,Low,True,0.8
+ex10-1.htm,full_system,c010,Term & Survival,30,Low,False,0.8
+ex10-1.htm,full_system,c011,Term & Survival,60,Medium,True,0.6
+ex10-1.htm,full_system,c012,Term & Survival,85,High,True,0.7
+ex10-1.htm,full_system,c013,Term & Survival,30,Low,False,0.8
+ex10-1.htm,full_system,c014,Termination,60,Medium,True,0.7
+ex10-1.htm,full_system,c015,Confidentiality,30,Low,True,0.7
+ex10-1.htm,full_system,c016,Term & Survival,30,Low,True,0.7
+ex10-1.htm,full_system,c017,Permitted Disclosures,30,Low,True,0.7
+ex10-1.htm,full_system,c018,Governing Law,60,Medium,True,0.7
+ex10-1.htm,full_system,c019,Term & Survival,85,High,False,0.8
+ex10-1.htm,full_system,c020,Term & Survival,30,Low,False,0.8
+ex10-1.htm,full_system,c021,Term & Survival,30,Low,True,0.8
+ex10-1.htm,full_system,c022,Term & Survival,30,Low,True,0.7
+ex10-1.htm,full_system,c023,Term & Survival,30,Low,True,0.7
+ex10-1.htm,full_system,c024,Term & Survival,30,Low,False,0.9
+ex10-1.htm,full_system,c025,Term & Survival,30,Low,False,0.8
+ex10-1.htm,full_system,c026,Governing Law,30,Low,False,0.8
+ex10-1.htm,full_system,c029,Term & Survival,30,Low,False,0.9
+ex10-1.htm,full_system,c030,Term & Survival,85,High,True,0.8
+sec.gov_Archives_edgar_data_1881767_000149315224036458_ex10-15.htm,baseline,c001,Miscellaneous,30,Low,False,0.35
+sec.gov_Archives_edgar_data_1881767_000149315224036458_ex10-15.htm,baseline,c002,Miscellaneous,30,Low,False,0.35
+sec.gov_Archives_edgar_data_1881767_000149315224036458_ex10-15.htm,baseline,c005,Miscellaneous,30,Low,False,0.35
+sec.gov_Archives_edgar_data_1881767_000149315224036458_ex10-15.htm,baseline,c006,Confidentiality,30,Low,False,0.52
+sec.gov_Archives_edgar_data_1881767_000149315224036458_ex10-15.htm,baseline,c007,Confidentiality,30,Low,False,0.62
+sec.gov_Archives_edgar_data_1881767_000149315224036458_ex10-15.htm,baseline,c008,Confidentiality,30,Low,False,0.62
+sec.gov_Archives_edgar_data_1881767_000149315224036458_ex10-15.htm,baseline,c009,Confidentiality,30,Low,False,0.52
+sec.gov_Archives_edgar_data_1881767_000149315224036458_ex10-15.htm,baseline,c010,Confidentiality,30,Low,False,0.52
+sec.gov_Archives_edgar_data_1881767_000149315224036458_ex10-15.htm,baseline,c011,Confidentiality,30,Low,False,0.62
+sec.gov_Archives_edgar_data_1881767_000149315224036458_ex10-15.htm,baseline,c012,Confidentiality,30,Low,False,0.72
+sec.gov_Archives_edgar_data_1881767_000149315224036458_ex10-15.htm,baseline,c013,IP Ownership / Assignment,30,Low,False,0.52
+sec.gov_Archives_edgar_data_1881767_000149315224036458_ex10-15.htm,baseline,c014,Return/Destruction,30,Low,False,0.9199999999999999
+sec.gov_Archives_edgar_data_1881767_000149315224036458_ex10-15.htm,baseline,c015,Governing Law,30,Low,False,0.62
+sec.gov_Archives_edgar_data_1881767_000149315224036458_ex10-15.htm,baseline,c016,Term & Survival,30,Low,False,0.62
+sec.gov_Archives_edgar_data_1881767_000149315224036458_ex10-15.htm,baseline,c017,Remedies / Injunctive Relief,30,Low,False,0.72
+sec.gov_Archives_edgar_data_1881767_000149315224036458_ex10-15.htm,baseline,c018,Miscellaneous,30,Low,False,0.52
+sec.gov_Archives_edgar_data_1881767_000149315224036458_ex10-15.htm,baseline,c019,Term & Survival,30,Low,False,0.52
+sec.gov_Archives_edgar_data_1881767_000149315224036458_ex10-15.htm,baseline,c020,Miscellaneous,30,Low,False,0.52
+sec.gov_Archives_edgar_data_1881767_000149315224036458_ex10-15.htm,baseline,c021,Confidentiality,30,Low,False,0.52
+sec.gov_Archives_edgar_data_1881767_000149315224036458_ex10-15.htm,rules_only,c001,Miscellaneous,30,Low,False,0.35
+sec.gov_Archives_edgar_data_1881767_000149315224036458_ex10-15.htm,rules_only,c002,Miscellaneous,30,Low,False,0.35
+sec.gov_Archives_edgar_data_1881767_000149315224036458_ex10-15.htm,rules_only,c005,Miscellaneous,30,Low,False,0.35
+sec.gov_Archives_edgar_data_1881767_000149315224036458_ex10-15.htm,rules_only,c006,Confidentiality,30,Low,False,0.52
+sec.gov_Archives_edgar_data_1881767_000149315224036458_ex10-15.htm,rules_only,c007,Confidentiality,30,Low,False,0.62
+sec.gov_Archives_edgar_data_1881767_000149315224036458_ex10-15.htm,rules_only,c008,Confidentiality,30,Low,False,0.62
+sec.gov_Archives_edgar_data_1881767_000149315224036458_ex10-15.htm,rules_only,c009,Confidentiality,30,Low,False,0.52
+sec.gov_Archives_edgar_data_1881767_000149315224036458_ex10-15.htm,rules_only,c010,Confidentiality,30,Low,False,0.52
+sec.gov_Archives_edgar_data_1881767_000149315224036458_ex10-15.htm,rules_only,c011,Confidentiality,30,Low,False,0.62
+sec.gov_Archives_edgar_data_1881767_000149315224036458_ex10-15.htm,rules_only,c012,Confidentiality,30,Low,False,0.72
+sec.gov_Archives_edgar_data_1881767_000149315224036458_ex10-15.htm,rules_only,c013,IP Ownership / Assignment,30,Low,False,0.52
+sec.gov_Archives_edgar_data_1881767_000149315224036458_ex10-15.htm,rules_only,c014,Return/Destruction,30,Low,False,0.9199999999999999
+sec.gov_Archives_edgar_data_1881767_000149315224036458_ex10-15.htm,rules_only,c015,Governing Law,30,Low,False,0.62
+sec.gov_Archives_edgar_data_1881767_000149315224036458_ex10-15.htm,rules_only,c016,Term & Survival,30,Low,False,0.62
+sec.gov_Archives_edgar_data_1881767_000149315224036458_ex10-15.htm,rules_only,c017,Remedies / Injunctive Relief,30,Low,False,0.576
+sec.gov_Archives_edgar_data_1881767_000149315224036458_ex10-15.htm,rules_only,c018,Miscellaneous,30,Low,False,0.52
+sec.gov_Archives_edgar_data_1881767_000149315224036458_ex10-15.htm,rules_only,c019,Term & Survival,30,Low,False,0.52
+sec.gov_Archives_edgar_data_1881767_000149315224036458_ex10-15.htm,rules_only,c020,Miscellaneous,30,Low,False,0.52
+sec.gov_Archives_edgar_data_1881767_000149315224036458_ex10-15.htm,rules_only,c021,Confidentiality,30,Low,False,0.52
+sec.gov_Archives_edgar_data_1881767_000149315224036458_ex10-15.htm,rag_rules,c001,Miscellaneous,30,Low,False,0.35
+sec.gov_Archives_edgar_data_1881767_000149315224036458_ex10-15.htm,rag_rules,c002,Miscellaneous,30,Low,False,0.35
+sec.gov_Archives_edgar_data_1881767_000149315224036458_ex10-15.htm,rag_rules,c005,Miscellaneous,30,Low,False,0.35
+sec.gov_Archives_edgar_data_1881767_000149315224036458_ex10-15.htm,rag_rules,c006,Confidentiality,30,Low,False,0.52
+sec.gov_Archives_edgar_data_1881767_000149315224036458_ex10-15.htm,rag_rules,c007,Confidentiality,30,Low,False,0.62
+sec.gov_Archives_edgar_data_1881767_000149315224036458_ex10-15.htm,rag_rules,c008,Confidentiality,30,Low,False,0.62
+sec.gov_Archives_edgar_data_1881767_000149315224036458_ex10-15.htm,rag_rules,c009,Confidentiality,30,Low,False,0.52
+sec.gov_Archives_edgar_data_1881767_000149315224036458_ex10-15.htm,rag_rules,c010,Confidentiality,30,Low,False,0.52
+sec.gov_Archives_edgar_data_1881767_000149315224036458_ex10-15.htm,rag_rules,c011,Confidentiality,30,Low,False,0.62
+sec.gov_Archives_edgar_data_1881767_000149315224036458_ex10-15.htm,rag_rules,c012,Confidentiality,30,Low,False,0.72
+sec.gov_Archives_edgar_data_1881767_000149315224036458_ex10-15.htm,rag_rules,c013,IP Ownership / Assignment,30,Low,False,0.52
+sec.gov_Archives_edgar_data_1881767_000149315224036458_ex10-15.htm,rag_rules,c014,Return/Destruction,30,Low,False,0.9199999999999999
+sec.gov_Archives_edgar_data_1881767_000149315224036458_ex10-15.htm,rag_rules,c015,Governing Law,30,Low,False,0.62
+sec.gov_Archives_edgar_data_1881767_000149315224036458_ex10-15.htm,rag_rules,c016,Term & Survival,30,Low,False,0.62
+sec.gov_Archives_edgar_data_1881767_000149315224036458_ex10-15.htm,rag_rules,c017,Remedies / Injunctive Relief,30,Low,False,0.576
+sec.gov_Archives_edgar_data_1881767_000149315224036458_ex10-15.htm,rag_rules,c018,Miscellaneous,30,Low,False,0.52
+sec.gov_Archives_edgar_data_1881767_000149315224036458_ex10-15.htm,rag_rules,c019,Term & Survival,30,Low,False,0.52
+sec.gov_Archives_edgar_data_1881767_000149315224036458_ex10-15.htm,rag_rules,c020,Miscellaneous,30,Low,False,0.52
+sec.gov_Archives_edgar_data_1881767_000149315224036458_ex10-15.htm,rag_rules,c021,Confidentiality,30,Low,False,0.52
+sec.gov_Archives_edgar_data_1881767_000149315224036458_ex10-15.htm,full_system,c001,Governing Law,30,Low,False,0.8
+sec.gov_Archives_edgar_data_1881767_000149315224036458_ex10-15.htm,full_system,c002,Miscellaneous,30,Low,True,0.5
+sec.gov_Archives_edgar_data_1881767_000149315224036458_ex10-15.htm,full_system,c005,Miscellaneous,30,Low,False,0.8
+sec.gov_Archives_edgar_data_1881767_000149315224036458_ex10-15.htm,full_system,c006,Confidentiality,30,Low,False,0.8
+sec.gov_Archives_edgar_data_1881767_000149315224036458_ex10-15.htm,full_system,c007,Confidentiality,30,Low,False,0.8
+sec.gov_Archives_edgar_data_1881767_000149315224036458_ex10-15.htm,full_system,c008,Confidentiality,30,Low,False,0.8
+sec.gov_Archives_edgar_data_1881767_000149315224036458_ex10-15.htm,full_system,c009,Confidentiality,30,Low,True,0.7
+sec.gov_Archives_edgar_data_1881767_000149315224036458_ex10-15.htm,full_system,c010,Definition of Confidential Info,30,Low,True,0.7
+sec.gov_Archives_edgar_data_1881767_000149315224036458_ex10-15.htm,full_system,c011,Confidentiality,30,Low,False,0.8
+sec.gov_Archives_edgar_data_1881767_000149315224036458_ex10-15.htm,full_system,c012,Permitted Disclosures,30,Low,True,0.8
+sec.gov_Archives_edgar_data_1881767_000149315224036458_ex10-15.htm,full_system,c013,IP Ownership / Assignment,30,Low,True,0.8
+sec.gov_Archives_edgar_data_1881767_000149315224036458_ex10-15.htm,full_system,c014,Return/Destruction,30,Low,False,0.8
+sec.gov_Archives_edgar_data_1881767_000149315224036458_ex10-15.htm,full_system,c015,Governing Law,30,Low,False,0.8
+sec.gov_Archives_edgar_data_1881767_000149315224036458_ex10-15.htm,full_system,c016,Term & Survival,30,Low,True,0.7
+sec.gov_Archives_edgar_data_1881767_000149315224036458_ex10-15.htm,full_system,c017,Remedies / Injunctive Relief,85,High,True,0.8
+sec.gov_Archives_edgar_data_1881767_000149315224036458_ex10-15.htm,full_system,c018,Term & Survival,30,Low,True,0.7
+sec.gov_Archives_edgar_data_1881767_000149315224036458_ex10-15.htm,full_system,c019,Term & Survival,30,Low,False,0.8
+sec.gov_Archives_edgar_data_1881767_000149315224036458_ex10-15.htm,full_system,c020,Term & Survival,30,Low,False,0.8
+sec.gov_Archives_edgar_data_1881767_000149315224036458_ex10-15.htm,full_system,c021,Confidentiality,30,Low,False,0.8
+sec.gov_Archives_edgar_data_72333_000121390024034139_ea020415301ex99-2_nordstrom.htm,baseline,c001,Miscellaneous,30,Low,False,0.35
+sec.gov_Archives_edgar_data_72333_000121390024034139_ea020415301ex99-2_nordstrom.htm,baseline,c002,Confidentiality,30,Low,False,0.72
+sec.gov_Archives_edgar_data_72333_000121390024034139_ea020415301ex99-2_nordstrom.htm,baseline,c003,Confidentiality,30,Low,False,0.72
+sec.gov_Archives_edgar_data_72333_000121390024034139_ea020415301ex99-2_nordstrom.htm,baseline,c004,Confidentiality,30,Low,False,0.72
+sec.gov_Archives_edgar_data_72333_000121390024034139_ea020415301ex99-2_nordstrom.htm,baseline,c005,Limitation of Liability,30,Low,False,0.9199999999999999
+sec.gov_Archives_edgar_data_72333_000121390024034139_ea020415301ex99-2_nordstrom.htm,baseline,c007,Definition of Confidential Info,30,Low,False,0.8200000000000001
+sec.gov_Archives_edgar_data_72333_000121390024034139_ea020415301ex99-2_nordstrom.htm,baseline,c009,Limitation of Liability,30,Low,False,0.9199999999999999
+sec.gov_Archives_edgar_data_72333_000121390024034139_ea020415301ex99-2_nordstrom.htm,baseline,c010,Confidentiality,30,Low,False,0.8200000000000001
+sec.gov_Archives_edgar_data_72333_000121390024034139_ea020415301ex99-2_nordstrom.htm,baseline,c012,Limitation of Liability,30,Low,False,0.9199999999999999
+sec.gov_Archives_edgar_data_72333_000121390024034139_ea020415301ex99-2_nordstrom.htm,baseline,c013,Return/Destruction,30,Low,False,0.95
+sec.gov_Archives_edgar_data_72333_000121390024034139_ea020415301ex99-2_nordstrom.htm,baseline,c015,Definition of Confidential Info,30,Low,False,0.62
+sec.gov_Archives_edgar_data_72333_000121390024034139_ea020415301ex99-2_nordstrom.htm,baseline,c017,Permitted Disclosures,30,Low,False,0.62
+sec.gov_Archives_edgar_data_72333_000121390024034139_ea020415301ex99-2_nordstrom.htm,baseline,c018,IP Ownership / Assignment,30,Low,False,0.62
+sec.gov_Archives_edgar_data_72333_000121390024034139_ea020415301ex99-2_nordstrom.htm,baseline,c019,Term & Survival,30,Low,False,0.62
+sec.gov_Archives_edgar_data_72333_000121390024034139_ea020415301ex99-2_nordstrom.htm,baseline,c020,Confidentiality,30,Low,False,0.62
+sec.gov_Archives_edgar_data_72333_000121390024034139_ea020415301ex99-2_nordstrom.htm,baseline,c021,Remedies / Injunctive Relief,30,Low,False,0.8200000000000001
+sec.gov_Archives_edgar_data_72333_000121390024034139_ea020415301ex99-2_nordstrom.htm,baseline,c022,Governing Law,30,Low,False,0.72
+sec.gov_Archives_edgar_data_72333_000121390024034139_ea020415301ex99-2_nordstrom.htm,baseline,c023,Definition of Confidential Info,30,Low,False,0.72
+sec.gov_Archives_edgar_data_72333_000121390024034139_ea020415301ex99-2_nordstrom.htm,baseline,c024,Return/Destruction,30,Low,False,0.52
+sec.gov_Archives_edgar_data_72333_000121390024034139_ea020415301ex99-2_nordstrom.htm,baseline,c026,Miscellaneous,30,Low,False,0.35
+sec.gov_Archives_edgar_data_72333_000121390024034139_ea020415301ex99-2_nordstrom.htm,baseline,c028,Miscellaneous,30,Low,False,0.35
+sec.gov_Archives_edgar_data_72333_000121390024034139_ea020415301ex99-2_nordstrom.htm,baseline,c030,Miscellaneous,30,Low,False,0.35
+sec.gov_Archives_edgar_data_72333_000121390024034139_ea020415301ex99-2_nordstrom.htm,baseline,c031,Miscellaneous,30,Low,False,0.35
+sec.gov_Archives_edgar_data_72333_000121390024034139_ea020415301ex99-2_nordstrom.htm,baseline,c032,Miscellaneous,30,Low,False,0.35
+sec.gov_Archives_edgar_data_72333_000121390024034139_ea020415301ex99-2_nordstrom.htm,baseline,c033,Miscellaneous,30,Low,False,0.35
+sec.gov_Archives_edgar_data_72333_000121390024034139_ea020415301ex99-2_nordstrom.htm,baseline,c034,Dispute Resolution,30,Low,False,0.52
+sec.gov_Archives_edgar_data_72333_000121390024034139_ea020415301ex99-2_nordstrom.htm,rules_only,c001,Miscellaneous,30,Low,False,0.35
+sec.gov_Archives_edgar_data_72333_000121390024034139_ea020415301ex99-2_nordstrom.htm,rules_only,c002,Confidentiality,30,Low,False,0.72
+sec.gov_Archives_edgar_data_72333_000121390024034139_ea020415301ex99-2_nordstrom.htm,rules_only,c003,Confidentiality,30,Low,False,0.72
+sec.gov_Archives_edgar_data_72333_000121390024034139_ea020415301ex99-2_nordstrom.htm,rules_only,c004,Confidentiality,30,Low,False,0.72
+sec.gov_Archives_edgar_data_72333_000121390024034139_ea020415301ex99-2_nordstrom.htm,rules_only,c005,Limitation of Liability,30,Low,False,0.736
+sec.gov_Archives_edgar_data_72333_000121390024034139_ea020415301ex99-2_nordstrom.htm,rules_only,c007,Definition of Confidential Info,30,Low,False,0.6560000000000001
+sec.gov_Archives_edgar_data_72333_000121390024034139_ea020415301ex99-2_nordstrom.htm,rules_only,c009,Limitation of Liability,30,Low,False,0.736
+sec.gov_Archives_edgar_data_72333_000121390024034139_ea020415301ex99-2_nordstrom.htm,rules_only,c010,Confidentiality,30,Low,False,0.8200000000000001
+sec.gov_Archives_edgar_data_72333_000121390024034139_ea020415301ex99-2_nordstrom.htm,rules_only,c012,Limitation of Liability,30,Low,False,0.736
+sec.gov_Archives_edgar_data_72333_000121390024034139_ea020415301ex99-2_nordstrom.htm,rules_only,c013,Return/Destruction,30,Low,False,0.76
+sec.gov_Archives_edgar_data_72333_000121390024034139_ea020415301ex99-2_nordstrom.htm,rules_only,c015,Definition of Confidential Info,30,Low,False,0.496
+sec.gov_Archives_edgar_data_72333_000121390024034139_ea020415301ex99-2_nordstrom.htm,rules_only,c017,Permitted Disclosures,30,Low,False,0.62
+sec.gov_Archives_edgar_data_72333_000121390024034139_ea020415301ex99-2_nordstrom.htm,rules_only,c018,IP Ownership / Assignment,30,Low,False,0.62
+sec.gov_Archives_edgar_data_72333_000121390024034139_ea020415301ex99-2_nordstrom.htm,rules_only,c019,Term & Survival,30,Low,False,0.62
+sec.gov_Archives_edgar_data_72333_000121390024034139_ea020415301ex99-2_nordstrom.htm,rules_only,c020,Confidentiality,30,Low,False,0.62
+sec.gov_Archives_edgar_data_72333_000121390024034139_ea020415301ex99-2_nordstrom.htm,rules_only,c021,Remedies / Injunctive Relief,30,Low,False,0.6560000000000001
+sec.gov_Archives_edgar_data_72333_000121390024034139_ea020415301ex99-2_nordstrom.htm,rules_only,c022,Governing Law,30,Low,False,0.576
+sec.gov_Archives_edgar_data_72333_000121390024034139_ea020415301ex99-2_nordstrom.htm,rules_only,c023,Definition of Confidential Info,30,Low,False,0.576
+sec.gov_Archives_edgar_data_72333_000121390024034139_ea020415301ex99-2_nordstrom.htm,rules_only,c024,Return/Destruction,30,Low,False,0.52
+sec.gov_Archives_edgar_data_72333_000121390024034139_ea020415301ex99-2_nordstrom.htm,rules_only,c026,Miscellaneous,30,Low,False,0.35
+sec.gov_Archives_edgar_data_72333_000121390024034139_ea020415301ex99-2_nordstrom.htm,rules_only,c028,Miscellaneous,30,Low,False,0.35
+sec.gov_Archives_edgar_data_72333_000121390024034139_ea020415301ex99-2_nordstrom.htm,rules_only,c030,Miscellaneous,30,Low,False,0.35
+sec.gov_Archives_edgar_data_72333_000121390024034139_ea020415301ex99-2_nordstrom.htm,rules_only,c031,Miscellaneous,30,Low,False,0.35
+sec.gov_Archives_edgar_data_72333_000121390024034139_ea020415301ex99-2_nordstrom.htm,rules_only,c032,Miscellaneous,30,Low,False,0.35
+sec.gov_Archives_edgar_data_72333_000121390024034139_ea020415301ex99-2_nordstrom.htm,rules_only,c033,Miscellaneous,30,Low,False,0.35
+sec.gov_Archives_edgar_data_72333_000121390024034139_ea020415301ex99-2_nordstrom.htm,rules_only,c034,Dispute Resolution,30,Low,False,0.52
+sec.gov_Archives_edgar_data_72333_000121390024034139_ea020415301ex99-2_nordstrom.htm,rag_rules,c001,Miscellaneous,30,Low,False,0.35
+sec.gov_Archives_edgar_data_72333_000121390024034139_ea020415301ex99-2_nordstrom.htm,rag_rules,c002,Confidentiality,30,Low,False,0.72
+sec.gov_Archives_edgar_data_72333_000121390024034139_ea020415301ex99-2_nordstrom.htm,rag_rules,c003,Confidentiality,30,Low,False,0.72
+sec.gov_Archives_edgar_data_72333_000121390024034139_ea020415301ex99-2_nordstrom.htm,rag_rules,c004,Confidentiality,30,Low,False,0.72
+sec.gov_Archives_edgar_data_72333_000121390024034139_ea020415301ex99-2_nordstrom.htm,rag_rules,c005,Limitation of Liability,30,Low,False,0.736
+sec.gov_Archives_edgar_data_72333_000121390024034139_ea020415301ex99-2_nordstrom.htm,rag_rules,c007,Definition of Confidential Info,30,Low,False,0.6560000000000001
+sec.gov_Archives_edgar_data_72333_000121390024034139_ea020415301ex99-2_nordstrom.htm,rag_rules,c009,Limitation of Liability,30,Low,False,0.736
+sec.gov_Archives_edgar_data_72333_000121390024034139_ea020415301ex99-2_nordstrom.htm,rag_rules,c010,Confidentiality,30,Low,False,0.8200000000000001
+sec.gov_Archives_edgar_data_72333_000121390024034139_ea020415301ex99-2_nordstrom.htm,rag_rules,c012,Limitation of Liability,30,Low,False,0.736
+sec.gov_Archives_edgar_data_72333_000121390024034139_ea020415301ex99-2_nordstrom.htm,rag_rules,c013,Return/Destruction,30,Low,False,0.76
+sec.gov_Archives_edgar_data_72333_000121390024034139_ea020415301ex99-2_nordstrom.htm,rag_rules,c015,Definition of Confidential Info,30,Low,False,0.496
+sec.gov_Archives_edgar_data_72333_000121390024034139_ea020415301ex99-2_nordstrom.htm,rag_rules,c017,Permitted Disclosures,30,Low,False,0.62
+sec.gov_Archives_edgar_data_72333_000121390024034139_ea020415301ex99-2_nordstrom.htm,rag_rules,c018,IP Ownership / Assignment,30,Low,False,0.62
+sec.gov_Archives_edgar_data_72333_000121390024034139_ea020415301ex99-2_nordstrom.htm,rag_rules,c019,Term & Survival,30,Low,False,0.62
+sec.gov_Archives_edgar_data_72333_000121390024034139_ea020415301ex99-2_nordstrom.htm,rag_rules,c020,Confidentiality,30,Low,False,0.62
+sec.gov_Archives_edgar_data_72333_000121390024034139_ea020415301ex99-2_nordstrom.htm,rag_rules,c021,Remedies / Injunctive Relief,30,Low,False,0.6560000000000001
+sec.gov_Archives_edgar_data_72333_000121390024034139_ea020415301ex99-2_nordstrom.htm,rag_rules,c022,Governing Law,30,Low,False,0.576
+sec.gov_Archives_edgar_data_72333_000121390024034139_ea020415301ex99-2_nordstrom.htm,rag_rules,c023,Definition of Confidential Info,30,Low,False,0.576
+sec.gov_Archives_edgar_data_72333_000121390024034139_ea020415301ex99-2_nordstrom.htm,rag_rules,c024,Return/Destruction,30,Low,False,0.52
+sec.gov_Archives_edgar_data_72333_000121390024034139_ea020415301ex99-2_nordstrom.htm,rag_rules,c026,Miscellaneous,30,Low,False,0.35
+sec.gov_Archives_edgar_data_72333_000121390024034139_ea020415301ex99-2_nordstrom.htm,rag_rules,c028,Miscellaneous,30,Low,False,0.35
+sec.gov_Archives_edgar_data_72333_000121390024034139_ea020415301ex99-2_nordstrom.htm,rag_rules,c030,Miscellaneous,30,Low,False,0.35
+sec.gov_Archives_edgar_data_72333_000121390024034139_ea020415301ex99-2_nordstrom.htm,rag_rules,c031,Miscellaneous,30,Low,False,0.35
+sec.gov_Archives_edgar_data_72333_000121390024034139_ea020415301ex99-2_nordstrom.htm,rag_rules,c032,Miscellaneous,30,Low,False,0.35
+sec.gov_Archives_edgar_data_72333_000121390024034139_ea020415301ex99-2_nordstrom.htm,rag_rules,c033,Miscellaneous,30,Low,False,0.35
+sec.gov_Archives_edgar_data_72333_000121390024034139_ea020415301ex99-2_nordstrom.htm,rag_rules,c034,Dispute Resolution,30,Low,False,0.52
+sec.gov_Archives_edgar_data_72333_000121390024034139_ea020415301ex99-2_nordstrom.htm,full_system,c001,Confidentiality,30,Low,False,0.8
+sec.gov_Archives_edgar_data_72333_000121390024034139_ea020415301ex99-2_nordstrom.htm,full_system,c002,Confidentiality,30,Low,False,0.8
+sec.gov_Archives_edgar_data_72333_000121390024034139_ea020415301ex99-2_nordstrom.htm,full_system,c003,Confidentiality,30,Low,True,0.6
+sec.gov_Archives_edgar_data_72333_000121390024034139_ea020415301ex99-2_nordstrom.htm,full_system,c004,Confidentiality,30,Low,False,0.8
+sec.gov_Archives_edgar_data_72333_000121390024034139_ea020415301ex99-2_nordstrom.htm,full_system,c005,Confidentiality,85,High,True,0.6
+sec.gov_Archives_edgar_data_72333_000121390024034139_ea020415301ex99-2_nordstrom.htm,full_system,c007,Confidentiality,85,High,True,0.8
+sec.gov_Archives_edgar_data_72333_000121390024034139_ea020415301ex99-2_nordstrom.htm,full_system,c009,Confidentiality,85,High,True,0.7
+sec.gov_Archives_edgar_data_72333_000121390024034139_ea020415301ex99-2_nordstrom.htm,full_system,c010,Confidentiality,60,Medium,True,0.6
+sec.gov_Archives_edgar_data_72333_000121390024034139_ea020415301ex99-2_nordstrom.htm,full_system,c012,Limitation of Liability,85,High,True,0.8
+sec.gov_Archives_edgar_data_72333_000121390024034139_ea020415301ex99-2_nordstrom.htm,full_system,c013,Return/Destruction,85,High,True,0.6
+sec.gov_Archives_edgar_data_72333_000121390024034139_ea020415301ex99-2_nordstrom.htm,full_system,c015,Term & Survival,85,High,True,0.8
+sec.gov_Archives_edgar_data_72333_000121390024034139_ea020415301ex99-2_nordstrom.htm,full_system,c017,Exceptions,60,Medium,True,0.7
+sec.gov_Archives_edgar_data_72333_000121390024034139_ea020415301ex99-2_nordstrom.htm,full_system,c018,IP Ownership / Assignment,30,Low,False,0.8
+sec.gov_Archives_edgar_data_72333_000121390024034139_ea020415301ex99-2_nordstrom.htm,full_system,c019,Term & Survival,60,Medium,True,0.7
+sec.gov_Archives_edgar_data_72333_000121390024034139_ea020415301ex99-2_nordstrom.htm,full_system,c020,Confidentiality,30,Low,False,0.8
+sec.gov_Archives_edgar_data_72333_000121390024034139_ea020415301ex99-2_nordstrom.htm,full_system,c021,Remedies / Injunctive Relief,85,High,True,0.8
+sec.gov_Archives_edgar_data_72333_000121390024034139_ea020415301ex99-2_nordstrom.htm,full_system,c022,Term & Survival,85,High,True,0.8
+sec.gov_Archives_edgar_data_72333_000121390024034139_ea020415301ex99-2_nordstrom.htm,full_system,c023,Term & Survival,85,High,True,0.7
+sec.gov_Archives_edgar_data_72333_000121390024034139_ea020415301ex99-2_nordstrom.htm,full_system,c024,Term & Survival,30,Low,False,0.8
+sec.gov_Archives_edgar_data_72333_000121390024034139_ea020415301ex99-2_nordstrom.htm,full_system,c026,Miscellaneous,30,Low,True,0.8
+sec.gov_Archives_edgar_data_72333_000121390024034139_ea020415301ex99-2_nordstrom.htm,full_system,c028,Miscellaneous,30,Low,False,0.8
+sec.gov_Archives_edgar_data_72333_000121390024034139_ea020415301ex99-2_nordstrom.htm,full_system,c030,Governing Law,30,Low,True,0.7
+sec.gov_Archives_edgar_data_72333_000121390024034139_ea020415301ex99-2_nordstrom.htm,full_system,c031,Miscellaneous,85,High,True,0.8
+sec.gov_Archives_edgar_data_72333_000121390024034139_ea020415301ex99-2_nordstrom.htm,full_system,c032,Miscellaneous,30,Low,False,0.8
+sec.gov_Archives_edgar_data_72333_000121390024034139_ea020415301ex99-2_nordstrom.htm,full_system,c033,Miscellaneous,30,Low,False,0.9
+sec.gov_Archives_edgar_data_72333_000121390024034139_ea020415301ex99-2_nordstrom.htm,full_system,c034,Miscellaneous,30,Low,False,0.8

@@ -1,0 +1,251 @@
+{
+  "disclaimer": "Not legal advice. Educational decision support only. No attorney-client relationship is formed.",
+  "doc_flags": [],
+  "clauses": [
+    {
+      "clause": {
+        "id": "c001",
+        "text": "Snapshot-Content-Location: https://www.sec.gov/Archives/edgar/data/276283/000104746920001067/a2240819zex-99_d3.htm\nSubject: \nDate: Mon, 9 Mar 2026 16:04:00 +0200\nMIME-Version: 1.0\nContent-Type: multipart/related;\n type=\"text/html\";\n boundary=\"----MultipartBoundary--sMNA1KhKpjL2ANSp95mGIxPFVhfLPKxirAdGjIZjWb----\"\n\n------MultipartBoundary--sMNA1KhKpjL2ANSp95mGIxPFVhfLPKxirAdGjIZjWb----\nContent-Type: text/html\nContent-ID: \n\nContent-Transfer-Encoding: binary\nContent-Location: https://www.sec.gov/Archives/edgar/data/276283/000104746920001067/a2240819zex-99_d3.htm\n\nEX-99.(D)(3)",
+        "start_char": 0,
+        "end_char": 580
+      },
+      "classification": {
+        "label": "Miscellaneous",
+        "confidence": 0.35,
+        "rationale_short": "keyword baseline"
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c001",
+        "clause_type": "Miscellaneous",
+        "plain_english_summary": "(LLM analysis disabled)",
+        "business_risk": {
+          "severity": "Low",
+          "why": []
+        },
+        "norm_deviation": {
+          "deviates": false,
+          "comparison": [],
+          "suggested_revision": ""
+        },
+        "uncertainty": {
+          "confidence": 0.35,
+          "reasons": [
+            "LLM analysis disabled"
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c002",
+        "text": "8\n\na2240819zex-99_d3.htm\n\nEX-99.(D)(3)\n\nQuickLinks\n\n -- Click here to rapidly navigate through this document\n\n \n\n \n\n Exhibit\u00a0(d)(3) \n \n\n \n\n \n\n Mutual Non-Disclosure Agreement \n \n\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0THIS MUTUAL NON-DISCLOSURE AGREEMENT (the \"\nAgreement\n\") is entered into effective as of\nOctober\u00a021, 2019 (the \"\nEffective Date\n\") by and between Evans\u00a0& Sutherland Computer Corporation, a Utah corporation\n(\"\nE&S\n\"), with its principal office at 770 Komas Drive, Salt Lake City, UT 84108 and Mirasol Capital,\u00a0LLC, a Delaware limited liability company\n(\"\nMirasol\n\") with its principal office at 4143 Maple Avenue, Suite\u00a0400, Dallas, TX 75219. \n\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0As\nreferred to herein, each party when disclosing its Confidential Information is a \"\nDiscloser\n\" and each party receiving the other party's\nConfidential Information is a \"\nRecipient\n.\" \n\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0The\nparties agree as follows: \n\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a01.\n\u00a0\u00a0\u00a0\u00a0\nDefinitions.\n\u00a0\u00a0\u00a0\u00a0For purposes of this Agreement, \"\nConfidential\nInformation\n\" means proprietary, confidential and trade secret information of Discloser or, in the case of E&S, its Affiliates (as defined\nbelow), whether in tangible or intangible form, disclosed by the Discloser or its Representatives (as defined below) to the Recipient or its Representatives in connection with the Purpose (as defined\nbelow) after August\u00a014, 2019, including, but not limited to; (i)\u00a0business plans, financial information or projections; (ii)\u00a0development projects, products or services;\n(iii)\u00a0information regarding customers, suppliers, investors, employees, or business relationships; (iv)\u00a0scientific or technical information and ideas, inventions (whether or not\npatentable), designs, processes, procedures, formulae, improvements, technologies and methods; and (v)\u00a0reports, designs, specifications, data, works of authorship, computer software and\nfirmware, IP cores, flow charts, databases, and devices. \"\nAffiliate\n\" means any entity that Controls, is Controlled by, or is under common Control with\nDiscloser or Recipient; \nprovided, however,\n that none of Mirasol's subsidiaries or portfolio companies shall be deemed an Affiliate; \n \nprovided, further,\n\nE&S acknowledges that Mirasol's Representatives may serve as directors or officers of subsidiaries or portfolio companies of\ninvestment funds managed by Mirasol, and E&S agrees that such subsidiaries or portfolio companies will not be deemed to have received Confidential Information solely because any such individual serves\non the board of such subsidiary or portfolio company; provided that (a)\u00a0such individual has not provided such subsidiary or portfolio company or any other director, officer, employee or other\nrepresentative of such portfolio company (other than Mirasol or one of its Representatives, exclusively for the Purpose the Transaction (as defined below)) with Confidential Information and\n(b)\u00a0such portfolio company does not act at the direction of or with encouragement from Mirasol or its Representatives based on or with reference to the Confidential Information.\n\"\nControl\n\" means direct or indirect ownership, through one or more intermediaries, of more than 50% of a company's voting stock or other voting rights.\n\"\nPurpose\n\" means evaluating, negotiating and effectuating a possible transaction involving Mirasol and E&S or one or more stockholders of E&S (the\n\"\nTransaction\n\"). \n\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a02.\n\u00a0\u00a0\u00a0\u00a0\nNon-Disclosure and Use of Confidential Information.\n\u00a0\u00a0\u00a0\u00a0\n\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a02.1.\n\u00a0\u00a0\u00a0\u00a0\nObligations.\n\u00a0\u00a0\u00a0\u00a0The Recipient shall (and shall ensure that its Affiliates):\n(i)\u00a0keep all Confidential Information strictly confidential in the same manner it safeguards its own confidential information of a similar nature, but no less than a reasonable degree of care;\n(ii)\u00a0disclose Confidential Information only to its and its Affiliates' officers, directors, employees, individual contractors, and professional legal, financial, tax and, in the event Mirasol\nis the Recipient, banking advisors (all of the foregoing, collectively, \"\nRepresentatives\n\") who have a need to know such Confidential Information in\nconnection with the Purpose, and who have been directed by Recipient to comply with the obligations of confidentiality set forth in this Agreement; \n \nprovided,\n that a violation of such direction by\nRecpient's Representatives shall be deemed a breach of this Agreement by the Recipient;\n(iii)\u00a0except as provided for above, not disclose Confidential Information to any other third party; (iv)\u00a0use and reproduce the Confidential Information solely in connection with the\nPurpose; and (v)\u00a0not modify, reverse engineer, disassemble or prepare derivative works of any software, firmware, IP cores, prototypes, or devices provided by Discloser; \n \nprovided, however,\n that\nnothing in this Agreement shall restrict Recipient from creating notes or models solely for the Purpose. Recipient shall \n\n \n\nnot\nremove any notices or legends that appear on an original document or other item disclosed hereunder except for the purpose of creating notes or models solely for the Purpose. \n\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a02.2.\n\u00a0\u00a0\u00a0\u00a0\nExceptions.\n\u00a0\u00a0\u00a0\u00a0The obligations in Section\u00a02.1 shall not apply with respect to\nany Confidential Information that Recipient can demonstrate: (i)\u00a0was known by Recipient prior to receiving such Confidential Information from Discloser or its Representatives;\n(ii)\u00a0becomes rightfully known \nto\n Recipient from a third-party source not known by Recipient to be under an obligation to Discloser to maintain\nconfidentiality; (iii)\u00a0is or becomes publicly available through no fault of or failure to act by Recipient in breach of this Agreement; or (iv)\u00a0has been independently developed by\nRecipient without violation of the terms of this Agreement and without reference or access to any of Discloser's Confidential Information. \n\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a02.3.\n\u00a0\u00a0\u00a0\u00a0\nCompelled Disclosure.\n\u00a0\u00a0\u00a0\u00a0Notwithstanding anything in Section\u00a02 to the contrary.\nRecipient may disclose Confidential Information pursuant to any legal requirement, governmental, judicial, or administrative order or subpoena, provided that Recipient (i)\u00a0promptly notifies\nDiscloser in writing of such demand for disclosure so that Discloser, at its expense, may seek to make such disclosure subjec\nt\n to a protective order or\nother appropriate remedy to preserve the confidentiality of the Confidential Information; (ii)\u00a0does not oppose and cooperates with efforts by Discloser with respect to any such request for a\nprotective order or other relief; and (iii)\u00a0thereafter discloses only such Confidential Information as Recipient is advised by outside legal counsel is legally required. \n\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a03.\n\u00a0\u00a0\u00a0\u00a0\nNo Licenses Granted.\n\u00a0\u00a0\u00a0\u00a0As between the parties, title to the Confidential Information\nshall remain with Discloser. Nothing contained in this Agreement shall be construed as granting any license rights (expressly or by implication, estoppel or otherwise) to any Confidential Information\nor to any intellectual property right therein. \n\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a04.\n\u00a0\u00a0\u00a0\u00a0\nTerm.\n\u00a0\u00a0\u00a0\u00a0This Agreement and Recipient's obligations hereunder in respect of all\nConfidential Information of Discloser shall remain in effect for two years after the Effective Date; \nprovided,\n that following termination, Recipient's\nobligations hereunder in respect of Discloser's trade secrets shall survive in full force and effect for five years after the Effective Date; \nprovided\nfurther,\n that all such trade secrets shall be clearly identified in writing and offered in good faith by Discloser as trade secrets and prior to disclosure of which Recipient\nshall be afforded the opportunity to refuse disclosure of such trade secrets. Any trade secrets disclosed by Discloser to Recipient without notification of it being a trade secret will be deemed to be\nConfidential Information (and not a trade secret) for purposes of this Agreement. \n\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a05.\n\u00a0\u00a0\u00a0\u00a0\nRemedies.\n\u00a0\u00a0\u00a0\u00a0Recipient shall be liable for breaches of its Affiliates and any\nRepresentatives. Recipient shall cooperate, if requested, and use its commercially reasonable efforts to help Discloser regain possession of Confidential Information and prevent its further\nunauthorized use. The remedies included in this Agreement are non-exclusive. In the event of litigation relating to this Agreement, the prevailing party shall be entitled to recover its reasonable\nattorney's fees and expenses. \n\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a06.\n\u00a0\u00a0\u00a0\u00a0\nReturn of Confidential Information.\n\u00a0\u00a0\u00a0\u00a0Recipient shall immediately return or destroy, at\nits sole option, all tangible material embodying the Confidential Information provided hereunder and all tangible material derived from any Confidential Information upon the earlier of (i)\u00a0the\ncessation of the dealings between the parties; (ii)\u00a0the expiration or termination of this Agreement; or (iii)\u00a0upon the Discloser's request. Upon written request by Discloser, Recipient's\nauthorized officer shall certify to Discloser in writing (email being sufficient) Recipient's compliance with the provisions of this Section. Notwithstanding the foregoing, Recipient and its\nRepresentatives: (i)\u00a0may retain any attorney work product, (ii)\u00a0may retain copies of Confidential Information to the extent required by applicable law or regulation or professional\nstandards and (iii)\u00a0are not obligated to erase Confidential Information in an archived computer system backup or otherwise retained in",
+        "start_char": 580,
+        "end_char": 9863
+      },
+      "classification": {
+        "label": "Confidentiality",
+        "confidence": 0.9199999999999999,
+        "rationale_short": "keyword baseline"
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c002",
+        "clause_type": "Confidentiality",
+        "plain_english_summary": "(LLM analysis disabled)",
+        "business_risk": {
+          "severity": "Low",
+          "why": []
+        },
+        "norm_deviation": {
+          "deviates": false,
+          "comparison": [],
+          "suggested_revision": ""
+        },
+        "uncertainty": {
+          "confidence": 0.9199999999999999,
+          "reasons": [
+            "LLM analysis disabled"
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c003",
+        "text": "2\n\n \n\naccordance\nwith bona fide document retention policies, or security or disaster recovery procedures, provided that personnel whose functions are not primarily information technology, legal or\ncompliance in nature shall not have access to such retained Confidential Information. \n\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a07.\n\u00a0\u00a0\u00a0\u00a0\nNo Further Obligation.\n\u00a0\u00a0\u00a0\u00a0Neither this Agreement nor the disclosure of any Confidential\nInformation hereunder shall result in any obligation on the part of either party to disclose any further Confidential Information, enter into any agreement, license any technology or products,\ntransact any business, or provide any services. \n\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a08.\n\u00a0\u00a0\u00a0\u00a0\nDisclaimer.\n\u00a0\u00a0\u00a0\u00a0ALL CONFIDENTIAL INFORMATION IS DISCLOSED ON AN \"AS IS\" BASIS FOR USE BY\nRECIPIENT AT ITS OWN RISK. DISCLOSER DISCLAIMS ALL WARRANTIES, WHETHER EXPRESS, IMPLIED OR STATUTORY, INCLUDING WITHOUT LIMITATION ANY IMPLIED WARRANTIES OF TITLE, NON-INFRINGEMENT, MERCHANTABILITY,\nOR FITNESS FOR A PARTICULAR PURPOSE, EXCEPT FOR ANY WARRANTIES CONTAINED IN A DEFINITIVE AGREEMENT ENTERED INTO BY THE PARTIES. Notwithstanding anything to the contrary contained in this\nSection\u00a08 or elsewhere in this Agreement, nothing in this Agreement or in any definitive agreement will operate to limit any remedy Recipient or any or its Representatives may have against any\nperson for fraud committed by Discloser or any of Discloser's Representatives. \n\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a09.\n\u00a0\u00a0\u00a0\u00a0\nMiscellaneous.\n\u00a0\u00a0\u00a0\u00a0\n\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a09.1\n\u00a0\u00a0\u00a0\u00a0\nEntire Agreement.\n\u00a0\u00a0\u00a0\u00a0This Agreement constitutes the entire understanding between the\nparties with respect to the subject matter hereof and supersedes any and all understandings and agreements between the parties with respect to the subject matter, whether oral or written, but does not\nsupersede any other executed agreements between the parties. This Agreement may only be modified by a written amendment signed by both the parties. Electronic execution of this Agreement or any\namendment shall be binding. \n\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a09.2.\n\u00a0\u00a0\u00a0\u00a0\nGoverning Law.\n\u00a0\u00a0\u00a0\u00a0The validity, construction and performance of this Agreement shall\nbe governed and construed in accordance with the laws of the State of Delaware, without giving effect to conflict of laws principles. The parties (a)\u00a0irrevocably and unconditionally consent to\nthe exclusive jurisdiction of the Federal and state courts located in the State of Delaware over any disputes arising under the terms of this Agreement; (b)\u00a0irrevocably and unconditionally\nagree that any suit brought by either of the parties shall exclusively be brought in any such court in the State of Delaware; (c)\u00a0irrevocably and unconditionally waive any objection to the\nlaying of venue of any action, suit or proceeding arising out of or relating to this letter agreement in any state or federal court located in the State of Delaware; and (d)\u00a0irrevocably and\nunconditionally waive the right to plead or claim, and irrevocably and unconditionally agree not to plead or claim, that any action, suit or proceeding arising out of or relating to this letter\nagreement that is brought in any state or federal court located in the State of Delaware has been brought in an inconvenient forum.. \n\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a09.3.\n\u00a0\u00a0\u00a0\u00a0\nWaiver.\n\u00a0\u00a0\u00a0\u00a0Any failure by either party to enforce the other party's strict performance\nof any provision of this Agreement shall not constitute a waiver of its right to enforce such provision or any other provision of this Agreement. \n\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a09.4.\n\u00a0\u00a0\u00a0\u00a0\nSeverability.\n\u00a0\u00a0\u00a0\u00a0If any provision is found by a court of competent jurisdiction to be\nunenforceable, such provision shall be modified, rewritten or interpreted to include as much of its nature and scope as will render it enforceable. If it cannot be so modified, rewritten or\ninterpreted to be enforceable in any respect, it shall not be given effect, and the remainder of the Agreement shall be enforced as if such provision vas not included. \n\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a09.5.\n\u00a0\u00a0\u00a0\u00a0\nAssignment.\n\u00a0\u00a0\u00a0\u00a0Neither party may assign, transfer, or delegate this Agreement, in\nwhole or in part, whether by operation of law or otherwise, without the prior written consent",
+        "start_char": 9863,
+        "end_char": 13936
+      },
+      "classification": {
+        "label": "Miscellaneous",
+        "confidence": 0.9199999999999999,
+        "rationale_short": "keyword baseline"
+      },
+      "flags": [
+        {
+          "name": "unlimited_liability_language",
+          "severity": "High",
+          "evidence_snippet": "OSER DISCLAIMS ALL WARRANTIES, WHETHER EXPRESS, IMPLIED OR STATUTORY, INCLUDING WITHOUT LIMITATION ANY IMPLIED WARRANTIES OF TITLE, NON-INFRINGEMENT, MERCHANTABILITY,\nOR FITNESS",
+          "explanation": "Language suggests liability may be uncapped or broadly expanded."
+        }
+      ],
+      "analysis": {
+        "clause_id": "c003",
+        "clause_type": "Miscellaneous",
+        "plain_english_summary": "(LLM analysis disabled)",
+        "business_risk": {
+          "severity": "Low",
+          "why": []
+        },
+        "norm_deviation": {
+          "deviates": false,
+          "comparison": [],
+          "suggested_revision": ""
+        },
+        "uncertainty": {
+          "confidence": 0.736,
+          "reasons": [
+            "LLM analysis disabled"
+          ]
+        },
+        "citations": [
+          {
+            "rule": "unlimited_liability_language",
+            "evidence": "OSER DISCLAIMS ALL WARRANTIES, WHETHER EXPRESS, IMPLIED OR STATUTORY, INCLUDING WITHOUT LIMITATION ANY IMPLIED WARRANTIES OF TITLE, NON-INFRINGEMENT, MERCHANTABILITY,\nOR FITNESS"
+          }
+        ],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c004",
+        "text": "3\n\n \n\nof\nthe other party. Any assignment, transfer, or delegation in violation of the foregoing shall be null and void. All obligations contained in this Agreement shall extend to and be binding upon the\nparties to this Agreement and their respective successors and permitted assigns. \n\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a09.6.\n\u00a0\u00a0\u00a0\u00a0\nNotices.\n\u00a0\u00a0\u00a0\u00a0All notices under this Agreement shall be in writing and shall be\ndelivered by courier or other means of personal service, or sent by electronic mail or mailed via nationally recognized overnight courier. All notices, requests and other communications shall be\ndeemed given (i)\u00a0on the date of actual receipt or delivery as evidenced by written receipt, acknowledgment or other evidence of actual receipt or delivery to the address, and (ii)\u00a0upon\ntransmission, if delivered by electronic mail. Either party hereto may from time to time by notice in writing served as set forth above designate a different address to which all such notices or\ncommunications thereafter are to be given. \n\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a09.7.\n\u00a0\u00a0\u00a0\u00a0\nConstruction.\n\u00a0\u00a0\u00a0\u00a0Paragraph headings used in this Agreement are for reference only and\nshall not be used or relied upon in the interpretation of this Agreement. \n\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a09.8.\n\u00a0\u00a0\u00a0\u00a0\nCounterparts.\n\u00a0\u00a0\u00a0\u00a0This Agreement may be executed in counterparts, all of which shall\nconstitute one agreement between the parties. \n\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a09.9.\n\u00a0\u00a0\u00a0\u00a0\nThird party rights.\n\u00a0\u00a0\u00a0\u00a0A person who is not a party to this Agreement shall have no\nrights to enforce any provisions of this Agreement, irrespective of whether or not a term of this Agreement confers or purports to confer a benefit on such person. \n\n[SIGNATURE PAGE FOLLOWS]",
+        "start_char": 13936,
+        "end_char": 15566
+      },
+      "classification": {
+        "label": "Miscellaneous",
+        "confidence": 0.72,
+        "rationale_short": "keyword baseline"
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c004",
+        "clause_type": "Miscellaneous",
+        "plain_english_summary": "(LLM analysis disabled)",
+        "business_risk": {
+          "severity": "Low",
+          "why": []
+        },
+        "norm_deviation": {
+          "deviates": false,
+          "comparison": [],
+          "suggested_revision": ""
+        },
+        "uncertainty": {
+          "confidence": 0.72,
+          "reasons": [
+            "LLM analysis disabled"
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c006",
+        "text": "IN WITNESS WHEREOF\n, the parties have caused this Mutual Non-Disclosure Agreement to be executed as of the Effective Date by their\nauthorized representatives. \n\nEvans\u00a0& Sutherland Computer Corporation\n\n\u00a0\n\n Mirasol Capital,\u00a0LLC\n\n \n Signature\n\n\u00a0\n\n \n Signature\n\n Jonathan Shaw\n\n \n Print Name\n\n\u00a0\n\nJames F. Adams\n\n \n Print Name\n\n Chief Executive Officer\n\n \n Title\n\n\u00a0\n\nAuthorized Signatory\n\n \n Title\n\n October\u00a022, 2019\n\n \n Date\n\n\u00a0\n\n10/23/19\n\n \n Date",
+        "start_char": 15581,
+        "end_char": 16026
+      },
+      "classification": {
+        "label": "Confidentiality",
+        "confidence": 0.52,
+        "rationale_short": "keyword baseline"
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c006",
+        "clause_type": "Confidentiality",
+        "plain_english_summary": "(LLM analysis disabled)",
+        "business_risk": {
+          "severity": "Low",
+          "why": []
+        },
+        "norm_deviation": {
+          "deviates": false,
+          "comparison": [],
+          "suggested_revision": ""
+        },
+        "uncertainty": {
+          "confidence": 0.52,
+          "reasons": [
+            "LLM analysis disabled"
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    },
+    {
+      "clause": {
+        "id": "c007",
+        "text": "5\n\nQuickLinks\n\nExhibit (d)(3)\n\nMutual Non-Disclosure Agreement\n\n------MultipartBoundary--sMNA1KhKpjL2ANSp95mGIxPFVhfLPKxirAdGjIZjWb----\nContent-Type: image/jpeg\nContent-Transfer-Encoding: binary\nContent-Location: https://www.sec.gov/Archives/edgar/data/276283/000104746920001067/g224521.jpg\n\n\ufffd\u0010JFIF\ufffd\u0001\u0001\u0001\u0001m\u0001m\ufffd\ufffd\ufffd@MRLL_GRAPHICS:[ELEVATE_ENTERTAINMENT_INC]JAMES_ADAMS_K_SIG.EPS\ufffdC\ufffd\u0001\u0001\u0001\u0001\u0001\u0001\u0001\u0001\u0001\u0001\u0001\u0001\u0001\u0001\u0001\u0001\u0001\u0001\u0001\u0001\u0001\u0001\u0001\u0001\u0001\u0001\u0001\u0001\u0001\u0001\u0001\u0001\u0001\u0001\u0001\u0001\u0001\u0001\u0001\u0001\u0001\u0001\u0001\u0001\u0001\u0001\u0001\u0001\u0001\u0001\u0001\u0001\u0001\u0001\u0001\u0001\u0001\u0001\u0001\u0001\u0001\u0001\u0001\u0001\ufffd\u000b\b\ufffdX\ufffd\u0001\u0001\u0011\ufffd\ufffd\u001f\ufffd\u0001\ufffd\u0002\u0002\u0002\u0003\u0001\u0001\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\b \u0001\u0007\u0006\n\u0002\u0004\u0005\u0003\u000b\ufffd9\u0010\ufffd\ufffd\u0006\u0002\u0002\u0001\u0003\u0002\u0005\u0002\u0003\u0007\u0005\ufffd\ufffd\ufffd\u0001\u0002\u0003\u0004\u0005\u0006\u0007\b\ufffd \u0011\u0012\u0013!\u00141\n\u0015AQaq\u0016\u0019#\u0017\u0018\"2Xs\ufffd\b\u0001\u0001\ufffd\ufffd?\ufffd\u001cq\u0018P#\u0001D\u007f`\ufffd\u0011\u001f\u06d5%}\u3abea\n4\u05ae7\"\n\u0019\u001f^\u001a\u001aU\u0013\u000bU\u000bs@\u030b,b\u0016-\u001aRN\u0363#{E<[\u0006c])qz\u001e\n!`h\u0774\u001eED\"\u010c6tf7\u001cq\u001cq\u001cq\u001cq\u001c{\u001f+Q\u0015:nNbl[MfUI&-r\n]\u0014#?'Zk:I+\u001d\ufffd4cg*CP%o\u0007o 1n\u001dtu0dW\u01d5\u01e6v\u0016&]]NJ\u0015T\u0656\u0004yD,\u0472\u0095}Q0w\\U/\u0010c\u00072!(k=T\u0013+\u0015\u5b16)%\u0013Mi5B^2\u0005\u0524&2RO2.p\u071ewk\u0017e8\u0013*,\u000fJ\u001f\u0015C;m$\u9d2bKEV]Z\u0004I\u07f6c\u001e\u0012I\u000b\u045d'qd\u0359\n\u0003\u03c1\u0001\u001f98888\u3477m6\fiV .v\u0007H5E6%mZd:<}\u0007\u0016X\u0014*e*9k;Zt.n^U\ufffdgpkk\u000b.hJ\n9/Z\u000e!\u007f\u04c7\u001by3\u001e\u0015Z1+Uv,7P(x(x\u000f?\"\"#\"#\"\"\"\"\"\"\"#E9Z\u001f\u0004`\u03db.\u0012i\u0001NDSnH\u0017I^?L[\u001et>\u0002#\u0012a\u0004\n\u0003.>\u0012* 6LD;\fM\u001cV5ur\u0015`-9j9\u0019CF~p\bR6\u00189\u00060e\u001c\u077a\u0014r4\u001dfz\u072dk\u0211\u0019&\u0014LEAPh_\u0012n6\u0290gh3Ii\u007fmT'a'K2jvii?Gj\ufffdO\u000f\u007f\u001c>\u0012\u000f\u001eK<>\ufffd?\u0001\u007fC)?P\ufffdn=e\u0001\u0007$8\ufffd\u007f\"a/\u0003\u0011\u000ey\u001cq\u001cq\b\u0001\u001f\u001f\u0001G\u0003\u020f\u000f?\u0007bj\u035583YSq\u008ek%}Y-cY&(,6A\u0019\u001f\\\u05c2\u0016M\ufffd\u0003\u007f##<*\u001bPSZX\u0005:,Y*\\\u001eD\u0013\u0002\u001cI*X\n<\ufffd4N *\u0012\u007f\u000f\u0006\u0533V;Cj'4\\\u05cej\u0018\ufffdCd*}nU\u05ad^\u05e8p?4Ol\u0392*d'\u0012sqW\u0017H\u05edp\u0429\u001d~sb:N7ZN3\u0019u\u001e?7[\u03c5j.&\u02f9\u0567S\u0088\u0006\befFl\"\n&%Y%\u0013Q\u0015\ufffd\u02a6g)Q%\u0004TMR(Q\u0012&bSD)\"\u0002\u00025s}j.\u001ba)6z\u0011\u001bAsq\u0002+\"E6sX\u0005Rc\u0005]3v}\fq\u022eY5A\u0006y\u05fd\u0367Dz}vPd \ube39Boa3\u0003B3\n0b\u0010\n\u0555_\u0237E\u0011\u000f[4^!u9Qa\u0746d3\"&XGh\u0001\u0018\u0312q\u001b\"\fD\u0011ZQK`\u034b;M\u0014/U\u04ee\u0012w6>cA7wvR\u0005\\5\u0017\u000f9<\u06e5\u001d\u0019%WY\u0189{uL\bX\n\ufffdD<\b\u001f\u001f\udb74\uddbdm}C\u0689g1\u000f\u02dbIGPw!:Um|UvZ aLrI#r4XPz\b&\u04d5N~!\u000ena0f$\u0017dZ\u068b\u001d.=)\u0015%E\u001c@IEVdx m\u001a?uKd18W;\u000e\u050cBqJ\u03d8kTE\bSk\u05968z\\R\boZ)lWg|\u05e5y\u007f\u001d\u072fb=\fbEz\u000f\u0018g_i;\u001cRx2\u001eglt+<\u0343\u0017\u000b\u001e\u0011 0z\ufffd\n\u001b7n\u01c2q\u047cx_q%\u0001V/R\u2d0d\u0016Dd$\u0004Vd89\u0394T\u05fc\")5y]Z\u001dVc\f/o\u0016imZ6\u0006VfQ\u000eqIuWj\u0010p\u001f~g.1\u000b\npQN\u0019\u007f+az\"\ufffd\u0015F=Mj^ pX*\u001ef\u07d3\"l,c\u0013eIXT+5:=\ufffdD\u000b+\u0011\u0016$@\u0010q\u00faz\u06fdP8A>^l7Y1,[Vk%7mg|tX)Q\u000b:\u0014h\u0474G\u0773H\n_[4k;}\u001689o6\u0019o(\u536c$T\u000434x'gdYJHUcLvBs6G6\u007f2um\\3I!@|gt\u06ba\u0364\u02b0B\\ #oY\u0015\u0016iH\u001ev_R\u0019FH;X\npCc*9\n\u0640\u001c?By<\u01f9Vf_F7\u0006\u001f\ufffdji\u0775 \u0014\f%B)\u0014\u0014M\u0015PI#R\u0016\u0091\u0010[2PD)clu\u001a\u001cA\n\u0302\u0018\u023eb@ln\u0012))G#M.\u0345\u0773~\n/i+\u0759br6xT}\u05007AUe\bR&c\u000fG[\u007f}=\nv*DZ/=tlEZU\b$ff\n\u0006*\u000b2\u0004ES\u0007f\u0010\u0010\u001f\u03ed=V9 TEf\u00025M=J>29d\u0001W/\u001e;rSAD\\;\\|\n\ufffd\u0608\u0004\f\ufffd!\u0010!\b~\u001fa\u000f|3\u001c\u049b\u0019xk0~Nl]=\u0015e\ua5052\u0004C\u0012\u0002U[$\u37b7i%\u0015$b8c\"\u0373C&~q[\\\u06bclE:tOa\n\\1A8y\u001b\u001d\"K \u0228.bbH\\\u000f=*n\u0011]?*\u077aM\u0006\u0015@L\u007fiH\u042f)\u0001FByt _MqL=h\u03bfa\f_Ti\u0007\u001aV\u001a\u000e\u001aUl[_):e66K(f9K!JO%Zj\u000el\u0011TZ_dkF\u0016\ufffd\u0490km'\u0007\u0006RZ`$q5F\u001a*`\u04ce*'\u0017,S\u0011(\u0004JV\u0156z?St\\R+r\ufffd\\\u071e lGrf%\u000bE#]MyC\ufffde#Nv\u0445\u0016m;c \nc$e1D\\&\u0002\u00104~n\u0013(&\u1ea4\u0003$kNu\u007fT\n!@?~@\u000f\u001c<\u03c0\u007f\ufffd\u0012\u007f?\u00060\u007fC\u000f\nd\u001f\u001e@G>K\u001fH\u0010_#>\u0004Cx\u001f\u0002!\u0011\u001cq\u0002 \u0001D\ufffd\u0003#\u0001\ufffd^T6Caw[F\u0006>\u0003DNm\u060fQ\u013a\u000e;\u052bU\u0013i\u0007\u001e*\u029f\u001aRsw\u0276w0+ >uf}\ub78d=/\u0017w>\u00053fm\u000b`Y+<(K\\Zo\f\u019bCcL[\u0019:\u059dOG&-E%u\u007f\u0014\u00144C;tDdN\bQ1Y!}F\u0014_P|\u0010\u0001\u000f\u0002\ufffd ?,\u07f4Trv\u007f{SutI]\u00af]>\u0019\u000709\u0016\u0018]\u00be*F]w\u0010\u0004HyI&mk5,0,AFpS\ufffd\ufffd\ufffd\ufffd|\ufffd\ufffd\ufffd\u0007\u001f\u0001\u001cq\u001cq\u001cq8VnW{$\u0005>X{;eZf#\u057a$j\u0007u#3=;.T\n1rT\u044ey=D\u0016ZBIY\u04a5xY&YT\u001dU\u03dbs!Uq^s_of\u01da\u001dYi^'o$\u000f#c9\u0017SmX5i\u001aF\u0019\\W5\u0007jMO\u01efWvKB>\u014b(mc6b\u014bd\u0019f\u00044h\u046aEAV\"h6l\u0012\u0011\u0016M4PHM$BC\u0001DD|\u0001D\u0011\u0002\u0018\f?o\u0001~\u07ef)w\nz\ufffd\u051b\u0018S\u001f`\u00c4ZW\u376e!3\u01de@Ur9\u0015\u0010\u0234\u0010j'#M)&\n.#8889\u0014w\u000fwuwB$k\u06bcYvUX\u02ec%hhu\bnE\u000ft\"+\u046fj\u00153\b\ue7e1~\u0002=x!\u001d=CR-=z+ddh\u001b\u0013Ubh:\u05a5\u0011HFAYs@&,1\u000f\u0016QN?\u000e\u0010\u013a\u00f6\u001a*\u0004\u0559K\u0015^}\u0012\u06d1np7K\u0017\u04ac\u0552Q\u0649Y\"MS5.z~q\u00132k*m[\u000b(>=F\b;nl[N8Z/.1kY+c\uf1b2Zo\nFr+UT\u0019W'\u4338;Y\u0005l \u0014\u00ba\u022a@u\u00139K\u001f\u001f>=_`0 D\u007f_0\ufffd\u0308\ufffd\u0007qo*\u001d#\u001c\u079br\u00167demnlGj65z#l\u007f\nGD4k'*\u0014\u0002^G\u001cq\u001cq\u001cq\u001cr\u0002mW'wlmv_m\u0012DO\u040dgCYn]Vfk%y\u0219\u0007)\u0002\u0005E%E!\u5e3fm\u0004\u0088XJ[\u001d\u0362ZySx*M \ufffd',`\u0492\u0019\u0013\u007f ]w9Uy\u001e8\u0019\b<>\"\"#DG\u0011\u0011G.\u016cZopwv\u0003grl8\u001fM8R?\u04a9~E\u4aceU;?J\u23e5eCCU\u07a6\u000bf\bHu71n6w\u0010cx\u000fn~\u000b\u0011>>|t]fJ%\n:*y0yb}])\u02ba^[$^a*rhx\u0018hk(1u\u06b9R5\u00100\u05b1'}\ufffd\u0010v0j\u0017\u001f\u001fYHX-^Z\u001c+vd\u0006\u0017\br\u0005Ro\u0429H\u0018}{\b+D{\u03ed\u0007\u06b9/\u00139\u001fcwkn\u066c\u14aa\u0016{[c('5_T\u0001$\u0191HxAX_#\u0018\u011e53\u001cq\u001cq\u001cq\u001c\n------MultipartBoundary--sMNA1KhKpjL2ANSp95mGIxPFVhfLPKxirAdGjIZjWb----\nContent-Type: image/jpeg\nContent-Transfer-Encoding: binary\nContent-Location: https://www.sec.gov/Archives/edgar/data/276283/000104746920001067/g649321.jpg\n\n\ufffd\u0010JFIF\ufffd\u0001\u0001\u0001\u0001\u0001\ufffd\ufffd\ufffdBMRLL_GRAPHICS:[ELEVATE_ENTERTAINMENT_INC]JONATHAN_SHAW_K_SIG.EPS\ufffdC\ufffd\u0001\u0001\u0001\u0001\u0001\u0001\u0001\u0001\u0001\u0001\u0001\u0001\u0001\u0001\u0001\u0001\u0001\u0001\u0001\u0001\u0001\u0001\u0001\u0001\u0001\u0001\u0001\u0001\u0001\u0001\u0001\u0001\u0001\u0001\u0001\u0001\u0001\u0001\u0001\u0001\u0001\u0001\u0001\u0001\u0001\u0001\u0001\u0001\u0001\u0001\u0001\u0001\u0001\u0001\u0001\u0001\u0001\u0001\u0001\u0001\u0001\u0001\u0001\u0001\ufffd\u000b\b\ufffdY\u00012\u0001\u0001\u0011\ufffd\ufffd\u001e\ufffd\u0001\ufffd\u0002\u0002\u0003\u0001\u0001\u0001\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\b \u0007\n\u0001\u0005\u0006\u0004\u0002\u0003\ufffd5\u0010\ufffd\u0001\u0004\u0003\ufffd\u0002\u0001\u0001\u0006\u0004\u0005\u0004\u0003\ufffd\ufffd\ufffd\u0004\u0003\u0005\u0006\u0007\u0001\u0002\b\ufffd \u0011!\u0012\u0013\u0014\u00151Q\n\u0016Aa\u0017\"q$\u00192\ufffd\b\u0001\u0001\ufffd\ufffd?\ufffd\u01cf\u001e<91\u007f99y\u0004k\u007f\u0011,7Z]w|\u001bd\u0011 ,>!4\u001bhmh~\u0015L\u001d\u0336TO?cM#\u0001]mM\u00d3}lU\u0011\nxtn~%y4OUIa&Ek\bR\u000fK(W\u0018D6 6vk\u007f{T\u0003K\u0019G\ufffd\u0006\u0015\u0005~L\u0307n\u02a4\u0015\u001cZ\u0015:GR\u0004{3*\u0016a0v\\'\u0003vm\u0007=\u0011\\>7pp\u007fXu\u0131\u001c\u000f/-3XJQ&qwHw\u0004\u0013HwbZ@dp*\u0013;\u01cf\u001e\n\u037c bG]PMf.Q\u6186\u076e!\u007fpR[P]4E{\u0005W\u0019&3\u06be\ue0a48k\u001bsn+Y?o\u07a9@y\u027fR4V\u001fIta\u001c%,r[uQK\u04fd9\u0003vj i\u0014RT\u019c\u029aH*]&e\u9b227\u001fCnVZ\u000bMg{8\u0005en9\u000bmh\u00037h($1}1c\u001f1}\u007f\u007f\u0013 \u001c3wWSY s\u0005I\u000e)\b ;ba\u0003@-M\u0014\u007fM\u001cX cmWo;\u9ed1\u001e4\u00bbV\u000f{z`t\u0005\u0013^6\u045e?h2\u001b\u001aE\u000fiCm!aH;6\u0116\u0002 \u0018&c\u0019u\u0010)=i^\nvcx(IdlD.\ufffd\u01cf\u001e?O\u03d4D\u0004b\f0E\fD\u0015(SD\u0004\u0018d\u0013U \"zms\u03ffzvmJ6W\ufffd)uU\u0214,:n\u0016\u0012$$h\u0006\u014c{S0\ng|c]\u001aki\u070c+r'bwwjEAhA6 pICvwMY\u0007tA\u0015.=\u0004{\u0005m!\ufffdT=Z\u000b\u001d\u0002^n%;5R[7\u0575\n\u0013CF@3\u0014\ne!b+5)( \u0005O>\u001d\n=wK\u000b_fMm\u0016[1=D\u001c\u0005S\u0019tn\u0004]7\u0015>\u001b=Sbl\u0461{:[]d@\u00184\u0334e\f\u0002\u0012l]1;\u0006\u001c27#\u6e7b\u001e\"\u0006* UO\u001a*\u0015=_voZ7\u00148:4\f\u001b{\u001e\u07cc 9!tD}C2\u0001\u000fx[mMlzd&\u012f\u0017\n_H\u07298c\u0577a\u077d6\u03bf-P\u0011\u0002]&v,\u0010A\u0410u2-\u0015J9 m\u00128;e\\>1c\u00181\u0018?9\u01cf\u001ex[2\u03af)\u0014\u04b5\u645a\uee42\"M/\u0001G1@te9<<8a\nsz\uca98r\u0014DQXEJo>\u0498&v\ufffdY\b*\u0005sy\u001d\u0450\u0013\u0004:\u0003T\u001drFx\u001a=h#Knw2\u060c\u0002\u0005Fo&\u0011j3]$9'\u0308Tx,&_*K{&@K\u0418\u0012f.Tu!}wUs\nRS7\u01df)\u0186\u0019N\u000e\u0005\u000e\u0010 f\u0018Z\f(I$h\u000e8\u89fa\u02ee\"Zn\u879bm}+\u00147Q.-\u0005c<\n\u001fh<\u001d:`d\u001b\u0018t(RuSIm\\%l\u0010\u000eLh)c\u00181?|?99s\u001e\n{9\n=*=C\u0012\u007f\u0246SE\u0016!\u0016@7UsZG\u0018Y#`6\u001c`\u000b\f*mZG[wn\u1e376z\u0333T%;\u0002il+\u001e$\u0015G\u000e\u0019\u0019XO\u2da5\u001f\u0005<\u007f+(\nrf\u001di\u0004\u0015w+olDq\ufffdo]s\u019a??\u0018~>>\u007f\u0377~>~\u001f?\u001f>~A \u001bk$oIEZ\ufffd&\u0003|J6ql\u001a(S+M{H4o1\ua483c\u06adn\u0010\u001a\u000bF ,\u00076#O\"K\u007f[\u0015r-vP~%.\u0006\u00cb-*@(cSSc\u001bk{33xMM-!\n 77\u0002\u0004\ufffd\ufffd\"\u00102)\u000e2 &\u93ff\u01cf\u001e\nFx\u077e<0({(o\\c\\c\u00181\ufffd\u93e6>s\u01dcg83\u007f\u0018s\u00183|\u0007s\u0004ey\u000eWLT_m]9b2A`T\u001c\u001d\u001e3\u066d*JSZ\u0104zntP\u0014{gZ8^O$\u00105\u001b'xz=SVO\u02f8WVJ\u0005$]\u001c@2R\u0019a\u016bQ\b\u0018bf1\u0018\ufffd\\\u007f nG6PR\b\u0004J*JWjZ\"^{?F$saZN#S\u02426}\",\u001a\u0006\u0012'191\u001f\u001fLqg\u0004uO\u0010\u001bA^r\u0003(-lL9\u0019K;<`\u0765cC\u0005/\u0019\u001bkt}/\u0018n6 $J\u009c!\u000e`D&`f \"\u0016&\u07c9\u0014OUP$r\u0010W\u001dtT\u0016K}U-Q=msg\u075dM%/ij#~Ikzf5g\u0797\fR4ut!5C!-\u000f:]D\u001cMs.Pl\u0019oc1w\u0134q\"M\u03b0)9|_*\u0010QG\u001c\f^\u0016-6FQtrOw\u05c9&\u0017\uefb5yOnzM\u000e2)\u0191Y\n\\\u079eIk\n%Mqm@\u0004m5,yK\u0011C\u0018+T4zQ^OSv*$oN\u0118\u0015\u043621\u0011,r\u0019S\u06c02%\bT\ufffd\u0119\u0006Xu2=\u001dVkeW5c\ua6ba\u0014\u000f\u0012yvvF7TGeU1\n\u0003\u001d\u000fY\ufffd\u001a0\u0152Cl;\u013d)\\\u0017/\u001e\u0015vYt\n\u0007l\u000eAop\u0010\u0015A\u001aem\u034eK\u0016 j$NE+@\u0743rm\u0006^y93\ufffdk666S\u0018 \ufffd\u0012\n\u0012a\u0196N\u000e b\u000eQ\n8\u89fa)z+]3\u001cF[fX \u0019\u0362G\u001fV\n5\u050ch\ufffdjU*\u001ep@<9\u001fc\u06d6B=\f\u0735jgT\u0012iVTU\u00178\n2\b\u0500\u0015[[K\u0019I]5XuD\u0006\u0004F\u0011\u0003\u0018:\u000bKq\u000f\ufffd\\\u0002qn\u0019\n\u0344D{K#k7\u0018\u001e\u001bo\u0005fK8\u0015\u0003\b`\u0002\u001bd /e4/q{MGU\u0007kh>F=g\u0004\u06felC0Ns/dQ0:*cQn)\u0018\u06caxe\u001eN\ufffd\u02ae2 \u007f!w'ipH\u0007\u033eal*5\b\u044e\u0002;R{aX|-5A\u0017#6\u001c\b\u0011~5ovu\u001bb\u0573\u001ec\u001ew\u0019N\u000b\u0015Au(#7+ mTo\u000b\na(G&e\u001c\ufffd\u0003v\u001c<}\u0007|dC\u00187A\u0017\u001a2mUK.aCJ\f\u047d'#k\u001c^\f[,,M=]o[!\u02e7\u001c5/\u0002\u00041\u0005UR\\}U\u0015\u001f\u0013\u0743b\u007f\u0007\u0005u~O\nf3c8~1\udb3c\udfdc\u01cf8q>qg\u001f3\ufffd\u001es\u0007nMKf:}\n>V\ubf6c\u0552vSdWd\u0013u[G\u0018\u000e<{6\u0007\u03af;F\u0007oQtrz/~t?\u001f\u0019\u0018l}\u007fmm_9~~x~Q\u02bcm\u000bK\ufffd\\c'd:?\u00121%\u0007mwAR\nz8\u000fM\u07c9\u000e@*7)1\u001bm/}\u0018-\u001dy\u00d0NSk\ufffd+Kk\u0003\u8663vwS\u074f)LY\uf9ed=8YB\u06936\u0016%q9Jo[\u000f\u0014\u0016\ufffdAF,z\u001d?k\u000e6\u0766VgPXc{Ru:>\u0013\u0010^dD~76)y\u0001L\u07f4>]~xW-fKM}Y^\u0246\u001cRS8Zd@\u0019PCZ\u0011~meB\u001a\u001e\u0007,\u01b9wyxG}wMso\u007f E^$\nla}\u0004\u0018,M\u001b\u0592#mw\nC\n\u0013L\nr\u000bc\u0006\\KHly)\u0007z#4 .`a|\u07fe8\ufffd\u000e\u7732d\u0014,0Xw\u007fM\"L=* gmosnyvl19<^_j==k~V3y\u001bH\u001b7+\u0331l]EK6\u0408Lp-\u0013Y\u0001m,I$!\u001d\ufffdj%\u0001H\u001b;m\u0001; F*j\u0005\u001f\u001cqF-3\u0004j%\u001et\u001b_\u04cf\u0006%\u0012d\ufffdM]N8@7W}6$\"Eq\u001eq;{\u0763b?b]\\l\ufffd]N\ufffdaBb4k)oo\u0001F\ufffdSq[!:\u001b2qq(\u06d3xZ\u0270\u001e8FjYo\ufffd~E^P)S.w^S\bFp\u0010E%\u00049C\u001d_!rFzvDlRcs$.qZ\u014eHZ\u0016[/W`I\u000f\u0012f\u001c\u0004J\u0011s,eW\u0018\u001b!Moyw\u0019\u069dB\u0376|I\u03e3:^\u0006\u073c\u07ff-uN3XUA4 \u0003\u02882*\fin%\u0001\u0018\u0002:Q\u063fdNc\u0172#p\u044b\u000fRnWc;\u0013Y\u0013n5-\u0019n%Y\u00f0vVq+wG}j(w'z\u03a7v+:3`aFY\n0Kh\u000e \u030f\f\u023d`\u000ei\u00ecS\u0092_`y\u07f2\u03f8G\u0018\u0017os0?nb\u00060Vg\f\u001dF`\u001br\u0016{e9'0\u00ca\u000bz\u8298F\ufffd\u0013?AJ_T-?]\u0011\u0002\u0018v#l.B.$\u0016Z9?j\u0176\n\u0017d@/a L\u0015$\u0010\b'd^9ws!\u000bm!5+-X8ak!F\u0003m{zs1\u00034K\u001a\bV\u0001neoKb~|y\u0007puQ;\u000el9\u001c9\u046aO\u001eKj\fB\ufffdT\n]Sa6d\u001dt\u0007vRTsEca\u0016\u07a1H\ufffd#Wn4Mh_JrK/\u0015?\"-\u0574A~\u023aZl?Z\u021a8n)&\u0513\"#T Rr}\nX\ufffd\u0002.SL;\u000e6]Q\u06ccB?\u0016cBCM\u0005 \u0019]\u0017Itb5O\u05fe{\u0013\u001efv}?\u0617(\u0012\u0013+qm0\u0797\u0018\u00147!dc\u001fOL\u001bC#q\u000bA\f\u0014-C\u03fb~5^\bZ)9j\u0007&*\u01efGwU1m2'6}%\u046aF\u0001\u001e\u0018\\&|3\u0016\u0013\u001cdn^x\u035fX3Gn/z\f|Xkh&\u000b5v$\u043e3\u0005'\u001aEZFT!n\u0736m /\\n\u0002p\u0007 L|.-~Huk\u001aqsZ\u001b\u0019-\n\u0017\u000b\u0470iv$\u0013#[l+\u007f/\u0013K\u00bcSK*a\u001em\u000bvy\u001eli-k/ROA5i,dS>tq\u001av >\u05e9}\n\u03a7TJs37}U*5\u0003,M\u0019\u0576h5JM.N\"Qf\u0463\u0018\u0011P\u047a'\u0016^z\u0791\u01333\u001aby\u0597\u0005\u0568; \"A\u0373E\\w\u0006\\PL\b1 Y]%S\n:K'\u0010A\u0017a1\u007fU\u06b5\u0651\u0458nHzO_tK;l\u0017V[W?&\u012as|wG6b'Z.=\u0722[9$f|\u0002\n\u07bbzQ\u0013\u05e7\n\u06e1z\u001f_rX\u0012\nGX4Zfv)c*{\u0594U;\bhEs\u001ffR@\u04594\u0014$k49!\u0013\u00e6}Mo]\u021f\u000ep9ZY \u001d\ufffdhu})r4iV\u03b6\u001d\u00063`\u001a\u036e\u007f\u0017\u001fuM9T0=v?p\u07e3N\u0015DZ\u0001C4\u001fmw,l'\u0014d\u0013D^mk\u0691%FK\u00065kt[\u001d jUf\u0011Ud7O\u0018p[jJyg\n+3t\n}'eY3)Ni\u1142q\u018a\u0007\u0015\u0018\u06f3\u0129\u001a8\u0791\u0014\u0014+\ufffcNkdV^-+n/\u001d\u0512M\u0007\"W\u0004\b\u040aG\u0016Y,fIo\b\u001bG%\u0007M#M\ufffd!Z\u001e\u0264\u001bWaI\u01ff\u000e51\u001eS(GZ\b\u0019\u0017{@d\u001bXw~\u001dVuO\u0011E'kJr]\u0004_q\u0011ni=VYe]:\u001d=F,LKo\u0081lU~q?\u0019\ufffdo3\u0019\u001f<} \u001cc\uc392jR\u00149\u0004(bK\u001a7\"7\n0$uSr\u0006DFx{\u01120\u0004{q%[vvKK\u0006Tt\\A5\u001b7y b\u0011Fg\u000b\n?\\*hQbIKV\u04178q\u048a;IH\n7S?r]6\u064dRQQeV\u0003\u0354A'\u075dg\u001f\u02f3\u0473(F\\Gc3;\u001b\u00019\u001fl;18^E^Iz\u007foIrv\u4c9c\n~sS}q\ufffd\u001bc_ytEa\u0016\u0005_]M\u00139e\u0010hAswmUtQMsk~6\u63bbFJ}Vz\u012d\u0004zY/:\"\u001e\b%?\uebd5-\u0655I\u024eG\u007f\f$0=M\u00123\u0018Zk0UUL1\n\u05c0y\u001aZkMW\u03f3\u0019'#`\u05ed\"\u0018)Udw\u033cL+(FggP!\n\u001e\u0013\f\u0001^8\u001f\u064dxn\u0007\u00165\u050fL\u0002c]mNU\u0001II\u38bb\u6965\u014c\u000e3%:x6Fqc\u0017j5zmoVp\u001eA \u0015T\\c\u064e\u001c5Z\u06d9Er Z6`g)wWRTBb6>G+\u0415J%\u007fW\u001cd=\b7I`{\u0017hZ\u0011YpR\udb3a\udfc1k.d\fAw\u00107\u000f\u0011\"-E%\u0014\u001ct\u0015Nz;h\u0588~}tM\f)\u0016G\u06abZ!(2\u0006Nd^A'\u000f:\u000f\"$4\u6ff0\u0013J\u38f1\ufffd\u06f1\u0013w(GtE4l8\ued61\"[\u000et\u0016}ciG2Am2V\ueafcw'w1\u0012\u000f?\u0015nn\u02cb\u000b\u03c2-~G\u0604\u001a\n,>e\u0011g6K4SUn>a\u0001YO.f\u0010\u0015txUWcE5P-\ua7ab)|{/!s\u05a5jy8MF\\4yW\u000bF9\u0159 \u001d\u0218-\u0001Ll$oOcy \u733c/D?c\u001d*W\ufffd\ufffd^\u001a\u0006mV!\u000bE!N\u000bE31\u0661(hSNn#\u001fY.\u0320}C\u001aMzC=\u0019HDUg\ufffdL`\bGICN3\u00f6\u0012\u0018+dE9j\u0013w!;2+/.ni\u0005rT_ZbI#\b$\u03a0\u000eKnq\u00075\u06f8'gMLE\u00843\u01faZwou{S\u000fX\u07beeqk@.\fk_b\ny2eo{~Z\u001ce6\u0007=1<<\u001dW(luy\u0006:CL\u0001\u07db,\u0004^^F\nfOMc\u049a\u04b6x\u007f\"hT\u0016\u076b{\u000e=7$4GG\u0357>;\u0287!CG_j2\u069dfuu%\u05dea\u0010*\u000eNIY@y\u00184o6\n\u001e1*\u054ew\u007f=Y rU2\u0320FV^x\u0006\u00075+Qd\ubee7:/(^\u0002w39\u0016z}Tc\u0015-<)\u0535\"_f\u0006[\u01f6$\u0454Q5o9n \u0019\u043d\b\u0015o;.\u012axCcjEZgm\u0017b8X}2\u0006io+o`P%,\u67aa\u0309B:5\u001d\u001fm\u0017z\u007f\u001006$\u0019UOEs\u0692\u001dc0\u03fb)k\u0530W@A\u0019\u001fl\u0014.5k\u0017w\u001b#\u0001 \u0006 \u001d!p\u072a>Et @q o8\\v$\u001e\ufffdIL\n*}rg{\u047c\u0014ry`~P9tUu\u0001aHm\ufffd\u0015\u0007w \u00108x\nT=I)OzgPOw\u0014v[(\u001c\ufb9czrp6)I5\u078f\u0499\u001a$+}\u0006\u0004\n!A\\\b2)k\f>d\u001f\u0007)\u00130\u0148p\nx\"t\u0006<{$\u0019*\u9059\u029aF\u0015\u0015V\u01a5\u000e\u6e90[\u001b\\j=qd'\u000b\\\f*MMd\u001fH#K\u0019]\u001bf\u000fj\u024cSA \u0305\"\u053e]l\u000b\u0018Ni qTY\u075eA0\u000318M`M+J7LA&O\"\u03ac\"$P\\^\ufffd\u0012\u001e\"\n1\u0003uqR\u001b\nx]p\u07e3V.ru\u00104+n\u0264KhO+\u0011\u0007f\u0004U:DV@i@\\ZS:{\"& \u007f\f)\u0016BX\u0019l\u00192Xjk\u0005MFJ\u0132\u0016au*[F\"\u0015tA$g\u0018t\u788ah\ufffd\u0196k\u000e5i\u02ceuI\u007f'^TX-\u6a44i\u07eej\u0007H?\n`\u016b{l}\u0011{8\u000by\u0018$aKykCu4OoM6M'\u0019 x\\aN$\u01d6\b0D >\u0351`4\u0018}\u0012\nL}1\u001eqc83g\u007f\u001f\\\u007f>\ufffd\u01cf\u001e\n,t\u001a\u0016\u001f\u001d\ufffd\u03b2cW\u0013\u02df\u0541\u0018\u0018\u0015;\"0X(M\f3eE\ufffd\u001a-f^mb!\u0006e+p\n\u001be\u0525uS XWwW2N|Jd.,I\\\u07652 \u0012 #\u562eZ\u01cf\u001e\nR",
+        "start_char": 16026,
+        "end_char": 23707
+      },
+      "classification": {
+        "label": "Confidentiality",
+        "confidence": 0.52,
+        "rationale_short": "keyword baseline"
+      },
+      "flags": [],
+      "analysis": {
+        "clause_id": "c007",
+        "clause_type": "Confidentiality",
+        "plain_english_summary": "(LLM analysis disabled)",
+        "business_risk": {
+          "severity": "Low",
+          "why": []
+        },
+        "norm_deviation": {
+          "deviates": false,
+          "comparison": [],
+          "suggested_revision": ""
+        },
+        "uncertainty": {
+          "confidence": 0.52,
+          "reasons": [
+            "LLM analysis disabled"
+          ]
+        },
+        "citations": [],
+        "risk_score": 30
+      }
+    }
+  ],
+  "contract_risk": {
+    "score": 33,
+    "level": "Low"
+  },
+  "missing_clauses": [
+    "Definition of Confidential Info",
+    "Exceptions",
+    "Term & Survival",
+    "Return/Destruction",
+    "Remedies / Injunctive Relief"
+  ],
+  "settings": {
+    "use_llm_classification": false,
+    "use_rag": false,
+    "use_rules": true,
+    "use_llm_analysis": false
+  }
+}
