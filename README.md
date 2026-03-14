@@ -177,7 +177,7 @@ The interface allows users to:
 Clone the repository:
 
 ```
-git clone https://github.com/yourusername/corporate-lawyer-ai-assistant.git
+git clone https://github.com/JohnNDaras/Corporate_Lawyer_AI.git
 cd corporate-lawyer-ai-assistant
 ```
 
